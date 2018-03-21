@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 19 Mar 2018 20:34:18 +0100</pubDate>
+    <pubDate>Wed, 21 Mar 2018 16:19:52 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 5–11 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-11-Voxmeter.html#seats</link>
@@ -130,14 +130,34 @@
       <dc:date>2018-03-17T17:07:37.315008+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Gallup for Berlingske, 2–8 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (—): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (—): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup-seats.png"
+        length="258840"
+        type="image/png"/>
+      <pubDate>Wed, 21 Mar 2018 16:19:52 +0100</pubDate>
+      <dc:date>2018-03-21T16:19:52.506288+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Gallup for Berlingske, 2–8 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup-coalitions-seats.png"
+        length="158426"
+        type="image/png"/>
+      <pubDate>Wed, 21 Mar 2018 16:19:52 +0100</pubDate>
+      <dc:date>2018-03-21T16:19:52.506288+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Gallup for Berlingske, 2–8 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 26.7–31.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 13.7–17.4%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 17.5–21.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.7–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 4.2–6.4%&lt;/li&gt;&lt;li&gt;Alternativet (—): 3.4–5.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 4.2–6.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3.9–6.1%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.8–6.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (—): 1.0–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup.png"
         length="294774"
         type="image/png"/>
-      <pubDate>Sat, 17 Mar 2018 17:35:23 +0100</pubDate>
-      <dc:date>2018-03-17T17:35:23.036004+01:00</dc:date>
+      <pubDate>Wed, 21 Mar 2018 16:19:52 +0100</pubDate>
+      <dc:date>2018-03-21T16:19:52.506288+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Greens Analyseinstitut for Børsen, 2–8 February 2018 – Voting Intentions</title>
@@ -149,6 +169,6 @@
       <pubDate>Sat, 17 Mar 2018 17:45:54 +0100</pubDate>
       <dc:date>2018-03-17T17:45:54.167172+01:00</dc:date>
     </item>
-    <dc:date>2018-03-19T20:34:18.326465+01:00</dc:date>
+    <dc:date>2018-03-21T16:19:52.506288+01:00</dc:date>
   </channel>
 </rss>
