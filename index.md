@@ -5,11 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 14–20% <br> 3 | 24–31% <br> 4–5 | 17–22% <br> 3 | 4–7% <br> 0–1 | 4–6% <br> 0–1 | 4–8% <br> 0–1 | 3–7% <br> 0–1 | 2–6% <br> 0–1 | 7–11% <br> 1 | 0–2% <br> 0 | 1–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 14–20% <br> 2–3 | 24–31% <br> 4–5 | 17–22% <br> 3–4 | 4–7% <br> 0–1 | 4–6% <br> 0–1 | 4–8% <br> 0–1 | 3–7% <br> 0–1 | 2–6% <br> 0–1 | 7–11% <br> 1–2 | 0–2% <br> 0 | 1–3% <br> 0 |
 | [5–11 March 2018](2018-03-11-Voxmeter.html) | Voxmeter <br> Ritzau | 16–20% <br> 2–3 | 24–30% <br> 4–5 | 17–22% <br> 3–4 | 4–7% <br> 0–1 | 3–6% <br> 0–1 | 4–6% <br> 0–1 | 4–7% <br> 0–1 | 3–6% <br> 0–1 | 7–11% <br> 1 | 0–2% <br> 0 | 1–2% <br> 0 |
 | [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 15–19% <br> 3 | 23–29% <br> 4 | 16–21% <br> 3 | 4–7% <br> 1 | 4–7% <br> 1 | 6–9% <br> 1 | 3–5% <br> 0 | 2–4% <br> 0 | 8–12% <br> 1 | 1–2% <br> 0 | 2–4% <br> 0 |
 | [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 15–19% <br> 3 | 26–30% <br> 5 | 17–21% <br> 3 | 4–7% <br> 0–1 | 4–6% <br> 0 | 4–6% <br> 0–1 | 4–7% <br> 0–1 | 4–6% <br> 0–1 | 7–9% <br> 1–2 | 0–1% <br> 0 | 1–3% <br> 0 |
-| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 14–17% <br> 3 | 27–31% <br> 5 | 17–21% <br> 3 | 4–6% <br> 0 | 4–6% <br> 0 | 4–6% <br> 1 | 4–6% <br> 1 | 3–5% <br> 0 | 8–11% <br> 1 | 1–2% <br> 0 | 1–2% <br> 0 |
+| [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 14–17% <br> 2–3 | 27–31% <br> 4–6 | 17–21% <br> 3–4 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 3–5% <br> 0–1 | 8–11% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 14–19% <br> 2–3 | 26–31% <br> 5 | 18–22% <br> 3 | 3–6% <br> 0 | 3–6% <br> 0 | 4–7% <br> 1 | 4–7% <br> 0–1 | 3–6% <br> 0–1 | 8–11% <br> 1–2 | 0–1% <br> 0 | 1–3% <br> 0 |
 | 25 May 2014 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
