@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 23 Mar 2018 18:08:15 +0100</pubDate>
+    <pubDate>Sat, 24 Mar 2018 17:12:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 5–11 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-11-Voxmeter.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2018-03-19T20:34:18.326465+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 19–22 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-22-Megafon.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 2–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (—): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (—): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-22-Megafon-seats.png"
+        length="291446"
+        type="image/png"/>
+      <pubDate>Sat, 24 Mar 2018 17:12:10 +0100</pubDate>
+      <dc:date>2018-03-24T17:12:10.173006+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 19–22 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-22-Megafon.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-22-Megafon-coalitions-seats.png"
+        length="158360"
+        type="image/png"/>
+      <pubDate>Sat, 24 Mar 2018 17:12:10 +0100</pubDate>
+      <dc:date>2018-03-24T17:12:10.173006+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 19–22 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-22-Megafon.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 23.5–28.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 14.7–19.4%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 16.2–21.0%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.9–11.6%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Alternativet (—): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 4.2–7.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (—): 1.7–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-22-Megafon.png"
         length="316277"
         type="image/png"/>
-      <pubDate>Sat, 17 Mar 2018 16:29:53 +0100</pubDate>
-      <dc:date>2018-03-17T16:29:53.343147+01:00</dc:date>
+      <pubDate>Sat, 24 Mar 2018 17:12:10 +0100</pubDate>
+      <dc:date>2018-03-24T17:12:10.173006+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 12–18 February 2018 – Seat Projections</title>
@@ -229,6 +249,6 @@
       <pubDate>Thu, 22 Mar 2018 19:38:37 +0100</pubDate>
       <dc:date>2018-03-22T19:38:37.664339+01:00</dc:date>
     </item>
-    <dc:date>2018-03-23T18:08:15.08908+01:00</dc:date>
+    <dc:date>2018-03-24T17:12:10.173006+01:00</dc:date>
   </channel>
 </rss>
