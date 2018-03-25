@@ -35,7 +35,7 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 7% | 97% |  |
 | 25.5–26.5% | 14% | 89% |  |
 | 26.5–27.5% | 21% | 75% |  |
-| 27.5–28.5% | 24% | 54% | Median |
+| 27.5–28.5% | 23% | 54% | Median |
 | 28.5–29.5% | 18% | 30% |  |
 | 29.5–30.5% | 9% | 12% |  |
 | 30.5–31.5% | 3% | 3% |  |
@@ -54,7 +54,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [5–11 March 2018](2018-03-11-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 4–5 |
 | [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
