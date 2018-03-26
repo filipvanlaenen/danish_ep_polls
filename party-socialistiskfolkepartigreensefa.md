@@ -30,7 +30,7 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 1.0% | 100% |  |
 | 3.5–4.5% | 20% | 99.0% |  |
 | 4.5–5.5% | 50% | 79% | Median |
-| 5.5–6.5% | 25% | 29% |  |
+| 5.5–6.5% | 25% | 28% |  |
 | 6.5–7.5% | 3% | 3% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -48,13 +48,13 @@ Last result: **1** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–11 March 2018](2018-03-11-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0–1 |
-| [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1 | 1 |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 0 | 0 | 0 | 0 | 0–1 |
 
 ### Probability Mass Function
 
@@ -64,8 +64,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% |  |
-| 1 | 57% | 57% | Last Result, Median |
+| 0 | 40% | 100% |  |
+| 1 | 60% | 60% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 

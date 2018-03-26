@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 9.0% | 7.8–10.3% | 7.4–10.6% | 7.2–11.0% | 6.7–11.7% |
 | [5–11 March 2018](2018-03-11-Voxmeter.html) | Voxmeter <br> Ritzau | 8.8% | 7.8–10.0% | 7.5–10.4% | 7.2–10.7% | 6.8–11.3% |
 | [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 8.8% | 7.8–10.1% | 7.5–10.4% | 7.2–10.7% | 6.8–11.4% |
-| [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.4–12.3% |
+| [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.4–12.2% |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 8.2% | 7.2–9.4% | 6.9–9.7% | 6.7–10.0% | 6.2–10.6% |
 | [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 8.0% | 7.2–9.0% | 7.0–9.2% | 6.8–9.5% | 6.4–9.9% |
 | [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 7.7% | 6.7–8.9% | 6.5–9.2% | 6.2–9.5% | 5.8–10.1% |
@@ -51,15 +51,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
 | [5–11 March 2018](2018-03-11-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
-| [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
-| [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1 | 1 |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
+| [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1–2 | 1–2 |
 | [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 1 | 1 | 1 | 1–2 | 1–2 |
-| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 1 | 1 | 1–2 | 1–2 | 1–2 |
 
 ### Probability Mass Function
 
@@ -70,8 +70,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 90% | 100% | Median |
-| 2 | 10% | 10% |  |
+| 1 | 97% | 100% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 
