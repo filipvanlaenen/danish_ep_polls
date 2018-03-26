@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Mar 2018 20:08:08 +0200</pubDate>
+    <pubDate>Mon, 26 Mar 2018 16:04:52 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 5–11 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-11-Voxmeter.html#seats</link>
@@ -40,15 +40,135 @@
       <dc:date>2018-03-25T19:23:00.403524+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 19–25 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-25-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-25-Voxmeter-seats.png"
+        length="200220"
+        type="image/png"/>
+      <pubDate>Mon, 26 Mar 2018 14:50:56 +0200</pubDate>
+      <dc:date>2018-03-26T14:50:56.702507+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 19–25 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-25-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-25-Voxmeter-coalitions-seats.png"
+        length="88819"
+        type="image/png"/>
+      <pubDate>Mon, 26 Mar 2018 14:50:56 +0200</pubDate>
+      <dc:date>2018-03-26T14:50:56.702507+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 19–25 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-25-Voxmeter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.9–31.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 15.4–20.1%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 17.8–22.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.2–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3.2–5.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.3–5.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-25-Voxmeter.png"
         length="313420"
         type="image/png"/>
-      <pubDate>Sun, 25 Mar 2018 20:08:08 +0200</pubDate>
-      <dc:date>2018-03-25T20:08:08.622022+02:00</dc:date>
+      <pubDate>Mon, 26 Mar 2018 14:50:56 +0200</pubDate>
+      <dc:date>2018-03-26T14:50:56.702507+02:00</dc:date>
     </item>
-    <dc:date>2018-03-25T20:08:08.622022+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 19–22 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-22-Megafon.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 23.5–28.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 14.7–19.4%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 16.2–21.0%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.9–11.6%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 4.2–7.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.7–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-22-Megafon.png"
+        length="319050"
+        type="image/png"/>
+      <pubDate>Sun, 25 Mar 2018 20:24:50 +0200</pubDate>
+      <dc:date>2018-03-25T20:24:50.754599+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 12–18 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-18-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-18-Voxmeter-seats.png"
+        length="223163"
+        type="image/png"/>
+      <pubDate>Mon, 26 Mar 2018 12:50:23 +0200</pubDate>
+      <dc:date>2018-03-26T12:50:23.498092+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 12–18 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-18-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-18-Voxmeter-coalitions-seats.png"
+        length="126381"
+        type="image/png"/>
+      <pubDate>Mon, 26 Mar 2018 12:50:23 +0200</pubDate>
+      <dc:date>2018-03-26T12:50:23.498092+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 12–18 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-18-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.7–31.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 16.0–20.7%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 17.6–22.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.7–10.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.6–6.3%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0.9–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-18-Voxmeter.png"
+        length="313090"
+        type="image/png"/>
+      <pubDate>Mon, 26 Mar 2018 12:50:23 +0200</pubDate>
+      <dc:date>2018-03-26T12:50:23.498092+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 8–14 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-14-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.8–30.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 15.4–19.2%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 16.8–20.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.8–9.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 4.3–6.5%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.9–6.0%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 4.1–6.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 4.4–6.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.6–5.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.4–1.2%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.5–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-14-Epinion.png"
+        length="296213"
+        type="image/png"/>
+      <pubDate>Sun, 25 Mar 2018 22:16:39 +0200</pubDate>
+      <dc:date>2018-03-25T22:16:39.226652+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 5–10 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-10-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 26.8–32.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 16.5–21.3%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 16.8–21.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.2–9.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.3–5.8%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.1–5.5%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0.9–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-10-Voxmeter.png"
+        length="308228"
+        type="image/png"/>
+      <pubDate>Sun, 25 Mar 2018 22:32:52 +0200</pubDate>
+      <dc:date>2018-03-25T22:32:52.634981+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Gallup for Berlingske, 2–8 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup-seats.png"
+        length="261549"
+        type="image/png"/>
+      <pubDate>Mon, 26 Mar 2018 16:04:52 +0200</pubDate>
+      <dc:date>2018-03-26T16:04:52.787709+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Gallup for Berlingske, 2–8 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup-coalitions-seats.png"
+        length="156078"
+        type="image/png"/>
+      <pubDate>Mon, 26 Mar 2018 16:04:52 +0200</pubDate>
+      <dc:date>2018-03-26T16:04:52.787709+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Gallup for Berlingske, 2–8 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 26.7–31.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 13.7–17.4%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 17.5–21.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.7–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 4.2–6.4%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.4–5.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 4.2–6.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3.9–6.1%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.8–6.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.0–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-KantarGallup.png"
+        length="297549"
+        type="image/png"/>
+      <pubDate>Mon, 26 Mar 2018 16:04:52 +0200</pubDate>
+      <dc:date>2018-03-26T16:04:52.787709+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Greens Analyseinstitut for Børsen, 2–8 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-GreensAnalyseinstitut.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.6–30.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 14.4–18.7%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 17.5–22.2%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.6–11.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 4.0–6.7%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.5–6.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.2–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-02-08-GreensAnalyseinstitut.png"
+        length="309986"
+        type="image/png"/>
+      <pubDate>Mon, 26 Mar 2018 11:25:50 +0200</pubDate>
+      <dc:date>2018-03-26T11:25:50.916395+02:00</dc:date>
+    </item>
+    <dc:date>2018-03-26T16:04:52.787709+02:00</dc:date>
   </channel>
 </rss>
