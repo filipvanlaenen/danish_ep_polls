@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 02 Apr 2018 17:00:52 +0200</pubDate>
+    <pubDate>Mon, 02 Apr 2018 22:10:26 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 19–25 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-25-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-03-25-Voxmeter-seats.png"
+        length="246667"
+        type="image/png"/>
+      <pubDate>Mon, 02 Apr 2018 22:10:26 +0200</pubDate>
+      <dc:date>2018-04-02T22:10:26.315108+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 19–25 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-25-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-03-25-Voxmeter-coalitions-seats.png"
+        length="138908"
+        type="image/png"/>
+      <pubDate>Mon, 02 Apr 2018 22:10:26 +0200</pubDate>
+      <dc:date>2018-04-02T22:10:26.315108+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 19–25 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-25-Voxmeter.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-03-25-Voxmeter.png"
         length="316951"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 15:35:56 +0200</pubDate>
-      <dc:date>2018-04-02T15:35:56.564028+02:00</dc:date>
+      <pubDate>Mon, 02 Apr 2018 22:10:26 +0200</pubDate>
+      <dc:date>2018-04-02T22:10:26.315108+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Altinget, 14–20 March 2018 – Voting Intentions</title>
@@ -209,6 +229,6 @@
       <pubDate>Mon, 26 Mar 2018 11:25:50 +0200</pubDate>
       <dc:date>2018-03-26T11:25:50.916395+02:00</dc:date>
     </item>
-    <dc:date>2018-04-02T17:00:52.135804+02:00</dc:date>
+    <dc:date>2018-04-02T22:10:26.315108+02:00</dc:date>
   </channel>
 </rss>
