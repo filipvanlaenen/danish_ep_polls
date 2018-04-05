@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 02 Apr 2018 22:10:26 +0200</pubDate>
+    <pubDate>Thu, 05 Apr 2018 15:29:03 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 19–25 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-25-Voxmeter.html#seats</link>
@@ -40,14 +40,54 @@
       <dc:date>2018-04-02T22:10:26.315108+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat for Altinget, 14–20 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-20-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-03-20-Norstat-seats.png"
+        length="250676"
+        type="image/png"/>
+      <pubDate>Thu, 05 Apr 2018 15:29:03 +0200</pubDate>
+      <dc:date>2018-04-05T15:29:03.172103+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Altinget, 14–20 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-20-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-03-20-Norstat-coalitions-seats.png"
+        length="148259"
+        type="image/png"/>
+      <pubDate>Thu, 05 Apr 2018 15:29:03 +0200</pubDate>
+      <dc:date>2018-04-05T15:29:03.172103+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat for Altinget, 14–20 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-20-Norstat.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 22.8–27.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 16.6–20.6%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 17.4–21.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.8–10.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.4–5.5%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.6–5.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 4.7–7.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 4.4–6.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.8–5.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.5–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-03-20-Norstat.png"
         length="308897"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 16:23:47 +0200</pubDate>
-      <dc:date>2018-04-02T16:23:47.585902+02:00</dc:date>
+      <pubDate>Thu, 05 Apr 2018 15:29:03 +0200</pubDate>
+      <dc:date>2018-04-05T15:29:03.172103+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 14–20 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-20-Epinion.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-03-20-Epinion-seats.png"
+        length="240056"
+        type="image/png"/>
+      <pubDate>Thu, 05 Apr 2018 14:48:26 +0200</pubDate>
+      <dc:date>2018-04-05T14:48:26.574875+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 14–20 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-03-20-Epinion.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-03-20-Epinion-coalitions-seats.png"
+        length="147070"
+        type="image/png"/>
+      <pubDate>Thu, 05 Apr 2018 14:48:26 +0200</pubDate>
+      <dc:date>2018-04-05T14:48:26.574875+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 14–20 March 2018 – Voting Intentions</title>
@@ -56,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-03-20-Epinion.png"
         length="300467"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 16:37:58 +0200</pubDate>
-      <dc:date>2018-04-02T16:37:58.617282+02:00</dc:date>
+      <pubDate>Thu, 05 Apr 2018 14:48:26 +0200</pubDate>
+      <dc:date>2018-04-05T14:48:26.574875+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 12–18 March 2018 – Voting Intentions</title>
@@ -229,6 +269,6 @@
       <pubDate>Mon, 26 Mar 2018 11:25:50 +0200</pubDate>
       <dc:date>2018-03-26T11:25:50.916395+02:00</dc:date>
     </item>
-    <dc:date>2018-04-02T22:10:26.315108+02:00</dc:date>
+    <dc:date>2018-04-05T15:29:03.172103+02:00</dc:date>
   </channel>
 </rss>
