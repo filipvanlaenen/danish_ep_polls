@@ -51,10 +51,10 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 2–4 |
-| [14–20 March 2018](2018-03-20-Norstat.html) | Norstat <br> Altinget | 3 | 3 | 3 | 3 | 3 |
-| [14–20 March 2018](2018-03-20-Epinion.html) | Epinion <br> DR | 3 | 3 | 3 | 3 | 3–4 |
+| [14–20 March 2018](2018-03-20-Norstat.html) | Norstat <br> Altinget | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [14–20 March 2018](2018-03-20-Epinion.html) | Epinion <br> DR | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–18 March 2018](2018-03-18-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 3–4 | 3–4 |
 | [5–11 March 2018](2018-03-11-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -74,8 +74,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.3% | 100% | Last Result |
-| 3 | 97% | 99.7% | Median |
-| 4 | 3% | 3% |  |
+| 3 | 94% | 99.7% | Median |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
 
