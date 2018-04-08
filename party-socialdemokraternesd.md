@@ -59,15 +59,15 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [14–20 March 2018](2018-03-20-Norstat.html) | Norstat <br> Altinget | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14–20 March 2018](2018-03-20-Epinion.html) | Epinion <br> DR | 5 | 5 | 5 | 4–5 | 4–5 |
-| [12–18 March 2018](2018-03-18-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4 | 4–5 |
+| [12–18 March 2018](2018-03-18-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [5–11 March 2018](2018-03-11-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4 | 4 | 4 | 4 |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 5 | 5 | 5 | 5 | 5 |
+| [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 5 | 5 | 5–6 | 4–6 | 4–6 |
-| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 5 | 5 | 5 | 5 |
+| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 5 | 5 | 5–6 | 4–6 |
 
 ### Probability Mass Function
 
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% | Last Result |
 | 4 | 30% | 100% |  |
 | 5 | 68% | 70% | Median |
-| 6 | 1.4% | 1.4% |  |
+| 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
 
