@@ -60,7 +60,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [19–25 February 2018](2018-02-25-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–22 February 2018](2018-02-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [12–18 February 2018](2018-02-18-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 3 | 3 | 3 | 3–4 | 3–4 |
 | [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 3 | 3 | 3–4 | 3–4 | 3–4 |
