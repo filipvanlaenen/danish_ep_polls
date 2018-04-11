@@ -67,7 +67,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 5 | 5 | 5–6 | 4–6 | 4–6 |
-| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 5 | 5 | 5–6 | 4–6 |
+| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 
 ### Probability Mass Function
 
@@ -78,8 +78,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 23% | 100% |  |
-| 5 | 75% | 77% | Median |
+| 4 | 25% | 100% |  |
+| 5 | 73% | 75% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
