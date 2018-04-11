@@ -16,7 +16,7 @@ The table below lists all polls registered and analyzed so far.
 | [8–14 February 2018](2018-02-14-Epinion.html) | Epinion <br> DR | 15–19% <br> 2–3 | 26–30% <br> 4–6 | 17–21% <br> 3–4 | 4–7% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 4–7% <br> 0–1 | 4–6% <br> 0–1 | 7–9% <br> 1 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [5–10 February 2018](2018-02-10-Voxmeter.html) | Voxmeter <br> Ritzau | 17–21% <br> 3–4 | 27–32% <br> 5–6 | 17–22% <br> 3–4 | 4–7% <br> 0–1 | 3–6% <br> 0–1 | 4–7% <br> 0–1 | 3–6% <br> 0–1 | 3–5% <br> 0–1 | 6–10% <br> 1 | 0–2% <br> 0 | 1–2% <br> 0 |
 | [2–8 February 2018](2018-02-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 14–17% <br> 2–3 | 27–31% <br> 4–6 | 17–21% <br> 3–4 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 3–5% <br> 0–1 | 8–11% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 |
-| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 14–19% <br> 2–3 | 26–31% <br> 5–6 | 18–22% <br> 3–4 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 3–6% <br> 0–1 | 8–11% <br> 1–2 | 0–1% <br> 0 | 1–3% <br> 0 |
+| [2–8 February 2018](2018-02-08-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 14–19% <br> 2–3 | 26–31% <br> 4–6 | 18–22% <br> 3–4 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 3–6% <br> 0–1 | 8–11% <br> 1–2 | 0–1% <br> 0 | 1–3% <br> 0 |
 | 25 May 2014 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
