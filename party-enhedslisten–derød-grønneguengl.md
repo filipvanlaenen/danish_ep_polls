@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.5% | 8.4–11.0% | 8.1–11.4% | 7.8–11.8% | 7.4–12.4% |
+| N/A | [Poll Average](average.html) | 9.7% | 8.4–11.2% | 8.1–11.6% | 7.9–11.9% | 7.4–12.5% |
+| [2–7 April 2018](2018-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 10.2% | 9.1–11.5% | 8.7–11.9% | 8.5–12.2% | 8.0–12.8% |
+| [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 9.4% | 8.3–10.7% | 8.0–11.0% | 7.8–11.3% | 7.3–12.0% |
 | [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.4–12.2% |
 | [14–20 March 2018](2018-03-20-Norstat.html) | Norstat <br> Altinget | 9.2% | 8.3–10.2% | 8.0–10.5% | 7.8–10.8% | 7.4–11.3% |
 | [14–20 March 2018](2018-03-20-Epinion.html) | Epinion <br> DR | 10.8% | 9.9–11.9% | 9.6–12.1% | 9.4–12.4% | 9.0–12.9% |
@@ -37,13 +39,13 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.9% | 100% |  |
-| 7.5–8.5% | 13% | 99.0% |  |
-| 8.5–9.5% | 36% | 86% |  |
-| 9.5–10.5% | 31% | 50% | Median |
-| 10.5–11.5% | 15% | 19% |  |
-| 11.5–12.5% | 4% | 4% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
+| 6.5–7.5% | 0.8% | 100% |  |
+| 7.5–8.5% | 12% | 99.2% |  |
+| 8.5–9.5% | 34% | 87% |  |
+| 9.5–10.5% | 31% | 54% | Median |
+| 10.5–11.5% | 17% | 22% |  |
+| 11.5–12.5% | 5% | 5% |  |
+| 12.5–13.5% | 0.5% | 0.5% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -56,6 +58,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [2–7 April 2018](2018-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–20 March 2018](2018-03-20-Norstat.html) | Norstat <br> Altinget | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–20 March 2018](2018-03-20-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -78,8 +82,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 70% | 100% | Median |
-| 2 | 30% | 30% |  |
+| 1 | 71% | 100% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 
