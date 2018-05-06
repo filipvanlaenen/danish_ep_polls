@@ -60,7 +60,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [23–29 April 2018](2018-04-29-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 4–5 |
+| [23–29 April 2018](2018-04-29-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [16–22 April 2018](2018-04-22-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–7 April 2018](2018-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 4–5 | 4–5 | 4–5 |
@@ -86,8 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 21% | 100% |  |
-| 5 | 77% | 79% | Median |
+| 4 | 24% | 100% |  |
+| 5 | 73% | 76% | Median |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
