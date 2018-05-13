@@ -11,8 +11,10 @@ Last result: **26.6%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.0% | 15.1–19.1% | 14.7–19.5% | 14.3–19.9% | 13.7–20.7% |
+| [30 April–6 May 2018](2018-05-06-Voxmeter.html) | Voxmeter <br> Ritzau | 17.0% | 15.5–18.6% | 15.1–19.0% | 14.8–19.4% | 14.1–20.2% |
 | [23–29 April 2018](2018-04-29-Voxmeter.html) | Voxmeter <br> Ritzau | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.3–18.8% | 13.6–19.6% |
 | [16–22 April 2018](2018-04-22-Voxmeter.html) | Voxmeter <br> Ritzau | 15.6% | 14.2–17.1% | 13.8–17.5% | 13.5–17.9% | 12.9–18.7% |
+| [8–15 April 2018](2018-04-15-Voxmeter.html) | Voxmeter <br> Ritzau | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.3–18.8% | 13.6–19.6% |
 | [2–7 April 2018](2018-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 17.4% | 15.9–19.0% | 15.5–19.4% | 15.2–19.8% | 14.5–20.6% |
 | [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 18.1% | 16.6–19.7% | 16.2–20.2% | 15.9–20.6% | 15.2–21.4% |
 | [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 18.4% | 16.9–20.0% | 16.5–20.5% | 16.1–20.9% | 15.4–21.7% |
@@ -61,8 +63,10 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [30 April–6 May 2018](2018-05-06-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [23–29 April 2018](2018-04-29-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–22 April 2018](2018-04-22-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [8–15 April 2018](2018-04-15-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–7 April 2018](2018-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [26–31 March 2018](2018-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 3–4 |
 | [19–25 March 2018](2018-03-25-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3–4 | 2–4 |
