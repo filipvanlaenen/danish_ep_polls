@@ -10,7 +10,9 @@ Last result: **19.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 24.0–27.5% | 23.5–28.0% | 23.1–28.5% | 22.3–29.3% |
+| N/A | [Poll Average](average.html) | 26.5% | 24.9–28.2% | 24.5–28.7% | 24.0–29.1% | 23.2–29.9% |
+| [21–27 May 2018](2018-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 26.2% | 24.5–28.0% | 24.0–28.5% | 23.6–29.0% | 22.8–29.8% |
+| [17–23 May 2018](2018-05-23-Norstat.html) | Norstat <br> Altinget | 26.9% | 25.3–28.5% | 24.8–29.0% | 24.4–29.4% | 23.7–30.3% |
 | [14–19 May 2018](2018-05-19-Voxmeter.html) | Voxmeter <br> Ritzau | 25.3% | 23.6–27.1% | 23.2–27.6% | 22.8–28.1% | 22.0–28.9% |
 | [7–13 May 2018](2018-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 26.7% | 25.0–28.5% | 24.5–29.1% | 24.1–29.5% | 23.3–30.4% |
 | [30 April–6 May 2018](2018-05-06-Voxmeter.html) | Voxmeter <br> Ritzau | 27.7% | 26.0–29.6% | 25.5–30.1% | 25.1–30.6% | 24.2–31.5% |
@@ -40,17 +42,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 18.5–19.5% | 0% | 100% | Last Result |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.8% | 99.9% |  |
-| 22.5–23.5% | 4% | 99.2% |  |
-| 23.5–24.5% | 14% | 95% |  |
-| 24.5–25.5% | 24% | 81% |  |
-| 25.5–26.5% | 27% | 56% | Median |
-| 26.5–27.5% | 19% | 29% |  |
-| 27.5–28.5% | 8% | 10% |  |
-| 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.3% | 0.3% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.9% | 99.9% |  |
+| 23.5–24.5% | 5% | 99.0% |  |
+| 24.5–25.5% | 15% | 94% |  |
+| 25.5–26.5% | 29% | 79% |  |
+| 26.5–27.5% | 29% | 50% | Median |
+| 27.5–28.5% | 15% | 21% |  |
+| 28.5–29.5% | 5% | 6% |  |
+| 29.5–30.5% | 0.9% | 1.1% |  |
+| 30.5–31.5% | 0.1% | 0.1% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -61,7 +64,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [21–27 May 2018](2018-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [17–23 May 2018](2018-05-23-Norstat.html) | Norstat <br> Altinget | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [14–19 May 2018](2018-05-19-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [7–13 May 2018](2018-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [30 April–6 May 2018](2018-05-06-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -92,9 +97,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 36% | 100% |  |
-| 5 | 64% | 64% | Median |
-| 6 | 0.1% | 0.1% |  |
+| 4 | 18% | 100% |  |
+| 5 | 82% | 82% | Median |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 
