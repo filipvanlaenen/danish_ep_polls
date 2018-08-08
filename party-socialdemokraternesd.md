@@ -10,7 +10,7 @@ Last result: **19.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.3% | 24.7–28.1% | 24.3–28.6% | 23.9–29.0% | 23.2–29.9% |
+| N/A | [Poll Average](average.html) | 26.2% | 24.5–27.9% | 24.0–28.4% | 23.6–28.9% | 22.8–29.8% |
 | [25 June–1 July 2018](2018-07-01-Voxmeter.html) | Voxmeter <br> Ritzau | 25.7% | 24.0–27.5% | 23.5–28.0% | 23.1–28.5% | 22.3–29.3% |
 | [18–24 June 2018](2018-06-24-Voxmeter.html) | Voxmeter <br> Ritzau | 26.3% | 24.6–28.1% | 24.1–28.6% | 23.7–29.0% | 22.9–29.9% |
 | [15–23 June 2018](2018-06-23-Epinion.html) | Epinion <br> DR | 25.9% | 24.6–27.3% | 24.2–27.7% | 23.9–28.1% | 23.2–28.7% |
@@ -49,15 +49,15 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% | Last Result |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 1.1% | 99.9% |  |
-| 23.5–24.5% | 6% | 98.8% |  |
-| 24.5–25.5% | 19% | 92% |  |
-| 25.5–26.5% | 30% | 73% | Median |
-| 26.5–27.5% | 25% | 44% |  |
-| 27.5–28.5% | 13% | 18% |  |
-| 28.5–29.5% | 4% | 5% |  |
-| 29.5–30.5% | 0.9% | 1.0% |  |
+| 21.5–22.5% | 0.3% | 100% |  |
+| 22.5–23.5% | 2% | 99.7% |  |
+| 23.5–24.5% | 8% | 98% |  |
+| 24.5–25.5% | 21% | 89% |  |
+| 25.5–26.5% | 30% | 68% | Median |
+| 26.5–27.5% | 23% | 39% |  |
+| 27.5–28.5% | 11% | 15% |  |
+| 28.5–29.5% | 3% | 4% |  |
+| 29.5–30.5% | 0.7% | 0.8% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
@@ -70,7 +70,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [25 June–1 July 2018](2018-07-01-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18–24 June 2018](2018-06-24-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [15–23 June 2018](2018-06-23-Epinion.html) | Epinion <br> DR | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -109,9 +109,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 24% | 100% |  |
-| 5 | 76% | 76% | Median |
-| 6 | 0.6% | 0.6% |  |
+| 4 | 35% | 100% |  |
+| 5 | 65% | 65% | Median |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 

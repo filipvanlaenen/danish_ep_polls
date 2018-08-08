@@ -52,7 +52,7 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 13% | 99.9% |  |
 | 3.5–4.5% | 63% | 87% | Median |
 | 4.5–5.5% | 23% | 24% |  |
-| 5.5–6.5% | 1.2% | 1.3% |  |
+| 5.5–6.5% | 1.3% | 1.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
