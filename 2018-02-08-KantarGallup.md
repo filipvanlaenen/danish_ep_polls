@@ -195,6 +195,8 @@
 
 ### Socialdemokraterne (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-02-08-KantarGallup-coalitions-seats-pmf-a.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
@@ -204,6 +206,8 @@
 | 7 | 0% | 0% |  |
 
 ### Venstre (ALDE) – Liberal Alliance (ALDE) – Radikale Venstre (ALDE)
+
+![Graph with seats probability mass function not yet produced](2018-02-08-KantarGallup-coalitions-seats-pmf-v–i–b.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -215,6 +219,8 @@
 
 ### Dansk Folkeparti (ECR)
 
+![Graph with seats probability mass function not yet produced](2018-02-08-KantarGallup-coalitions-seats-pmf-o.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 19% | 100% |  |
@@ -222,6 +228,8 @@
 | 4 | 0% | 0% | Last Result |
 
 ### Enhedslisten–De Rød-Grønne (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2018-02-08-KantarGallup-coalitions-seats-pmf-ø.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -232,6 +240,8 @@
 
 ### Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2018-02-08-KantarGallup-coalitions-seats-pmf-f–å.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 59% | 100% | Median |
@@ -241,6 +251,8 @@
 
 ### Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-02-08-KantarGallup-coalitions-seats-pmf-c–k.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 85% | 100% | Median |
@@ -248,6 +260,8 @@
 | 2 | 0% | 0% |  |
 
 ### Nye Borgerlige (*)
+
+![Graph with seats probability mass function not yet produced](2018-02-08-KantarGallup-coalitions-seats-pmf-d.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
