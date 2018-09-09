@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 08 Sep 2018 19:19:10 +0200</pubDate>
+    <pubDate>Sun, 09 Sep 2018 10:06:11 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 20–26 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-08-26-Voxmeter.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2018-09-08T19:19:10.068516+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 13–19 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-08-19-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-08-19-Voxmeter-seats.png"
+        length="239572"
+        type="image/png"/>
+      <pubDate>Sun, 09 Sep 2018 10:06:11 +0200</pubDate>
+      <dc:date>2018-09-09T10:06:11.863378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 13–19 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-08-19-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-08-19-Voxmeter-coalitions-seats.png"
+        length="162347"
+        type="image/png"/>
+      <pubDate>Sun, 09 Sep 2018 10:06:11 +0200</pubDate>
+      <dc:date>2018-09-09T10:06:11.863378+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 13–19 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-08-19-Voxmeter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 16.6–21.4%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 18.0–22.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.1–10.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 2.5–4.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.5–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-08-19-Voxmeter.png"
         length="330783"
         type="image/png"/>
-      <pubDate>Sat, 08 Sep 2018 19:14:06 +0200</pubDate>
-      <dc:date>2018-09-08T19:14:06.410131+02:00</dc:date>
+      <pubDate>Sun, 09 Sep 2018 10:06:11 +0200</pubDate>
+      <dc:date>2018-09-09T10:06:11.863378+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 10–17 August 2018 – Voting Intentions</title>
@@ -919,6 +939,6 @@
       <pubDate>Wed, 11 Apr 2018 15:25:56 +0200</pubDate>
       <dc:date>2018-04-11T15:25:56.231519+02:00</dc:date>
     </item>
-    <dc:date>2018-09-08T19:19:10.068516+02:00</dc:date>
+    <dc:date>2018-09-09T10:06:11.863378+02:00</dc:date>
   </channel>
 </rss>
