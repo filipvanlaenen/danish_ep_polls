@@ -11,6 +11,10 @@ Last result: **26.6%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.1% | 17.3–20.7% | 16.8–21.1% | 16.4–21.5% | 15.6–22.2% |
+| [10–16 September 2018](2018-09-16-Voxmeter.html) | Voxmeter <br> Ritzau | 17.2% | 15.8–18.8% | 15.4–19.3% | 15.0–19.6% | 14.4–20.4% |
+| [6–11 September 2018](2018-09-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 16.9% | 15.6–18.3% | 15.2–18.7% | 14.9–19.1% | 14.3–19.8% |
+| [3–9 September 2018](2018-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 17.9% | 16.5–19.5% | 16.1–20.0% | 15.7–20.4% | 15.0–21.2% |
+| [27 August–2 September 2018](2018-09-02-Voxmeter.html) | Voxmeter <br> Ritzau | 17.7% | 16.3–19.3% | 15.9–19.8% | 15.5–20.2% | 14.9–21.0% |
 | [20–26 August 2018](2018-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 18.3% | 16.8–19.9% | 16.4–20.3% | 16.0–20.7% | 15.3–21.5% |
 | [13–19 August 2018](2018-08-19-Voxmeter.html) | Voxmeter <br> Ritzau | 18.9% | 17.4–20.6% | 17.0–21.0% | 16.6–21.4% | 15.9–22.2% |
 | [10–17 August 2018](2018-08-17-Epinion.html) | Epinion <br> DR | 19.7% | 18.4–21.0% | 18.1–21.4% | 17.8–21.7% | 17.2–22.4% |
@@ -76,6 +80,10 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [10–16 September 2018](2018-09-16-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [6–11 September 2018](2018-09-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [3–9 September 2018](2018-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 2–3 | 2–4 |
+| [27 August–2 September 2018](2018-09-02-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [20–26 August 2018](2018-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [13–19 August 2018](2018-08-19-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [10–17 August 2018](2018-08-17-Epinion.html) | Epinion <br> DR | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
