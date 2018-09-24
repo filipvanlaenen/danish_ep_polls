@@ -83,7 +83,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [10–16 September 2018](2018-09-16-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [6–11 September 2018](2018-09-11-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [3–9 September 2018](2018-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [27 August–2 September 2018](2018-09-02-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [27 August–2 September 2018](2018-09-02-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [20–26 August 2018](2018-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [13–19 August 2018](2018-08-19-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [10–17 August 2018](2018-08-17-Epinion.html) | Epinion <br> DR | 5 | 5 | 5 | 4–5 | 4–5 |
