@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 23 Sep 2018 20:32:05 +0200</pubDate>
+    <pubDate>Sun, 30 Sep 2018 11:16:11 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 17–23 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-09-23-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 23.5–28.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 15.5–20.1%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 16.8–21.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.4–9.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 4.1–6.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.4–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.8–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-09-23-Voxmeter.png"
+        length="330341"
+        type="image/png"/>
+      <pubDate>Sun, 30 Sep 2018 11:03:29 +0200</pubDate>
+      <dc:date>2018-09-30T11:03:29.141425+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 11–18 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-09-18-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 24.4–28.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 16.4–20.2%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 17.2–21.2%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.3–10.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 4.4–6.7%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.7–5.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 4.5–6.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3.9–6.1%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 2.6–4.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 2.5–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-09-18-Epinion.png"
+        length="311459"
+        type="image/png"/>
+      <pubDate>Sun, 30 Sep 2018 11:16:11 +0200</pubDate>
+      <dc:date>2018-09-30T11:16:11.491006+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 10–16 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-09-16-Voxmeter.html#seats</link>
@@ -1119,6 +1139,6 @@
       <pubDate>Wed, 11 Apr 2018 15:25:56 +0200</pubDate>
       <dc:date>2018-04-11T15:25:56.231519+02:00</dc:date>
     </item>
-    <dc:date>2018-09-23T20:32:05.674225+02:00</dc:date>
+    <dc:date>2018-09-30T11:16:11.491006+02:00</dc:date>
   </channel>
 </rss>
