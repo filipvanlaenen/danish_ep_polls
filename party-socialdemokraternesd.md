@@ -87,7 +87,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [24–30 September 2018](2018-09-30-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [27 September 2018](2018-09-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [27 September 2018](2018-09-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4 | 4 | 4–5 | 3–5 |
 | [17–23 September 2018](2018-09-23-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [11–18 September 2018](2018-09-18-Epinion.html) | Epinion <br> DR | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [10–16 September 2018](2018-09-16-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -138,9 +138,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% | Last Result |
-| 4 | 58% | 99.9% | Median |
-| 5 | 41% | 42% |  |
+| 3 | 0.3% | 100% | Last Result |
+| 4 | 60% | 99.7% | Median |
+| 5 | 38% | 39% |  |
 | 6 | 1.1% | 1.1% |  |
 | 7 | 0% | 0% |  |
 
