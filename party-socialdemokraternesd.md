@@ -10,7 +10,10 @@ Last result: **19.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.7% | 24.8–28.5% | 24.1–29.0% | 23.5–29.4% | 22.4–30.3% |
+| N/A | [Poll Average](average.html) | 26.7% | 23.0–28.5% | 21.9–29.0% | 21.2–29.4% | 20.1–30.2% |
+| [22–28 October 2018](2018-10-28-Voxmeter.html) | Voxmeter <br> Ritzau | 26.8% | 25.1–28.6% | 24.6–29.2% | 24.2–29.6% | 23.4–30.5% |
+| [22–25 October 2018](2018-10-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 22.6% | 20.9–24.5% | 20.4–25.1% | 20.0–25.5% | 19.2–26.5% |
+| [16–24 October 2018](2018-10-24-Epinion.html) | Epinion <br> DR | 27.5% | 26.1–29.0% | 25.7–29.4% | 25.3–29.8% | 24.6–30.5% |
 | [15–21 October 2018](2018-10-21-Voxmeter.html) | Voxmeter <br> Ritzau | 27.3% | 25.6–29.2% | 25.1–29.7% | 24.7–30.1% | 23.9–31.0% |
 | [8–14 October 2018](2018-10-14-Voxmeter.html) | Voxmeter <br> Ritzau | 28.3% | 26.6–30.2% | 26.1–30.7% | 25.7–31.2% | 24.8–32.1% |
 | [11 October 2018](2018-10-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 27.1% | 25.8–28.5% | 25.4–29.0% | 25.0–29.3% | 24.4–30.0% |
@@ -67,19 +70,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% | Last Result |
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.5% | 99.9% |  |
-| 22.5–23.5% | 2% | 99.3% |  |
-| 23.5–24.5% | 5% | 97% |  |
-| 24.5–25.5% | 13% | 92% |  |
-| 25.5–26.5% | 24% | 79% |  |
-| 26.5–27.5% | 28% | 55% | Median |
-| 27.5–28.5% | 18% | 27% |  |
-| 28.5–29.5% | 7% | 9% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.2% | 100% | Last Result |
+| 19.5–20.5% | 0.8% | 99.8% |  |
+| 20.5–21.5% | 2% | 99.0% |  |
+| 21.5–22.5% | 4% | 97% |  |
+| 22.5–23.5% | 5% | 92% |  |
+| 23.5–24.5% | 5% | 88% |  |
+| 24.5–25.5% | 9% | 83% |  |
+| 25.5–26.5% | 19% | 74% |  |
+| 26.5–27.5% | 26% | 55% | Median |
+| 27.5–28.5% | 19% | 29% |  |
+| 28.5–29.5% | 8% | 10% |  |
 | 29.5–30.5% | 2% | 2% |  |
-| 30.5–31.5% | 0.3% | 0.3% |  |
+| 30.5–31.5% | 0.2% | 0.3% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
@@ -91,7 +95,10 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [22–28 October 2018](2018-10-28-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [22–25 October 2018](2018-10-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4 | 4 | 4 | 3–4 |
+| [16–24 October 2018](2018-10-24-Epinion.html) | Epinion <br> DR | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [15–21 October 2018](2018-10-21-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–14 October 2018](2018-10-14-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [11 October 2018](2018-10-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -151,9 +158,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.2% | 100% | Last Result |
-| 4 | 46% | 99.8% |  |
-| 5 | 54% | 54% | Median |
-| 6 | 0.3% | 0.3% |  |
+| 4 | 40% | 99.8% |  |
+| 5 | 59% | 60% | Median |
+| 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
 
 
