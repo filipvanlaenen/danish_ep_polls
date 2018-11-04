@@ -5,6 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [22–28 October 2018](2018-10-28-Voxmeter.html) | Voxmeter <br> Ritzau | 15–20% <br> 2–3 | 24–30% <br> 4–5 | 16–21% <br> 3 | 4–7% <br> 0–1 | 3–5% <br> 0 | 5–8% <br> 0–1 | 4–7% <br> 0–1 | 4–6% <br> 0 | 7–10% <br> 1 | 0–1% <br> 0 | 1–3% <br> 0 |
+| [22–25 October 2018](2018-10-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 13–17% <br> 2–3 | 20–26% <br> 4 | 16–22% <br> 3–4 | 5–9% <br> 1 | 4–7% <br> 0–1 | 8–12% <br> 1–2 | 3–6% <br> 0–1 | 3–6% <br> 0 | 8–12% <br> 1–2 | 0–1% <br> 0 | 2–4% <br> 0 |
+| [16–24 October 2018](2018-10-24-Epinion.html) | Epinion <br> DR | 17–21% <br> 3–4 | 25–30% <br> 4–6 | 16–20% <br> 3–4 | 4–6% <br> 0–1 | 3–5% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 8–11% <br> 1–2 | 0–1% <br> 0 | 3–4% <br> 0 |
 | [15–21 October 2018](2018-10-21-Voxmeter.html) | Voxmeter <br> Ritzau | 16–21% <br> 2–3 | 25–30% <br> 4–5 | 15–20% <br> 2–3 | 4–6% <br> 0–1 | 2–4% <br> 0 | 4–7% <br> 0–1 | 5–8% <br> 1 | 4–7% <br> 0–1 | 7–11% <br> 1 | 0–2% <br> 0 | 1–3% <br> 0 |
 | [8–14 October 2018](2018-10-14-Voxmeter.html) | Voxmeter <br> Ritzau | 15–20% <br> 2–3 | 26–31% <br> 4–6 | 16–20% <br> 2–3 | 4–7% <br> 0–1 | 3–5% <br> 0 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 4–6% <br> 0–1 | 7–10% <br> 1–2 | 0–2% <br> 0 | 1–3% <br> 0 |
 | [11 October 2018](2018-10-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 15–19% <br> 2–3 | 25–29% <br> 4–5 | 17–21% <br> 3–4 | 4–7% <br> 0–1 | 3–5% <br> 0–1 | 5–7% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 8–10% <br> 1–2 | 0–1% <br> 0 | 2–3% <br> 0 |
