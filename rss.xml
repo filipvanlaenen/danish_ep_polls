@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 04 Nov 2018 12:28:36 +0100</pubDate>
+    <pubDate>Sun, 04 Nov 2018 22:53:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 22–28 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-10-28-Voxmeter.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-10-25-Megafon.png"
         length="349084"
         type="image/png"/>
-      <pubDate>Sun, 04 Nov 2018 10:43:16 +0100</pubDate>
-      <dc:date>2018-11-04T10:43:16.899324+01:00</dc:date>
+      <pubDate>Sun, 04 Nov 2018 22:53:50 +0100</pubDate>
+      <dc:date>2018-11-04T22:53:50.656266+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 16–24 October 2018 – Seat Projections for the Parties</title>
@@ -1529,6 +1529,6 @@
       <pubDate>Wed, 11 Apr 2018 15:25:56 +0200</pubDate>
       <dc:date>2018-04-11T15:25:56.231519+02:00</dc:date>
     </item>
-    <dc:date>2018-11-04T12:28:36.4409+01:00</dc:date>
+    <dc:date>2018-11-04T22:53:50.656266+01:00</dc:date>
   </channel>
 </rss>
