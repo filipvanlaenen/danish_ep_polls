@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 04 Nov 2018 22:53:50 +0100</pubDate>
+    <pubDate>Tue, 06 Nov 2018 13:00:32 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 22–28 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-10-28-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-10-28-Voxmeter-seats.png"
+        length="277959"
+        type="image/png"/>
+      <pubDate>Tue, 06 Nov 2018 13:00:32 +0100</pubDate>
+      <dc:date>2018-11-06T13:00:32.956547+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 22–28 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-10-28-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-10-28-Voxmeter-coalitions-seats.png"
+        length="155908"
+        type="image/png"/>
+      <pubDate>Tue, 06 Nov 2018 13:00:32 +0100</pubDate>
+      <dc:date>2018-11-06T13:00:32.956547+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 22–28 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-10-28-Voxmeter.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-10-28-Voxmeter.png"
         length="327785"
         type="image/png"/>
-      <pubDate>Sun, 04 Nov 2018 10:33:17 +0100</pubDate>
-      <dc:date>2018-11-04T10:33:17.458303+01:00</dc:date>
+      <pubDate>Tue, 06 Nov 2018 13:00:32 +0100</pubDate>
+      <dc:date>2018-11-06T13:00:32.956547+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 22–25 October 2018 – Voting Intentions</title>
@@ -1529,6 +1549,6 @@
       <pubDate>Wed, 11 Apr 2018 15:25:56 +0200</pubDate>
       <dc:date>2018-04-11T15:25:56.231519+02:00</dc:date>
     </item>
-    <dc:date>2018-11-04T22:53:50.656266+01:00</dc:date>
+    <dc:date>2018-11-06T13:00:32.956547+01:00</dc:date>
   </channel>
 </rss>
