@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 06 Nov 2018 13:00:32 +0100</pubDate>
+    <pubDate>Fri, 09 Nov 2018 19:34:22 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 29 October–5 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-11-05-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.1–30.6%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 15.8–20.5%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 16.5–21.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.3–10.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3.7–6.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-11-05-Voxmeter.png"
+        length="326330"
+        type="image/png"/>
+      <pubDate>Fri, 09 Nov 2018 19:34:22 +0100</pubDate>
+      <dc:date>2018-11-09T19:34:22.191796+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 22–28 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-10-28-Voxmeter.html#seats</link>
@@ -40,14 +50,34 @@
       <dc:date>2018-11-06T13:00:32.956547+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 22–25 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-10-25-Megafon.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-10-25-Megafon-seats.png"
+        length="263002"
+        type="image/png"/>
+      <pubDate>Fri, 09 Nov 2018 13:47:56 +0100</pubDate>
+      <dc:date>2018-11-09T13:47:56.081129+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 22–25 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-10-25-Megafon.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-10-25-Megafon-coalitions-seats.png"
+        length="171670"
+        type="image/png"/>
+      <pubDate>Fri, 09 Nov 2018 13:47:56 +0100</pubDate>
+      <dc:date>2018-11-09T13:47:56.081129+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 22–25 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-10-25-Megafon.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 20.0–25.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 12.6–17.4%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 16.5–21.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.9–11.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.3–6.1%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.9–5.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 7.9–11.8%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 5.5–8.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 4.0–7.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.8–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-10-25-Megafon.png"
         length="349084"
         type="image/png"/>
-      <pubDate>Sun, 04 Nov 2018 22:53:50 +0100</pubDate>
-      <dc:date>2018-11-04T22:53:50.656266+01:00</dc:date>
+      <pubDate>Fri, 09 Nov 2018 13:47:56 +0100</pubDate>
+      <dc:date>2018-11-09T13:47:56.081129+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 16–24 October 2018 – Seat Projections for the Parties</title>
@@ -1549,6 +1579,6 @@
       <pubDate>Wed, 11 Apr 2018 15:25:56 +0200</pubDate>
       <dc:date>2018-04-11T15:25:56.231519+02:00</dc:date>
     </item>
-    <dc:date>2018-11-06T13:00:32.956547+01:00</dc:date>
+    <dc:date>2018-11-09T19:34:22.191796+01:00</dc:date>
   </channel>
 </rss>
