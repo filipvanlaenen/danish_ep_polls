@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 01 Dec 2018 20:04:04 +0100</pubDate>
+    <pubDate>Sat, 01 Dec 2018 20:35:21 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 19–25 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-11-25-Voxmeter.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2018-12-01T17:57:33.630423+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 12–17 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-11-17-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-11-17-Voxmeter-seats.png"
+        length="249983"
+        type="image/png"/>
+      <pubDate>Sat, 01 Dec 2018 20:35:21 +0100</pubDate>
+      <dc:date>2018-12-01T20:35:21.099367+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 12–17 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-11-17-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-11-17-Voxmeter-coalitions-seats.png"
+        length="125016"
+        type="image/png"/>
+      <pubDate>Sat, 01 Dec 2018 20:35:21 +0100</pubDate>
+      <dc:date>2018-12-01T20:35:21.099367+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 12–17 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-11-17-Voxmeter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 23.9–29.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 15.7–20.4%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 15.1–19.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 8.2–11.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 4.4–7.2%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 5.7–8.8%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 4.2–6.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 2.3–4.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.5–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-11-17-Voxmeter.png"
         length="328656"
         type="image/png"/>
-      <pubDate>Sat, 01 Dec 2018 20:04:04 +0100</pubDate>
-      <dc:date>2018-12-01T20:04:04.56957+01:00</dc:date>
+      <pubDate>Sat, 01 Dec 2018 20:35:21 +0100</pubDate>
+      <dc:date>2018-12-01T20:35:21.099367+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 7–15 November 2018 – Seat Projections for the Parties</title>
@@ -1699,6 +1719,6 @@
       <pubDate>Wed, 11 Apr 2018 15:25:56 +0200</pubDate>
       <dc:date>2018-04-11T15:25:56.231519+02:00</dc:date>
     </item>
-    <dc:date>2018-12-01T20:04:04.56957+01:00</dc:date>
+    <dc:date>2018-12-01T20:35:21.099367+01:00</dc:date>
   </channel>
 </rss>
