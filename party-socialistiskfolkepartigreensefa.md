@@ -11,6 +11,7 @@ Last result: **10.9%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.5% | 4.5–7.0% | 4.3–7.6% | 4.1–8.0% | 3.7–8.8% |
+| [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 5.8% | 5.0–6.8% | 4.7–7.1% | 4.5–7.4% | 4.2–7.9% |
 | [19–25 November 2018](2018-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 4.9% | 4.1–5.8% | 3.9–6.1% | 3.7–6.3% | 3.4–6.8% |
 | [12–17 November 2018](2018-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.2–6.9% | 3.8–7.4% |
 | [7–15 November 2018](2018-11-15-Epinion.html) | Epinion <br> DR | 5.3% | 4.6–6.1% | 4.4–6.3% | 4.3–6.5% | 4.0–6.9% |
@@ -96,6 +97,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–25 November 2018](2018-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–17 November 2018](2018-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–15 November 2018](2018-11-15-Epinion.html) | Epinion <br> DR | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
