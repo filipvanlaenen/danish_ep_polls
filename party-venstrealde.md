@@ -10,7 +10,7 @@ Last result: **16.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.7% | 17.2–20.4% | 16.7–20.9% | 16.3–21.3% | 15.6–22.2% |
+| N/A | [Poll Average](average.html) | 18.7% | 17.1–20.4% | 16.7–20.9% | 16.3–21.3% | 15.5–22.2% |
 | [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 17.7% | 16.3–19.3% | 15.9–19.8% | 15.5–20.2% | 14.8–20.9% |
 | [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 18.3% | 16.9–19.9% | 16.5–20.4% | 16.1–20.8% | 15.4–21.6% |
 | [19–25 November 2018](2018-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 17.8% | 16.4–19.4% | 16.0–19.8% | 15.6–20.2% | 15.0–21.0% |
@@ -78,11 +78,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.4% | 100% |  |
-| 15.5–16.5% | 3% | 99.6% |  |
+| 14.5–15.5% | 0.5% | 100% |  |
+| 15.5–16.5% | 3% | 99.5% |  |
 | 16.5–17.5% | 13% | 96% | Last Result |
-| 17.5–18.5% | 28% | 84% |  |
-| 18.5–19.5% | 30% | 56% | Median |
+| 17.5–18.5% | 28% | 83% |  |
+| 18.5–19.5% | 30% | 55% | Median |
 | 19.5–20.5% | 17% | 25% |  |
 | 20.5–21.5% | 6% | 8% |  |
 | 21.5–22.5% | 1.4% | 2% |  |
@@ -167,8 +167,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.5% | 100% | Last Result |
-| 3 | 89% | 99.5% | Median |
+| 2 | 0.6% | 100% | Last Result |
+| 3 | 89% | 99.4% | Median |
 | 4 | 10% | 10% |  |
 | 5 | 0% | 0% |  |
 

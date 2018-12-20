@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.5% | 8.3–10.9% | 7.9–11.3% | 7.7–11.6% | 7.2–12.2% |
+| N/A | [Poll Average](average.html) | 9.5% | 8.2–10.8% | 7.9–11.2% | 7.6–11.6% | 7.1–12.2% |
 | [3–8 December 2018](2018-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 9.3% | 8.2–10.5% | 7.9–10.9% | 7.7–11.2% | 7.2–11.8% |
 | [26 November–2 December 2018](2018-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 8.5% | 7.5–9.8% | 7.2–10.1% | 7.0–10.4% | 6.5–11.0% |
 | [19–25 November 2018](2018-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 9.6% | 8.6–10.9% | 8.3–11.2% | 8.0–11.5% | 7.5–12.2% |
@@ -85,11 +85,11 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 2% | 100% |  |
-| 7.5–8.5% | 15% | 98% |  |
-| 8.5–9.5% | 34% | 83% |  |
-| 9.5–10.5% | 32% | 49% | Median |
-| 10.5–11.5% | 15% | 17% |  |
-| 11.5–12.5% | 3% | 3% |  |
+| 7.5–8.5% | 16% | 98% |  |
+| 8.5–9.5% | 35% | 82% | Median |
+| 9.5–10.5% | 31% | 47% |  |
+| 10.5–11.5% | 14% | 16% |  |
+| 11.5–12.5% | 2% | 3% |  |
 | 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
