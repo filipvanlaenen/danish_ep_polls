@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Dec 2018 16:38:51 +0100</pubDate>
+    <pubDate>Sat, 22 Dec 2018 17:28:47 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 10–16 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-12-16-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-12-16-Voxmeter-seats.png"
+        length="226467"
+        type="image/png"/>
+      <pubDate>Sat, 22 Dec 2018 17:28:47 +0100</pubDate>
+      <dc:date>2018-12-22T17:28:47.515143+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 10–16 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-12-16-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-12-16-Voxmeter-coalitions-seats.png"
+        length="127768"
+        type="image/png"/>
+      <pubDate>Sat, 22 Dec 2018 17:28:47 +0100</pubDate>
+      <dc:date>2018-12-22T17:28:47.515143+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 10–16 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-12-16-Voxmeter.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-12-16-Voxmeter.png"
         length="327145"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 15:06:21 +0100</pubDate>
-      <dc:date>2018-12-22T15:06:21.446604+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 17:28:47 +0100</pubDate>
+      <dc:date>2018-12-22T17:28:47.515143+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Gallup for Berlingske, 13 December 2018 – Voting Intentions</title>
@@ -100,14 +120,34 @@
       <dc:date>2018-12-09T22:43:04.143757+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Greens Analyseinstitut for Børsen, 29 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-11-29-GreensAnalyseinstitut.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 2–4 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-11-29-GreensAnalyseinstitut-seats.png"
+        length="257328"
+        type="image/png"/>
+      <pubDate>Sat, 22 Dec 2018 16:58:32 +0100</pubDate>
+      <dc:date>2018-12-22T16:58:32.88489+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Greens Analyseinstitut for Børsen, 29 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-11-29-GreensAnalyseinstitut.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-11-29-GreensAnalyseinstitut-coalitions-seats.png"
+        length="156575"
+        type="image/png"/>
+      <pubDate>Sat, 22 Dec 2018 16:58:32 +0100</pubDate>
+      <dc:date>2018-12-22T16:58:32.88489+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Greens Analyseinstitut for Børsen, 29 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-11-29-GreensAnalyseinstitut.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 22.2–27.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 15.0–19.4%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 17.0–21.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 8.0–11.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.8–5.1%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 6.2–9.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3.7–6.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 2.8–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-11-29-GreensAnalyseinstitut.png"
         length="334998"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 16:38:51 +0100</pubDate>
-      <dc:date>2018-12-22T16:38:51.708807+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 16:58:32 +0100</pubDate>
+      <dc:date>2018-12-22T16:58:32.88489+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 19–25 November 2018 – Seat Projections for the Parties</title>
@@ -1819,6 +1859,6 @@
       <pubDate>Wed, 11 Apr 2018 15:25:56 +0200</pubDate>
       <dc:date>2018-04-11T15:25:56.231519+02:00</dc:date>
     </item>
-    <dc:date>2018-12-22T16:38:51.708807+01:00</dc:date>
+    <dc:date>2018-12-22T17:28:47.515143+01:00</dc:date>
   </channel>
 </rss>
