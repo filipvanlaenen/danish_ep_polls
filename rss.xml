@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Dec 2018 15:06:21 +0100</pubDate>
+    <pubDate>Sat, 22 Dec 2018 16:38:51 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 10–16 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-12-16-Voxmeter.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-12-13-KantarGallup.png"
         length="312885"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 10:02:04 +0100</pubDate>
-      <dc:date>2018-12-22T10:02:04.040598+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 15:34:39 +0100</pubDate>
+      <dc:date>2018-12-22T15:34:39.345862+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 6–11 December 2018 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-12-11-Norstat.png"
         length="323921"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 10:25:49 +0100</pubDate>
-      <dc:date>2018-12-22T10:25:49.618276+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 15:27:31 +0100</pubDate>
+      <dc:date>2018-12-22T15:27:31.352984+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 3–8 December 2018 – Seat Projections for the Parties</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-11-29-GreensAnalyseinstitut.png"
         length="334998"
         type="image/png"/>
-      <pubDate>Sat, 22 Dec 2018 11:14:33 +0100</pubDate>
-      <dc:date>2018-12-22T11:14:33.751696+01:00</dc:date>
+      <pubDate>Sat, 22 Dec 2018 16:38:51 +0100</pubDate>
+      <dc:date>2018-12-22T16:38:51.708807+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 19–25 November 2018 – Seat Projections for the Parties</title>
@@ -1819,6 +1819,6 @@
       <pubDate>Wed, 11 Apr 2018 15:25:56 +0200</pubDate>
       <dc:date>2018-04-11T15:25:56.231519+02:00</dc:date>
     </item>
-    <dc:date>2018-12-22T15:06:21.446604+01:00</dc:date>
+    <dc:date>2018-12-22T16:38:51.708807+01:00</dc:date>
   </channel>
 </rss>
