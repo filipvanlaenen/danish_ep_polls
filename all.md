@@ -76,9 +76,9 @@ The table below lists all polls registered and analyzed so far.
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 15–19% <br> 3 | 26–30% <br> 4–5 | 18–22% <br> 3–4 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 4–6% <br> 0–1 | 7–10% <br> 1 | 0–1% <br> 0 | 2–3% <br> 0 |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 14–19% <br> 2–3 | 26–32% <br> 5–6 | 18–23% <br> 3–4 | 4–6% <br> 0–1 | 3–5% <br> 0 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 3–5% <br> 0–1 | 7–11% <br> 1–2 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 15–20% <br> 2–3 | 27–32% <br> 5–6 | 18–23% <br> 3–4 | 3–6% <br> 0–1 | 3–5% <br> 0 | 3–6% <br> 0–1 | 4–7% <br> 0–1 | 3–6% <br> 0–1 | 8–11% <br> 1–2 | 0–1% <br> 0 | 0–1% <br> 0 |
-| [5–11 January 2018](2018-01-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 14–18% <br> 2–3 | 26–31% <br> 5 | 20–24% <br> 3–4 | 4–6% <br> 0–1 | 5–7% <br> 0–1 | 4–6% <br> 0–1 | 3–4% <br> 0 | 4–6% <br> 0–1 | 7–10% <br> 1 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [5–11 January 2018](2018-01-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 14–18% <br> 2–3 | 26–31% <br> 5–6 | 20–24% <br> 3–4 | 4–6% <br> 0–1 | 5–7% <br> 0–1 | 4–6% <br> 0–1 | 3–4% <br> 0 | 4–6% <br> 0–1 | 7–10% <br> 1 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [5–7 January 2018](2018-01-07-YouGov.html) | YouGov <br> Metroxpress | 15–19% <br> 2–3 | 24–29% <br> 4–5 | 17–21% <br> 3 | 4–6% <br> 0–1 | 5–8% <br> 1 | 4–6% <br> 0–1 | 3–5% <br> 0 | 4–6% <br> 0–1 | 7–10% <br> 1 | 0–1% <br> 0 | 3–5% <br> 0–1 |
-| [2–7 January 2018](2018-01-07-Voxmeter.html) | Voxmeter <br> Ritzau | 15–20% <br> 2–3 | 26–32% <br> 4–6 | 17–22% <br> 3–4 | 3–6% <br> 0–1 | 3–5% <br> 0–1 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 4–6% <br> 0–1 | 7–11% <br> 1 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [2–7 January 2018](2018-01-07-Voxmeter.html) | Voxmeter <br> Ritzau | 15–20% <br> 2–4 | 26–32% <br> 4–6 | 17–22% <br> 3–4 | 3–6% <br> 0–1 | 3–5% <br> 0–1 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | 4–6% <br> 0–1 | 7–11% <br> 1–2 | 0–1% <br> 0 | 1–2% <br> 0 |
 | 25 May 2014 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
