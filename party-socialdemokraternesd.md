@@ -189,7 +189,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [19–22 January 2018](2018-01-22-YouGov.html) | YouGov | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [15–21 January 2018](2018-01-21-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [8–14 January 2018](2018-01-14-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5–6 | 5–6 | 5–6 |
-| [5–11 January 2018](2018-01-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 5 | 5 | 5–6 | 5–6 | 4–6 |
+| [5–11 January 2018](2018-01-11-KantarGallup.html) | Kantar Gallup <br> Berlingske | 5 | 5 | 5 | 5–6 | 4–6 |
 | [5–7 January 2018](2018-01-07-YouGov.html) | YouGov <br> Metroxpress | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–7 January 2018](2018-01-07-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 
