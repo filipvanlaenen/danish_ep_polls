@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 01 Jan 2019 00:35:42 +0100</pubDate>
+    <pubDate>Tue, 01 Jan 2019 08:34:40 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 10–16 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-12-16-Voxmeter.html#seats</link>
@@ -1916,8 +1916,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-01-29-Norstat.png"
         length="309826"
         type="image/png"/>
-      <pubDate>Mon, 31 Dec 2018 23:30:41 +0100</pubDate>
-      <dc:date>2018-12-31T23:30:41.083149+01:00</dc:date>
+      <pubDate>Tue, 01 Jan 2019 08:34:40 +0100</pubDate>
+      <dc:date>2019-01-01T08:34:40.606664+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 22–25 January 2018 – Seat Projections for the Parties</title>
@@ -1950,14 +1950,34 @@
       <dc:date>2019-01-01T00:08:48.403273+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov, 19–22 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-01-22-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-01-22-YouGov-seats.png"
+        length="213732"
+        type="image/png"/>
+      <pubDate>Tue, 01 Jan 2019 01:08:11 +0100</pubDate>
+      <dc:date>2019-01-01T01:08:11.485739+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 19–22 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-01-22-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-01-22-YouGov-coalitions-seats.png"
+        length="159607"
+        type="image/png"/>
+      <pubDate>Tue, 01 Jan 2019 01:08:11 +0100</pubDate>
+      <dc:date>2019-01-01T01:08:11.485739+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov, 19–22 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2018-01-22-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.8–30.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 15.1–19.0%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 17.8–21.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.3–10.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.7–5.9%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.6–5.7%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 3.8–6.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3.7–5.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.9–6.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.4–1.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.7–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-01-22-YouGov.png"
         length="312551"
         type="image/png"/>
-      <pubDate>Tue, 01 Jan 2019 00:35:42 +0100</pubDate>
-      <dc:date>2019-01-01T00:35:42.002581+01:00</dc:date>
+      <pubDate>Tue, 01 Jan 2019 01:08:11 +0100</pubDate>
+      <dc:date>2019-01-01T01:08:11.485739+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 15–21 January 2018 – Voting Intentions</title>
@@ -2006,9 +2026,9 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2018-01-07-Voxmeter.png"
         length="320804"
         type="image/png"/>
-      <pubDate>Mon, 31 Dec 2018 22:52:45 +0100</pubDate>
-      <dc:date>2018-12-31T22:52:45.133448+01:00</dc:date>
+      <pubDate>Tue, 01 Jan 2019 01:26:40 +0100</pubDate>
+      <dc:date>2019-01-01T01:26:40.877346+01:00</dc:date>
     </item>
-    <dc:date>2019-01-01T00:35:42.002581+01:00</dc:date>
+    <dc:date>2019-01-01T08:34:40.606664+01:00</dc:date>
   </channel>
 </rss>
