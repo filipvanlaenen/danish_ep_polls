@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-01-05T12:37:54.033118+01:00</updated>
+  <updated>2019-01-08T22:55:32.710001+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 23.2–28.5%, 4–5 seats</li><li>Dansk Folkeparti (ECR): 15.5–20.1%, 2–3 seats</li><li>Venstre (ALDE): 16.8–21.6%, 3–4 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 8.0–11.6%, 1–2 seats</li><li>Liberal Alliance (ALDE): 4.0–6.7%, 0–1 seats</li><li>Alternativet (Greens/EFA): 2.7–5.1%, 0 seats</li><li>Radikale Venstre (ALDE): 5.2–8.3%, 1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 3.8–6.5%, 0–1 seats</li><li>Det Konservative Folkeparti (EPP): 3.2–5.7%, 0–1 seats</li><li>Kristendemokraterne (EPP): 0.4–1.5%, 0 seats</li><li>Nye Borgerlige (*): 1.4–3.2%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2019-01-06-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2019-01-06-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter for Ritzau, 2–6 January 2019</title>
+    <updated>2019-01-08T22:55:32.710001+01:00</updated>
+    <dc:date>2019-01-08T22:55:32.710001+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 22.5–27.9%, 4–5 seats</li><li>Dansk Folkeparti (ECR): 14.0–18.6%, 2–3 seats</li><li>Venstre (ALDE): 14.8–19.5%, 2–3 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 8.2–11.9%, 1–2 seats</li><li>Liberal Alliance (ALDE): 3.7–6.4%, 0–1 seats</li><li>Alternativet (Greens/EFA): 3.0–5.5%, 0–1 seats</li><li>Radikale Venstre (ALDE): 5.9–9.2%, 1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 5.0–8.1%, 0–1 seats</li><li>Det Konservative Folkeparti (EPP): 3.4–6.0%, 0–1 seats</li><li>Kristendemokraterne (EPP): 0.5–1.7%, 0 seats</li><li>Nye Borgerlige (*): 2.2–4.4%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2018-12-20-Megafon.html</id>
@@ -607,5 +615,5 @@
     <updated>2019-01-01T13:29:47.550778+01:00</updated>
     <dc:date>2019-01-01T13:29:47.550778+01:00</dc:date>
   </entry>
-  <dc:date>2019-01-05T12:37:54.033118+01:00</dc:date>
+  <dc:date>2019-01-08T22:55:32.710001+01:00</dc:date>
 </feed>
