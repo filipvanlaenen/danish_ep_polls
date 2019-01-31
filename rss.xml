@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 31 Jan 2019 06:48:25 +0100</pubDate>
+    <pubDate>Thu, 31 Jan 2019 18:04:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 21–27 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-01-27-Voxmeter.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2019-01-31T06:48:25.820232+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Epinion for DR, 14–21 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-01-21-Epinion.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-01-21-Epinion-seats.png"
+        length="196009"
+        type="image/png"/>
+      <pubDate>Thu, 31 Jan 2019 18:04:37 +0100</pubDate>
+      <dc:date>2019-01-31T18:04:37.156864+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 14–21 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-01-21-Epinion.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-01-21-Epinion-coalitions-seats.png"
+        length="102279"
+        type="image/png"/>
+      <pubDate>Thu, 31 Jan 2019 18:04:37 +0100</pubDate>
+      <dc:date>2019-01-31T18:04:37.156864+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Epinion for DR, 14–21 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-01-21-Epinion.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.8–30.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 14.9–18.4%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 15.8–19.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.6–10.3%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.7–5.7%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.3–5.2%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 5.2–7.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 5.6–8.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 2.1–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-01-21-Epinion.png"
         length="309580"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 21:03:26 +0100</pubDate>
-      <dc:date>2019-01-27T21:03:26.794734+01:00</dc:date>
+      <pubDate>Thu, 31 Jan 2019 18:04:37 +0100</pubDate>
+      <dc:date>2019-01-31T18:04:37.156864+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 14–20 January 2019 – Seat Projections for the Parties</title>
@@ -2369,6 +2389,6 @@
       <pubDate>Tue, 01 Jan 2019 13:29:47 +0100</pubDate>
       <dc:date>2019-01-01T13:29:47.550778+01:00</dc:date>
     </item>
-    <dc:date>2019-01-31T06:48:25.820232+01:00</dc:date>
+    <dc:date>2019-01-31T18:04:37.156864+01:00</dc:date>
   </channel>
 </rss>
