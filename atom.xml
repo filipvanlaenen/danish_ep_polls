@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-01-31T18:04:37.156864+01:00</updated>
+  <updated>2019-02-05T12:04:07.040106+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 25.5–30.9%, 4–6 seats</li><li>Dansk Folkeparti (ECR): 14.7–19.3%, 2–3 seats</li><li>Venstre (ALDE): 16.6–21.4%, 3–4 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 6.9–10.3%, 1–2 seats</li><li>Liberal Alliance (ALDE): 3.5–6.1%, 0–1 seats</li><li>Alternativet (Greens/EFA): 2.7–5.0%, 0 seats</li><li>Radikale Venstre (ALDE): 5.5–8.6%, 1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 3.8–6.5%, 0–1 seats</li><li>Det Konservative Folkeparti (EPP): 3.0–5.4%, 0–1 seats</li><li>Kristendemokraterne (EPP): 0.5–1.6%, 0 seats</li><li>Nye Borgerlige (*): 1.5–3.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2019-01-27-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2019-01-27-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter for Ritzau, 21–27 January 2019</title>
+    <updated>2019-02-05T12:04:07.040106+01:00</updated>
+    <dc:date>2019-02-05T12:04:07.040106+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 25.8–30.1%, 5 seats</li><li>Dansk Folkeparti (ECR): 14.9–18.4%, 2–3 seats</li><li>Venstre (ALDE): 15.8–19.3%, 3 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 7.6–10.3%, 1 seats</li><li>Liberal Alliance (ALDE): 3.7–5.7%, 0–1 seats</li><li>Alternativet (Greens/EFA): 3.3–5.2%, 0 seats</li><li>Radikale Venstre (ALDE): 5.2–7.4%, 1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 5.6–8.0%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 3.2–5.0%, 0 seats</li><li>Kristendemokraterne (EPP): 0.3–1.1%, 0 seats</li><li>Nye Borgerlige (*): 2.1–3.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2019-01-21-Epinion.html</id>
@@ -639,5 +647,5 @@
     <updated>2019-01-01T13:29:47.550778+01:00</updated>
     <dc:date>2019-01-01T13:29:47.550778+01:00</dc:date>
   </entry>
-  <dc:date>2019-01-31T18:04:37.156864+01:00</dc:date>
+  <dc:date>2019-02-05T12:04:07.040106+01:00</dc:date>
 </feed>
