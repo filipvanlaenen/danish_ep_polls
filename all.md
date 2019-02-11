@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 14–18% <br> 2–3 | 26–31% <br> 5 | 16–20% <br> 3 | 5–7% <br> 0–1 | 3–5% <br> 0 | 5–8% <br> 1–2 | 5–8% <br> 0–1 | 3–5% <br> 0 | 7–11% <br> 1 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 14–19% <br> 2–3 | 25–30% <br> 4–5 | 16–21% <br> 3–4 | 4–7% <br> 0–1 | 3–6% <br> 0–1 | 6–9% <br> 1 | 4–7% <br> 0–1 | 2–4% <br> 0 | 7–11% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 15–19% <br> 2–3 | 25–31% <br> 4–6 | 17–21% <br> 3–4 | 4–7% <br> 0–1 | 3–5% <br> 0–1 | 6–9% <br> 1 | 4–6% <br> 0–1 | 3–5% <br> 0 | 7–10% <br> 1–2 | 0–2% <br> 0 | 1–3% <br> 0 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 15–18% <br> 2–3 | 26–30% <br> 5 | 16–19% <br> 3 | 6–8% <br> 1 | 3–5% <br> 0 | 5–7% <br> 1 | 4–6% <br> 0–1 | 3–5% <br> 0 | 8–10% <br> 1 | 0–1% <br> 0 | 2–4% <br> 0 |
