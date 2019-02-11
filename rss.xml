@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 06 Feb 2019 11:24:17 +0100</pubDate>
+    <pubDate>Mon, 11 Feb 2019 19:21:28 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 4–9 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-02-09-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.6–31.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 13.7–18.2%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 15.7–20.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.1–10.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 2.8–5.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.2–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-02-09-Voxmeter.png"
+        length="326599"
+        type="image/png"/>
+      <pubDate>Mon, 11 Feb 2019 19:21:28 +0100</pubDate>
+      <dc:date>2019-02-11T19:21:28.362403+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 28 January–3 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-02-03-Voxmeter.html#seats</link>
@@ -2439,6 +2449,6 @@
       <pubDate>Tue, 01 Jan 2019 13:29:47 +0100</pubDate>
       <dc:date>2019-01-01T13:29:47.550778+01:00</dc:date>
     </item>
-    <dc:date>2019-02-06T11:24:17.211827+01:00</dc:date>
+    <dc:date>2019-02-11T19:21:28.362403+01:00</dc:date>
   </channel>
 </rss>
