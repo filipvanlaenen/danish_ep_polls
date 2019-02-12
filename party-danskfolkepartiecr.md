@@ -127,7 +127,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–27 January 2019](2019-01-27-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [14–21 January 2019](2019-01-21-Epinion.html) | Epinion <br> DR | 3 | 3 | 3 | 2–3 | 2–3 |
