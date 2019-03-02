@@ -10,7 +10,9 @@ Last result: **19.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.2% | 23.5–29.0% | 23.0–29.8% | 22.6–30.4% | 21.8–31.6% |
+| N/A | [Poll Average](average.html) | 26.2% | 23.5–28.9% | 23.0–29.6% | 22.6–30.2% | 21.8–31.2% |
+| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 28.2% | 26.7–29.7% | 26.4–30.1% | 26.0–30.5% | 25.3–31.2% |
+| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 28.5% | 26.7–30.3% | 26.2–30.9% | 25.8–31.3% | 25.0–32.2% |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 29.0% | 27.2–30.8% | 26.7–31.4% | 26.3–31.8% | 25.4–32.7% |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 28.3% | 26.5–30.1% | 26.0–30.7% | 25.6–31.1% | 24.8–32.0% |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 27.5% | 25.7–29.3% | 25.3–29.8% | 24.8–30.3% | 24.0–31.1% |
@@ -110,15 +112,14 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 8% | 98% |  |
 | 23.5–24.5% | 14% | 90% |  |
 | 24.5–25.5% | 16% | 76% |  |
-| 25.5–26.5% | 17% | 61% | Median |
-| 26.5–27.5% | 16% | 44% |  |
+| 25.5–26.5% | 17% | 60% | Median |
+| 26.5–27.5% | 16% | 43% |  |
 | 27.5–28.5% | 13% | 27% |  |
-| 28.5–29.5% | 8% | 14% |  |
-| 29.5–30.5% | 4% | 6% |  |
-| 30.5–31.5% | 2% | 2% |  |
-| 31.5–32.5% | 0.4% | 0.5% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 28.5–29.5% | 9% | 14% |  |
+| 29.5–30.5% | 4% | 5% |  |
+| 30.5–31.5% | 1.2% | 1.5% |  |
+| 31.5–32.5% | 0.2% | 0.3% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -129,7 +130,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [19–25 February 2019](2019-02-25-Epinion.html) | Epinion <br> DR | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [18–24 February 2019](2019-02-24-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5–6 | 4–6 |
 | [11–17 February 2019](2019-02-17-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5–6 | 4–6 |
 | [4–9 February 2019](2019-02-09-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [28 January–3 February 2019](2019-02-03-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -226,8 +229,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 45% | 100% |  |
-| 5 | 54% | 55% | Median |
-| 6 | 0.8% | 0.8% |  |
+| 5 | 42% | 55% | Median |
+| 6 | 13% | 13% |  |
 | 7 | 0% | 0% |  |
 
 
