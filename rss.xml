@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 02 Mar 2019 15:48:04 +0100</pubDate>
+    <pubDate>Mon, 04 Mar 2019 19:11:24 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 19–25 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-02-25-Epinion.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-02-25-Epinion-seats.png"
+        length="222249"
+        type="image/png"/>
+      <pubDate>Mon, 04 Mar 2019 19:11:24 +0100</pubDate>
+      <dc:date>2019-03-04T19:11:24.090411+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 19–25 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-02-25-Epinion.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-02-25-Epinion-coalitions-seats.png"
+        length="126382"
+        type="image/png"/>
+      <pubDate>Mon, 04 Mar 2019 19:11:24 +0100</pubDate>
+      <dc:date>2019-03-04T19:11:24.090411+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 19–25 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-02-25-Epinion.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-02-25-Epinion.png"
         length="311848"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 15:48:04 +0100</pubDate>
-      <dc:date>2019-03-02T15:48:04.019259+01:00</dc:date>
+      <pubDate>Mon, 04 Mar 2019 19:11:24 +0100</pubDate>
+      <dc:date>2019-03-04T19:11:24.090411+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 18–24 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-02-24-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-02-24-Voxmeter-seats.png"
+        length="249243"
+        type="image/png"/>
+      <pubDate>Sun, 03 Mar 2019 22:04:07 +0100</pubDate>
+      <dc:date>2019-03-03T22:04:07.844671+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 18–24 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-02-24-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-02-24-Voxmeter-coalitions-seats.png"
+        length="148024"
+        type="image/png"/>
+      <pubDate>Sun, 03 Mar 2019 22:04:07 +0100</pubDate>
+      <dc:date>2019-03-03T22:04:07.844671+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 18–24 February 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-02-24-Voxmeter.png"
         length="325375"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 08:27:07 +0100</pubDate>
-      <dc:date>2019-03-02T08:27:07.572984+01:00</dc:date>
+      <pubDate>Sun, 03 Mar 2019 22:04:07 +0100</pubDate>
+      <dc:date>2019-03-03T22:04:07.844671+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 11–17 February 2019 – Seat Projections for the Parties</title>
@@ -2559,6 +2599,6 @@
       <pubDate>Tue, 01 Jan 2019 13:29:47 +0100</pubDate>
       <dc:date>2019-01-01T13:29:47.550778+01:00</dc:date>
     </item>
-    <dc:date>2019-03-02T15:48:04.019259+01:00</dc:date>
+    <dc:date>2019-03-04T19:11:24.090411+01:00</dc:date>
   </channel>
 </rss>
