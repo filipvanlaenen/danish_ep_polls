@@ -32,14 +32,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#socialdemokraterne-(s&d)">Socialdemokraterne (S&D)</a> | 3 | 4 | 4–5 |4–5 |4–5 |4–5 |
-| <a href="#dansk-folkeparti-(ecr)">Dansk Folkeparti (ECR)</a> | 4 | 3 | 3 |3 |3 |2–4 |
-| <a href="#venstre-(alde)">Venstre (ALDE)</a> | 2 | 3 | 3 |3 |2–3 |2–3 |
+| <a href="#socialdemokraterne-(s&d)">Socialdemokraterne (S&D)</a> | 3 | 4 | 4 |4 |4 |4–5 |
+| <a href="#dansk-folkeparti-(ecr)">Dansk Folkeparti (ECR)</a> | 4 | 3 | 3 |3 |3 |3 |
+| <a href="#venstre-(alde)">Venstre (ALDE)</a> | 2 | 3 | 3 |3 |3 |3 |
 | <a href="#enhedslisten–de-rød-grønne-(gue/ngl)">Enhedslisten–De Rød-Grønne (GUE/NGL)</a> | 0 | 1 | 1 |1 |1 |1 |
-| <a href="#radikale-venstre-(alde)">Radikale Venstre (ALDE)</a> | 1 | 1 | 1 |1 |1 |0–1 |
-| <a href="#socialistisk-folkeparti-(greens/efa)">Socialistisk Folkeparti (Greens/EFA)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#liberal-alliance-(alde)">Liberal Alliance (ALDE)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#det-konservative-folkeparti-(epp)">Det Konservative Folkeparti (EPP)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#radikale-venstre-(alde)">Radikale Venstre (ALDE)</a> | 1 | 1 | 1 |1 |1 |1 |
+| <a href="#socialistisk-folkeparti-(greens/efa)">Socialistisk Folkeparti (Greens/EFA)</a> | 1 | 1 | 1 |1 |1 |0–1 |
+| <a href="#liberal-alliance-(alde)">Liberal Alliance (ALDE)</a> | 0 | 1 | 1 |1 |1 |0–1 |
+| <a href="#det-konservative-folkeparti-(epp)">Det Konservative Folkeparti (EPP)</a> | 1 | 0 | 0 |0 |0 |0–1 |
 | <a href="#alternativet-(greens/efa)">Alternativet (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#nye-borgerlige-(*)">Nye Borgerlige (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -53,8 +53,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 54% | 100% | Median |
-| 5 | 46% | 46% |  |
+| 4 | 98.8% | 100% | Median |
+| 5 | 1.2% | 1.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Dansk Folkeparti (ECR)
@@ -65,10 +65,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.7% | 100% |  |
-| 3 | 98.6% | 99.3% | Median |
-| 4 | 0.7% | 0.7% | Last Result |
-| 5 | 0% | 0% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 99.9% | 99.9% | Median |
+| 4 | 0% | 0% | Last Result |
 
 ### Venstre (ALDE)
 
@@ -78,10 +77,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 3% | 100% | Last Result |
-| 3 | 97% | 97% | Median |
-| 4 | 0.3% | 0.3% |  |
-| 5 | 0% | 0% |  |
+| 2 | 0.2% | 100% | Last Result |
+| 3 | 99.7% | 99.8% | Median |
+| 4 | 0% | 0% |  |
 
 ### Enhedslisten–De Rød-Grønne (GUE/NGL)
 
@@ -92,9 +90,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.8% | 100% | Median |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Median |
 
 ### Radikale Venstre (ALDE)
 
@@ -104,8 +100,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.3% | 100% |  |
-| 1 | 98.7% | 98.7% | Last Result, Median |
+| 0 | 0.1% | 100% |  |
+| 1 | 99.9% | 99.9% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Socialistisk Folkeparti (Greens/EFA)
@@ -116,8 +112,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 81% | 81% | Last Result, Median |
+| 0 | 0.7% | 100% |  |
+| 1 | 99.3% | 99.3% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Liberal Alliance (ALDE)
@@ -128,8 +124,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% | Last Result |
-| 1 | 59% | 59% | Median |
+| 0 | 0.6% | 100% | Last Result |
+| 1 | 99.4% | 99.4% | Median |
 | 2 | 0% | 0% |  |
 
 ### Det Konservative Folkeparti (EPP)
@@ -140,8 +136,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Median |
-| 1 | 17% | 17% | Last Result |
+| 0 | 99.4% | 100% | Median |
+| 1 | 0.6% | 0.6% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Alternativet (Greens/EFA)
@@ -183,13 +179,12 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Venstre (ALDE) – Radikale Venstre (ALDE) – Liberal Alliance (ALDE) | 3 | 5 | 0% | 4–5 | 4–5 | 4–5 | 3–5 |
-| Socialdemokraterne (S&D) | 3 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–5 |
-| Dansk Folkeparti (ECR) | 4 | 3 | 0% | 3 | 3 | 3 | 2–4 |
+| Venstre (ALDE) – Radikale Venstre (ALDE) – Liberal Alliance (ALDE) | 3 | 5 | 0% | 5 | 5 | 5 | 4–5 |
+| Socialdemokraterne (S&D) | 3 | 4 | 0% | 4 | 4 | 4 | 4–5 |
+| Dansk Folkeparti (ECR) | 4 | 3 | 0% | 3 | 3 | 3 | 3 |
+| Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA) | 1 | 1 | 0% | 1 | 1 | 1 | 0–1 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Nye Borgerlige (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP) | 1 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
 ### Venstre (ALDE) – Radikale Venstre (ALDE) – Liberal Alliance (ALDE)
 
@@ -197,11 +192,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.6% | 100% | Last Result |
-| 4 | 43% | 99.4% |  |
-| 5 | 56% | 56% | Median |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 3 | 0% | 100% | Last Result |
+| 4 | 0.9% | 100% |  |
+| 5 | 99.1% | 99.1% | Median |
+| 6 | 0% | 0% |  |
 
 ### Socialdemokraterne (S&D)
 
@@ -210,8 +204,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 54% | 100% | Median |
-| 5 | 46% | 46% |  |
+| 4 | 98.8% | 100% | Median |
+| 5 | 1.2% | 1.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Dansk Folkeparti (ECR)
@@ -220,10 +214,19 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.7% | 100% |  |
-| 3 | 98.6% | 99.3% | Median |
-| 4 | 0.7% | 0.7% | Last Result |
-| 5 | 0% | 0% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 99.9% | 99.9% | Median |
+| 4 | 0% | 0% | Last Result |
+
+### Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2018-12-13-KantarGallup-coalitions-seats-pmf-f–å.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.7% | 100% |  |
+| 1 | 99.3% | 99.3% | Last Result, Median |
+| 2 | 0% | 0% |  |
 
 ### Enhedslisten–De Rød-Grønne (GUE/NGL)
 
@@ -232,19 +235,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.8% | 100% | Median |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
-
-### Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA)
-
-![Graph with seats probability mass function not yet produced](2018-12-13-KantarGallup-coalitions-seats-pmf-f–å.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 81% | 81% | Last Result, Median |
-| 2 | 0% | 0% |  |
+| 1 | 100% | 100% | Median |
 
 ### Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP)
 
@@ -252,17 +243,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Median |
-| 1 | 17% | 17% | Last Result |
+| 0 | 99.4% | 100% | Median |
+| 1 | 0.6% | 0.6% | Last Result |
 | 2 | 0% | 0% |  |
-
-### Nye Borgerlige (*)
-
-![Graph with seats probability mass function not yet produced](2018-12-13-KantarGallup-coalitions-seats-pmf-d.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
@@ -276,6 +259,6 @@
 ### Calculations
 
 + **Sample size:** 1604
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.36%
++ **Simulations done:** 65,536
++ **Error estimate:** 1.19%
 
