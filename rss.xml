@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 10 Mar 2019 14:59:06 +0100</pubDate>
+    <pubDate>Tue, 12 Mar 2019 19:49:16 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 4–9 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-09-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 26.0–31.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 12.2–16.4%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 16.4–21.1%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 4.1–6.8%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.3–5.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 5.8–9.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 4.4–7.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 2.8–5.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.2–1.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-09-Voxmeter.png"
+        length="340723"
+        type="image/png"/>
+      <pubDate>Tue, 12 Mar 2019 19:49:16 +0100</pubDate>
+      <dc:date>2019-03-12T19:49:16.944676+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 25 February–3 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-03-Voxmeter.html#seats</link>
@@ -2679,6 +2689,6 @@
       <pubDate>Tue, 01 Jan 2019 13:29:47 +0100</pubDate>
       <dc:date>2019-01-01T13:29:47.550778+01:00</dc:date>
     </item>
-    <dc:date>2019-03-10T14:59:06.878761+01:00</dc:date>
+    <dc:date>2019-03-12T19:49:16.944676+01:00</dc:date>
   </channel>
 </rss>
