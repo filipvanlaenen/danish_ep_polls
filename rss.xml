@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Mar 2019 14:41:31 +0100</pubDate>
+    <pubDate>Mon, 25 Mar 2019 18:24:06 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 11–17 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-17-Voxmeter.html#seats</link>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-02-28-Megafon.png"
         length="360517"
         type="image/png"/>
-      <pubDate>Sat, 16 Mar 2019 17:08:35 +0100</pubDate>
-      <dc:date>2019-03-16T17:08:35.888172+01:00</dc:date>
+      <pubDate>Mon, 25 Mar 2019 18:24:06 +0100</pubDate>
+      <dc:date>2019-03-25T18:24:06.552642+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 19–25 February 2019 – Voting Intentions</title>
@@ -2729,6 +2729,6 @@
       <pubDate>Tue, 01 Jan 2019 13:29:47 +0100</pubDate>
       <dc:date>2019-01-01T13:29:47.550778+01:00</dc:date>
     </item>
-    <dc:date>2019-03-23T14:41:31.993906+01:00</dc:date>
+    <dc:date>2019-03-25T18:24:06.552642+01:00</dc:date>
   </channel>
 </rss>
