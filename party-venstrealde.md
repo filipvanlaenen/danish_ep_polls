@@ -11,6 +11,7 @@ Last result: **16.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.1% | 16.8–19.6% | 16.4–20.1% | 16.1–20.5% | 15.5–21.3% |
+| [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 19.3% | 17.8–20.9% | 17.3–21.4% | 17.0–21.8% | 16.3–22.6% |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 18.9% | 17.5–20.5% | 17.0–21.0% | 16.7–21.4% | 16.0–22.2% |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 19.7% | 18.5–21.0% | 18.1–21.4% | 17.8–21.8% | 17.3–22.4% |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 18.6% | 17.1–20.2% | 16.7–20.7% | 16.4–21.1% | 15.7–21.9% |
@@ -133,6 +134,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3–4 | 2–4 |
+| [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–14 March 2019](2019-03-14-KantarGallup.html) | Kantar Gallup <br> Berlingske | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4–9 March 2019](2019-03-09-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 2–4 |
