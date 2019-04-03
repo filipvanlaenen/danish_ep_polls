@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 02 Apr 2019 20:15:14 +0200</pubDate>
+    <pubDate>Tue, 02 Apr 2019 22:54:43 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 25–31 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-31-Voxmeter.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-04-02T20:15:14.158252+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 25–28 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-28-Megafon.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-28-Megafon-seats.png"
+        length="279795"
+        type="image/png"/>
+      <pubDate>Tue, 02 Apr 2019 20:45:09 +0200</pubDate>
+      <dc:date>2019-04-02T20:45:09.447255+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 25–28 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-28-Megafon.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-28-Megafon-coalitions-seats.png"
+        length="158979"
+        type="image/png"/>
+      <pubDate>Tue, 02 Apr 2019 20:45:09 +0200</pubDate>
+      <dc:date>2019-04-02T20:45:09.447255+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 25–28 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-28-Megafon.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 22.8–28.2%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 10.7–14.8%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 15.1–19.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.5–11.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.6–6.3%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 5.7–8.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 4.1–7.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.8–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-28-Megafon.png"
         length="358016"
         type="image/png"/>
-      <pubDate>Tue, 02 Apr 2019 06:47:15 +0200</pubDate>
-      <dc:date>2019-04-02T06:47:15.311118+02:00</dc:date>
+      <pubDate>Tue, 02 Apr 2019 20:45:09 +0200</pubDate>
+      <dc:date>2019-04-02T20:45:09.447255+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 21–26 March 2019 – Voting Intentions</title>
@@ -56,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-26-Norstat.png"
         length="340512"
         type="image/png"/>
-      <pubDate>Tue, 02 Apr 2019 06:43:42 +0200</pubDate>
-      <dc:date>2019-04-02T06:43:42.92981+02:00</dc:date>
+      <pubDate>Tue, 02 Apr 2019 22:54:43 +0200</pubDate>
+      <dc:date>2019-04-02T22:54:43.999173+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 18–25 March 2019 – Voting Intentions</title>
@@ -2839,6 +2859,6 @@
       <pubDate>Tue, 01 Jan 2019 13:29:47 +0100</pubDate>
       <dc:date>2019-01-01T13:29:47.550778+01:00</dc:date>
     </item>
-    <dc:date>2019-04-02T20:15:14.158252+02:00</dc:date>
+    <dc:date>2019-04-02T22:54:43.999173+02:00</dc:date>
   </channel>
 </rss>
