@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 04 Apr 2019 14:05:21 +0200</pubDate>
+    <pubDate>Sat, 06 Apr 2019 11:20:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 25–31 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-31-Voxmeter.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-26-Norstat.png"
         length="340512"
         type="image/png"/>
-      <pubDate>Tue, 02 Apr 2019 22:54:43 +0200</pubDate>
-      <dc:date>2019-04-02T22:54:43.999173+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 10:38:50 +0200</pubDate>
+      <dc:date>2019-04-06T10:38:50.433334+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 18–25 March 2019 – Voting Intentions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-25-Epinion.png"
         length="324110"
         type="image/png"/>
-      <pubDate>Wed, 03 Apr 2019 16:47:49 +0200</pubDate>
-      <dc:date>2019-04-03T16:47:49.534185+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 11:01:31 +0200</pubDate>
+      <dc:date>2019-04-06T11:01:31.192892+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 18–24 March 2019 – Voting Intentions</title>
@@ -136,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-14-KantarGallup.png"
         length="337207"
         type="image/png"/>
-      <pubDate>Tue, 19 Mar 2019 06:54:16 +0100</pubDate>
-      <dc:date>2019-03-19T06:54:16.044543+01:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 11:20:09 +0200</pubDate>
+      <dc:date>2019-04-06T11:20:09.045385+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 4–9 March 2019 – Voting Intentions</title>
@@ -2859,6 +2859,6 @@
       <pubDate>Tue, 01 Jan 2019 13:29:47 +0100</pubDate>
       <dc:date>2019-01-01T13:29:47.550778+01:00</dc:date>
     </item>
-    <dc:date>2019-04-04T14:05:21.708845+02:00</dc:date>
+    <dc:date>2019-04-06T11:20:09.045385+02:00</dc:date>
   </channel>
 </rss>
