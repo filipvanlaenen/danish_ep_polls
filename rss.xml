@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Apr 2019 11:20:09 +0200</pubDate>
+    <pubDate>Mon, 08 Apr 2019 19:51:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 25–31 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-31-Voxmeter.html#seats</link>
@@ -90,14 +90,34 @@
       <dc:date>2019-04-06T11:01:31.192892+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 18–24 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-24-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-24-Voxmeter-seats.png"
+        length="244181"
+        type="image/png"/>
+      <pubDate>Mon, 08 Apr 2019 19:51:38 +0200</pubDate>
+      <dc:date>2019-04-08T19:51:38.362469+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 18–24 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-24-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-24-Voxmeter-coalitions-seats.png"
+        length="139175"
+        type="image/png"/>
+      <pubDate>Mon, 08 Apr 2019 19:51:38 +0200</pubDate>
+      <dc:date>2019-04-08T19:51:38.362469+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 18–24 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-24-Voxmeter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.4–30.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ECR): 13.1–17.5%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 17.0–21.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.2–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.4–4.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.5–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-24-Voxmeter.png"
         length="343652"
         type="image/png"/>
-      <pubDate>Thu, 28 Mar 2019 06:48:44 +0100</pubDate>
-      <dc:date>2019-03-28T06:48:44.435549+01:00</dc:date>
+      <pubDate>Mon, 08 Apr 2019 19:51:38 +0200</pubDate>
+      <dc:date>2019-04-08T19:51:38.362469+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 11–17 March 2019 – Seat Projections for the Parties</title>
@@ -2859,6 +2879,6 @@
       <pubDate>Tue, 01 Jan 2019 13:29:47 +0100</pubDate>
       <dc:date>2019-01-01T13:29:47.550778+01:00</dc:date>
     </item>
-    <dc:date>2019-04-06T11:20:09.045385+02:00</dc:date>
+    <dc:date>2019-04-08T19:51:38.362469+02:00</dc:date>
   </channel>
 </rss>
