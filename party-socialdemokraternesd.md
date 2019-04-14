@@ -11,6 +11,8 @@ Last result: **19.1%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.2% | 23.8–30.1% | 23.2–30.7% | 22.7–31.2% | 22.0–32.1% |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 27.9% | N/A | N/A | N/A | N/A |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 30.4% | N/A | N/A | N/A | N/A |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 28.7% | 26.9–30.5% | 26.5–31.0% | 26.0–31.5% | 25.2–32.4% |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 25.4% | 23.7–27.3% | 23.3–27.8% | 22.8–28.2% | 22.1–29.1% |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 28.7% | 27.1–30.5% | 26.6–30.9% | 26.2–31.4% | 25.5–32.2% |
@@ -144,6 +146,8 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen |  |  |  |  |  |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 5 | 5 | 5–6 | 4–6 |

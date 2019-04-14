@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.4% | 2.0–5.6% | 1.7–6.0% | 1.5–6.3% | 1.3–6.8% |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 2.8% | N/A | N/A | N/A | N/A |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 3.3% | N/A | N/A | N/A | N/A |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 1.9% | 1.4–2.6% | 1.3–2.7% | 1.2–2.9% | 1.1–3.3% |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 4.1% | 3.4–4.9% | 3.2–5.1% | 3.1–5.3% | 2.8–5.8% |
@@ -137,6 +139,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen |  |  |  |  |  |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0–1 | 0–1 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 0 | 0 | 0 | 0–1 | 0–1 |

@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% | 0.3–2.0% |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 0.9% | N/A | N/A | N/A | N/A |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 1.2% | N/A | N/A | N/A | N/A |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0.9% | 0.7–1.5% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 0.9% | 0.6–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
@@ -132,6 +134,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen |  |  |  |  |  |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 0 | 0 | 0 | 0 | 0 |

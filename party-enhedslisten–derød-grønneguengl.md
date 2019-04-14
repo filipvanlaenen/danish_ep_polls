@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.0% | 7.6–10.5% | 7.3–10.8% | 7.0–11.1% | 6.6–11.7% |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 8.6% | N/A | N/A | N/A | N/A |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 9.0% | N/A | N/A | N/A | N/A |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.8–10.2% | 6.4–10.8% |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 9.1% | 8.1–10.4% | 7.8–10.8% | 7.5–11.1% | 7.0–11.7% |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 8.9% | 7.9–10.0% | 7.6–10.3% | 7.4–10.6% | 7.0–11.2% |
@@ -142,6 +144,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen |  |  |  |  |  |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 1 | 1 | 1–2 | 1–2 | 1–2 |
