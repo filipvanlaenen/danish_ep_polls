@@ -10,7 +10,7 @@ Last result: **26.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.7% | 12.6–16.4% | 12.0–16.8% | 11.6–17.2% | 10.8–17.9% |
+| N/A | [Poll Average](average.html) | 14.4% | 12.4–16.3% | 11.9–16.7% | 11.5–17.0% | 10.7–17.7% |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 14.8% | N/A | N/A | N/A | N/A |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 14.4% | N/A | N/A | N/A | N/A |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 15.4% | 14.1–16.9% | 13.7–17.4% | 13.4–17.7% | 12.8–18.5% |
@@ -121,15 +121,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.3% | 100% |  |
-| 10.5–11.5% | 2% | 99.7% |  |
-| 11.5–12.5% | 7% | 98% |  |
-| 12.5–13.5% | 15% | 91% |  |
-| 13.5–14.5% | 23% | 75% |  |
-| 14.5–15.5% | 25% | 52% | Median |
-| 15.5–16.5% | 19% | 27% |  |
-| 16.5–17.5% | 7% | 8% |  |
-| 17.5–18.5% | 1.1% | 1.2% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 3% | 99.7% |  |
+| 11.5–12.5% | 8% | 97% |  |
+| 12.5–13.5% | 18% | 89% |  |
+| 13.5–14.5% | 24% | 71% | Median |
+| 14.5–15.5% | 23% | 47% |  |
+| 15.5–16.5% | 17% | 23% |  |
+| 16.5–17.5% | 6% | 6% |  |
+| 17.5–18.5% | 0.7% | 0.8% |  |
+| 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% |  |
 | 21.5–22.5% | 0% | 0% |  |
@@ -259,8 +259,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 59% | 100% | Median |
-| 3 | 40% | 40% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 59% | 99.9% | Median |
+| 3 | 41% | 41% |  |
 | 4 | 0% | 0% | Last Result |
 
 
