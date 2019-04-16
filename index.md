@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 12–17% <br> 2–3 | 23–31% <br> 4–6 | 15–21% <br> 3–4 | 5–8% <br> 0–1 | 4–6% <br> 0–1 | 5–9% <br> 0–1 | 3–6% <br> 0–1 | 3–5% <br> 0 | 7–11% <br> 1–2 | 0–2% <br> 0 | 2–6% <br> 0–1 | 0–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 12–17% <br> 2–3 | 23–31% <br> 4–5 | 15–21% <br> 3 | 5–8% <br> 1 | 4–6% <br> 0–1 | 5–9% <br> 0–1 | 3–6% <br> 0–1 | 3–5% <br> 0 | 7–11% <br> 1–2 | 0–2% <br> 0 | 2–6% <br> 0–1 | 0–2% <br> 0 |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 11–15% <br> 2–3 | 23–28% <br> 4–5 | 15–20% <br> 2–3 | 6–9% <br> 1 | 4–7% <br> 0–1 | 7–10% <br> 1 | 4–6% <br> 0–1 | 3–5% <br> 0–1 | 8–11% <br> 1–2 | 1–2% <br> 0 | 3–5% <br> 0–1 | 1–2% <br> 0 |
