@@ -10,9 +10,9 @@ Last result: **19.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.6% | 24.9–30.1% | 24.3–30.7% | 23.8–31.2% | 22.8–32.0% |
+| N/A | [Poll Average](average.html) | 28.1% | 25.1–30.8% | 24.4–31.5% | 23.9–32.1% | 22.9–33.2% |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 27.9% | 26.1–29.7% | 25.6–30.2% | 25.2–30.7% | 24.4–31.6% |
-| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 30.4% | N/A | N/A | N/A | N/A |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 30.4% | 28.7–32.3% | 28.2–32.8% | 27.7–33.2% | 26.9–34.1% |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 28.7% | 26.9–30.5% | 26.5–31.0% | 26.0–31.5% | 25.2–32.4% |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 25.4% | 23.7–27.3% | 23.3–27.8% | 22.8–28.2% | 22.1–29.1% |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 28.7% | 27.1–30.5% | 26.6–30.9% | 26.2–31.4% | 25.5–32.2% |
@@ -122,19 +122,20 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% | Last Result |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.3% | 100% |  |
-| 22.5–23.5% | 1.4% | 99.7% |  |
-| 23.5–24.5% | 5% | 98% |  |
-| 24.5–25.5% | 11% | 93% |  |
-| 25.5–26.5% | 16% | 82% |  |
-| 26.5–27.5% | 16% | 67% |  |
-| 27.5–28.5% | 16% | 51% | Median |
-| 28.5–29.5% | 17% | 34% |  |
-| 29.5–30.5% | 11% | 18% |  |
-| 30.5–31.5% | 5% | 6% |  |
-| 31.5–32.5% | 1.2% | 1.3% |  |
-| 32.5–33.5% | 0.2% | 0.2% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.2% | 100% |  |
+| 22.5–23.5% | 1.2% | 99.8% |  |
+| 23.5–24.5% | 4% | 98.6% |  |
+| 24.5–25.5% | 9% | 94% |  |
+| 25.5–26.5% | 13% | 85% |  |
+| 26.5–27.5% | 14% | 72% |  |
+| 27.5–28.5% | 15% | 59% | Median |
+| 28.5–29.5% | 17% | 44% |  |
+| 29.5–30.5% | 14% | 27% |  |
+| 30.5–31.5% | 8% | 13% |  |
+| 31.5–32.5% | 3% | 5% |  |
+| 32.5–33.5% | 1.0% | 1.3% |  |
+| 33.5–34.5% | 0.2% | 0.3% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -145,9 +146,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5 | 5 | 5 | 4–6 |
-| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 4–5 |
-| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 5 | 5 | 5 | 5–6 | 4–6 |
+| [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 4–5 | 4–5 |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 4–5 | 4–5 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 5 | 5 | 4–5 | 4–6 |
 | [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 5 | 4–6 | 4–6 | 4–6 |
@@ -258,8 +259,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 2% | 100% |  |
-| 5 | 96% | 98% | Median |
-| 6 | 2% | 2% |  |
+| 5 | 93% | 98% | Median |
+| 6 | 4% | 4% |  |
 | 7 | 0% | 0% | Majority |
 
 
