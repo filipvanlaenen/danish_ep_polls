@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 18 Apr 2019 20:51:32 +0200</pubDate>
+    <pubDate>Sun, 21 Apr 2019 19:06:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 15–17 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-04-17-Megafon.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 22.5–27.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 11.6–15.9%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 16.1–20.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.7–11.3%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.3–5.8%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.3–4.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 6.3–9.7%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 2.6–4.9%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.7–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-04-17-Megafon.png"
+        length="359371"
+        type="image/png"/>
+      <pubDate>Sun, 21 Apr 2019 19:06:33 +0200</pubDate>
+      <dc:date>2019-04-21T19:06:33.185185+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 1–7 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-04-07-Voxmeter.html#seats</link>
@@ -239,6 +249,6 @@
       <pubDate>Wed, 16 Jan 2019 20:52:58 +0100</pubDate>
       <dc:date>2019-01-16T20:52:58.731061+01:00</dc:date>
     </item>
-    <dc:date>2019-04-18T20:51:32.163035+02:00</dc:date>
+    <dc:date>2019-04-21T19:06:33.185185+02:00</dc:date>
   </channel>
 </rss>
