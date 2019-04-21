@@ -10,7 +10,10 @@ Last result: **19.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.1% | 25.1–30.8% | 24.4–31.5% | 23.9–32.1% | 22.9–33.2% |
+| N/A | [Poll Average](average.html) | 28.5% | 24.8–31.3% | 24.1–32.0% | 23.5–32.5% | 22.6–33.6% |
+| [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 25.1% | 23.4–26.9% | 22.9–27.4% | 22.5–27.9% | 21.7–28.8% |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 28.5% | N/A | N/A | N/A | N/A |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 29.0% | N/A | N/A | N/A | N/A |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 27.9% | 26.1–29.7% | 25.6–30.2% | 25.2–30.7% | 24.4–31.6% |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 30.4% | 28.7–32.3% | 28.2–32.8% | 27.7–33.2% | 26.9–34.1% |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 28.7% | 26.9–30.5% | 26.5–31.0% | 26.0–31.5% | 25.2–32.4% |
@@ -122,20 +125,21 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% | Last Result |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.2% | 99.8% |  |
-| 23.5–24.5% | 4% | 98.6% |  |
-| 24.5–25.5% | 9% | 94% |  |
-| 25.5–26.5% | 13% | 85% |  |
-| 26.5–27.5% | 14% | 72% |  |
-| 27.5–28.5% | 15% | 59% | Median |
-| 28.5–29.5% | 17% | 44% |  |
-| 29.5–30.5% | 14% | 27% |  |
-| 30.5–31.5% | 8% | 13% |  |
-| 31.5–32.5% | 3% | 5% |  |
-| 32.5–33.5% | 1.0% | 1.3% |  |
-| 33.5–34.5% | 0.2% | 0.3% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.4% | 100% |  |
+| 22.5–23.5% | 2% | 99.5% |  |
+| 23.5–24.5% | 6% | 97% |  |
+| 24.5–25.5% | 9% | 92% |  |
+| 25.5–26.5% | 10% | 83% |  |
+| 26.5–27.5% | 10% | 73% |  |
+| 27.5–28.5% | 13% | 63% |  |
+| 28.5–29.5% | 16% | 50% | Median |
+| 29.5–30.5% | 15% | 34% |  |
+| 30.5–31.5% | 11% | 19% |  |
+| 31.5–32.5% | 5% | 8% |  |
+| 32.5–33.5% | 2% | 2% |  |
+| 33.5–34.5% | 0.4% | 0.5% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -147,6 +151,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4 | 4 | 4 | 4 |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 4–5 | 4–5 |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 4–5 | 4–5 |
@@ -257,10 +264,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% | Last Result |
-| 4 | 28% | 100% |  |
-| 5 | 61% | 72% | Median |
-| 6 | 10% | 10% |  |
+| 3 | 0.1% | 100% | Last Result |
+| 4 | 26% | 99.9% |  |
+| 5 | 54% | 74% | Median |
+| 6 | 20% | 20% |  |
 | 7 | 0% | 0% | Majority |
 
 
