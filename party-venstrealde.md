@@ -149,7 +149,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 2–4 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 3 | 3 | 3 | 3 | 2–3 |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 3 | 3 | 3 | 3 | 3 |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 2–3 |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 2–4 |
@@ -260,9 +260,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 19% | 100% | Last Result |
-| 3 | 81% | 81% | Median |
-| 4 | 0.3% | 0.3% |  |
+| 2 | 18% | 100% | Last Result |
+| 3 | 82% | 82% | Median |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 
