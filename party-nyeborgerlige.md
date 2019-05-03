@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.3% | 2.2–4.4% | 2.0–4.7% | 1.8–5.0% | 1.5–5.5% |
-| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.6% | 2.9–4.5% | 2.7–4.7% | 2.6–4.9% | 2.3–5.4% |
 | [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 2.2% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.7% |
@@ -143,7 +143,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0–1 | 0–1 |
 | [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |

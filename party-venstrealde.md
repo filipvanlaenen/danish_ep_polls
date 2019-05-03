@@ -11,7 +11,7 @@ Last result: **16.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.5% | 15.4–19.5% | 14.9–20.0% | 14.5–20.5% | 13.7–21.4% |
-| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 19.3% | 17.7–21.0% | 17.3–21.4% | 17.0–21.9% | 16.3–22.7% |
+| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 19.3% | 17.8–21.0% | 17.3–21.4% | 17.0–21.8% | 16.3–22.6% |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.5% | 16.0–22.3% |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 18.4% | 16.9–20.0% | 16.4–20.5% | 16.1–20.9% | 15.4–21.7% |
 | [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 18.8% | 17.3–20.4% | 16.9–20.9% | 16.5–21.3% | 15.8–22.1% |
@@ -147,7 +147,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 2–4 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 2–3 | 2–4 |
