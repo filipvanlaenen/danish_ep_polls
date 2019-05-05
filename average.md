@@ -6,16 +6,16 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 11–16% <br> 2–3 | 24–32% <br> 4–6 | 14–20% <br> 2–3 | 5–9% <br> 0–1 | 3–6% <br> 0–1 | 5–9% <br> 1 | 3–6% <br> 0–1 | 2–5% <br> 0 | 8–11% <br> 1–2 | 0–2% <br> 0 | 2–5% <br> 0 | 0–2% <br> 0 |
-| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 12–16% <br> 2–3 | 26–31% <br> 4–5 | 16–21% <br> 2–3 | 5–8% <br> 0–1 | 3–6% <br> 0–1 | 6–9% <br> 0–1 | 4–6% <br> 0–1 | 2–4% <br> 0 | 8–12% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 |
-| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 12–15% <br> 2 | 27–31% <br> 5 | 17–21% <br> 3 | 7–9% <br> 1 | 4–6% <br> 0 | 5–8% <br> 1 | 3–5% <br> 0 | 2–3% <br> 0 | 8–11% <br> 1 | 0–1% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 |
-| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 12–17% <br> 2–3 | 28–33% <br> 5–6 | 14–18% <br> 2–3 | 6–9% <br> 1 | 4–6% <br> 0–1 | 5–7% <br> 0–1 | 3–5% <br> 0 | 2–4% <br> 0 | 7–11% <br> 1 | 1–2% <br> 0 | 2–5% <br> 0 | 1–2% <br> 0 |
-| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 11–15% <br> 2 | 23–28% <br> 4–5 | 15–20% <br> 2–3 | 6–9% <br> 1 | 4–7% <br> 0–1 | 7–10% <br> 1 | 4–6% <br> 0–1 | 3–5% <br> 0 | 8–11% <br> 1–2 | 1–2% <br> 0 | 3–5% <br> 0 | 1–2% <br> 0 |
-| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 12–16% <br> 2 | 26–31% <br> 5 | 15–19% <br> 2–3 | 5–8% <br> 0–1 | 3–6% <br> 0–1 | 6–9% <br> 1 | 2–4% <br> 0 | 3–6% <br> 0 | 7–11% <br> 1 | 1–2% <br> 0 | 3–5% <br> 0 | 0–2% <br> 0 |
-| 25 May 2014 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E | P |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | Poll Average | 11–16% <br> 2–3 | 24–32% <br> 4–6 | 14–20% <br> 2–3 | 5–9% <br> 0–1 | 3–6% <br> 0–1 | 5–9% <br> 1 | 3–6% <br> 0–1 | 2–5% <br> 0 | 8–11% <br> 1–2 | 0–2% <br> 0 | 2–5% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
+| [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 12–16% <br> 2–3 | 26–31% <br> 4–5 | 16–21% <br> 2–3 | 5–8% <br> 0–1 | 3–6% <br> 0–1 | 6–9% <br> 0–1 | 4–6% <br> 0–1 | 2–4% <br> 0 | 8–12% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 | N/A <br> N/A |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 12–15% <br> 2 | 27–31% <br> 5 | 17–21% <br> 3 | 7–9% <br> 1 | 4–6% <br> 0 | 5–8% <br> 1 | 3–5% <br> 0 | 2–3% <br> 0 | 8–11% <br> 1 | 0–1% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
+| [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 12–17% <br> 2–3 | 28–33% <br> 5–6 | 14–18% <br> 2–3 | 6–9% <br> 1 | 4–6% <br> 0–1 | 5–7% <br> 0–1 | 3–5% <br> 0 | 2–4% <br> 0 | 7–11% <br> 1 | 1–2% <br> 0 | 2–5% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
+| [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 11–15% <br> 2 | 23–28% <br> 4–5 | 15–20% <br> 2–3 | 6–9% <br> 1 | 4–7% <br> 0–1 | 7–10% <br> 1 | 4–6% <br> 0–1 | 3–5% <br> 0 | 8–11% <br> 1–2 | 1–2% <br> 0 | 3–5% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
+| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 12–16% <br> 2 | 26–31% <br> 5 | 15–19% <br> 2–3 | 5–8% <br> 0–1 | 3–6% <br> 0–1 | 6–9% <br> 1 | 2–4% <br> 0 | 3–6% <br> 0 | 7–11% <br> 1 | 1–2% <br> 0 | 3–5% <br> 0 | 0–2% <br> 0 | N/A <br> N/A |
+| 25 May 2014 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -34,6 +34,7 @@ Only polls for which at least the sample size has been published are included in
 + **K:** Kristendemokraterne (EPP)
 + **D:** Nye Borgerlige (*)
 + **E:** Klaus Riskær Pedersen (*)
++ **P:** Stram Kurs (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -57,6 +58,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0.0% | 1.1% | 0.4–1.6% |0.3–1.8% | 0.3–2.0% | 0.2–2.3% |
 | <a href="#nye-borgerlige-(*)">Nye Borgerlige (*)</a> | 0.0% | 3.3% | 2.2–4.4% |2.0–4.7% | 1.8–5.0% | 1.5–5.5% |
 | <a href="#klaus-riskær-pedersen-(*)">Klaus Riskær Pedersen (*)</a> | 0.0% | 1.0% | 0.3–1.5% |0.2–1.7% | 0.1–1.9% | 0.1–2.2% |
+| <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
 ### Dansk Folkeparti (EAPN)
 
@@ -287,6 +289,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#nye-borgerlige-(*)">Nye Borgerlige (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#klaus-riskær-pedersen-(*)">Klaus Riskær Pedersen (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
 ### Dansk Folkeparti (EAPN)
 
