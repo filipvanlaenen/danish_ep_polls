@@ -11,6 +11,9 @@ Last result: **26.6%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.8% | 12.3–15.4% | 11.8–15.8% | 11.4–16.2% | 10.7–17.0% |
+| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 11.2% | 10.2–12.2% | 10.0–12.5% | 9.7–12.8% | 9.3–13.3% |
+| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 12.6% | 11.3–14.0% | 11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 12.2% | 11.3–13.2% | 11.0–13.5% | 10.8–13.8% | 10.4–14.3% |
 | [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 13.6% | 12.3–15.1% | 11.9–15.5% | 11.6–15.9% | 11.1–16.6% |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 15.0% | 13.7–16.6% | 13.3–17.0% | 13.0–17.4% | 12.4–18.1% |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 13.6% | 12.3–15.1% | 11.9–15.5% | 11.6–15.9% | 11.0–16.6% |
@@ -154,6 +157,9 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 2–3 |
+| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
+| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 2 | 2 | 2 | 2 | 2 |
 | [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 2 | 2–3 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
