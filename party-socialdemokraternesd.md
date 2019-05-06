@@ -155,14 +155,14 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 3 | 3 | 3 | 3 | 3–4 |
-| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4 | 4 | 4 | 4 |
-| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 5 | 5 | 4–5 | 4–5 | 3–5 |
+| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 4 | 4 | 4 | 3–4 | 3–4 |
+| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–13 April 2019](2019-04-13-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 5 | 5 | 5 | 5 | 4–5 |
+| [3–9 April 2019](2019-04-09-Epinion.html) | Epinion <br> DR | 5 | 5 | 5 | 4–5 | 4–5 |
 | [1–7 April 2019](2019-04-07-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 4–5 | 4–5 |
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 4–5 | 4–5 | 4–6 |
@@ -274,8 +274,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 19% | 100% |  |
-| 5 | 69% | 81% | Median |
+| 4 | 20% | 100% |  |
+| 5 | 68% | 80% | Median |
 | 6 | 12% | 12% |  |
 | 7 | 0% | 0% | Majority |
 

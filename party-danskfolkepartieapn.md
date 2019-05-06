@@ -157,9 +157,9 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 2–3 |
-| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
-| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 2 | 2 | 2 | 2 | 2 |
+| [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2 | 2 | 2 | 2 |
+| [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 2 | 2 | 2 | 2 | 1–2 |
 | [22–28 April 2019](2019-04-28-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 2 | 2–3 |
 | [15–21 April 2019](2019-04-21-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [15–17 April 2019](2019-04-17-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
