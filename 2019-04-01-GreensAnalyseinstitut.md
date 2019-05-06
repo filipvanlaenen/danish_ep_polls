@@ -202,7 +202,6 @@
 | Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
 | Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP) | 1 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
-| Nye Borgerlige (*) – Klaus Riskær Pedersen (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Socialdemokraterne (S&D)
 
@@ -266,16 +265,6 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 92% | 100% | Median |
 | 1 | 8% | 8% | Last Result |
-| 2 | 0% | 0% |  |
-
-### Nye Borgerlige (*) – Klaus Riskær Pedersen (*)
-
-![Graph with seats probability mass function not yet produced](2019-04-01-GreensAnalyseinstitut-coalitions-seats-pmf-d–e.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 
