@@ -10,7 +10,7 @@ Last result: **10.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 5.7–8.3% | 5.4–8.6% | 5.2–8.9% | 4.7–9.5% |
+| N/A | [Poll Average](average.html) | 7.5% | 5.6–8.7% | 5.2–9.1% | 4.8–9.4% | 4.3–10.0% |
 | [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 8.6% | 7.7–9.5% | 7.5–9.8% | 7.3–10.0% | 6.9–10.5% |
 | [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 7.5% | 6.6–8.7% | 6.3–9.1% | 6.1–9.3% | 5.6–9.9% |
 | [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 7.8% | 7.0–8.6% | 6.8–8.9% | 6.6–9.1% | 6.3–9.5% |
@@ -128,14 +128,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 7% | 99.8% |  |
-| 5.5–6.5% | 29% | 93% |  |
-| 6.5–7.5% | 35% | 64% | Median |
-| 7.5–8.5% | 22% | 28% |  |
-| 8.5–9.5% | 6% | 6% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
-| 10.5–11.5% | 0% | 0% | Last Result |
+| 3.5–4.5% | 1.1% | 100% |  |
+| 4.5–5.5% | 8% | 98.9% |  |
+| 5.5–6.5% | 15% | 91% |  |
+| 6.5–7.5% | 27% | 76% |  |
+| 7.5–8.5% | 35% | 49% | Median |
+| 8.5–9.5% | 12% | 14% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.1% | 0.1% | Last Result |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -159,7 +160,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [1 April 2019](2019-04-01-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 1 | 1 | 1 | 1 | 1 |
 | [25–31 March 2019](2019-03-31-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–28 March 2019](2019-03-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1 | 1 |
-| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [21–26 March 2019](2019-03-26-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 1 | 1 | 1 | 1 | 0–1 |
 | [18–25 March 2019](2019-03-25-Epinion.html) | Epinion <br> DR | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [18–24 March 2019](2019-03-24-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–17 March 2019](2019-03-17-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 0–1 | 0–1 | 0–1 |
