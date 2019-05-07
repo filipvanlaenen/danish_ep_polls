@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 06 May 2019 22:05:27 +0200</pubDate>
+    <pubDate>Tue, 07 May 2019 07:47:40 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 1–3 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-03-YouGov.html#seats</link>
@@ -370,6 +370,16 @@
       <dc:date>2019-04-18T18:04:04.056202+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 21–26 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-26-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 26.2–31.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 12.5–16.5%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 14.8–19.1%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.4–10.6%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 2.4–4.4%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.3–5.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 5.7–8.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 5.0–7.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.4–5.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 3.1–5.3%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.4–1.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-03-26-Norstat.png"
+        length="340842"
+        type="image/png"/>
+      <pubDate>Tue, 07 May 2019 07:47:40 +0200</pubDate>
+      <dc:date>2019-05-07T07:47:40.283916+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Epinion for DR, 18–25 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-03-25-Epinion.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 2–3 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -479,6 +489,6 @@
       <pubDate>Wed, 16 Jan 2019 20:52:58 +0100</pubDate>
       <dc:date>2019-01-16T20:52:58.731061+01:00</dc:date>
     </item>
-    <dc:date>2019-05-06T22:05:27.581382+02:00</dc:date>
+    <dc:date>2019-05-07T07:47:40.283916+02:00</dc:date>
   </channel>
 </rss>
