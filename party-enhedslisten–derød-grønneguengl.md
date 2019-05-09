@@ -155,7 +155,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7 May 2019](2019-05-07-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
-| [28 April–5 May 2019](2019-05-05-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 2 | 1–2 |
+| [28 April–5 May 2019](2019-05-05-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
 | [29 April–2 May 2019](2019-05-02-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26–29 April 2019](2019-04-29-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1–2 |
