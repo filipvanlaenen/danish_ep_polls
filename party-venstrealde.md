@@ -157,10 +157,10 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske |  |  |  |  |  |
-| [7 May 2019](2019-05-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 3 | 3 | 3 | 3–4 |
-| [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 3 | 3 | 3 | 3 | 3 |
+| [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 3 | 3 | 3 | 3 | 2–3 |
+| [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 3 | 3 | 3 | 3 | 3–4 |
+| [7 May 2019](2019-05-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 3 | 3 | 3–4 | 3–4 |
+| [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [7 May 2019](2019-05-07-Epinion.html) | Epinion <br> DR | 3 | 3 | 3 | 2–3 | 2–3 |
 | [28 April–5 May 2019](2019-05-05-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 3–4 |
 | [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 3 | 3 | 3 | 2–3 | 2–3 |

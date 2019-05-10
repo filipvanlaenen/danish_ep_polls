@@ -162,9 +162,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske |  |  |  |  |  |
-| [7 May 2019](2019-05-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4 | 4 | 4 | 4 |
-| [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 4 | 4 | 4 | 4 | 4 |
+| [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [7 May 2019](2019-05-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4 | 4 | 4 | 4–5 |
+| [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [7 May 2019](2019-05-07-Epinion.html) | Epinion <br> DR | 5 | 5 | 5 | 5 | 5 |
 | [28 April–5 May 2019](2019-05-05-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–3 May 2019](2019-05-03-YouGov.html) | YouGov | 4 | 4 | 4 | 3–4 | 3–4 |
