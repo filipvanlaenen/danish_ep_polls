@@ -11,7 +11,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.4% | 8.3–10.5% | 8.0–10.8% | 7.7–11.1% | 7.2–11.7% |
+| [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.8–11.4% | 7.3–12.0% |
+| [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.4–12.2% |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 7.9% | 6.9–9.2% | 6.6–9.5% | 6.4–9.8% | 5.9–10.4% |
+| [2–8 May 2019](2019-05-08-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 9.2% | 8.2–10.3% | 7.9–10.7% | 7.7–11.0% | 7.2–11.5% |
 | [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 9.2% | 8.4–10.2% | 8.1–10.5% | 7.9–10.7% | 7.5–11.2% |
 | [7 May 2019](2019-05-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.2% | 7.1–11.8% |
 | [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 10.5% | 9.4–11.8% | 9.1–12.1% | 8.8–12.5% | 8.3–13.1% |
@@ -158,7 +161,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
+| [2–8 May 2019](2019-05-08-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7 May 2019](2019-05-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1 | 1–2 |
 | [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
