@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 10 May 2019 19:34:27 +0200</pubDate>
+    <pubDate>Sat, 11 May 2019 12:23:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 8–10 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-10-Megafon.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 22.1–27.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 9.0–12.9%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 16.9–21.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.8–11.4%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 2.7–5.1%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 6.9–10.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.9–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-10-Megafon.png"
+        length="375915"
+        type="image/png"/>
+      <pubDate>Sat, 11 May 2019 12:17:00 +0200</pubDate>
+      <dc:date>2019-05-11T12:17:00.514979+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 7–9 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-09-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.2–30.7%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 9.5–13.4%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 17.4–22.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.9–11.6%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.0–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-09-Voxmeter.png"
+        length="361747"
+        type="image/png"/>
+      <pubDate>Sat, 11 May 2019 09:49:07 +0200</pubDate>
+      <dc:date>2019-05-11T09:49:07.353825+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov, 5–8 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-08-YouGov.html</link>
@@ -18,6 +38,16 @@
         type="image/png"/>
       <pubDate>Fri, 10 May 2019 17:17:04 +0200</pubDate>
       <dc:date>2019-05-10T17:17:04.731839+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for Altinget and Jyllands-Posten, 2–8 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-08-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.8–30.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 11.0–14.8%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 15.3–19.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.7–11.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 2.8–5.0%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.9–5.1%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 5.1–7.8%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 5.5–8.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.3–5.6%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.9–2.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.4–3.0%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 2.6–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-08-Norstat.png"
+        length="349612"
+        type="image/png"/>
+      <pubDate>Sat, 11 May 2019 12:23:57 +0200</pubDate>
+      <dc:date>2019-05-11T12:23:57.530805+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Gallup for Berlingske, 8 May 2019 – Seat Projections for the Parties</title>
@@ -629,6 +659,6 @@
       <pubDate>Wed, 16 Jan 2019 20:52:58 +0100</pubDate>
       <dc:date>2019-01-16T20:52:58.731061+01:00</dc:date>
     </item>
-    <dc:date>2019-05-10T19:34:27.267511+02:00</dc:date>
+    <dc:date>2019-05-11T12:23:57.530805+02:00</dc:date>
   </channel>
 </rss>
