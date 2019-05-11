@@ -157,7 +157,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0–1 | 0–1 |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
-| [2–8 May 2019](2019-05-08-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–8 May 2019](2019-05-08-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 0 | 0 | 0 | 0 | 0–1 |
 | [8 May 2019](2019-05-08-KantarGallup.html) | Kantar Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0–1 |
 | [7 May 2019](2019-05-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
 | [7 May 2019](2019-05-07-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 0 | 0 | 0 | 0 | 0–1 |
