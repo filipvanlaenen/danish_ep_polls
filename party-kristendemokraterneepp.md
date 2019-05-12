@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.4–1.4% | 0.3–1.6% | 0.3–1.7% | 0.2–2.1% |
+| [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 0.7% | 0.4–1.1% | 0.4–1.3% | 0.3–1.4% | 0.2–1.6% |
+| [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
+| [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.8% |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.2% |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
@@ -151,6 +154,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
+| [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
+| [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |

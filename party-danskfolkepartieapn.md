@@ -11,6 +11,9 @@ Last result: **26.6%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.5% | 12.0–15.1% | 11.6–15.6% | 11.3–16.0% | 10.8–16.8% |
+| [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 11.8% | 10.6–13.2% | 10.3–13.6% | 10.0–13.9% | 9.4–14.6% |
+| [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 12.0% | 10.7–13.4% | 10.4–13.8% | 10.1–14.1% | 9.5–14.8% |
+| [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 11.8% | 10.5–13.2% | 10.2–13.5% | 9.9–13.9% | 9.4–14.6% |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 10.8% | 9.6–12.1% | 9.3–12.5% | 9.0–12.9% | 8.5–13.5% |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 11.3% | 10.1–12.7% | 9.8–13.0% | 9.5–13.4% | 8.9–14.1% |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
@@ -166,6 +169,9 @@ Last result: **4** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 1–2 | 1–2 |
+| [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
