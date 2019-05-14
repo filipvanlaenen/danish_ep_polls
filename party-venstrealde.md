@@ -11,6 +11,9 @@ Last result: **16.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.1% | 15.7–20.0% | 15.1–20.5% | 14.6–21.0% | 13.7–21.9% |
+| [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 17.8% | 16.4–19.4% | 16.0–19.8% | 15.6–20.2% | 15.0–21.0% |
+| [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 17.2% | 15.7–18.9% | 15.3–19.3% | 15.0–19.7% | 14.3–20.5% |
+| [10–12 May 2019](2019-05-12-Voxmeter.html) | Voxmeter <br> Ritzau | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.2% | 15.6–22.0% |
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 17.5% | 16.0–19.1% | 15.6–19.5% | 15.3–19.9% | 14.6–20.7% |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 19.1% | 17.6–20.8% | 17.2–21.3% | 16.8–21.7% | 16.1–22.5% |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 19.7% | 18.1–21.3% | 17.7–21.8% | 17.3–22.2% | 16.6–23.1% |
@@ -163,6 +166,9 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 3 |
+| [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 2 | 2 | 2 | 2 | 2–3 |
+| [10–12 May 2019](2019-05-12-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 3 |
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3–4 | 2–4 |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 3–4 |
