@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 15 May 2019 20:19:07 +0200</pubDate>
+    <pubDate>Thu, 16 May 2019 19:39:53 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 11–13 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-13-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 1–2 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-13-Voxmeter-seats.png"
+        length="276982"
+        type="image/png"/>
+      <pubDate>Thu, 16 May 2019 18:34:32 +0200</pubDate>
+      <dc:date>2019-05-16T18:34:32.950515+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 11–13 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-13-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-13-Voxmeter-coalitions-seats.png"
+        length="150754"
+        type="image/png"/>
+      <pubDate>Thu, 16 May 2019 18:34:32 +0200</pubDate>
+      <dc:date>2019-05-16T18:34:32.950515+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 11–13 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-13-Voxmeter.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-13-Voxmeter.png"
         length="356058"
         type="image/png"/>
-      <pubDate>Wed, 15 May 2019 19:11:42 +0200</pubDate>
-      <dc:date>2019-05-15T19:11:42.62846+02:00</dc:date>
+      <pubDate>Thu, 16 May 2019 18:34:32 +0200</pubDate>
+      <dc:date>2019-05-16T18:34:32.950515+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 8–12 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-12-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 1–2 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-12-YouGov-seats.png"
+        length="292055"
+        type="image/png"/>
+      <pubDate>Wed, 15 May 2019 22:25:49 +0200</pubDate>
+      <dc:date>2019-05-15T22:25:49.086891+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 8–12 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-12-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-12-YouGov-coalitions-seats.png"
+        length="148228"
+        type="image/png"/>
+      <pubDate>Wed, 15 May 2019 22:25:49 +0200</pubDate>
+      <dc:date>2019-05-15T22:25:49.086891+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 8–12 May 2019 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-12-YouGov.png"
         length="364333"
         type="image/png"/>
-      <pubDate>Wed, 15 May 2019 20:19:07 +0200</pubDate>
-      <dc:date>2019-05-15T20:19:07.845419+02:00</dc:date>
+      <pubDate>Wed, 15 May 2019 22:25:49 +0200</pubDate>
+      <dc:date>2019-05-15T22:25:49.086891+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 10–12 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-12-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 1–2 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-12-Voxmeter-seats.png"
+        length="267878"
+        type="image/png"/>
+      <pubDate>Thu, 16 May 2019 19:39:53 +0200</pubDate>
+      <dc:date>2019-05-16T19:39:53.926723+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 10–12 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-12-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-12-Voxmeter-coalitions-seats.png"
+        length="143312"
+        type="image/png"/>
+      <pubDate>Thu, 16 May 2019 19:39:53 +0200</pubDate>
+      <dc:date>2019-05-16T19:39:53.926723+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 10–12 May 2019 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-12-Voxmeter.png"
         length="359319"
         type="image/png"/>
-      <pubDate>Wed, 15 May 2019 19:27:00 +0200</pubDate>
-      <dc:date>2019-05-15T19:27:00.011019+02:00</dc:date>
+      <pubDate>Thu, 16 May 2019 19:39:53 +0200</pubDate>
+      <dc:date>2019-05-16T19:39:53.926723+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 7–11 May 2019 – Seat Projections for the Parties</title>
@@ -879,6 +939,6 @@
       <pubDate>Wed, 16 Jan 2019 20:52:58 +0100</pubDate>
       <dc:date>2019-01-16T20:52:58.731061+01:00</dc:date>
     </item>
-    <dc:date>2019-05-15T20:19:07.845419+02:00</dc:date>
+    <dc:date>2019-05-16T19:39:53.926723+02:00</dc:date>
   </channel>
 </rss>
