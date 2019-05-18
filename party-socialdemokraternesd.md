@@ -11,12 +11,18 @@ Last result: **19.1%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.5% | 24.7–30.7% | 24.0–31.5% | 23.5–32.1% | 22.5–33.2% |
+| [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau | 27.8% | 26.1–29.7% | 25.6–30.2% | 25.1–30.7% | 24.3–31.6% |
+| [15 May 2019](2019-05-15-YouGov.html) | YouGov | 26.6% | 24.8–28.5% | 24.3–29.1% | 23.9–29.6% | 23.0–30.5% |
+| [15 May 2019](2019-05-15-Gallup.html) | Gallup | 26.2% | 24.8–27.7% | 24.4–28.1% | 24.0–28.4% | 23.4–29.2% |
+| [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau | 28.2% | 26.4–30.1% | 26.0–30.6% | 25.5–31.1% | 24.7–32.0% |
 | [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 28.7% | 26.9–30.5% | 26.5–31.0% | 26.0–31.5% | 25.2–32.4% |
+| [11–13 May 2019](2019-05-13-Epinion.html) | Epinion | 27.1% | N/A | N/A | N/A | N/A |
 | [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 29.0% | 27.2–31.0% | 26.7–31.5% | 26.3–32.0% | 25.4–32.9% |
 | [10–12 May 2019](2019-05-12-Voxmeter.html) | Voxmeter <br> Ritzau | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 24.9–32.3% |
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 27.7% | 25.9–29.5% | 25.5–30.0% | 25.0–30.5% | 24.2–31.4% |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.1% | 24.7–32.0% |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 27.7% | 25.9–29.5% | 25.4–30.1% | 25.0–30.5% | 24.2–31.4% |
+| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.4% | 21.3–28.3% |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 27.9% | 26.1–29.8% | 25.6–30.3% | 25.2–30.7% | 24.4–31.7% |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 26.4% | 24.7–28.3% | 24.2–28.8% | 23.8–29.3% | 23.0–30.2% |
@@ -170,12 +176,18 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 5 |
+| [15 May 2019](2019-05-15-YouGov.html) | YouGov | 5 | 5 | 5 | 5 | 5 |
+| [15 May 2019](2019-05-15-Gallup.html) | Gallup | 4 | 4 | 4 | 4 | 4 |
+| [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 5 |
 | [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [11–13 May 2019](2019-05-13-Epinion.html) | Epinion |  |  |  |  |  |
 | [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [10–12 May 2019](2019-05-12-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [10 May 2019](2019-05-10-Norstat.html) | Norstat |  |  |  |  |  |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
