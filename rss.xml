@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 May 2019 11:16:48 +0200</pubDate>
+    <pubDate>Sat, 18 May 2019 12:47:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 14–16 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-16-Voxmeter.html</link>
@@ -78,6 +78,16 @@
         type="image/png"/>
       <pubDate>Thu, 16 May 2019 18:34:32 +0200</pubDate>
       <dc:date>2019-05-16T18:34:32.950515+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion, 11–13 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-13-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.0–29.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 10.1–13.3%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 16.6–20.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 8.1–11.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 2.9–4.8%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.5–4.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 6.2–8.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.8–9.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 3.6–5.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.3–1.0%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.9–3.5%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.4–1.3%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.9–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-13-Epinion.png"
+        length="345784"
+        type="image/png"/>
+      <pubDate>Sat, 18 May 2019 12:47:44 +0200</pubDate>
+      <dc:date>2019-05-18T12:47:44.742273+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 8–12 May 2019 – Seat Projections for the Parties</title>
@@ -979,6 +989,6 @@
       <pubDate>Wed, 16 Jan 2019 20:52:58 +0100</pubDate>
       <dc:date>2019-01-16T20:52:58.731061+01:00</dc:date>
     </item>
-    <dc:date>2019-05-18T11:16:48.796374+02:00</dc:date>
+    <dc:date>2019-05-18T12:47:44.742273+02:00</dc:date>
   </channel>
 </rss>
