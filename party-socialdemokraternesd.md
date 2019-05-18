@@ -175,12 +175,12 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 5 |
-| [15 May 2019](2019-05-15-YouGov.html) | YouGov | 5 | 5 | 5 | 5 | 5 |
-| [15 May 2019](2019-05-15-Gallup.html) | Gallup | 4 | 4 | 4 | 4 | 4 |
-| [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 5 |
+| [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 4–5 | 4–6 |
+| [15 May 2019](2019-05-15-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [15 May 2019](2019-05-15-Gallup.html) | Gallup | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [11–13 May 2019](2019-05-13-Epinion.html) | Epinion | 5 | 5 | 5 | 5 | 4–5 |
+| [11–13 May 2019](2019-05-13-Epinion.html) | Epinion | 5 | 5 | 5 | 4–5 | 4–5 |
 | [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [10–12 May 2019](2019-05-12-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
