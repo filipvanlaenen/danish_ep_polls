@@ -181,7 +181,7 @@ Last result: **4** seats (General Election of 25 May 2014)
 | [14–16 May 2019](2019-05-16-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15 May 2019](2019-05-15-YouGov.html) | YouGov | 2 | 2 | 2 | 2 | 1–2 |
 | [15 May 2019](2019-05-15-Gallup.html) | Gallup | 2 | 2 | 2 | 2 | 2 |
-| [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–14 May 2019](2019-05-14-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–13 May 2019](2019-05-13-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [11–13 May 2019](2019-05-13-Epinion.html) | Epinion | 2 | 2 | 2 | 1–2 | 1–2 |
 | [8–12 May 2019](2019-05-12-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
