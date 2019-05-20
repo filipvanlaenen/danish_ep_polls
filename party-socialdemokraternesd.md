@@ -22,7 +22,7 @@ Last result: **19.1%** (General Election of 25 May 2014)
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 27.7% | 25.9–29.5% | 25.5–30.0% | 25.0–30.5% | 24.2–31.4% |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.1% | 24.7–32.0% |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 27.7% | 25.9–29.5% | 25.4–30.1% | 25.0–30.5% | 24.2–31.4% |
-| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 0.0% | N/A | N/A | N/A | N/A |
+| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 27.3% | 25.7–29.0% | 25.3–29.5% | 24.9–29.9% | 24.1–30.8% |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.4% | 21.3–28.3% |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 27.9% | 26.1–29.8% | 25.6–30.3% | 25.2–30.7% | 24.4–31.7% |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 26.4% | 24.7–28.3% | 24.2–28.8% | 23.8–29.3% | 23.0–30.2% |
@@ -186,7 +186,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 4–5 | 4–5 | 4–6 |
-| [10 May 2019](2019-05-10-Norstat.html) | Norstat |  |  |  |  |  |
+| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 4 | 4 | 4 | 4 | 4 |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
