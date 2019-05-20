@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 19 May 2019 21:15:19 +0200</pubDate>
+    <pubDate>Mon, 20 May 2019 22:07:46 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 14–16 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-16-Voxmeter.html#seats</link>
@@ -346,8 +346,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-10-Norstat.png"
         length="358075"
         type="image/png"/>
-      <pubDate>Sun, 19 May 2019 21:15:19 +0200</pubDate>
-      <dc:date>2019-05-19T21:15:19.186437+02:00</dc:date>
+      <pubDate>Mon, 20 May 2019 22:07:46 +0200</pubDate>
+      <dc:date>2019-05-20T22:07:46.946423+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 8–10 May 2019 – Seat Projections for the Parties</title>
@@ -1099,6 +1099,6 @@
       <pubDate>Wed, 16 Jan 2019 20:52:58 +0100</pubDate>
       <dc:date>2019-01-16T20:52:58.731061+01:00</dc:date>
     </item>
-    <dc:date>2019-05-19T21:15:19.186437+02:00</dc:date>
+    <dc:date>2019-05-20T22:07:46.946423+02:00</dc:date>
   </channel>
 </rss>
