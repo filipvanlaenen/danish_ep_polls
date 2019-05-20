@@ -186,7 +186,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [7–11 May 2019](2019-05-11-YouGov.html) | YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [9–11 May 2019](2019-05-11-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–10 May 2019](2019-05-10-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 4–5 | 4–5 | 4–6 |
-| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 4 | 4 | 4 | 4 | 4 |
+| [10 May 2019](2019-05-10-Norstat.html) | Norstat | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–10 May 2019](2019-05-10-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [7–9 May 2019](2019-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [5–8 May 2019](2019-05-08-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
