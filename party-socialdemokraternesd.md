@@ -18,11 +18,11 @@ Last result: **19.1%** (General Election of 26 May 2019)
 | [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 29.4% | 27.6–31.3% | 27.1–31.8% | 26.7–32.3% | 25.8–33.2% |
 | [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 28.6% | 26.9–30.3% | 26.5–30.8% | 26.1–31.2% | 25.3–32.0% |
 | [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 26.2% | 24.6–27.9% | 24.1–28.3% | 23.7–28.8% | 23.0–29.6% |
-| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 29.0% | N/A | N/A | N/A | N/A |
-| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 29.7% | N/A | N/A | N/A | N/A |
-| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 28.5% | N/A | N/A | N/A | N/A |
-| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 28.3% | N/A | N/A | N/A | N/A |
-| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 27.5% | N/A | N/A | N/A | N/A |
+| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 29.0% | 27.0–31.2% | 26.4–31.8% | 25.9–32.3% | 25.0–33.3% |
+| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 29.7% | 27.9–31.6% | 27.4–32.2% | 27.0–32.6% | 26.1–33.5% |
+| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 28.5% | 26.6–30.5% | 26.1–31.1% | 25.6–31.6% | 24.7–32.6% |
+| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 28.3% | 26.6–30.2% | 26.1–30.7% | 25.6–31.2% | 24.8–32.1% |
+| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 27.5% | 25.7–29.3% | 25.2–29.9% | 24.8–30.3% | 24.0–31.2% |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 28.0% | N/A | N/A | N/A | N/A |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 27.2% | N/A | N/A | N/A | N/A |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 25.7% | N/A | N/A | N/A | N/A |
@@ -67,19 +67,19 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 5 | 5 | 5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 4 | 4 | 4 | 4 | 4 |
 | [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 4 | 4 | 4 | 4–5 | 4–5 |
 | [30 May–3 June 2019](2019-06-03-YouGov.html) | YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 4–6 |
-| [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov |  |  |  |  |  |
-| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov |  |  |  |  |  |
-| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 5 | 5 | 5 | 4–5 | 4–6 |
+| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 5 |
+| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov |  |  |  |  |  |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
@@ -100,9 +100,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 41% | 100% |  |
-| 5 | 50% | 59% | Median |
-| 6 | 10% | 10% |  |
+| 4 | 46% | 100% |  |
+| 5 | 52% | 54% | Median |
+| 6 | 3% | 3% |  |
 | 7 | 0% | 0% | Majority |
 
 

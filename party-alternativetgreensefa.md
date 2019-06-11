@@ -18,11 +18,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.6% | 1.6–4.0% |
 | [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 4.0% | 3.3–4.8% | 3.1–5.0% | 3.0–5.2% | 2.7–5.7% |
-| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 2.4% | N/A | N/A | N/A | N/A |
-| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 2.9% | N/A | N/A | N/A | N/A |
-| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 2.3% | N/A | N/A | N/A | N/A |
-| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 2.7% | N/A | N/A | N/A | N/A |
-| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 2.9% | N/A | N/A | N/A | N/A |
+| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 2.4% | 1.9–3.3% | 1.7–3.6% | 1.6–3.8% | 1.3–4.3% |
+| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
+| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 2.3% | 1.8–3.1% | 1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
+| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
+| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 2.6% | N/A | N/A | N/A | N/A |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 3.3% | N/A | N/A | N/A | N/A |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.5% | N/A | N/A | N/A | N/A |
@@ -66,11 +66,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 0 | 0 | 0 | 0 | 0 |
 | [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov |  |  |  |  |  |
-| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov |  |  |  |  |  |
-| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
+| [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
+| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
+| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
+| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0–1 |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov |  |  |  |  |  |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
