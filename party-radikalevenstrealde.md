@@ -71,18 +71,18 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1–2 | 1–2 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
-| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
-| [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
+| [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1–2 | 1–2 |
+| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
+| [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
-| [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1 | 1–2 |
+| [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
 | [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
 | [26–28 May 2019](2019-05-28-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [28 May 2019](2019-05-28-Gallup.html) | Gallup | 1 | 1 | 1 | 0–1 | 0–1 |
-| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
+| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1–2 | 1–2 | 1–2 |
 
 ### Probability Mass Function
 
@@ -93,8 +93,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.6% | 100% |  |
-| 1 | 98% | 99.4% | Last Result, Median |
-| 2 | 0.9% | 0.9% |  |
+| 1 | 97% | 99.4% | Last Result, Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
