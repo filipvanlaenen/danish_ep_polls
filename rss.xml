@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 12 Jun 2019 16:06:51 +0200</pubDate>
+    <pubDate>Wed, 12 Jun 2019 16:59:55 +0200</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 31 May–4 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-06-04-YouGov.html#seats</link>
@@ -400,14 +400,54 @@
       <dc:date>2019-06-12T13:42:41.148793+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 28–30 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-30-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 1–2 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-30-Voxmeter-seats.png"
+        length="277575"
+        type="image/png"/>
+      <pubDate>Wed, 12 Jun 2019 16:59:55 +0200</pubDate>
+      <dc:date>2019-06-12T16:59:55.539893+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 28–30 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-30-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-30-Voxmeter-coalitions-seats.png"
+        length="159790"
+        type="image/png"/>
+      <pubDate>Wed, 12 Jun 2019 16:59:55 +0200</pubDate>
+      <dc:date>2019-06-12T16:59:55.539893+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 28–30 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-30-Voxmeter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 24.5–30.0%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 9.8–13.7%&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 15.7–20.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.2–10.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.3–4.6%&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 6.9–10.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 4.2–7.0%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.4–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-30-Voxmeter.png"
         length="364382"
         type="image/png"/>
-      <pubDate>Tue, 11 Jun 2019 08:45:38 +0200</pubDate>
-      <dc:date>2019-06-11T08:45:38.857252+02:00</dc:date>
+      <pubDate>Wed, 12 Jun 2019 16:59:55 +0200</pubDate>
+      <dc:date>2019-06-12T16:59:55.539893+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 28–30 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-30-Megafon.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 2 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-30-Megafon-seats.png"
+        length="221766"
+        type="image/png"/>
+      <pubDate>Wed, 12 Jun 2019 16:27:25 +0200</pubDate>
+      <dc:date>2019-06-12T16:27:25.074787+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 28–30 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-30-Megafon.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-30-Megafon-coalitions-seats.png"
+        length="114055"
+        type="image/png"/>
+      <pubDate>Wed, 12 Jun 2019 16:27:25 +0200</pubDate>
+      <dc:date>2019-06-12T16:27:25.074787+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 28–30 May 2019 – Voting Intentions</title>
@@ -416,8 +456,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-30-Megafon.png"
         length="369804"
         type="image/png"/>
-      <pubDate>Wed, 12 Jun 2019 16:06:51 +0200</pubDate>
-      <dc:date>2019-06-12T16:06:51.827954+02:00</dc:date>
+      <pubDate>Wed, 12 Jun 2019 16:27:25 +0200</pubDate>
+      <dc:date>2019-06-12T16:27:25.074787+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 28–30 May 2019 – Seat Projections for the Parties</title>
@@ -629,6 +669,6 @@
       <pubDate>Wed, 12 Jun 2019 15:53:00 +0200</pubDate>
       <dc:date>2019-06-12T15:53:00.840336+02:00</dc:date>
     </item>
-    <dc:date>2019-06-12T16:06:51.827954+02:00</dc:date>
+    <dc:date>2019-06-12T16:59:55.539893+02:00</dc:date>
   </channel>
 </rss>
