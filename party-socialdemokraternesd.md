@@ -74,7 +74,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 4–6 |
 | [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 5 |
@@ -83,11 +83,11 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4–5 | 4–5 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4 | 4 | 4–5 | 4–5 |
 | [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 5 | 5 | 4–5 | 4–5 | 4–5 |
-| [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 5 | 5 | 4–5 | 4–5 | 4–5 |
+| [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [26–28 May 2019](2019-05-28-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [28 May 2019](2019-05-28-Gallup.html) | Gallup | 4 | 4 | 4 | 4–5 | 4–5 |
+| [28 May 2019](2019-05-28-Gallup.html) | Gallup | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 
 ### Probability Mass Function
