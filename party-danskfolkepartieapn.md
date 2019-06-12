@@ -26,7 +26,7 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.2% |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 11.6% | 10.4–13.0% | 10.0–13.4% | 9.8–13.7% | 9.2–14.4% |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 12.1% | 10.9–13.5% | 10.6–14.0% | 10.3–14.3% | 9.7–15.0% |
-| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 10.6% | 9.6–11.6% | 9.4–11.9% | 9.2–12.2% | 8.8–12.7% |
+| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 10.6% | 9.7–11.6% | 9.4–11.9% | 9.2–12.1% | 8.8–12.6% |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.5% | 8.9–14.2% |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 11.1% | 9.9–12.5% | 9.6–12.8% | 9.3–13.2% | 8.7–13.9% |
 | [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.5–14.7% | 10.0–15.4% |
@@ -87,13 +87,13 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1–2 |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 2 | 2 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2 | 2 | 2 | 1–3 |
-| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
-| [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1–2 |
-| [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 2 | 2 |
-| [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
-| [26–28 May 2019](2019-05-28-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 2 | 2 |
-| [28 May 2019](2019-05-28-Gallup.html) | Gallup | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 1–2 | 1–2 |
+| [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 2 | 2 | 2 | 1–2 | 1–2 |
+| [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 2 | 2 | 2 | 2 | 2 |
+| [26–28 May 2019](2019-05-28-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [28 May 2019](2019-05-28-Gallup.html) | Gallup | 2 | 2 | 2 | 2 | 1–2 |
+| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 
 ### Probability Mass Function
 

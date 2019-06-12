@@ -26,7 +26,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.4–1.5% | 0.3–1.8% |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
-| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 0.7% | 0.5–1.1% | 0.4–1.1% | 0.4–1.2% | 0.3–1.4% |
+| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.2% | 0.3–1.4% |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
 | [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.1% | 0.1–1.3% |
@@ -69,13 +69,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
-| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [26–28 May 2019](2019-05-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [28 May 2019](2019-05-28-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

@@ -26,7 +26,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 2.6% | 2.0–3.3% | 1.9–3.6% | 1.7–3.7% | 1.5–4.2% |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.5% | 2.8–4.3% | 2.6–4.6% | 2.5–4.8% | 2.2–5.2% |
-| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 2.8% | 2.3–3.4% | 2.2–3.6% | 2.1–3.7% | 1.9–4.0% |
+| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 2.8% | 2.3–3.4% | 2.2–3.5% | 2.1–3.7% | 1.9–4.0% |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 3.3% | 2.6–4.1% | 2.5–4.4% | 2.3–4.6% | 2.0–5.0% |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 3.6% | 2.9–4.4% | 2.7–4.7% | 2.6–4.9% | 2.3–5.3% |
 | [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 3.5% | 2.8–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -74,13 +74,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
-| [26–28 May 2019](2019-05-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
+| [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0–1 |
+| [26–28 May 2019](2019-05-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0–1 |
 | [28 May 2019](2019-05-28-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 

@@ -32,7 +32,7 @@ Last result: **2.9%** (General Election of 26 May 2019)
 | [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 2.7% | 2.1–3.4% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [26–28 May 2019](2019-05-28-Voxmeter.html) | Voxmeter <br> Ritzau | 2.8% | 2.2–3.6% | 2.0–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [28 May 2019](2019-05-28-Gallup.html) | Gallup | 3.0% | 2.5–3.6% | 2.3–3.8% | 2.2–4.0% | 2.0–4.3% |
-| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.1–4.3% | 1.9–4.8% |
+| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
 
 ### Probability Mass Function
 
@@ -73,13 +73,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0–1 |
-| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [24–28 May 2019](2019-05-28-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [26–28 May 2019](2019-05-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [28 May 2019](2019-05-28-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [25–27 May 2019](2019-05-27-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
