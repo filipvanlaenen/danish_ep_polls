@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.8% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
+| [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.6% | 0.9–3.0% |
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 1.9% | 1.7–2.2% | 1.6–2.3% | 1.5–2.3% | 1.4–2.5% |
 | [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 1.7% | 1.4–2.1% | 1.3–2.2% | 1.2–2.3% | 1.1–2.5% |
@@ -41,8 +42,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 25% | 100% |  |
-| 1.5–2.5% | 71% | 75% | Median |
+| 0.5–1.5% | 26% | 100% |  |
+| 1.5–2.5% | 70% | 74% | Median |
 | 2.5–3.5% | 4% | 4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -56,6 +57,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
