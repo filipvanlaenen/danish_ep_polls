@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.2–4.7% | 2.0–5.1% | 1.8–5.5% | 1.5–6.1% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.1–4.7% | 1.9–5.1% | 1.7–5.5% | 1.4–6.1% |
+| [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
 | [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 4.7% | 4.0–5.7% | 3.8–6.0% | 3.6–6.2% | 3.3–6.7% |
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 2.6% | 2.3–2.9% | 2.3–3.0% | 2.2–3.1% | 2.1–3.3% |
@@ -42,10 +43,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.7% | 100% |  |
-| 1.5–2.5% | 24% | 99.3% |  |
-| 2.5–3.5% | 42% | 75% | Median |
-| 3.5–4.5% | 20% | 33% |  |
+| 0.5–1.5% | 1.3% | 100% |  |
+| 1.5–2.5% | 30% | 98.7% |  |
+| 2.5–3.5% | 37% | 69% | Median |
+| 3.5–4.5% | 19% | 31% |  |
 | 4.5–5.5% | 11% | 13% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
@@ -61,6 +62,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [10–15 June 2019](2019-06-15-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [31 May–4 June 2019](2019-06-04-YouGov.html) | YouGov | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
