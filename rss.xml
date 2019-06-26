@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 25 Jun 2019 19:14:32 +0200</pubDate>
+    <pubDate>Wed, 26 Jun 2019 18:00:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 17–23 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-06-23-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (EAPN): 1 seats&lt;/li&gt;&lt;li&gt;Venstre (ALDE): 4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (ALDE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-06-23-Voxmeter-seats.png"
+        length="174002"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 18:00:56 +0200</pubDate>
+      <dc:date>2019-06-26T18:00:56.777985+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 17–23 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-06-23-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-06-23-Voxmeter-coalitions-seats.png"
+        length="68051"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 18:00:56 +0200</pubDate>
+      <dc:date>2019-06-26T18:00:56.777985+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 17–23 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-06-23-Voxmeter.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-06-23-Voxmeter.png"
         length="352786"
         type="image/png"/>
-      <pubDate>Tue, 25 Jun 2019 19:14:32 +0200</pubDate>
-      <dc:date>2019-06-25T19:14:32.40707+02:00</dc:date>
+      <pubDate>Wed, 26 Jun 2019 18:00:56 +0200</pubDate>
+      <dc:date>2019-06-26T18:00:56.777985+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 10–15 June 2019 – Seat Projections for the Parties</title>
@@ -709,6 +729,6 @@
       <pubDate>Wed, 12 Jun 2019 15:53:00 +0200</pubDate>
       <dc:date>2019-06-12T15:53:00.840336+02:00</dc:date>
     </item>
-    <dc:date>2019-06-25T19:14:32.40707+02:00</dc:date>
+    <dc:date>2019-06-26T18:00:56.777985+02:00</dc:date>
   </channel>
 </rss>
