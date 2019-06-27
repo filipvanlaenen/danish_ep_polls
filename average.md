@@ -24,13 +24,13 @@ Only polls for which at least the sample size has been published are included in
 **Legend:**
 + **Top half of each row:** Voting intentions (95% confidence interval)
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
-+ **O:** Dansk Folkeparti (EAPN)
++ **O:** Dansk Folkeparti (ID)
 + **A:** Socialdemokraterne (S&D)
-+ **V:** Venstre (ALDE)
++ **V:** Venstre (RE)
 + **F:** Socialistisk Folkeparti (Greens/EFA)
 + **C:** Det Konservative Folkeparti (EPP)
-+ **B:** Radikale Venstre (ALDE)
-+ **I:** Liberal Alliance (ALDE)
++ **B:** Radikale Venstre (RE)
++ **I:** Liberal Alliance (RE)
 + **Å:** Alternativet (Greens/EFA)
 + **Ø:** Enhedslisten–De Rød-Grønne (GUE/NGL)
 + **K:** Kristendemokraterne (EPP)
@@ -48,13 +48,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#dansk-folkeparti-(eapn)">Dansk Folkeparti (EAPN)</a> | 26.6% | 10.5% | 8.6–12.3% |8.0–12.8% | 7.6–13.3% | 6.9–14.2% |
+| <a href="#dansk-folkeparti-(id)">Dansk Folkeparti (ID)</a> | 26.6% | 10.5% | 8.6–12.3% |8.0–12.8% | 7.6–13.3% | 6.9–14.2% |
 | <a href="#socialdemokraterne-(s&d)">Socialdemokraterne (S&D)</a> | 19.1% | 26.1% | 24.5–28.6% |24.0–29.4% | 23.6–30.0% | 22.7–31.1% |
-| <a href="#venstre-(alde)">Venstre (ALDE)</a> | 16.7% | 20.0% | 17.5–24.4% |17.0–25.6% | 16.6–26.4% | 15.8–27.6% |
+| <a href="#venstre-(re)">Venstre (RE)</a> | 16.7% | 20.0% | 17.5–24.4% |17.0–25.6% | 16.6–26.4% | 15.8–27.6% |
 | <a href="#socialistisk-folkeparti-(greens/efa)">Socialistisk Folkeparti (Greens/EFA)</a> | 10.9% | 7.7% | 6.6–8.8% |6.3–9.2% | 6.0–9.5% | 5.5–10.1% |
 | <a href="#det-konservative-folkeparti-(epp)">Det Konservative Folkeparti (EPP)</a> | 9.1% | 5.6% | 4.3–6.9% |4.0–7.4% | 3.8–7.8% | 3.4–8.5% |
-| <a href="#radikale-venstre-(alde)">Radikale Venstre (ALDE)</a> | 6.5% | 7.8% | 6.5–9.2% |6.2–9.5% | 5.9–9.9% | 5.3–10.6% |
-| <a href="#liberal-alliance-(alde)">Liberal Alliance (ALDE)</a> | 2.9% | 2.9% | 2.2–3.9% |2.1–4.2% | 1.9–4.4% | 1.7–4.9% |
+| <a href="#radikale-venstre-(re)">Radikale Venstre (RE)</a> | 6.5% | 7.8% | 6.5–9.2% |6.2–9.5% | 5.9–9.9% | 5.3–10.6% |
+| <a href="#liberal-alliance-(re)">Liberal Alliance (RE)</a> | 2.9% | 2.9% | 2.2–3.9% |2.1–4.2% | 1.9–4.4% | 1.7–4.9% |
 | <a href="#alternativet-(greens/efa)">Alternativet (Greens/EFA)</a> | 0.0% | 3.1% | 2.3–4.1% |2.1–4.4% | 2.0–4.7% | 1.7–5.2% |
 | <a href="#enhedslisten–de-rød-grønne-(gue/ngl)">Enhedslisten–De Rød-Grønne (GUE/NGL)</a> | 0.0% | 8.3% | 7.1–9.4% |6.7–9.8% | 6.3–10.1% | 5.7–10.8% |
 | <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0.0% | 1.8% | 1.3–2.3% |1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
@@ -62,9 +62,9 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#klaus-riskær-pedersen-(*)">Klaus Riskær Pedersen (*)</a> | 0.0% | 0.4% | 0.2–0.8% |0.1–0.9% | 0.1–0.9% | 0.0–1.1% |
 | <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0.0% | 2.1% | 1.2–3.2% |1.0–3.5% | 1.0–3.7% | 0.9–4.2% |
 
-### Dansk Folkeparti (EAPN)
+### Dansk Folkeparti (ID)
 
-*For a full overview of the results for this party, see the [Dansk Folkeparti (EAPN)](party-danskfolkepartieapn.html) page.*
+*For a full overview of the results for this party, see the [Dansk Folkeparti (ID)](party-danskfolkepartiid.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -114,9 +114,9 @@ Only polls for which at least the sample size has been published are included in
 | 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
-### Venstre (ALDE)
+### Venstre (RE)
 
-*For a full overview of the results for this party, see the [Venstre (ALDE)](party-venstrealde.html) page.*
+*For a full overview of the results for this party, see the [Venstre (RE)](party-venstrere.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -170,9 +170,9 @@ Only polls for which at least the sample size has been published are included in
 | 8.5–9.5% | 0.4% | 0.5% | Last Result |
 | 9.5–10.5% | 0% | 0% |  |
 
-### Radikale Venstre (ALDE)
+### Radikale Venstre (RE)
 
-*For a full overview of the results for this party, see the [Radikale Venstre (ALDE)](party-radikalevenstrealde.html) page.*
+*For a full overview of the results for this party, see the [Radikale Venstre (RE)](party-radikalevenstrere.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -186,9 +186,9 @@ Only polls for which at least the sample size has been published are included in
 | 10.5–11.5% | 0.5% | 0.5% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
-### Liberal Alliance (ALDE)
+### Liberal Alliance (RE)
 
-*For a full overview of the results for this party, see the [Liberal Alliance (ALDE)](party-liberalalliancealde.html) page.*
+*For a full overview of the results for this party, see the [Liberal Alliance (RE)](party-liberalalliancere.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -297,13 +297,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#dansk-folkeparti-(eapn)">Dansk Folkeparti (EAPN)</a> | 4 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#dansk-folkeparti-(id)">Dansk Folkeparti (ID)</a> | 4 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#socialdemokraterne-(s&d)">Socialdemokraterne (S&D)</a> | 3 | 4 | 4–5 |4–5 | 4–5 | 4–6 |
-| <a href="#venstre-(alde)">Venstre (ALDE)</a> | 2 | 3 | 3–4 |3–4 | 3–4 | 3–4 |
+| <a href="#venstre-(re)">Venstre (RE)</a> | 2 | 3 | 3–4 |3–4 | 3–4 | 3–4 |
 | <a href="#socialistisk-folkeparti-(greens/efa)">Socialistisk Folkeparti (Greens/EFA)</a> | 1 | 1 | 1 |1 | 1 | 1 |
 | <a href="#det-konservative-folkeparti-(epp)">Det Konservative Folkeparti (EPP)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#radikale-venstre-(alde)">Radikale Venstre (ALDE)</a> | 1 | 1 | 1 |1 | 1 | 0–1 |
-| <a href="#liberal-alliance-(alde)">Liberal Alliance (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#radikale-venstre-(re)">Radikale Venstre (RE)</a> | 1 | 1 | 1 |1 | 1 | 0–1 |
+| <a href="#liberal-alliance-(re)">Liberal Alliance (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#alternativet-(greens/efa)">Alternativet (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0–1 | 0–1 |
 | <a href="#enhedslisten–de-rød-grønne-(gue/ngl)">Enhedslisten–De Rød-Grønne (GUE/NGL)</a> | 0 | 1 | 1 |1 | 1 | 1–2 |
 | <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -311,11 +311,11 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#klaus-riskær-pedersen-(*)">Klaus Riskær Pedersen (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
-### Dansk Folkeparti (EAPN)
+### Dansk Folkeparti (ID)
 
-*For a full overview of the results for this party, see the [Dansk Folkeparti (EAPN)](party-danskfolkepartieapn.html) page.*
+*For a full overview of the results for this party, see the [Dansk Folkeparti (ID)](party-danskfolkepartiid.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-danskfolkepartieapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-danskfolkepartiid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -338,11 +338,11 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% | Majority |
 
-### Venstre (ALDE)
+### Venstre (RE)
 
-*For a full overview of the results for this party, see the [Venstre (ALDE)](party-venstrealde.html) page.*
+*For a full overview of the results for this party, see the [Venstre (RE)](party-venstrere.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-venstrealde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-venstrere.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -376,11 +376,11 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 62% | 62% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
-### Radikale Venstre (ALDE)
+### Radikale Venstre (RE)
 
-*For a full overview of the results for this party, see the [Radikale Venstre (ALDE)](party-radikalevenstrealde.html) page.*
+*For a full overview of the results for this party, see the [Radikale Venstre (RE)](party-radikalevenstrere.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-radikalevenstrealde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-radikalevenstrere.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -389,11 +389,11 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
-### Liberal Alliance (ALDE)
+### Liberal Alliance (RE)
 
-*For a full overview of the results for this party, see the [Liberal Alliance (ALDE)](party-liberalalliancealde.html) page.*
+*For a full overview of the results for this party, see the [Liberal Alliance (RE)](party-liberalalliancere.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-liberalalliancealde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-liberalalliancere.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -477,15 +477,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Venstre (ALDE) – Radikale Venstre (ALDE) – Liberal Alliance (ALDE) | 3 | 4 | 0% | 4–5 | 4–5 | 4–5 | 3–5 |
+| Venstre (RE) – Radikale Venstre (RE) – Liberal Alliance (RE) | 3 | 4 | 0% | 4–5 | 4–5 | 4–5 | 3–5 |
 | Socialdemokraterne (S&D) | 3 | 4 | 0% | 4–5 | 4–5 | 4–5 | 4–6 |
 | Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA) | 1 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
-| Dansk Folkeparti (EAPN) | 4 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Dansk Folkeparti (ID) | 4 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
 | Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Klaus Riskær Pedersen (*) – Nye Borgerlige (*) – Stram Kurs (*) | 0 | 0 | 0% | 0 | 0 | 0–1 | 0–1 |
 
-### Venstre (ALDE) – Radikale Venstre (ALDE) – Liberal Alliance (ALDE)
+### Venstre (RE) – Radikale Venstre (RE) – Liberal Alliance (RE)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–b–i.png "Seats Probability Mass Function")
 
@@ -519,7 +519,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 4% | 5% |  |
 | 3 | 0% | 0% |  |
 
-### Dansk Folkeparti (EAPN)
+### Dansk Folkeparti (ID)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-o.png "Seats Probability Mass Function")
 
