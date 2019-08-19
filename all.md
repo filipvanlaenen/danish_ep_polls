@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E | P |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 7–10% <br> 1–2 | 24–29% <br> 4 | 21–26% <br> 3–4 | 7–11% <br> 1–2 | 6–9% <br> 1 | 7–10% <br> 1 | 1–3% <br> 0 | 2–4% <br> 0 | 6–9% <br> 1 | 1–3% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 7–10% <br> 1 | 23–29% <br> 4 | 23–28% <br> 4 | 7–11% <br> 1 | 6–9% <br> 1 | 7–10% <br> 1 | 1–3% <br> 0 | 2–4% <br> 0 | 7–10% <br> 1 | 1–2% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 8–11% <br> 1 | 23–28% <br> 4 | 21–26% <br> 4 | 6–9% <br> 1 | 6–8% <br> 1 | 8–10% <br> 1 | 2–3% <br> 0 | 2–3% <br> 0 | 6–9% <br> 1 | 1–2% <br> 0 | 2–4% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [24–30 June 2019](2019-06-30-Voxmeter.html) | Voxmeter <br> Ritzau | 7–10% <br> 1 | 22–28% <br> 4 | 22–27% <br> 4 | 6–9% <br> 1 | 6–9% <br> 1 | 7–11% <br> 1 | 2–3% <br> 0 | 2–4% <br> 0 | 6–9% <br> 1 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
