@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 11 Sep 2019 06:47:09 +0200</pubDate>
+    <pubDate>Sat, 14 Sep 2019 15:54:10 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 2–9 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-09-09-Voxmeter.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-09-09-Voxmeter.png"
         length="341293"
         type="image/png"/>
-      <pubDate>Wed, 11 Sep 2019 06:47:09 +0200</pubDate>
-      <dc:date>2019-09-11T06:47:09.348365+02:00</dc:date>
+      <pubDate>Sat, 14 Sep 2019 15:54:10 +0200</pubDate>
+      <dc:date>2019-09-14T15:54:10.000899+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 26 August–1 September 2019 – Voting Intentions</title>
@@ -899,6 +899,6 @@
       <pubDate>Wed, 12 Jun 2019 15:53:00 +0200</pubDate>
       <dc:date>2019-06-12T15:53:00.840336+02:00</dc:date>
     </item>
-    <dc:date>2019-09-11T06:47:09.348365+02:00</dc:date>
+    <dc:date>2019-09-14T15:54:10.000899+02:00</dc:date>
   </channel>
 </rss>
