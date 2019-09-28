@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 27 Sep 2019 14:59:40 +0200</pubDate>
+    <pubDate>Sat, 28 Sep 2019 14:48:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 16–22 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-09-22-Voxmeter.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-09-25T17:16:52.790516+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 9–14 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-09-14-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-09-14-Voxmeter-seats.png"
+        length="249320"
+        type="image/png"/>
+      <pubDate>Sat, 28 Sep 2019 14:48:21 +0200</pubDate>
+      <dc:date>2019-09-28T14:48:21.105393+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 9–14 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-09-14-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-09-14-Voxmeter-coalitions-seats.png"
+        length="126520"
+        type="image/png"/>
+      <pubDate>Sat, 28 Sep 2019 14:48:21 +0200</pubDate>
+      <dc:date>2019-09-28T14:48:21.105393+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 9–14 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-09-14-Voxmeter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 25.1–30.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 7.3–10.8%&lt;/li&gt;&lt;li&gt;Venstre (RE): 19.4–24.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 1.8–3.7%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.9–3.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 7.9–11.5%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 5.7–8.8%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.4–1.5%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.1–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-09-14-Voxmeter.png"
         length="357336"
         type="image/png"/>
-      <pubDate>Fri, 20 Sep 2019 16:27:02 +0200</pubDate>
-      <dc:date>2019-09-20T16:27:02.296995+02:00</dc:date>
+      <pubDate>Sat, 28 Sep 2019 14:48:21 +0200</pubDate>
+      <dc:date>2019-09-28T14:48:21.105393+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 2–9 September 2019 – Seat Projections for the Parties</title>
@@ -989,6 +1009,6 @@
       <pubDate>Wed, 12 Jun 2019 15:53:00 +0200</pubDate>
       <dc:date>2019-06-12T15:53:00.840336+02:00</dc:date>
     </item>
-    <dc:date>2019-09-27T14:59:40.861841+02:00</dc:date>
+    <dc:date>2019-09-28T14:48:21.105393+02:00</dc:date>
   </channel>
 </rss>
