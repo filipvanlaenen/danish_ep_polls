@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 Oct 2019 12:01:17 +0200</pubDate>
+    <pubDate>Fri, 18 Oct 2019 12:22:58 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for 2019-10-07, 30 September–7 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-10-07-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-10-07-Voxmeter-seats.png"
+        length="231950"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 12:22:58 +0200</pubDate>
+      <dc:date>2019-10-18T12:22:58.461135+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for 2019-10-07, 30 September–7 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-10-07-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-10-07-Voxmeter-coalitions-seats.png"
+        length="119860"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 12:22:58 +0200</pubDate>
+      <dc:date>2019-10-18T12:22:58.461135+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for 2019-10-07, 30 September–7 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-10-07-Voxmeter.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-10-07-Voxmeter.png"
         length="334409"
         type="image/png"/>
-      <pubDate>Fri, 18 Oct 2019 12:01:17 +0200</pubDate>
-      <dc:date>2019-10-18T12:01:17.140703+02:00</dc:date>
+      <pubDate>Fri, 18 Oct 2019 12:22:58 +0200</pubDate>
+      <dc:date>2019-10-18T12:22:58.461135+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 16–22 September 2019 – Seat Projections for the Parties</title>
@@ -1039,6 +1059,6 @@
       <pubDate>Wed, 12 Jun 2019 15:53:00 +0200</pubDate>
       <dc:date>2019-06-12T15:53:00.840336+02:00</dc:date>
     </item>
-    <dc:date>2019-10-18T12:01:17.140703+02:00</dc:date>
+    <dc:date>2019-10-18T12:22:58.461135+02:00</dc:date>
   </channel>
 </rss>
