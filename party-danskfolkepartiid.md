@@ -11,6 +11,7 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.2% | 8.7–11.8% | 8.3–12.3% | 8.0–12.7% | 7.5–13.4% |
+| [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 9.2% | N/A | N/A | N/A | N/A |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 8.6% | 7.5–9.8% | 7.3–10.1% | 7.0–10.4% | 6.6–11.0% |
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 9.4% | 8.3–10.7% | 8.0–11.0% | 7.8–11.4% | 7.3–12.0% |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 10.9% | 9.7–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
@@ -86,6 +87,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 1 | 1 | 1 | 1 | 1 |
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
