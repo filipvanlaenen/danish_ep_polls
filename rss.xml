@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 21 Oct 2019 20:46:29 +0200</pubDate>
+    <pubDate>Wed, 23 Oct 2019 06:49:31 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 14–20 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-10-20-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 24.9–30.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 7.0–10.4%&lt;/li&gt;&lt;li&gt;Venstre (RE): 21.7–26.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 5.9–9.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 6.8–10.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 7.1–10.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-10-20-Voxmeter.png"
+        length="337182"
+        type="image/png"/>
+      <pubDate>Wed, 23 Oct 2019 06:49:31 +0200</pubDate>
+      <dc:date>2019-10-23T06:49:31.315367+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 7–12 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-10-12-Voxmeter.html</link>
@@ -1069,6 +1079,6 @@
       <pubDate>Wed, 12 Jun 2019 15:53:00 +0200</pubDate>
       <dc:date>2019-06-12T15:53:00.840336+02:00</dc:date>
     </item>
-    <dc:date>2019-10-21T20:46:29.264108+02:00</dc:date>
+    <dc:date>2019-10-23T06:49:31.315367+02:00</dc:date>
   </channel>
 </rss>
