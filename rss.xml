@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 31 Oct 2019 18:19:56 +0100</pubDate>
+    <pubDate>Tue, 26 Nov 2019 19:36:11 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 11–17 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-11-17-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 24.8–30.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 7.1–10.6%&lt;/li&gt;&lt;li&gt;Venstre (RE): 21.8–27.0%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.8–10.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.6–3.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 6.9–10.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.1–9.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.0–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-11-17-Voxmeter.png"
+        length="334860"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2019 19:36:11 +0100</pubDate>
+      <dc:date>2019-11-26T19:36:11.307919+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 14–20 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-10-20-Voxmeter.html#seats</link>
@@ -1119,6 +1129,6 @@
       <pubDate>Wed, 12 Jun 2019 15:53:00 +0200</pubDate>
       <dc:date>2019-06-12T15:53:00.840336+02:00</dc:date>
     </item>
-    <dc:date>2019-10-31T18:19:56.784824+01:00</dc:date>
+    <dc:date>2019-11-26T19:36:11.307919+01:00</dc:date>
   </channel>
 </rss>
