@@ -12,9 +12,9 @@ Last result: **16.7%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.4% | 21.4–25.5% | 20.8–26.1% | 20.4–26.6% | 19.6–27.5% |
 | [11–17 November 2019](2019-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 24.3% | 22.6–26.1% | 22.2–26.6% | 21.8–27.0% | 21.0–27.9% |
-| [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 23.7% | N/A | N/A | N/A | N/A |
-| [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 22.9% | N/A | N/A | N/A | N/A |
-| [21–27 October 2019](2019-10-27-Voxmeter.html) | Voxmeter <br> Ritzau | 23.4% | N/A | N/A | N/A | N/A |
+| [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 23.7% | 22.1–25.5% | 21.6–26.0% | 21.2–26.4% | 20.4–27.3% |
+| [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 22.9% | 21.3–24.6% | 20.9–25.1% | 20.5–25.6% | 19.7–26.4% |
+| [21–27 October 2019](2019-10-27-Voxmeter.html) | Voxmeter <br> Ritzau | 23.4% | 21.8–25.2% | 21.3–25.7% | 20.9–26.1% | 20.1–26.9% |
 | [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 24.2% | 22.6–26.0% | 22.1–26.5% | 21.7–26.9% | 20.9–27.8% |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 23.5% | 21.9–25.3% | 21.4–25.8% | 21.0–26.2% | 20.2–27.1% |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 24.5% | 22.8–26.2% | 22.4–26.7% | 22.0–27.2% | 21.2–28.0% |
@@ -85,9 +85,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–17 November 2019](2019-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4 | 3–4 |
-| [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [21–27 October 2019](2019-10-27-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4 | 4 |
+| [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [21–27 October 2019](2019-10-27-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4 | 4 |
 | [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 4 | 4 | 4 | 3–4 | 3–4 |
