@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 Nov 2019 20:10:41 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 15:16:28 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 11–17 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-11-17-Voxmeter.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-11-17-Voxmeter.png"
         length="334860"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:21:48 +0100</pubDate>
-      <dc:date>2019-11-28T19:21:48.447884+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 15:16:28 +0100</pubDate>
+      <dc:date>2019-11-30T15:16:28.902846+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 4–10 November 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-10-27-Voxmeter.png"
         length="357243"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 19:06:56 +0100</pubDate>
-      <dc:date>2019-11-27T19:06:56.579765+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 10:42:16 +0100</pubDate>
+      <dc:date>2019-11-30T10:42:16.002858+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 14–20 October 2019 – Seat Projections for the Parties</title>
@@ -1159,6 +1159,6 @@
       <pubDate>Wed, 12 Jun 2019 15:53:00 +0200</pubDate>
       <dc:date>2019-06-12T15:53:00.840336+02:00</dc:date>
     </item>
-    <dc:date>2019-11-29T20:10:41.884941+01:00</dc:date>
+    <dc:date>2019-11-30T15:16:28.902846+01:00</dc:date>
   </channel>
 </rss>
