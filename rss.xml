@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 09 Dec 2019 17:39:16 +0100</pubDate>
+    <pubDate>Thu, 12 Dec 2019 18:58:03 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 25 November–1 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-12-01-Voxmeter.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-12-09T06:37:39.902264+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 11–17 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-11-17-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-11-17-Voxmeter-seats.png"
+        length="230772"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 13:08:13 +0100</pubDate>
+      <dc:date>2019-12-12T13:08:13.042679+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 11–17 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-11-17-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-11-17-Voxmeter-coalitions-seats.png"
+        length="125477"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 13:08:13 +0100</pubDate>
+      <dc:date>2019-12-12T13:08:13.042679+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 11–17 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-11-17-Voxmeter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 24.8–30.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 7.1–10.6%&lt;/li&gt;&lt;li&gt;Venstre (RE): 21.8–27.0%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.8–10.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.6–3.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 6.9–10.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.1–9.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.5–1.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.0–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-11-17-Voxmeter.png"
         length="334860"
         type="image/png"/>
-      <pubDate>Sat, 30 Nov 2019 15:16:28 +0100</pubDate>
-      <dc:date>2019-11-30T15:16:28.902846+01:00</dc:date>
+      <pubDate>Thu, 12 Dec 2019 13:08:13 +0100</pubDate>
+      <dc:date>2019-12-12T13:08:13.042679+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 4–10 November 2019 – Seat Projections for the Parties</title>
@@ -260,6 +280,16 @@
       <dc:date>2019-10-18T12:22:58.461135+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Gallup, 29 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-09-29-Gallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 24.0–28.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 7.4–10.3%&lt;/li&gt;&lt;li&gt;Venstre (RE): 21.0–25.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.1–8.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.7–3.3%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 6.6–9.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 7.4–10.3%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 5.6–8.1%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 1.2–2.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.9–3.5%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0.8–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-09-29-Gallup.png"
+        length="346524"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 07:13:10 +0100</pubDate>
+      <dc:date>2019-12-12T07:13:10.563654+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 16–22 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-09-22-Voxmeter.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -348,6 +378,26 @@
         type="image/png"/>
       <pubDate>Sat, 28 Sep 2019 14:48:21 +0200</pubDate>
       <dc:date>2019-09-28T14:48:21.105393+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 12 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-09-12-Gallup.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 23.5–27.7%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 8.1–10.9%&lt;/li&gt;&lt;li&gt;Venstre (RE): 20.5–24.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.3–8.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 1.9–3.5%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.9–3.5%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 6.7–9.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.8–9.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 7.2–9.8%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.9–2.1%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 2.1–3.7%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0.7–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-09-12-Gallup.png"
+        length="327134"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 18:37:10 +0100</pubDate>
+      <dc:date>2019-12-12T18:37:10.715439+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov, 9 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-09-09-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 24.4–29.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 8.7–12.5%&lt;/li&gt;&lt;li&gt;Venstre (RE): 18.3–23.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 1.6–3.6%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 6.8–10.3%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 5.5–8.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 2.6–5.0%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.1–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-09-09-YouGov.png"
+        length="344712"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 18:58:03 +0100</pubDate>
+      <dc:date>2019-12-12T18:58:03.790143+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 2–9 September 2019 – Seat Projections for the Parties</title>
@@ -1279,6 +1329,6 @@
       <pubDate>Wed, 12 Jun 2019 15:53:00 +0200</pubDate>
       <dc:date>2019-06-12T15:53:00.840336+02:00</dc:date>
     </item>
-    <dc:date>2019-12-09T17:39:16.669666+01:00</dc:date>
+    <dc:date>2019-12-12T18:58:03.790143+01:00</dc:date>
   </channel>
 </rss>
