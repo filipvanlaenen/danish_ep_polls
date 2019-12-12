@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.4–8.7% | 6.1–9.2% | 5.9–9.6% | 5.5–10.3% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.4–8.8% | 6.2–9.2% | 6.0–9.5% | 5.6–10.2% |
 | [25 November–1 December 2019](2019-12-01-Voxmeter.html) | Voxmeter <br> Ritzau | 7.4% | 6.4–8.5% | 6.2–8.8% | 6.0–9.1% | 5.5–9.7% |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 7.0% | 6.3–7.9% | 6.1–8.2% | 5.9–8.4% | 5.5–8.9% |
 | [11–17 November 2019](2019-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.8–10.2% | 6.3–10.8% |
@@ -22,12 +22,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 7.4% | 6.4–8.5% | 6.2–8.8% | 5.9–9.1% | 5.5–9.7% |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 7.7% | 6.7–8.9% | 6.5–9.2% | 6.2–9.5% | 5.8–10.1% |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
-| [29 September 2019](2019-09-29-Gallup.html) | Gallup | 7.3% | N/A | N/A | N/A | N/A |
+| [29 September 2019](2019-09-29-Gallup.html) | Gallup | 7.3% | 6.5–8.3% | 6.3–8.5% | 6.1–8.8% | 5.7–9.2% |
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 7.1% | 6.2–8.2% | 5.9–8.6% | 5.7–8.8% | 5.3–9.4% |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
 | [9–14 September 2019](2019-09-14-Voxmeter.html) | Voxmeter <br> Ritzau | 6.7% | 5.8–7.8% | 5.6–8.1% | 5.3–8.4% | 4.9–9.0% |
-| [12 September 2019](2019-09-12-Gallup.html) | Gallup | 7.5% | N/A | N/A | N/A | N/A |
-| [9 September 2019](2019-09-09-YouGov.html) | YouGov | 7.6% | N/A | N/A | N/A | N/A |
+| [12 September 2019](2019-09-12-Gallup.html) | Gallup | 7.5% | 6.7–8.4% | 6.5–8.7% | 6.3–8.9% | 6.0–9.3% |
+| [9 September 2019](2019-09-09-YouGov.html) | YouGov | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 7.5% | 6.5–8.6% | 6.2–9.0% | 6.0–9.3% | 5.6–9.8% |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.0% |
 | [18–25 August 2019](2019-08-25-Voxmeter.html) | Voxmeter <br> Ritzau | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
@@ -72,11 +72,11 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.5% | 100% |  |
-| 5.5–6.5% | 14% | 99.5% |  |
-| 6.5–7.5% | 43% | 85% | Median |
-| 7.5–8.5% | 30% | 43% |  |
+| 5.5–6.5% | 13% | 99.5% |  |
+| 6.5–7.5% | 41% | 86% | Median |
+| 7.5–8.5% | 32% | 45% |  |
 | 8.5–9.5% | 11% | 13% |  |
-| 9.5–10.5% | 2% | 3% |  |
+| 9.5–10.5% | 2% | 2% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -101,12 +101,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 0–1 | 0–1 |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 0–1 |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 1 | 1 | 1 | 0–1 | 0–1 |
-| [29 September 2019](2019-09-29-Gallup.html) | Gallup |  |  |  |  |  |
+| [29 September 2019](2019-09-29-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 0–1 |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 1 | 1 | 1 | 1 | 0–1 |
 | [9–14 September 2019](2019-09-14-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [12 September 2019](2019-09-12-Gallup.html) | Gallup |  |  |  |  |  |
-| [9 September 2019](2019-09-09-YouGov.html) | YouGov |  |  |  |  |  |
+| [12 September 2019](2019-09-12-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
+| [9 September 2019](2019-09-09-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 0–1 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 0–1 | 0–1 |
 | [18–25 August 2019](2019-08-25-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -147,8 +147,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% | Last Result |
-| 1 | 99.3% | 99.3% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 0.6% | 100% | Last Result |
+| 1 | 99.3% | 99.4% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 
