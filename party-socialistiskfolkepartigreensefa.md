@@ -11,6 +11,8 @@ Last result: **10.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.4% | 6.4–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
+| [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
+| [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 8.4% | N/A | N/A | N/A | N/A |
 | [25 November–1 December 2019](2019-12-01-Voxmeter.html) | Voxmeter <br> Ritzau | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.8–10.2% | 6.4–10.8% |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 7.9% | 7.1–8.9% | 6.9–9.1% | 6.7–9.3% | 6.3–9.8% |
 | [11–17 November 2019](2019-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 7.6% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.7–9.9% |
@@ -85,6 +87,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
+| [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [25 November–1 December 2019](2019-12-01-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
 | [11–17 November 2019](2019-11-17-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
