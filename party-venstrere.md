@@ -115,7 +115,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–14 September 2019](2019-09-14-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12 September 2019](2019-09-12-Gallup.html) | Gallup | 4 | 4 | 4 | 4 | 4 |
-| [9 September 2019](2019-09-09-YouGov.html) | YouGov | 4 | 4 | 4 | 3–4 | 3–4 |
+| [9 September 2019](2019-09-09-YouGov.html) | YouGov | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [18–25 August 2019](2019-08-25-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 3–4 | 3–4 |
@@ -157,8 +157,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 17% | 100% |  |
-| 4 | 83% | 83% | Median |
+| 3 | 18% | 100% |  |
+| 4 | 82% | 82% | Median |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
