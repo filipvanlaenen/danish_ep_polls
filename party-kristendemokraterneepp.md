@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.7–2.0% | 0.6–2.2% | 0.5–2.3% | 0.4–2.6% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% | 0.8–2.5% |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [9 December 2019](2019-12-09-Gallup.html) | Gallup | 1.5% | 1.1–2.0% | 1.1–2.1% | 1.0–2.2% | 0.8–2.5% |
@@ -70,10 +70,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 67% | 97% | Median |
-| 1.5–2.5% | 29% | 30% |  |
-| 2.5–3.5% | 0.8% | 0.8% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 54% | 100% |  |
+| 1.5–2.5% | 46% | 46% | Median |
+| 2.5–3.5% | 0.4% | 0.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 

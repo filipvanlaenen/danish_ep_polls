@@ -10,10 +10,10 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.5% | 24.7–28.5% | 24.3–29.1% | 23.9–29.6% | 23.1–30.6% |
+| N/A | [Poll Average](average.html) | 25.8% | 24.2–27.3% | 23.8–27.7% | 23.4–28.1% | 22.6–28.9% |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.2% | 22.1–29.1% |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 26.4% | 24.6–28.2% | 24.2–28.7% | 23.7–29.1% | 23.0–30.0% |
-| [9 December 2019](2019-12-09-Gallup.html) | Gallup | 26.1% | 24.7–27.6% | 24.3–28.1% | 24.0–28.5% | 23.3–29.2% |
+| [9 December 2019](2019-12-09-Gallup.html) | Gallup | 25.9% | 24.5–27.5% | 24.1–27.9% | 23.8–28.2% | 23.1–29.0% |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 25.9% | 24.2–27.8% | 23.7–28.3% | 23.3–28.8% | 22.5–29.7% |
 | [25 November–1 December 2019](2019-12-01-Voxmeter.html) | Voxmeter <br> Ritzau | 26.6% | 24.9–28.4% | 24.4–28.9% | 24.0–29.4% | 23.2–30.2% |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 25.7% | 24.4–27.2% | 24.0–27.6% | 23.6–27.9% | 23.0–28.6% |
@@ -73,18 +73,16 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% | Last Result |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 1.1% | 99.9% |  |
-| 23.5–24.5% | 6% | 98.7% |  |
-| 24.5–25.5% | 18% | 92% |  |
-| 25.5–26.5% | 27% | 74% | Median |
-| 26.5–27.5% | 24% | 47% |  |
-| 27.5–28.5% | 14% | 23% |  |
-| 28.5–29.5% | 7% | 9% |  |
-| 29.5–30.5% | 2% | 3% |  |
-| 30.5–31.5% | 0.5% | 0.5% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.4% | 100% |  |
+| 22.5–23.5% | 3% | 99.5% |  |
+| 23.5–24.5% | 12% | 97% |  |
+| 24.5–25.5% | 27% | 84% |  |
+| 25.5–26.5% | 32% | 57% | Median |
+| 26.5–27.5% | 19% | 25% |  |
+| 27.5–28.5% | 6% | 7% |  |
+| 28.5–29.5% | 1.0% | 1.1% |  |
+| 29.5–30.5% | 0.1% | 0.1% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -95,10 +93,10 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4–5 | 4–5 |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4–5 | 4–5 |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [9 December 2019](2019-12-09-Gallup.html) | Gallup | 4 | 4 | 4 | 4 | 4–5 |
+| [9 December 2019](2019-12-09-Gallup.html) | Gallup | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [25 November–1 December 2019](2019-12-01-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 4 | 4 | 4 | 4 | 4–5 |
@@ -158,8 +156,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% | Last Result |
-| 4 | 94% | 99.9% | Median |
-| 5 | 6% | 6% |  |
+| 4 | 96% | 99.9% | Median |
+| 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
 
 

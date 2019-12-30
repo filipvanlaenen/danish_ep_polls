@@ -10,10 +10,10 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.3–11.6% | 8.0–12.0% | 7.7–12.4% | 7.1–13.1% |
+| N/A | [Poll Average](average.html) | 8.8% | 7.3–11.0% | 7.0–11.4% | 6.8–11.8% | 6.3–12.4% |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 8.5% | 7.5–9.8% | 7.2–10.1% | 7.0–10.4% | 6.5–11.0% |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 8.2% | 7.2–9.4% | 6.9–9.7% | 6.7–10.0% | 6.2–10.6% |
-| [9 December 2019](2019-12-09-Gallup.html) | Gallup | 7.8% | 7.0–8.8% | 6.8–9.1% | 6.6–9.3% | 6.2–9.8% |
+| [9 December 2019](2019-12-09-Gallup.html) | Gallup | 7.7% | 6.9–8.7% | 6.7–9.0% | 6.5–9.2% | 6.1–9.7% |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 9.1% | 8.0–10.3% | 7.7–10.7% | 7.5–11.0% | 7.0–11.7% |
 | [25 November–1 December 2019](2019-12-01-Voxmeter.html) | Voxmeter <br> Ritzau | 9.8% | 8.7–11.0% | 8.4–11.4% | 8.1–11.7% | 7.6–12.3% |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 10.6% | 9.7–11.6% | 9.4–11.9% | 9.2–12.2% | 8.7–12.7% |
@@ -70,15 +70,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 12% | 98% |  |
-| 8.5–9.5% | 24% | 86% |  |
-| 9.5–10.5% | 28% | 63% | Median |
-| 10.5–11.5% | 24% | 35% |  |
-| 11.5–12.5% | 9% | 11% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 1.2% | 100% |  |
+| 6.5–7.5% | 14% | 98.8% |  |
+| 7.5–8.5% | 29% | 84% |  |
+| 8.5–9.5% | 19% | 55% | Median |
+| 9.5–10.5% | 17% | 36% |  |
+| 10.5–11.5% | 15% | 19% |  |
+| 11.5–12.5% | 4% | 4% |  |
+| 12.5–13.5% | 0.3% | 0.3% |  |
+| 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% |  |
@@ -102,7 +103,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [9 December 2019](2019-12-09-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
@@ -114,7 +115,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [8 November 2019](2019-11-08-Gallup.html) | Gallup | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 October–4 November 2019](2019-11-04-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [21–27 October 2019](2019-10-27-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [23 October 2019](2019-10-23-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1–2 |
+| [23 October 2019](2019-10-23-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
 | [14–20 October 2019](2019-10-20-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 1 | 1 | 1 | 1 | 1 |
@@ -164,8 +165,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 86% | 100% | Median |
-| 2 | 14% | 14% |  |
+| 1 | 97% | 100% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
 
