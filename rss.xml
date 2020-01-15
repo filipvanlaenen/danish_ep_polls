@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 08 Jan 2020 19:37:34 +0100</pubDate>
+    <pubDate>Tue, 14 Jan 2020 06:41:51 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 6–11 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-01-11-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-01-11-Voxmeter-seats.png"
+        length="203053"
+        type="image/png"/>
+      <pubDate>Tue, 14 Jan 2020 06:41:51 +0100</pubDate>
+      <dc:date>2020-01-14T06:41:51.252994+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 6–11 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-01-11-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-01-11-Voxmeter-coalitions-seats.png"
+        length="97811"
+        type="image/png"/>
+      <pubDate>Tue, 14 Jan 2020 06:41:51 +0100</pubDate>
+      <dc:date>2020-01-14T06:41:51.252994+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 6–11 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-01-11-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 24.4–29.8%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 7.1–10.5%&lt;/li&gt;&lt;li&gt;Venstre (RE): 20.3–25.5%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 5.2–8.3%&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.5–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-01-11-Voxmeter.png"
+        length="339896"
+        type="image/png"/>
+      <pubDate>Tue, 14 Jan 2020 06:41:51 +0100</pubDate>
+      <dc:date>2020-01-14T06:41:51.252994+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 30 December 2019–5 January 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-01-05-Voxmeter.html#seats</link>
@@ -1599,6 +1629,6 @@
       <pubDate>Wed, 12 Jun 2019 15:53:00 +0200</pubDate>
       <dc:date>2019-06-12T15:53:00.840336+02:00</dc:date>
     </item>
-    <dc:date>2020-01-08T19:37:34.334169+01:00</dc:date>
+    <dc:date>2020-01-14T06:41:51.252994+01:00</dc:date>
   </channel>
 </rss>
