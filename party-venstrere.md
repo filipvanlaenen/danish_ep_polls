@@ -10,7 +10,9 @@ Last result: **16.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.1% | 21.4–25.0% | 21.0–25.6% | 20.6–26.1% | 20.0–27.0% |
+| N/A | [Poll Average](average.html) | 22.6% | 20.8–24.7% | 20.3–25.3% | 19.9–25.8% | 19.1–26.8% |
+| [24 February–1 March 2020](2020-03-01-Voxmeter.html) | Voxmeter <br> Ritzau | 23.6% | 22.0–25.4% | 21.5–25.8% | 21.1–26.3% | 20.3–27.1% |
+| [24–27 February 2020](2020-02-27-Megafon.html) | Megafon <br> TV2 | 21.7% | 20.1–23.4% | 19.7–23.9% | 19.3–24.3% | 18.6–25.1% |
 | [17–23 February 2020](2020-02-23-Voxmeter.html) | Voxmeter <br> Ritzau | 23.8% | 22.2–25.6% | 21.7–26.1% | 21.4–26.5% | 20.6–27.4% |
 | [10–16 February 2020](2020-02-16-Voxmeter.html) | Voxmeter <br> Ritzau | 24.4% | 22.7–26.2% | 22.3–26.7% | 21.9–27.2% | 21.1–28.1% |
 | [7–13 February 2020](2020-02-13-Gallup.html) | Gallup | 22.4% | 21.1–23.8% | 20.7–24.2% | 20.4–24.6% | 19.7–25.3% |
@@ -80,17 +82,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 16.5–17.5% | 0% | 100% | Last Result |
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 2% | 99.8% |  |
-| 20.5–21.5% | 10% | 98% |  |
-| 21.5–22.5% | 23% | 88% |  |
-| 22.5–23.5% | 27% | 64% | Median |
-| 23.5–24.5% | 21% | 37% |  |
-| 24.5–25.5% | 11% | 16% |  |
-| 25.5–26.5% | 4% | 5% |  |
-| 26.5–27.5% | 1.0% | 1.2% |  |
-| 27.5–28.5% | 0.1% | 0.2% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 1.2% | 99.8% |  |
+| 19.5–20.5% | 6% | 98.6% |  |
+| 20.5–21.5% | 16% | 93% |  |
+| 21.5–22.5% | 25% | 77% |  |
+| 22.5–23.5% | 24% | 52% | Median |
+| 23.5–24.5% | 16% | 27% |  |
+| 24.5–25.5% | 8% | 11% |  |
+| 25.5–26.5% | 3% | 4% |  |
+| 26.5–27.5% | 0.7% | 0.8% |  |
+| 27.5–28.5% | 0.1% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
 
@@ -102,7 +104,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–5 | 3–5 |
+| [24 February–1 March 2020](2020-03-01-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4–5 | 3–5 |
+| [24–27 February 2020](2020-02-27-Megafon.html) | Megafon <br> TV2 | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [17–23 February 2020](2020-02-23-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [10–16 February 2020](2020-02-16-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4–5 | 4–5 |
 | [7–13 February 2020](2020-02-13-Gallup.html) | Gallup | 4 | 4 | 4 | 4 | 3–4 |
@@ -174,9 +178,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 0.8% | 100% |  |
-| 4 | 95% | 99.2% | Median |
-| 5 | 4% | 4% |  |
+| 3 | 4% | 100% |  |
+| 4 | 93% | 96% | Median |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 
