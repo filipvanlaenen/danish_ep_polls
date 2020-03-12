@@ -11,6 +11,7 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.7% | 7.6–9.9% | 7.4–10.2% | 7.1–10.6% | 6.7–11.2% |
+| [2–7 March 2020](2020-03-07-Voxmeter.html) | Voxmeter <br> Ritzau | 7.6% | 6.6–8.7% | 6.4–9.1% | 6.1–9.3% | 5.7–9.9% |
 | [25 February–2 March 2020](2020-03-02-Epinion.html) | Epinion <br> DR | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
 | [24 February–1 March 2020](2020-03-01-Voxmeter.html) | Voxmeter <br> Ritzau | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.7–10.1% | 6.2–10.7% |
 | [24–27 February 2020](2020-02-27-Megafon.html) | Megafon <br> TV2 | 8.9% | 7.9–10.1% | 7.6–10.5% | 7.3–10.8% | 6.9–11.4% |
@@ -116,6 +117,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| [2–7 March 2020](2020-03-07-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [25 February–2 March 2020](2020-03-02-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
 | [24 February–1 March 2020](2020-03-01-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
 | [24–27 February 2020](2020-02-27-Megafon.html) | Megafon <br> TV2 | 1 | 1 | 1–2 | 1–2 | 1–2 |
