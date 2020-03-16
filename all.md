@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E | P |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [9–15 March 2020](2020-03-15-Voxmeter.html) | Voxmeter <br> Ritzau | 6–9% <br> 1 | 25–30% <br> 4–5 | 22–27% <br> 4–5 | 7–10% <br> 1 | 6–9% <br> 1 | 8–11% <br> 1–2 | 2–3% <br> 0 | 0–2% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [2–7 March 2020](2020-03-07-Voxmeter.html) | Voxmeter <br> Ritzau | 6–9% <br> 1 | 25–30% <br> 4–5 | 21–26% <br> 4 | 6–10% <br> 1 | 6–9% <br> 1 | 7–11% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | 2–4% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [25 February–2 March 2020](2020-03-02-Epinion.html) | Epinion <br> DR | 7–9% <br> 1 | 26–30% <br> 5 | 20–24% <br> 4 | 6–8% <br> 1 | 6–9% <br> 1 | 7–10% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | 3–5% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [24 February–1 March 2020](2020-03-01-Voxmeter.html) | Voxmeter <br> Ritzau | 7–10% <br> 1 | 24–30% <br> 4–5 | 21–26% <br> 4–5 | 7–10% <br> 1 | 6–9% <br> 1 | 7–11% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | 6–10% <br> 1 | N/A <br> N/A | 2–4% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 |
