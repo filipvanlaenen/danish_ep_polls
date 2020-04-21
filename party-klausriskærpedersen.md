@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.6% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
+| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 1.1% | N/A | N/A | N/A | N/A |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [27 March–3 April 2020](2020-04-03-Gallup.html) | Gallup | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% |
@@ -107,6 +108,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [27 March–3 April 2020](2020-04-03-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
