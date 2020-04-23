@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 22 Apr 2020 19:34:04 +0200</pubDate>
+    <pubDate>Thu, 23 Apr 2020 19:29:37 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter, 6–19 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-04-19-Voxmeter.html#seats</link>
@@ -1160,14 +1160,34 @@
       <dc:date>2020-04-21T17:29:31.329088+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 16–20 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-08-20-Megafon.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 0 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-08-20-Megafon-seats.png"
+        length="0"
+        type="image/png"/>
+      <pubDate>Wed, 22 Apr 2020 19:57:22 +0200</pubDate>
+      <dc:date>2020-04-22T19:57:22.787886+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 16–20 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-08-20-Megafon.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-08-20-Megafon-coalitions-seats.png"
+        length="0"
+        type="image/png"/>
+      <pubDate>Wed, 22 Apr 2020 19:57:22 +0200</pubDate>
+      <dc:date>2020-04-22T19:57:22.787886+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Megafon for Politiken and TV 2, 16–20 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-08-20-Megafon.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 24.4–29.9%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 6.7–10.1%&lt;/li&gt;&lt;li&gt;Venstre (RE): 18.9–23.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 8.0–11.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.4–9.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 6.2–9.5%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.0–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-08-20-Megafon.png"
-        length="344720"
+        length="0"
         type="image/png"/>
-      <pubDate>Wed, 22 Apr 2020 19:34:04 +0200</pubDate>
-      <dc:date>2020-04-22T19:34:04.957007+02:00</dc:date>
+      <pubDate>Wed, 22 Apr 2020 19:57:22 +0200</pubDate>
+      <dc:date>2020-04-22T19:57:22.787886+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 12–18 August 2019 – Voting Intentions</title>
@@ -1234,10 +1254,10 @@
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-06-23-Voxmeter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 22.8–28.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 6.8–10.1%&lt;/li&gt;&lt;li&gt;Venstre (RE): 22.5–27.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 7.1–10.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.5–3.3%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-06-23-Voxmeter.png"
-        length="349124"
+        length="0"
         type="image/png"/>
-      <pubDate>Tue, 18 Feb 2020 17:11:33 +0100</pubDate>
-      <dc:date>2020-02-18T17:11:33.021822+01:00</dc:date>
+      <pubDate>Thu, 23 Apr 2020 19:29:37 +0200</pubDate>
+      <dc:date>2020-04-23T19:29:37.650296+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 10–15 June 2019 – Seat Projections for the Parties</title>
@@ -1460,14 +1480,34 @@
       <dc:date>2020-02-18T16:46:47.181524+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 29–31 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-31-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 3 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 0 seats&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0 seats&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-31-Voxmeter-seats.png"
+        length="0"
+        type="image/png"/>
+      <pubDate>Wed, 22 Apr 2020 20:42:02 +0200</pubDate>
+      <dc:date>2020-04-22T20:42:02.232395+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 29–31 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-31-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-31-Voxmeter-coalitions-seats.png"
+        length="0"
+        type="image/png"/>
+      <pubDate>Wed, 22 Apr 2020 20:42:02 +0200</pubDate>
+      <dc:date>2020-04-22T20:42:02.232395+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 29–31 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2019-05-31-Voxmeter.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 24.8–30.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (ID): 9.3–13.2%&lt;/li&gt;&lt;li&gt;Venstre (RE): 15.6–20.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 7.3–10.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance (RE): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 7.1–10.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 4.0–6.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (*): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Klaus Riskær Pedersen (*): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Stram Kurs (*): 1.1–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2019-05-31-Voxmeter.png"
-        length="360805"
+        length="0"
         type="image/png"/>
-      <pubDate>Tue, 18 Feb 2020 17:55:00 +0100</pubDate>
-      <dc:date>2020-02-18T17:55:00.838502+01:00</dc:date>
+      <pubDate>Wed, 22 Apr 2020 20:42:02 +0200</pubDate>
+      <dc:date>2020-04-22T20:42:02.232395+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by YouGov, 26–30 May 2019 – Voting Intentions</title>
@@ -1649,6 +1689,6 @@
       <pubDate>Fri, 06 Mar 2020 23:27:29 +0100</pubDate>
       <dc:date>2020-03-06T23:27:29.541438+01:00</dc:date>
     </item>
-    <dc:date>2020-04-22T19:34:04.957007+02:00</dc:date>
+    <dc:date>2020-04-23T19:29:37.650296+02:00</dc:date>
   </channel>
 </rss>
