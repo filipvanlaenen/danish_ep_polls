@@ -176,7 +176,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1 | 1 |
+| [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1 | 1–2 |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -194,7 +194,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
 | [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 2 | 1–2 |
-| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 2 | 1–2 |
+| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 1–2 | 1–2 |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 1 | 1 | 1 | 1–2 | 1–2 |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 2 | 2 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2 | 2 | 2 | 1–3 |

@@ -176,7 +176,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0–1 | 0–1 |
