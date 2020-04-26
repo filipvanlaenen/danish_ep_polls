@@ -10,9 +10,9 @@ Last result: **2.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.4% | 1.1–2.6% | 1.0–2.8% | 0.8–3.2% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.3–2.6% | 1.1–2.8% | 1.0–2.9% | 0.8–3.3% |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 1.4% | 1.1–2.0% | 1.0–2.2% | 0.9–2.4% | 0.7–2.7% |
-| [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 2.2% | N/A | N/A | N/A | N/A |
+| [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.4–3.3% |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.6–2.4% |
 | [27 March–3 April 2020](2020-04-03-Gallup.html) | Gallup | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% |
@@ -96,9 +96,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 38% | 100% |  |
-| 1.5–2.5% | 56% | 62% | Median |
-| 2.5–3.5% | 7% | 7% | Last Result |
+| 0.5–1.5% | 29% | 100% |  |
+| 1.5–2.5% | 61% | 71% | Median |
+| 2.5–3.5% | 10% | 10% | Last Result |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -113,7 +113,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [10–16 April 2020](2020-04-16-Epinion.html) | Epinion |  |  |  |  |  |
+| [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [27 March–3 April 2020](2020-04-03-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
