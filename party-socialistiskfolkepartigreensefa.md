@@ -145,7 +145,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1–2 | 1–2 |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
 | [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |
+| [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
 | [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 0–1 |
 | [4–10 November 2019](2019-11-10-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1–2 | 1–2 | 1–2 |
