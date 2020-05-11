@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.1–1.2% | 0.1–1.4% | 0.1–1.6% | 0.0–1.9% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.2% | 0.2–1.3% | 0.2–1.5% | 0.1–1.8% |
+| [1–30 April 2020](2020-04-30-Voxmeter.html) | Voxmeter | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% |
@@ -96,9 +98,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 59% | 100% | Last Result, Median |
-| 0.5–1.5% | 38% | 41% |  |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 43% | 100% | Last Result |
+| 0.5–1.5% | 55% | 57% | Median |
+| 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -111,6 +113,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–30 April 2020](2020-04-30-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
