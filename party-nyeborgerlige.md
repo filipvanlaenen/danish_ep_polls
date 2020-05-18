@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 3.0–7.7% | 2.8–8.1% | 2.6–8.5% | 2.4–9.1% |
-| [1–30 April 2020](2020-04-30-Voxmeter.html) | Voxmeter | 6.7% | 5.8–7.8% | 5.6–8.2% | 5.3–8.4% | 4.9–9.0% |
-| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.5% |
-| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 7.3% | 6.3–8.4% | 6.1–8.8% | 5.9–9.1% | 5.4–9.6% |
+| N/A | [Poll Average](average.html) | 4.1% | 2.9–6.4% | 2.7–6.8% | 2.6–7.1% | 2.3–7.7% |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 5.9% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 6.3% | 5.5–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
+| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 6.7% | N/A | N/A | N/A | N/A |
+| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 6.8% | N/A | N/A | N/A | N/A |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 3.1% | 2.6–3.7% | 2.5–3.9% | 2.4–4.1% | 2.2–4.4% |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
@@ -101,15 +102,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 22% | 98% |  |
-| 3.5–4.5% | 22% | 77% |  |
-| 4.5–5.5% | 6% | 55% | Median |
-| 5.5–6.5% | 13% | 49% |  |
-| 6.5–7.5% | 22% | 36% |  |
-| 7.5–8.5% | 11% | 13% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 29% | 98% |  |
+| 3.5–4.5% | 29% | 69% | Median |
+| 4.5–5.5% | 15% | 40% |  |
+| 5.5–6.5% | 17% | 25% |  |
+| 6.5–7.5% | 7% | 8% |  |
+| 7.5–8.5% | 0.8% | 0.8% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -121,9 +120,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–30 April 2020](2020-04-30-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 0–1 | 0–1 |
-| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1 | 1 |
-| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
+| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
@@ -210,8 +210,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 51% | 100% | Last Result, Median |
-| 1 | 49% | 49% |  |
+| 0 | 75% | 100% | Last Result, Median |
+| 1 | 25% | 25% |  |
 | 2 | 0% | 0% |  |
 
 
