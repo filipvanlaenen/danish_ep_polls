@@ -119,7 +119,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |

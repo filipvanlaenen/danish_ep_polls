@@ -118,7 +118,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1 | 1 |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -208,8 +208,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 99.8% | 99.8% | Last Result, Median |
+| 0 | 0.4% | 100% |  |
+| 1 | 99.6% | 99.6% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
