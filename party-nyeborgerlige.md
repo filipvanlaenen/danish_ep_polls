@@ -12,8 +12,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.1% | 2.1–4.3% | 1.8–4.6% | 1.7–4.8% | 1.4–5.3% |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 2.1% | 1.7–2.9% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 2.1% | N/A | N/A | N/A | N/A |
-| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 2.1% | N/A | N/A | N/A | N/A |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 2.1% | 1.7–2.9% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
@@ -120,8 +120,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
