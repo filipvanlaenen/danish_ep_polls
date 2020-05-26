@@ -134,8 +134,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 6 | 6 | 6–7 | 6–7 | 5–7 |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -230,8 +230,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
 | 5 | 26% | 100% |  |
-| 6 | 71% | 74% | Median |
-| 7 | 3% | 3% |  |
+| 6 | 73% | 74% | Median |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0% | Majority |
 
 
