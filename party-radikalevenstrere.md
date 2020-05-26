@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.8–8.5% | 5.5–8.8% | 5.3–9.1% | 4.9–9.7% |
+| N/A | [Poll Average](average.html) | 7.2% | 5.8–8.6% | 5.5–9.0% | 5.3–9.3% | 4.9–9.9% |
+| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 7.5% | 6.5–8.7% | 6.3–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 7.9% | 6.9–9.0% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.1–10.5% |
@@ -103,12 +104,13 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 6% | 99.9% |  |
-| 5.5–6.5% | 28% | 94% |  |
-| 6.5–7.5% | 31% | 66% | Last Result, Median |
-| 7.5–8.5% | 26% | 34% |  |
-| 8.5–9.5% | 8% | 9% |  |
-| 9.5–10.5% | 0.7% | 0.7% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 5.5–6.5% | 27% | 94% |  |
+| 6.5–7.5% | 28% | 67% | Last Result, Median |
+| 7.5–8.5% | 27% | 39% |  |
+| 8.5–9.5% | 10% | 12% |  |
+| 9.5–10.5% | 1.2% | 1.3% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -120,6 +122,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
