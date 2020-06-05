@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-06-04T13:20:30.468414+02:00</updated>
+  <updated>2020-06-05T18:46:52.619824+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 31.9–37.7%, 6 seats</li><li>Dansk Folkeparti (ID): 5.2–8.2%, 0–1 seats</li><li>Venstre (RE): 17.3–22.1%, 3 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 7.4–10.9%, 1 seats</li><li>Liberal Alliance (RE): 1.7–3.7%, 0 seats</li><li>Alternativet (Greens/EFA): 0.2–1.1%, 0 seats</li><li>Radikale Venstre (RE): 6.2–9.5%, 1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 6.2–9.5%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 6.2–9.4%, 1 seats</li><li>Nye Borgerlige (*): 1.9–3.9%, 0 seats</li><li>Stram Kurs (*): 0.2–1.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Voxmeter, 25–31 May 2020</title>
     <updated>2020-06-04T13:20:30.468414+02:00</updated>
     <dc:date>2020-06-04T13:20:30.468414+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 32.2–36.8%, 5–6 seats</li><li>Dansk Folkeparti (ID): 5.7–8.2%, 1 seats</li><li>Venstre (RE): 18.5–22.4%, 3–4 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 5.0–7.4%, 0–1 seats</li><li>Liberal Alliance (RE): 2.1–3.7%, 0 seats</li><li>Alternativet (Greens/EFA): 0.7–1.7%, 0 seats</li><li>Radikale Venstre (RE): 5.1–7.5%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 6.1–8.7%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 5.7–8.2%, 1 seats</li><li>Nye Borgerlige (*): 4.8–7.0%, 0–1 seats</li><li>Stram Kurs (*): 0.5–1.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2020-05-29-Epinion.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2020-05-29-Epinion.html"/>
+    <title>Opinion Poll by Epinion, 22–29 May 2020</title>
+    <updated>2020-06-05T18:46:52.619824+02:00</updated>
+    <dc:date>2020-06-05T18:46:52.619824+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 33.0–38.8%, 6–7 seats</li><li>Dansk Folkeparti (ID): 5.1–8.1%, 0–1 seats</li><li>Venstre (RE): 16.8–21.6%, 3–4 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 6.3–9.6%, 1 seats</li><li>Liberal Alliance (RE): 1.6–3.5%, 0 seats</li><li>Alternativet (Greens/EFA): 0.5–1.7%, 0 seats</li><li>Radikale Venstre (RE): 6.4–9.7%, 1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 6.3–9.6%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 5.7–8.9%, 1 seats</li><li>Nye Borgerlige (*): 1.6–3.5%, 0 seats</li><li>Klaus Riskær Pedersen (*): 0.1–0.9%, 0 seats</li><li>Stram Kurs (*): 0.5–1.8%, 0 seats</li></ul></div></content>
@@ -615,5 +623,5 @@
     <updated>2020-03-06T23:27:29.541438+01:00</updated>
     <dc:date>2020-03-06T23:27:29.541438+01:00</dc:date>
   </entry>
-  <dc:date>2020-06-04T13:20:30.468414+02:00</dc:date>
+  <dc:date>2020-06-05T18:46:52.619824+02:00</dc:date>
 </feed>
