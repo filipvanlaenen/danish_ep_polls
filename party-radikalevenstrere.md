@@ -12,8 +12,10 @@ Last result: **6.5%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.1% | 5.8–8.6% | 5.5–8.9% | 5.3–9.2% | 4.9–9.8% |
 | [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter | 7.7% | 6.8–8.9% | 6.5–9.2% | 6.2–9.5% | 5.8–10.1% |
+| [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 6.2% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
 | [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 7.5% | 6.5–8.7% | 6.3–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [7–11 May 2020](2020-05-11-YouGov.html) | YouGov | 7.8% | N/A | N/A | N/A | N/A |
 | [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 7.9% | 6.9–9.0% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.1–10.5% |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
@@ -102,11 +104,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 6% | 99.9% |  |
-| 5.5–6.5% | 27% | 94% |  |
-| 6.5–7.5% | 30% | 67% | Last Result, Median |
+| 4.5–5.5% | 5% | 99.9% |  |
+| 5.5–6.5% | 27% | 95% |  |
+| 6.5–7.5% | 31% | 68% | Last Result, Median |
 | 7.5–8.5% | 27% | 37% |  |
 | 8.5–9.5% | 9% | 10% |  |
 | 9.5–10.5% | 1.0% | 1.0% |  |
@@ -121,10 +122,12 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
+| [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
+| [7–11 May 2020](2020-05-11-YouGov.html) | YouGov |  |  |  |  |  |
 | [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1 | 0–1 |
@@ -215,8 +218,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 89% | 89% | Last Result, Median |
+| 0 | 5% | 100% |  |
+| 1 | 94% | 95% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
