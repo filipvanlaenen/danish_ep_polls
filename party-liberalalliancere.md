@@ -11,6 +11,7 @@ Last result: **2.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.0% | 1.3–3.1% | 1.1–3.3% | 1.0–3.5% | 0.8–3.8% |
+| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
 | [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 2.8% | 2.3–3.4% | 2.2–3.6% | 2.1–3.7% | 1.9–4.0% |
 | [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 2.3% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.8% |
@@ -121,6 +122,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
