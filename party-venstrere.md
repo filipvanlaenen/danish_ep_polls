@@ -128,7 +128,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 3–4 |
 | [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 3–4 |
 | [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 3 | 3 | 3 | 3–4 | 3–4 |
 | [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3–4 | 2–4 |
