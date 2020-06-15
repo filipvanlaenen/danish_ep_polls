@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E | P |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter | 5–8% <br> 0–1 | 33–38% <br> 6–7 | 17–22% <br> 3–4 | 6–9% <br> 1 | 6–9% <br> 1 | 6–9% <br> 1 | 1–3% <br> 0 | 0–2% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | 2–4% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter | 5–8% <br> 0–1 | 33–38% <br> 6–7 | 17–22% <br> 3 | 6–9% <br> 1 | 6–9% <br> 1 | 6–9% <br> 1 | 1–3% <br> 0 | 0–2% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | 2–4% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
 | [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter | 5–8% <br> 0–1 | 32–38% <br> 6 | 17–22% <br> 3 | 6–10% <br> 1 | 6–9% <br> 1 | 6–10% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 7–11% <br> 1 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 0–1% <br> 0 |
 | [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 6–8% <br> 1 | 32–37% <br> 5–6 | 19–22% <br> 3–4 | 6–9% <br> 1 | 6–8% <br> 1 | 5–7% <br> 0–1 | 2–4% <br> 0 | 1–2% <br> 0 | 5–7% <br> 0–1 | N/A <br> N/A | 5–7% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
 | [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 5–8% <br> 0–1 | 33–39% <br> 6–7 | 17–22% <br> 3–4 | 6–10% <br> 1 | 6–9% <br> 1 | 6–10% <br> 1 | 2–3% <br> 0 | 0–2% <br> 0 | 6–10% <br> 1 | N/A <br> N/A | 2–3% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 |
