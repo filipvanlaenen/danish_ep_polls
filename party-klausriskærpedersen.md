@@ -10,18 +10,21 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% | 0.1–1.4% |
-| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% | 0.2–1.5% |
-| [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% | 0.2–2.1% |
+| [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
+| [11 June 2020](2020-06-11-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
+| [8–10 June 2020](2020-06-10-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
+| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter <br> Ritzau | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% | 0.2–1.5% |
+| [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 0.0% | N/A | N/A | N/A | N/A |
-| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
-| [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
+| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter <br> Ritzau | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter <br> Ritzau | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
 | [7–11 May 2020](2020-05-11-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
-| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter <br> Ritzau | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
-| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
+| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter <br> Ritzau | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
+| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter <br> Ritzau | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
@@ -105,9 +108,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 58% | 100% | Last Result, Median |
-| 0.5–1.5% | 42% | 42% |  |
-| 1.5–2.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 16% | 100% | Last Result |
+| 0.5–1.5% | 77% | 84% | Median |
+| 1.5–2.5% | 6% | 6% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -120,17 +123,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
+| [11 June 2020](2020-06-11-Gallup.html) | Gallup |  |  |  |  |  |
+| [8–10 June 2020](2020-06-10-YouGov.html) | YouGov |  |  |  |  |  |
+| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
+| [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [22–29 May 2020](2020-05-29-Epinion.html) | Epinion |  |  |  |  |  |
-| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
+| [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [7–11 May 2020](2020-05-11-YouGov.html) | YouGov |  |  |  |  |  |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
-| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
+| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |

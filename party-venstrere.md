@@ -10,18 +10,21 @@ Last result: **16.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.2% | 18.4–22.2% | 17.9–22.7% | 17.6–23.2% | 16.8–24.0% |
-| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter | 19.1% | 17.6–20.7% | 17.1–21.2% | 16.8–21.6% | 16.1–22.4% |
-| [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter | 19.6% | 18.1–21.2% | 17.6–21.7% | 17.3–22.1% | 16.6–22.9% |
+| N/A | [Poll Average](average.html) | 20.2% | 18.2–22.0% | 17.7–22.5% | 17.2–22.9% | 16.5–23.7% |
+| [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 20.4% | 18.8–22.0% | 18.4–22.5% | 18.0–22.9% | 17.3–23.8% |
+| [11 June 2020](2020-06-11-Gallup.html) | Gallup | 21.4% | 20.1–22.8% | 19.7–23.2% | 19.4–23.5% | 18.7–24.2% |
+| [8–10 June 2020](2020-06-10-YouGov.html) | YouGov | 18.6% | 17.2–20.0% | 16.8–20.5% | 16.5–20.8% | 15.9–21.5% |
+| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter <br> Ritzau | 19.1% | 17.6–20.7% | 17.1–21.2% | 16.8–21.6% | 16.1–22.4% |
+| [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 19.6% | 18.1–21.2% | 17.6–21.7% | 17.3–22.1% | 16.6–22.9% |
 | [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 20.4% | 19.2–21.7% | 18.8–22.1% | 18.5–22.4% | 17.9–23.1% |
-| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 19.1% | 17.6–20.7% | 17.2–21.2% | 16.8–21.6% | 16.1–22.4% |
-| [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 20.4% | 18.9–22.1% | 18.5–22.6% | 18.1–23.0% | 17.4–23.9% |
+| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter <br> Ritzau | 19.1% | 17.6–20.7% | 17.2–21.2% | 16.8–21.6% | 16.1–22.4% |
+| [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter <br> Ritzau | 20.4% | 18.9–22.1% | 18.5–22.6% | 18.1–23.0% | 17.4–23.9% |
 | [7–11 May 2020](2020-05-11-YouGov.html) | YouGov | 19.3% | 18.0–20.8% | 17.6–21.3% | 17.2–21.6% | 16.6–22.4% |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 21.9% | 20.3–23.6% | 19.8–24.1% | 19.4–24.5% | 18.7–25.3% |
-| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 18.0–24.5% |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 21.9% | 20.3–23.6% | 19.8–24.1% | 19.4–24.5% | 18.7–25.3% |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter <br> Ritzau | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 18.0–24.5% |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 19.8% | 18.2–21.4% | 17.8–21.9% | 17.4–22.3% | 16.7–23.2% |
-| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 20.9% | 19.3–22.6% | 18.9–23.1% | 18.5–23.5% | 17.8–24.3% |
-| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 21.5% | 19.9–23.2% | 19.5–23.7% | 19.1–24.1% | 18.4–24.9% |
+| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter <br> Ritzau | 20.9% | 19.3–22.6% | 18.9–23.1% | 18.5–23.5% | 17.8–24.3% |
+| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter <br> Ritzau | 21.5% | 19.9–23.2% | 19.5–23.7% | 19.1–24.1% | 18.4–24.9% |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 21.0% | 19.8–22.4% | 19.4–22.7% | 19.1–23.1% | 18.5–23.7% |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 22.0% | 20.4–23.7% | 19.9–24.1% | 19.6–24.6% | 18.8–25.4% |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau | 21.8% | 20.2–23.5% | 19.8–24.0% | 19.4–24.4% | 18.7–25.2% |
@@ -106,15 +109,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 2% | 99.8% | Last Result |
-| 17.5–18.5% | 10% | 98% |  |
-| 18.5–19.5% | 21% | 88% |  |
-| 19.5–20.5% | 27% | 67% | Median |
-| 20.5–21.5% | 22% | 40% |  |
-| 21.5–22.5% | 12% | 19% |  |
-| 22.5–23.5% | 5% | 6% |  |
-| 23.5–24.5% | 1.2% | 1.3% |  |
+| 15.5–16.5% | 0.6% | 100% |  |
+| 16.5–17.5% | 4% | 99.4% | Last Result |
+| 17.5–18.5% | 10% | 96% |  |
+| 18.5–19.5% | 19% | 85% |  |
+| 19.5–20.5% | 26% | 66% | Median |
+| 20.5–21.5% | 23% | 40% |  |
+| 21.5–22.5% | 13% | 17% |  |
+| 22.5–23.5% | 4% | 4% |  |
+| 23.5–24.5% | 0.6% | 0.7% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
@@ -128,17 +131,20 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 3–4 |
-| [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 3–4 |
+| [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 3–4 |
+| [11 June 2020](2020-06-11-Gallup.html) | Gallup | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [8–10 June 2020](2020-06-10-YouGov.html) | YouGov | 3 | 3 | 3 | 3 | 2–3 |
+| [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 3–4 |
+| [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 3–4 |
 | [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 3 | 3 | 3 | 3–4 | 3–4 |
-| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3–4 | 2–4 |
-| [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3–4 | 2–4 |
+| [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–11 May 2020](2020-05-11-YouGov.html) | YouGov | 3 | 3 | 3 | 3 | 2–3 |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30 March–11 April 2020](2020-04-11-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [23 March–5 April 2020](2020-04-05-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -224,9 +230,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% | Last Result |
-| 3 | 79% | 99.8% | Median |
-| 4 | 21% | 21% |  |
+| 2 | 0.1% | 100% | Last Result |
+| 3 | 85% | 99.9% | Median |
+| 4 | 15% | 15% |  |
 | 5 | 0% | 0% |  |
 
 
