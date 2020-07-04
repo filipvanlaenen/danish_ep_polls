@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.4–1.6% | 0.3–1.8% | 0.2–2.0% | 0.1–2.3% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.7% | 0.4–1.9% | 0.3–2.0% | 0.2–2.3% |
+| [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
+| [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 1.0% | N/A | N/A | N/A | N/A |
+| [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 0.6% | N/A | N/A | N/A | N/A |
 | [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
 | [11 June 2020](2020-06-11-Gallup.html) | Gallup | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.9–2.5% |
 | [8–10 June 2020](2020-06-10-YouGov.html) | YouGov | 0.8% | 0.5–1.2% | 0.5–1.4% | 0.4–1.5% | 0.3–1.7% |
@@ -108,9 +111,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 25% | 100% | Last Result |
-| 0.5–1.5% | 63% | 75% | Median |
-| 1.5–2.5% | 12% | 12% |  |
+| 0.0–0.5% | 15% | 100% | Last Result |
+| 0.5–1.5% | 70% | 85% | Median |
+| 1.5–2.5% | 15% | 15% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -124,6 +127,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
+| [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
+| [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [11 June 2020](2020-06-11-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [8–10 June 2020](2020-06-10-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
@@ -206,7 +212,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0–1 |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0–1 |
 | [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0–1 |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0–1 |
