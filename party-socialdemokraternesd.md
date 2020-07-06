@@ -147,7 +147,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 6 | 6 | 5–7 | 5–7 |
+| [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [11 June 2020](2020-06-11-Gallup.html) | Gallup | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [8–10 June 2020](2020-06-10-YouGov.html) | YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -249,8 +249,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 38% | 100% |  |
-| 6 | 59% | 62% | Median |
+| 5 | 44% | 100% |  |
+| 6 | 54% | 56% | Median |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% | Majority |
 
