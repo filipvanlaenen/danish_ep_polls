@@ -229,7 +229,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5 | 5 | 5 |
+| [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 5 | 5 | 4–5 | 4–5 | 4–5 |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
