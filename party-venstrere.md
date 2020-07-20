@@ -192,7 +192,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 4 | 4 | 4 | 4 | 4–5 |
 | [23–29 September 2019](2019-09-29-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [29 September 2019](2019-09-29-Gallup.html) | Gallup | 4 | 4 | 4 | 4 | 4–5 |
-| [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 3–4 | 3–4 |
+| [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–15 September 2019](2019-09-15-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12 September 2019](2019-09-12-Gallup.html) | Gallup | 4 | 4 | 4–5 | 4–5 | 3–5 |
@@ -216,7 +216,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [31 May–2 June 2019](2019-06-02-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [28 May–1 June 2019](2019-06-01-YouGov.html) | YouGov | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [30 May–1 June 2019](2019-06-01-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 2–4 |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
