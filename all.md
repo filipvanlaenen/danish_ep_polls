@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E | P |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 5–8% <br> 0–1 | 31–36% <br> 5–6 | 17–21% <br> 3–4 | 7–10% <br> 1 | 5–9% <br> 1 | 6–9% <br> 1 | 1–3% <br> 0 | 1–2% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | 3–6% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [2–6 July 2020](2020-07-06-YouGov.html) | YouGov | 5–8% <br> 0–1 | 30–35% <br> 5–6 | 15–19% <br> 2–3 | 5–8% <br> 1 | 7–11% <br> 1 | 5–8% <br> 0–1 | 2–4% <br> 0 | 0–1% <br> 0 | 6–9% <br> 1 | 0–1% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | 0–1% <br> 0 |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 4–7% <br> 0–1 | 33–38% <br> 5–7 | 18–23% <br> 3–4 | 6–9% <br> 1 | 5–8% <br> 0–1 | 6–9% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | 4–7% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
 | [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 5–8% <br> 0–1 | 28–34% <br> 5–6 | 15–20% <br> 2–3 | 6–10% <br> 1 | 7–11% <br> 1–2 | 7–10% <br> 1 | 2–4% <br> 0 | 1–2% <br> 0 | 5–8% <br> 1 | 1–2% <br> 0 | 5–8% <br> 0–1 | 0–1% <br> 0 | 1–2% <br> 0 |
