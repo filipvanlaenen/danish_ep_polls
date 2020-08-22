@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 17:08:42 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Gallup, 13 August 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Gallup, 13 August 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup-seating-plan.png" length="281110" type="image/png"/>
+      <pubDate>Sat, 22 Aug 2020 14:13:30 +0200</pubDate>
+      <dc:date>2020-08-22T14:13:30.87722+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 13 August 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Gallup, 13 August 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup-seats.png" length="202475" type="image/png"/>
+      <pubDate>Sat, 22 Aug 2020 14:13:30 +0200</pubDate>
+      <dc:date>2020-08-22T14:13:30.87722+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Gallup, 13 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Gallup, 13 August 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-08-13-Gallup.png" length="329409" type="image/png"/>
+      <pubDate>Sat, 22 Aug 2020 14:13:30 +0200</pubDate>
+      <dc:date>2020-08-22T14:13:30.87722+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 3–8 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-08-08-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter for Ritzau, 3–8 August 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-08-08-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-08-08-Voxmeter-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-06-07-Voxmeter.png" length="347761" type="image/png"/>
       <pubDate>Sun, 14 Jun 2020 20:04:57 +0200</pubDate>
       <dc:date>2020-06-14T20:04:57.544857+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter for Ritzau, 25–31 May 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter for Ritzau, 25–31 May 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter-seating-plan.png" length="370434" type="image/png"/>
-      <pubDate>Thu, 4 Jun 2020 13:20:30 +0200</pubDate>
-      <dc:date>2020-06-04T13:20:30.468414+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter for Ritzau, 25–31 May 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter for Ritzau, 25–31 May 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter-seats.png" length="222806" type="image/png"/>
-      <pubDate>Thu, 4 Jun 2020 13:20:30 +0200</pubDate>
-      <dc:date>2020-06-04T13:20:30.468414+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter for Ritzau, 25–31 May 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter for Ritzau, 25–31 May 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-05-31-Voxmeter.png" length="331882" type="image/png"/>
-      <pubDate>Thu, 4 Jun 2020 13:20:30 +0200</pubDate>
-      <dc:date>2020-06-04T13:20:30.468414+02:00</dc:date>
     </item>
   </channel>
 </rss>
