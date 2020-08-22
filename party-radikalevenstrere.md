@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 5.9–8.6% | 5.6–9.0% | 5.4–9.4% | 5.0–10.0% |
+| N/A | [Poll Average](average.html) | 7.2% | 5.9–8.6% | 5.6–9.0% | 5.4–9.4% | 5.0–10.0% |
+| [13 August 2020](2020-08-13-Gallup.html) | Gallup | 7.5% | 6.7–8.5% | 6.5–8.7% | 6.3–9.0% | 5.9–9.5% |
 | [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 7.4% | 6.5–8.6% | 6.2–8.9% | 6.0–9.3% | 5.5–9.8% |
 | [2–6 July 2020](2020-07-06-YouGov.html) | YouGov | 6.4% | 5.6–7.4% | 5.3–7.6% | 5.1–7.9% | 4.8–8.4% |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
@@ -68,7 +69,7 @@ Last result: **6.5%** (General Election of 26 May 2019)
 | [7–12 October 2019](2019-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.5% |
 | [30 September–7 October 2019](2019-10-07-Voxmeter.html) | Voxmeter <br> 2019-10-07 | 8.7% | 7.6–9.9% | 7.3–10.2% | 7.1–10.5% | 6.6–11.1% |
 | [23–29 September 2019](2019-09-29-Voxmeter.html) | Voxmeter <br> Ritzau | 9.5% | 8.4–10.8% | 8.1–11.1% | 7.9–11.4% | 7.4–12.1% |
-| [29 September 2019](2019-09-29-Gallup.html) | Gallup | 7.9% | 7.0–8.8% | 6.8–9.1% | 6.6–9.3% | 6.2–9.8% |
+| [29 September 2019](2019-09-29-Gallup.html) | Gallup | 7.9% | 7.0–8.8% | 6.8–9.1% | 6.6–9.4% | 6.2–9.8% |
 | [16–22 September 2019](2019-09-22-Voxmeter.html) | Voxmeter <br> Ritzau | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.6% |
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [9–15 September 2019](2019-09-15-Voxmeter.html) | Voxmeter <br> Ritzau | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.5% | 7.5–12.2% |
@@ -115,11 +116,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 4% | 100% |  |
-| 5.5–6.5% | 26% | 96% |  |
-| 6.5–7.5% | 34% | 70% | Last Result, Median |
-| 7.5–8.5% | 25% | 36% |  |
-| 8.5–9.5% | 9% | 11% |  |
-| 9.5–10.5% | 1.5% | 2% |  |
+| 5.5–6.5% | 25% | 96% |  |
+| 6.5–7.5% | 33% | 71% | Last Result, Median |
+| 7.5–8.5% | 26% | 38% |  |
+| 8.5–9.5% | 10% | 11% |  |
+| 9.5–10.5% | 2% | 2% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -133,6 +134,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| [13 August 2020](2020-08-13-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
 | [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [2–6 July 2020](2020-07-06-YouGov.html) | YouGov | 1 | 1 | 1 | 0–1 | 0–1 |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
