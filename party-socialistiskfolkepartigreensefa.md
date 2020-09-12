@@ -11,6 +11,7 @@ Last result: **10.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.4% | 6.3–8.6% | 6.0–8.9% | 5.8–9.2% | 5.3–9.8% |
+| [31 August–1 September 2020](2020-09-01-Voxmeter.html) | Voxmeter | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.6–11.1% |
 | [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 7.8% | 6.8–9.0% | 6.6–9.3% | 6.3–9.6% | 5.9–10.2% |
 | [24–27 August 2020](2020-08-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
 | [17–23 August 2020](2020-08-23-Voxmeter.html) | Voxmeter | 7.7% | 6.7–8.9% | 6.5–9.2% | 6.2–9.5% | 5.8–10.1% |
@@ -138,6 +139,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [31 August–1 September 2020](2020-09-01-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
 | [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [24–27 August 2020](2020-08-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1 | 1 |
 | [17–23 August 2020](2020-08-23-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
