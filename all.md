@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E | P |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [31 August–1 September 2020](2020-09-01-Voxmeter.html) | Voxmeter | 5–8% <br> 0–1 | 31–36% <br> 5–6 | 18–23% <br> 3–4 | 7–10% <br> 1 | 6–9% <br> 1 | 5–8% <br> 0–1 | 2–3% <br> 0 | 0–1% <br> 0 | 6–10% <br> 1 | 1–2% <br> 0 | 4–6% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
 | [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 6–9% <br> 1 | 30–35% <br> 5–6 | 17–22% <br> 3–4 | 6–10% <br> 1 | 7–11% <br> 1 | 6–9% <br> 1 | 1–3% <br> 0 | 0–1% <br> 0 | 6–9% <br> 1 | 1–3% <br> 0 | 3–6% <br> 0–1 | N/A <br> N/A | 0–1% <br> 0 |
 | [24–27 August 2020](2020-08-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 5–8% <br> 1 | 28–34% <br> 5–6 | 16–21% <br> 2–3 | 6–9% <br> 1 | 8–11% <br> 1 | 6–9% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 6–9% <br> 1 | 1–2% <br> 0 | 5–8% <br> 1 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [17–23 August 2020](2020-08-23-Voxmeter.html) | Voxmeter | 6–9% <br> 1 | 30–36% <br> 5–6 | 17–21% <br> 3 | 6–10% <br> 1 | 7–10% <br> 1 | 6–9% <br> 1 | 2–3% <br> 0 | 0–1% <br> 0 | 6–10% <br> 1 | 0–1% <br> 0 | 4–6% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 |
