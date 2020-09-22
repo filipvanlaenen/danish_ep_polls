@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 4.3–8.4% | 3.9–8.8% | 3.7–9.2% | 3.3–9.8% |
+| N/A | [Poll Average](average.html) | 6.5% | 4.8–8.2% | 4.4–8.7% | 4.1–9.0% | 3.6–9.7% |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 6.2% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
 | [31 August–6 September 2020](2020-09-06-Voxmeter.html) | Voxmeter | 4.7% | 4.0–5.7% | 3.8–6.0% | 3.6–6.2% | 3.3–6.7% |
 | [31 August–1 September 2020](2020-09-01-Voxmeter.html) | Voxmeter | 4.7% | 4.0–5.7% | 3.8–6.0% | 3.6–6.2% | 3.3–6.7% |
@@ -124,16 +124,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 12% | 98% |  |
-| 4.5–5.5% | 13% | 86% |  |
-| 5.5–6.5% | 23% | 73% |  |
-| 6.5–7.5% | 26% | 50% | Median |
-| 7.5–8.5% | 17% | 24% |  |
-| 8.5–9.5% | 7% | 8% |  |
-| 9.5–10.5% | 0.9% | 1.0% |  |
+| 2.5–3.5% | 0.4% | 100% |  |
+| 3.5–4.5% | 7% | 99.6% |  |
+| 4.5–5.5% | 15% | 93% |  |
+| 5.5–6.5% | 32% | 78% | Median |
+| 6.5–7.5% | 27% | 46% |  |
+| 7.5–8.5% | 14% | 20% |  |
+| 8.5–9.5% | 5% | 6% |  |
+| 9.5–10.5% | 0.7% | 0.8% |  |
 | 10.5–11.5% | 0% | 0% |  |
-| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -257,8 +256,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 75% | 75% | Median |
+| 0 | 21% | 100% | Last Result |
+| 1 | 79% | 79% | Median |
 | 2 | 0% | 0% |  |
 
 

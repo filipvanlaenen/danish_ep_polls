@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.9% | 0.1–2.1% | 0.1–2.3% | 0.1–2.7% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.3–1.8% | 0.2–2.0% | 0.2–2.3% | 0.1–2.7% |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
 | [31 August–6 September 2020](2020-09-06-Voxmeter.html) | Voxmeter | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [31 August–1 September 2020](2020-09-01-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
@@ -121,10 +121,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 41% | 100% | Last Result |
-| 0.5–1.5% | 42% | 59% | Median |
-| 1.5–2.5% | 16% | 17% |  |
-| 2.5–3.5% | 1.1% | 1.1% |  |
+| 0.0–0.5% | 32% | 100% | Last Result |
+| 0.5–1.5% | 54% | 68% | Median |
+| 1.5–2.5% | 13% | 14% |  |
+| 2.5–3.5% | 0.9% | 0.9% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
