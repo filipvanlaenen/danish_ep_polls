@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.3–1.1% | 0.3–1.3% | 0.2–1.4% | 0.1–1.6% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.2% | 0.3–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
+| [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.5–1.5% | 0.5–1.7% |
 | [31 August–6 September 2020](2020-09-06-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [31 August–1 September 2020](2020-09-01-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
@@ -121,9 +123,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 35% | 100% | Last Result |
-| 0.5–1.5% | 65% | 65% | Median |
-| 1.5–2.5% | 0.8% | 0.8% |  |
+| 0.0–0.5% | 24% | 100% | Last Result |
+| 0.5–1.5% | 75% | 76% | Median |
+| 1.5–2.5% | 1.2% | 1.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -136,6 +138,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [31 August–6 September 2020](2020-09-06-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [31 August–1 September 2020](2020-09-01-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
