@@ -10,7 +10,12 @@ Last result: **10.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 6.2–8.6% | 5.9–9.0% | 5.7–9.4% | 5.3–10.1% |
+| N/A | [Poll Average](average.html) | 7.1% | 6.2–8.3% | 6.0–8.7% | 5.8–9.1% | 5.4–9.7% |
+| [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 7.8% | 6.8–9.0% | 6.6–9.4% | 6.3–9.7% | 5.9–10.3% |
+| [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 8.2% | 7.3–9.1% | 7.1–9.4% | 6.9–9.6% | 6.6–10.1% |
+| [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 7.1% | 6.4–7.9% | 6.2–8.1% | 6.1–8.3% | 5.7–8.7% |
+| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 6.8% | 6.1–7.7% | 5.9–7.9% | 5.7–8.2% | 5.3–8.6% |
+| [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.1–10.5% | 6.6–11.1% |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.7–10.1% | 6.2–10.7% |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 8.8% | 7.8–10.0% | 7.5–10.3% | 7.2–10.6% | 6.8–11.2% |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 6.6% | 5.9–7.5% | 5.7–7.7% | 5.5–8.0% | 5.2–8.4% |
@@ -124,13 +129,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.4% | 100% |  |
-| 5.5–6.5% | 19% | 98.6% |  |
-| 6.5–7.5% | 39% | 79% | Median |
-| 7.5–8.5% | 29% | 40% |  |
-| 8.5–9.5% | 10% | 12% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.1% | 0.2% | Last Result |
+| 4.5–5.5% | 1.0% | 100% |  |
+| 5.5–6.5% | 21% | 99.0% |  |
+| 6.5–7.5% | 47% | 78% | Median |
+| 7.5–8.5% | 24% | 31% |  |
+| 8.5–9.5% | 6% | 7% |  |
+| 9.5–10.5% | 0.8% | 0.8% |  |
+| 10.5–11.5% | 0% | 0% | Last Result |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -142,8 +147,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
-| [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–2 |
+| [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
+| [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
+| [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
+| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 1 | 1 | 1 | 1 | 1 |
+| [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
+| [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 1 | 1 | 1 | 0–1 | 0–1 |
 | [31 August–6 September 2020](2020-09-06-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
@@ -257,9 +267,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.2% | 100% |  |
-| 1 | 98.7% | 98.8% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 1.1% | 100% |  |
+| 1 | 98% | 98.9% | Last Result, Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 

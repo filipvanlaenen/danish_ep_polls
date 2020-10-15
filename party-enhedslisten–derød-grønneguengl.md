@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 6.1–8.5% | 5.8–8.8% | 5.6–9.1% | 5.2–9.7% |
+| N/A | [Poll Average](average.html) | 6.9% | 5.9–7.9% | 5.7–8.2% | 5.5–8.5% | 5.1–9.0% |
+| [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.4–8.6% | 5.0–9.2% |
+| [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 6.4% | 5.7–7.3% | 5.5–7.5% | 5.3–7.8% | 5.0–8.2% |
+| [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 6.7% | 6.0–7.5% | 5.8–7.7% | 5.7–7.9% | 5.4–8.2% |
+| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 7.3% | 6.5–8.2% | 6.3–8.5% | 6.1–8.7% | 5.8–9.1% |
+| [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 7.6% | 6.7–8.8% | 6.4–9.1% | 6.2–9.4% | 5.7–10.0% |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 7.3% | 6.4–8.4% | 6.1–8.7% | 5.9–9.0% | 5.5–9.6% |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 6.3% | 5.6–7.2% | 5.4–7.4% | 5.2–7.6% | 4.9–8.0% |
@@ -128,12 +133,12 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 20% | 98% |  |
-| 6.5–7.5% | 39% | 78% | Median |
-| 7.5–8.5% | 31% | 39% |  |
-| 8.5–9.5% | 8% | 8% |  |
-| 9.5–10.5% | 0.7% | 0.7% |  |
+| 4.5–5.5% | 3% | 100% |  |
+| 5.5–6.5% | 31% | 97% |  |
+| 6.5–7.5% | 46% | 66% | Median |
+| 7.5–8.5% | 17% | 19% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -146,6 +151,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
+| [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
+| [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
+| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 1 | 1 | 1 | 1 | 1 |
+| [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -260,9 +270,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% | Last Result |
-| 1 | 98.9% | 98.9% | Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 0 | 1.4% | 100% | Last Result |
+| 1 | 98.6% | 98.6% | Median |
+| 2 | 0% | 0% |  |
 
 

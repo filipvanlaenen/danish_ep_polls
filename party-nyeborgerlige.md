@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 4.2–8.2% | 3.8–8.7% | 3.5–9.0% | 3.1–9.7% |
-| [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| N/A | [Poll Average](average.html) | 6.4% | 4.3–7.4% | 3.9–7.7% | 3.6–8.0% | 3.2–8.5% |
+| [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.4–5.4% | 3.2–5.8% |
+| [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 6.7% | 6.0–7.5% | 5.8–7.7% | 5.7–7.9% | 5.4–8.2% |
+| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 6.9% | 6.1–7.8% | 5.9–8.0% | 5.7–8.2% | 5.4–8.7% |
+| [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
+| [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 3.8% | 3.2–4.7% | 3.0–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.4–5.8% | 3.0–6.3% |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 6.2% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
 | [31 August–6 September 2020](2020-09-06-Voxmeter.html) | Voxmeter | 4.7% | 4.0–5.7% | 3.8–6.0% | 3.6–6.2% | 3.3–6.7% |
@@ -126,15 +131,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 12% | 97% |  |
-| 4.5–5.5% | 10% | 85% |  |
-| 5.5–6.5% | 29% | 76% | Median |
-| 6.5–7.5% | 26% | 46% |  |
-| 7.5–8.5% | 14% | 20% |  |
-| 8.5–9.5% | 5% | 6% |  |
-| 9.5–10.5% | 0.7% | 0.8% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 11% | 98% |  |
+| 4.5–5.5% | 11% | 87% |  |
+| 5.5–6.5% | 33% | 77% | Median |
+| 6.5–7.5% | 36% | 43% |  |
+| 7.5–8.5% | 7% | 8% |  |
+| 8.5–9.5% | 0.4% | 0.4% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -146,7 +150,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
+| [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
+| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 1 | 1 | 1 | 1 | 1 |
+| [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
+| [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [31 August–6 September 2020](2020-09-06-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -260,8 +269,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% | Last Result |
-| 1 | 79% | 79% | Median |
+| 0 | 20% | 100% | Last Result |
+| 1 | 80% | 80% | Median |
 | 2 | 0% | 0% |  |
 
 
