@@ -154,7 +154,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 3 |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 3 | 3 | 3 | 3 | 3 |
 | [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 3 |
+| [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 3–4 |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 2–3 |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–8 September 2020](2020-09-08-Epinion.html) | Epinion | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -269,8 +269,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 12% | 100% | Last Result |
-| 3 | 76% | 88% | Median |
+| 2 | 10% | 100% | Last Result |
+| 3 | 78% | 90% | Median |
 | 4 | 12% | 12% |  |
 | 5 | 0% | 0% |  |
 

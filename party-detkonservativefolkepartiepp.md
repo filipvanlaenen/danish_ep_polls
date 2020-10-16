@@ -147,10 +147,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
-| [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1–2 |
+| [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
 | [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
@@ -267,8 +267,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 91% | 100% | Last Result, Median |
-| 2 | 9% | 9% |  |
+| 1 | 89% | 100% | Last Result, Median |
+| 2 | 11% | 11% |  |
 | 3 | 0% | 0% |  |
 
 
