@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.2–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.2% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.6% | 0.2–1.8% | 0.2–2.0% | 0.1–2.4% |
+| [19–22 October 2020](2020-10-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [12–18 October 2020](2020-10-18-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 1.5% | 1.1–2.1% | 1.1–2.2% | 1.0–2.4% | 0.8–2.7% |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.7% | 0.2–0.7% | 0.2–0.8% | 0.1–1.0% |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% |
 | [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.7% | 0.1–0.9% |
@@ -129,9 +131,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 57% | 100% | Last Result, Median |
-| 0.5–1.5% | 43% | 43% |  |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 47% | 100% | Last Result |
+| 0.5–1.5% | 43% | 53% | Median |
+| 1.5–2.5% | 10% | 10% |  |
+| 2.5–3.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -143,8 +147,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19–22 October 2020](2020-10-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
 | [12–18 October 2020](2020-10-18-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 0 | 0 | 0 | 0 | 0 |
