@@ -161,7 +161,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [19–22 October 2020](2020-10-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [19–22 October 2020](2020-10-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [12–18 October 2020](2020-10-18-Voxmeter.html) | Voxmeter | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -284,9 +284,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 11% | 100% |  |
-| 5 | 72% | 89% | Median |
-| 6 | 17% | 17% |  |
+| 4 | 14% | 100% |  |
+| 5 | 67% | 86% | Median |
+| 6 | 19% | 19% |  |
 | 7 | 0% | 0% |  |
 
 
