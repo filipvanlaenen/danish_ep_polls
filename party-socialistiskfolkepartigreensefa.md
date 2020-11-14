@@ -10,7 +10,8 @@ Last result: **10.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 5.6–9.0% | 5.2–9.4% | 4.9–9.8% | 4.4–10.5% |
+| N/A | [Poll Average](average.html) | 7.4% | 5.6–9.0% | 5.2–9.4% | 4.9–9.8% | 4.4–10.5% |
+| [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 7.4% | 6.6–8.3% | 6.4–8.5% | 6.2–8.8% | 5.9–9.2% |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 8.3% | 7.3–9.5% | 7.0–9.8% | 6.7–10.1% | 6.3–10.7% |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 8.8% | 7.8–10.1% | 7.5–10.4% | 7.2–10.7% | 6.8–11.3% |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.1–10.6% | 6.7–11.3% |
@@ -137,10 +138,10 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.8% | 100% |  |
 | 4.5–5.5% | 9% | 99.2% |  |
-| 5.5–6.5% | 19% | 91% |  |
-| 6.5–7.5% | 31% | 72% | Median |
-| 7.5–8.5% | 24% | 41% |  |
-| 8.5–9.5% | 13% | 17% |  |
+| 5.5–6.5% | 17% | 91% |  |
+| 6.5–7.5% | 28% | 73% | Median |
+| 7.5–8.5% | 27% | 45% |  |
+| 8.5–9.5% | 14% | 18% |  |
 | 9.5–10.5% | 3% | 4% |  |
 | 10.5–11.5% | 0.4% | 0.4% | Last Result |
 | 11.5–12.5% | 0% | 0% |  |
@@ -155,6 +156,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
