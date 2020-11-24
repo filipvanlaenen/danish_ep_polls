@@ -10,7 +10,8 @@ Last result: **10.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 5.6–9.4% | 5.2–9.9% | 4.9–10.2% | 4.4–11.0% |
+| N/A | [Poll Average](average.html) | 7.4% | 5.6–9.2% | 5.2–9.6% | 4.9–10.0% | 4.4–10.7% |
+| [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.6–11.1% |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 9.0% | 7.9–10.2% | 7.7–10.6% | 7.4–10.9% | 6.9–11.5% |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 7.4% | 6.6–8.3% | 6.4–8.5% | 6.2–8.8% | 5.9–9.2% |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 8.3% | 7.3–9.5% | 7.0–9.8% | 6.7–10.1% | 6.3–10.7% |
@@ -140,13 +141,12 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.8% | 100% |  |
 | 4.5–5.5% | 9% | 99.2% |  |
 | 5.5–6.5% | 17% | 91% |  |
-| 6.5–7.5% | 26% | 74% | Median |
-| 7.5–8.5% | 23% | 48% |  |
-| 8.5–9.5% | 16% | 24% |  |
-| 9.5–10.5% | 7% | 8% |  |
-| 10.5–11.5% | 1.2% | 1.3% | Last Result |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 6.5–7.5% | 27% | 73% | Median |
+| 7.5–8.5% | 26% | 47% |  |
+| 8.5–9.5% | 16% | 21% |  |
+| 9.5–10.5% | 5% | 5% |  |
+| 10.5–11.5% | 0.6% | 0.7% | Last Result |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -158,6 +158,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–2 |
+| [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
