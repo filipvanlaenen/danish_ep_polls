@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.3% | 0.4–1.4% | 0.3–1.7% |
+| [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 0.0% | N/A | N/A | N/A | N/A |
+| [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% |
@@ -137,9 +139,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% | Last Result |
-| 0.5–1.5% | 86% | 89% | Median |
-| 1.5–2.5% | 2% | 2% |  |
+| 0.0–0.5% | 13% | 100% | Last Result |
+| 0.5–1.5% | 85% | 87% | Median |
+| 1.5–2.5% | 1.2% | 1.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -152,6 +154,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
+| [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
