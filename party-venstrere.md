@@ -10,7 +10,8 @@ Last result: **16.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.6% | 15.4–19.9% | 14.9–20.6% | 14.5–21.1% | 13.7–22.2% |
+| N/A | [Poll Average](average.html) | 17.6% | 15.4–19.6% | 14.9–20.2% | 14.5–20.7% | 13.7–21.7% |
+| [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 19.2% | 17.7–20.8% | 17.2–21.3% | 16.9–21.7% | 16.2–22.5% |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.3–18.8% | 13.7–19.6% |
 | [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 19.7% | 18.1–21.3% | 17.7–21.8% | 17.3–22.2% | 16.6–23.0% |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 20.3% | 18.7–22.0% | 18.3–22.4% | 17.9–22.9% | 17.2–23.7% |
@@ -144,13 +145,13 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 3% | 99.7% |  |
 | 14.5–15.5% | 9% | 97% |  |
 | 15.5–16.5% | 16% | 88% |  |
-| 16.5–17.5% | 20% | 72% | Last Result |
-| 17.5–18.5% | 22% | 52% | Median |
-| 18.5–19.5% | 16% | 30% |  |
-| 19.5–20.5% | 9% | 14% |  |
-| 20.5–21.5% | 4% | 5% |  |
-| 21.5–22.5% | 1.2% | 1.4% |  |
-| 22.5–23.5% | 0.2% | 0.2% |  |
+| 16.5–17.5% | 20% | 71% | Last Result |
+| 17.5–18.5% | 23% | 51% | Median |
+| 18.5–19.5% | 17% | 28% |  |
+| 19.5–20.5% | 8% | 11% |  |
+| 20.5–21.5% | 3% | 3% |  |
+| 21.5–22.5% | 0.6% | 0.6% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
 
@@ -163,6 +164,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
