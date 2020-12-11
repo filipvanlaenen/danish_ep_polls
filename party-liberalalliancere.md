@@ -10,13 +10,15 @@ Last result: **2.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.8–4.1% | 1.7–4.5% | 1.6–4.9% | 1.4–5.4% |
+| N/A | [Poll Average](average.html) | 2.8% | 2.0–4.2% | 1.8–4.6% | 1.7–4.9% | 1.5–5.4% |
+| [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.1% | 2.0–4.5% |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
 | [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 2.7% | 2.1–3.4% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 3.2% | 2.6–4.1% | 2.5–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 2.7% | 2.2–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 2.7% | 2.3–3.3% | 2.1–3.5% | 2.0–3.6% | 1.8–3.9% |
+| [6–11 November 2020](2020-11-11-YouGov.html) | YouGov <br> B.T. | 2.9% | 2.3–3.6% | 2.2–3.8% | 2.1–4.0% | 1.9–4.3% |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 2.2% | 1.7–3.0% | 1.6–3.2% | 1.5–3.3% | 1.3–3.7% |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.7% |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.5–3.1% | 1.4–3.3% | 1.2–3.6% |
@@ -141,10 +143,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 49% | 98% |  |
-| 2.5–3.5% | 31% | 49% | Last Result, Median |
-| 3.5–4.5% | 13% | 18% |  |
+| 0.5–1.5% | 1.0% | 100% |  |
+| 1.5–2.5% | 36% | 99.0% |  |
+| 2.5–3.5% | 42% | 63% | Last Result, Median |
+| 3.5–4.5% | 16% | 21% |  |
 | 4.5–5.5% | 5% | 5% |  |
 | 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -159,12 +161,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0 | 0 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0–1 | 0–1 |
 | [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
+| [6–11 November 2020](2020-11-11-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0 | 0 |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |

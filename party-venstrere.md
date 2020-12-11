@@ -10,13 +10,15 @@ Last result: **16.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.6% | 15.4–19.6% | 14.9–20.2% | 14.5–20.7% | 13.7–21.7% |
+| N/A | [Poll Average](average.html) | 17.5% | 14.2–19.6% | 13.5–20.2% | 13.1–20.7% | 12.3–21.7% |
+| [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 14.1% | 12.9–15.5% | 12.6–15.9% | 12.3–16.2% | 11.8–16.9% |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 19.2% | 17.7–20.8% | 17.2–21.3% | 16.9–21.7% | 16.2–22.5% |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.3–18.8% | 13.7–19.6% |
 | [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 19.7% | 18.1–21.3% | 17.7–21.8% | 17.3–22.2% | 16.6–23.0% |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 20.3% | 18.7–22.0% | 18.3–22.4% | 17.9–22.9% | 17.2–23.7% |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 18.6% | 17.1–20.2% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 18.4% | 17.2–19.7% | 16.9–20.0% | 16.6–20.3% | 16.0–21.0% |
+| [6–11 November 2020](2020-11-11-YouGov.html) | YouGov <br> B.T. | 15.7% | 14.4–17.1% | 14.1–17.5% | 13.8–17.8% | 13.2–18.5% |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 18.5% | 17.0–20.1% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 19.4% | 17.9–21.1% | 17.5–21.5% | 17.1–21.9% | 16.4–22.8% |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 20.4% | 18.9–22.1% | 18.4–22.6% | 18.1–23.0% | 17.3–23.9% |
@@ -140,13 +142,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 3% | 99.7% |  |
-| 14.5–15.5% | 9% | 97% |  |
-| 15.5–16.5% | 16% | 88% |  |
-| 16.5–17.5% | 20% | 71% | Last Result |
-| 17.5–18.5% | 23% | 51% | Median |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.8% | 100% |  |
+| 12.5–13.5% | 4% | 99.2% |  |
+| 13.5–14.5% | 9% | 95% |  |
+| 14.5–15.5% | 9% | 86% |  |
+| 15.5–16.5% | 11% | 77% |  |
+| 16.5–17.5% | 17% | 67% | Last Result |
+| 17.5–18.5% | 22% | 50% | Median |
 | 18.5–19.5% | 17% | 28% |  |
 | 19.5–20.5% | 8% | 11% |  |
 | 20.5–21.5% | 3% | 3% |  |
@@ -164,12 +167,14 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [6–12 November 2020](2020-11-12-Gallup.html) | Gallup | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [6–11 November 2020](2020-11-11-YouGov.html) | YouGov <br> B.T. | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 3–4 |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
