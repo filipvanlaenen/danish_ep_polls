@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.3–1.5% | 0.2–1.7% | 0.2–1.9% | 0.1–2.2% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.3–1.5% | 0.3–1.7% | 0.2–1.9% | 0.2–2.2% |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.1% |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–0.9% | 0.2–1.1% |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 1.3% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
@@ -28,7 +30,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 1.5% | 1.1–2.1% | 1.1–2.2% | 1.0–2.4% | 0.8–2.7% |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.7% | 0.2–0.7% | 0.2–0.8% | 0.1–1.0% |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% |
-| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.7% | 0.1–0.9% |
+| [22–28 September 2020](2020-09-28-Epinion.html) | Epinion | 0.3% | 0.2–0.6% | 0.2–0.7% | 0.1–0.7% | 0.1–0.9% |
 | [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
@@ -142,8 +144,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 30% | 100% | Last Result |
-| 0.5–1.5% | 60% | 70% | Median |
+| 0.0–0.5% | 33% | 100% | Last Result |
+| 0.5–1.5% | 58% | 67% | Median |
 | 1.5–2.5% | 9% | 9% |  |
 | 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
@@ -158,6 +160,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
+| [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0 | 0 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
@@ -175,7 +179,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [28 September–4 October 2020](2020-10-04-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [28 September–4 October 2020](2020-10-04-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
-| [22–28 September 2020](2020-09-28-EpinionAltinget.html) | Epinion Altinget | 0 | 0 | 0 | 0 | 0 |
+| [22–28 September 2020](2020-09-28-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [21–27 September 2020](2020-09-27-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [14–20 September 2020](2020-09-20-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [7–12 September 2020](2020-09-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
