@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 17:08:42 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 7–12 December 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 7–12 December 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter-seating-plan.png" length="388951" type="image/png"/>
+      <pubDate>Mon, 21 Dec 2020 16:26:41 +0100</pubDate>
+      <dc:date>2020-12-21T16:26:41.234116+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 7–12 December 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 7–12 December 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter-seats.png" length="286696" type="image/png"/>
+      <pubDate>Mon, 21 Dec 2020 16:26:41 +0100</pubDate>
+      <dc:date>2020-12-21T16:26:41.234116+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 7–12 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 7–12 December 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-12-12-Voxmeter.png" length="358736" type="image/png"/>
+      <pubDate>Mon, 21 Dec 2020 16:26:41 +0100</pubDate>
+      <dc:date>2020-12-21T16:26:41.234116+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Gallup, 4–10 December 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-12-10-Gallup.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Gallup, 4–10 December 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-12-10-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-12-10-Gallup-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-11-12-Gallup.png" length="385251" type="image/png"/>
       <pubDate>Sat, 14 Nov 2020 19:42:26 +0100</pubDate>
       <dc:date>2020-11-14T19:42:26.530299+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for B.T., 6–11 November 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by YouGov for B.T., 6–11 November 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov-seating-plan.png" length="379377" type="image/png"/>
-      <pubDate>Fri, 11 Dec 2020 18:06:15 +0100</pubDate>
-      <dc:date>2020-12-11T18:06:15.860545+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for B.T., 6–11 November 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by YouGov for B.T., 6–11 November 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov-seats.png" length="290248" type="image/png"/>
-      <pubDate>Fri, 11 Dec 2020 18:06:15 +0100</pubDate>
-      <dc:date>2020-12-11T18:06:15.860545+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for B.T., 6–11 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by YouGov for B.T., 6–11 November 2020<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2020-11-11-YouGov.png" length="372087" type="image/png"/>
-      <pubDate>Fri, 11 Dec 2020 18:06:15 +0100</pubDate>
-      <dc:date>2020-12-11T18:06:15.860545+01:00</dc:date>
     </item>
   </channel>
 </rss>
