@@ -10,7 +10,8 @@ Last result: **9.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 9.4–12.1% | 9.1–12.5% | 8.8–12.9% | 8.3–13.5% |
+| N/A | [Poll Average](average.html) | 10.5% | 9.3–12.1% | 9.0–12.5% | 8.7–12.9% | 8.2–13.5% |
+| [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 10.4% | 9.3–11.7% | 8.9–12.1% | 8.7–12.4% | 8.2–13.1% |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 11.7% | 10.7–12.8% | 10.4–13.2% | 10.2–13.4% | 9.7–14.0% |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 9.9% | 9.1–10.9% | 8.8–11.2% | 8.6–11.5% | 8.2–11.9% |
@@ -146,11 +147,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 1.1% | 100% |  |
-| 8.5–9.5% | 13% | 98.9% | Last Result |
-| 9.5–10.5% | 33% | 86% |  |
-| 10.5–11.5% | 32% | 53% | Median |
-| 11.5–12.5% | 16% | 21% |  |
+| 7.5–8.5% | 2% | 100% |  |
+| 8.5–9.5% | 15% | 98% | Last Result |
+| 9.5–10.5% | 33% | 83% |  |
+| 10.5–11.5% | 30% | 50% | Median |
+| 11.5–12.5% | 15% | 20% |  |
 | 12.5–13.5% | 4% | 5% |  |
 | 13.5–14.5% | 0.5% | 0.5% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -165,6 +166,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -301,8 +303,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 48% | 100% | Last Result |
-| 2 | 52% | 52% | Median |
+| 1 | 47% | 100% | Last Result |
+| 2 | 53% | 53% | Median |
 | 3 | 0% | 0% |  |
 
 
