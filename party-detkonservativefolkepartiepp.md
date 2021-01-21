@@ -10,7 +10,9 @@ Last result: **9.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 9.4–12.1% | 9.1–12.5% | 8.8–12.9% | 8.3–13.5% |
+| N/A | [Poll Average](average.html) | 11.2% | 9.6–13.1% | 9.3–13.7% | 9.0–14.1% | 8.5–14.9% |
+| [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 12.9% | 11.8–14.2% | 11.4–14.6% | 11.1–14.9% | 10.6–15.5% |
+| [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 10.9% | 9.8–12.3% | 9.4–12.6% | 9.2–13.0% | 8.6–13.6% |
 | [4–9 January 2021](2021-01-09-Voxmeter.html) | Voxmeter | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.8–12.5% | 8.2–13.2% |
 | [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 10.4% | 9.3–11.7% | 8.9–12.1% | 8.7–12.4% | 8.2–13.1% |
@@ -148,14 +150,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 1.0% | 100% |  |
-| 8.5–9.5% | 13% | 98.9% | Last Result |
-| 9.5–10.5% | 33% | 86% |  |
-| 10.5–11.5% | 32% | 54% | Median |
-| 11.5–12.5% | 17% | 22% |  |
-| 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 0.5% | 0.5% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.6% | 100% |  |
+| 8.5–9.5% | 8% | 99.4% | Last Result |
+| 9.5–10.5% | 22% | 91% |  |
+| 10.5–11.5% | 28% | 69% | Median |
+| 11.5–12.5% | 22% | 41% |  |
+| 12.5–13.5% | 13% | 19% |  |
+| 13.5–14.5% | 5% | 6% |  |
+| 14.5–15.5% | 0.9% | 1.0% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -167,6 +171,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 2 | 2 | 2 | 2 | 2 |
+| [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–9 January 2021](2021-01-09-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -305,8 +311,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 46% | 100% | Last Result |
-| 2 | 54% | 54% | Median |
+| 1 | 29% | 100% | Last Result |
+| 2 | 71% | 71% | Median |
 | 3 | 0% | 0% |  |
 
 
