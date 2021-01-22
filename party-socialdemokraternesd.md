@@ -181,7 +181,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 6 | 6 | 6 | 5–6 | 5–6 |
+| [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 6 | 6 | 6 | 5–6 | 5–7 |
 | [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [4–9 January 2021](2021-01-09-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -325,7 +325,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 59% | 99.9% | Median |
 | 6 | 40% | 40% |  |
-| 7 | 0.2% | 0.2% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% | Majority |
 
 
