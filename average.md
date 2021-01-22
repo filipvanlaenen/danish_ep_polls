@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 4–9% <br> 0–1 | 28–36% <br> 5–6 | 8–19% <br> 1–3 | 6–10% <br> 1 | 9–14% <br> 1–2 | 4–8% <br> 0–1 | 2–5% <br> 0 | 0–2% <br> 0 | 6–9% <br> 1 | 1–3% <br> 0 | 5–13% <br> 1–2 | 0–1% <br> 0 | 0–1% <br> 0 | 0–2% <br> 0 |
-| [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 7–10% <br> 1 | 31–36% <br> 5–6 | 8–11% <br> 1 | 5–8% <br> 1 | 11–15% <br> 2 | 4–6% <br> 0–1 | 2–4% <br> 0 | 0–2% <br> 0 | 6–9% <br> 1 | 1–3% <br> 0 | 10–14% <br> 2 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
+| [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 7–10% <br> 1 | 31–36% <br> 5–6 | 8–11% <br> 1 | 5–8% <br> 1 | 11–15% <br> 2 | 4–6% <br> 0 | 2–4% <br> 0 | 0–2% <br> 0 | 6–9% <br> 1 | 1–3% <br> 0 | 10–14% <br> 2 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
 | [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 5–8% <br> 0–1 | 31–36% <br> 5–6 | 11–15% <br> 2 | 7–10% <br> 1 | 9–13% <br> 1–2 | 5–8% <br> 1 | 2–4% <br> 0 | 0–2% <br> 0 | 7–10% <br> 1 | 1–3% <br> 0 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 |
 | [4–10 December 2020](2020-12-10-Gallup.html) | Gallup | 4–6% <br> 0–1 | 27–32% <br> 5–6 | 16–20% <br> 2–3 | 7–10% <br> 1 | 10–13% <br> 1–2 | 5–8% <br> 0–1 | 2–4% <br> 0 | 0–1% <br> 0 | 6–9% <br> 1 | 1–2% <br> 0 | 7–9% <br> 1 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 5–7% <br> 0–1 | 29–34% <br> 5–6 | 16–20% <br> 2–3 | 6–8% <br> 1 | 9–11% <br> 1–2 | 6–8% <br> 0–1 | 3–5% <br> 0 | 0–1% <br> 0 | 6–8% <br> 1 | 1–2% <br> 0 | 7–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
@@ -364,7 +364,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0.1% | 100% |  |
 | 5 | 59% | 99.9% | Median |
 | 6 | 40% | 40% |  |
-| 7 | 0.2% | 0.2% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% | Majority |
 
 ### Venstre (RE)
@@ -376,7 +376,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 20% | 100% |  |
-| 2 | 27% | 80% | Last Result |
+| 2 | 28% | 80% | Last Result |
 | 3 | 53% | 53% | Median |
 | 4 | 0% | 0% |  |
 
@@ -388,8 +388,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 99.3% | 99.9% | Last Result, Median |
+| 0 | 0.3% | 100% |  |
+| 1 | 99.2% | 99.7% | Last Result, Median |
 | 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
@@ -402,8 +402,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 29% | 100% | Last Result |
-| 2 | 71% | 71% | Median |
-| 3 | 0% | 0% |  |
+| 2 | 70% | 71% | Median |
+| 3 | 0.3% | 0.3% |  |
+| 4 | 0% | 0% |  |
 
 ### Radikale Venstre (RE)
 
@@ -413,8 +414,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% |  |
-| 1 | 64% | 64% | Last Result, Median |
+| 0 | 37% | 100% |  |
+| 1 | 63% | 63% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Liberal Alliance (RE)
@@ -471,7 +472,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
-| 1 | 78% | 98% | Median |
+| 1 | 79% | 98% | Median |
 | 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
@@ -532,7 +533,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0.1% | 100% |  |
 | 5 | 59% | 99.9% | Median |
 | 6 | 40% | 40% |  |
-| 7 | 0.2% | 0.2% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% | Majority |
 
 ### Venstre (RE) – Radikale Venstre (RE) – Liberal Alliance (RE)
@@ -555,7 +556,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
-| 1 | 78% | 98% | Median |
+| 1 | 79% | 98% | Median |
 | 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
@@ -566,8 +567,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 29% | 100% | Last Result |
-| 2 | 71% | 71% | Median |
-| 3 | 0% | 0% |  |
+| 2 | 70% | 71% | Median |
+| 3 | 0.3% | 0.3% |  |
+| 4 | 0% | 0% |  |
 
 ### Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA)
 
@@ -575,8 +577,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 99.3% | 99.9% | Last Result, Median |
+| 0 | 0.3% | 100% |  |
+| 1 | 99.2% | 99.7% | Last Result, Median |
 | 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
@@ -608,5 +610,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,407,872
-+ **Error estimate:** 3.06%
++ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Error estimate:** 2.94%
