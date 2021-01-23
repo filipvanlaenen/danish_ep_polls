@@ -178,7 +178,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1–2 |
-| [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 2 |
+| [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [4–9 January 2021](2021-01-09-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 2–3 |
 | [14–20 December 2020](2020-12-20-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–12 December 2020](2020-12-12-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 2–4 |
@@ -317,8 +317,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 20% | 100% |  |
-| 2 | 28% | 80% | Last Result |
+| 1 | 21% | 100% |  |
+| 2 | 26% | 79% | Last Result |
 | 3 | 53% | 53% | Median |
 | 4 | 0% | 0% |  |
 
