@@ -171,7 +171,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [18–24 January 2021](2021-01-24-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
-| [18–21 January 2021](2021-01-21-Epinion.html) | Epinion | 0 |  |  |  |  |
+| [18–21 January 2021](2021-01-21-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0 | 0 |
 | [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [4–9 January 2021](2021-01-09-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
