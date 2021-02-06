@@ -10,7 +10,9 @@ Last result: **2.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.2–3.7% | 2.1–3.9% | 2.0–4.1% | 1.7–4.6% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.2–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
+| [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
+| [22–28 January 2021](2021-01-28-Gallup.html) | Gallup | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
 | [18–24 January 2021](2021-01-24-Voxmeter.html) | Voxmeter | 3.2% | 2.6–4.1% | 2.5–4.3% | 2.3–4.5% | 2.1–5.0% |
 | [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [18–21 January 2021](2021-01-21-Epinion.html) | Epinion | 2.4% | 2.0–3.0% | 1.9–3.1% | 1.8–3.3% | 1.6–3.6% |
@@ -154,9 +156,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 27% | 99.9% |  |
-| 2.5–3.5% | 60% | 73% | Last Result, Median |
-| 3.5–4.5% | 12% | 13% |  |
-| 4.5–5.5% | 0.6% | 0.6% |  |
+| 2.5–3.5% | 62% | 73% | Last Result, Median |
+| 3.5–4.5% | 10% | 11% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -169,6 +171,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [22–28 January 2021](2021-01-28-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [18–24 January 2021](2021-01-24-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
 | [18–21 January 2021](2021-01-21-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
