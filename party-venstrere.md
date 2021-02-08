@@ -177,7 +177,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 2 |
+| [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–2 |
 | [22–28 January 2021](2021-01-28-Gallup.html) | Gallup | 2 | 2 | 2 | 2 | 2 |
 | [18–24 January 2021](2021-01-24-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2–3 | 2–3 |
 | [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -323,7 +323,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 21% | 100% |  |
-| 2 | 79% | 79% | Last Result, Median |
+| 2 | 78% | 79% | Last Result, Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
