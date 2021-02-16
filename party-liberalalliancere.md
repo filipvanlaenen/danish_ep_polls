@@ -10,7 +10,8 @@ Last result: **2.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 2.0–3.5% | 1.8–3.7% | 1.7–3.9% | 1.4–4.3% |
+| N/A | [Poll Average](average.html) | 2.7% | 2.0–3.5% | 1.8–3.7% | 1.7–3.9% | 1.4–4.4% |
+| [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.0% | 1.2–3.3% |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 2.7% | 2.2–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
@@ -158,9 +159,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 1.4% | 100% |  |
-| 1.5–2.5% | 40% | 98.6% |  |
-| 2.5–3.5% | 51% | 58% | Last Result, Median |
-| 3.5–4.5% | 7% | 7% |  |
+| 1.5–2.5% | 38% | 98.6% |  |
+| 2.5–3.5% | 52% | 61% | Last Result, Median |
+| 3.5–4.5% | 8% | 9% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -174,6 +175,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0 | 0 |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
