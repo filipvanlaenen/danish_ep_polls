@@ -356,9 +356,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 38% | 100% |  |
-| 6 | 62% | 62% | Median |
-| 7 | 0.2% | 0.2% |  |
+| 5 | 46% | 100% |  |
+| 6 | 53% | 54% | Median |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% | Majority |
 
 ### Venstre (RE)
@@ -369,8 +369,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 38% | 100% |  |
-| 2 | 62% | 62% | Last Result, Median |
+| 1 | 26% | 100% |  |
+| 2 | 73% | 74% | Last Result, Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
@@ -383,7 +383,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 99.7% | 99.9% | Last Result, Median |
+| 1 | 99.8% | 99.9% | Last Result, Median |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
@@ -408,8 +408,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% |  |
-| 1 | 77% | 77% | Last Result, Median |
+| 0 | 27% | 100% |  |
+| 1 | 73% | 73% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Liberal Alliance (RE)
@@ -523,9 +523,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 38% | 100% |  |
-| 6 | 62% | 62% | Median |
-| 7 | 0.2% | 0.2% |  |
+| 5 | 46% | 100% |  |
+| 6 | 53% | 54% | Median |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% | Majority |
 
 ### Venstre (RE) – Radikale Venstre (RE) – Liberal Alliance (RE)
@@ -535,8 +535,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 19% | 100% |  |
-| 2 | 23% | 81% |  |
-| 3 | 58% | 58% | Last Result, Median |
+| 2 | 14% | 81% |  |
+| 3 | 66% | 66% | Last Result, Median |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -569,7 +569,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 99.7% | 99.9% | Last Result, Median |
+| 1 | 99.8% | 99.9% | Last Result, Median |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
@@ -600,6 +600,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
-+ **Error estimate:** 2.48%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 2.45%
