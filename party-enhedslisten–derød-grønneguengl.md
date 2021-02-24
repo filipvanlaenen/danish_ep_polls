@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.5–9.0% | 5.1–9.7% |
+| N/A | [Poll Average](average.html) | 7.3% | 6.0–8.3% | 5.7–8.7% | 5.5–9.0% | 5.1–9.7% |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 8.7% | 7.6–9.9% | 7.3–10.2% | 7.1–10.5% | 6.6–11.1% |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 7.7% | 7.2–8.2% | 7.0–8.4% | 6.9–8.6% | 6.7–8.8% |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 7.3% | 6.4–8.3% | 6.2–8.6% | 6.0–8.9% | 5.6–9.4% |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 8.0% | 7.0–9.2% | 6.8–9.6% | 6.5–9.8% | 6.1–10.5% |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 8.5% | 7.4–9.7% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
@@ -164,10 +165,10 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 3% | 100% |  |
-| 5.5–6.5% | 26% | 97% |  |
-| 6.5–7.5% | 43% | 71% | Median |
-| 7.5–8.5% | 22% | 28% |  |
-| 8.5–9.5% | 5% | 6% |  |
+| 5.5–6.5% | 21% | 97% |  |
+| 6.5–7.5% | 38% | 76% | Median |
+| 7.5–8.5% | 31% | 38% |  |
+| 8.5–9.5% | 6% | 7% |  |
 | 9.5–10.5% | 0.7% | 0.7% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -183,6 +184,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 1 | 1 | 1 | 1 | 1 |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1 |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |

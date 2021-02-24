@@ -10,9 +10,10 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.1% | 29.3–35.2% | 28.6–36.1% | 28.1–36.7% | 27.2–37.8% |
+| N/A | [Poll Average](average.html) | 32.2% | 29.3–35.2% | 28.6–36.1% | 28.1–36.7% | 27.2–37.8% |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 32.1% | 30.3–34.0% | 29.8–34.5% | 29.3–35.0% | 28.5–35.9% |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 32.9% | 31.0–34.8% | 30.5–35.3% | 30.1–35.8% | 29.2–36.7% |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 32.6% | 31.6–33.5% | 31.4–33.8% | 31.2–34.0% | 30.7–34.5% |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 35.1% | 33.4–36.9% | 32.9–37.4% | 32.5–37.8% | 31.7–38.6% |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 33.1% | 31.2–35.0% | 30.7–35.5% | 30.3–36.0% | 29.4–36.9% |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 32.2% | 30.4–34.1% | 29.9–34.7% | 29.4–35.1% | 28.5–36.0% |
@@ -169,12 +170,12 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0.8% | 99.9% |  |
 | 27.5–28.5% | 4% | 99.1% |  |
 | 28.5–29.5% | 8% | 96% |  |
-| 29.5–30.5% | 12% | 87% |  |
-| 30.5–31.5% | 16% | 75% |  |
-| 31.5–32.5% | 18% | 60% | Median |
-| 32.5–33.5% | 16% | 42% |  |
-| 33.5–34.5% | 11% | 26% |  |
-| 34.5–35.5% | 8% | 15% |  |
+| 29.5–30.5% | 11% | 87% |  |
+| 30.5–31.5% | 14% | 76% |  |
+| 31.5–32.5% | 20% | 62% | Median |
+| 32.5–33.5% | 18% | 42% |  |
+| 33.5–34.5% | 10% | 24% |  |
+| 34.5–35.5% | 7% | 15% |  |
 | 35.5–36.5% | 5% | 8% |  |
 | 36.5–37.5% | 2% | 3% |  |
 | 37.5–38.5% | 0.6% | 0.7% |  |
@@ -193,6 +194,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 6 | 6 | 5–6 | 5–6 | 5–6 |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 6 | 6 | 6 | 6 | 5–7 |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -342,8 +344,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 48% | 100% |  |
-| 6 | 52% | 52% | Median |
+| 5 | 40% | 100% |  |
+| 6 | 60% | 60% | Median |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% | Majority |
 
