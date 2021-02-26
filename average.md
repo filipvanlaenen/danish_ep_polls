@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 4–9% <br> 0–1 | 28–37% <br> 5–6 | 8–14% <br> 1–2 | 6–10% <br> 1 | 12–16% <br> 2 | 3–8% <br> 0–1 | 2–4% <br> 0 | 0–2% <br> 0 | 6–9% <br> 1 | 1–3% <br> 0 | 7–12% <br> 1–2 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 5–8% <br> 0–1 | 29–35% <br> 5–6 | 11–15% <br> 2 | 6–10% <br> 1 | 11–15% <br> 2 | 5–8% <br> 0–1 | 2–4% <br> 0 | 0–1% <br> 0 | 6–10% <br> 1 | 1–3% <br> 0 | 6–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
-| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 7–8% <br> 1 | 31–34% <br> 5–6 | 9–11% <br> 1–2 | 6–8% <br> 1 | 12–14% <br> 2 | 3–5% <br> 0 | 2–3% <br> 0 | 1% <br> 0 | 7–9% <br> 1 | 1–2% <br> 0 | 10–12% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 1% <br> 0 |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 7–8% <br> 1 | 31–34% <br> 6 | 9–11% <br> 1 | 6–8% <br> 1 | 12–14% <br> 2 | 3–5% <br> 0 | 2–3% <br> 0 | 1% <br> 0 | 7–9% <br> 1 | 1–2% <br> 0 | 10–12% <br> 2 | N/A <br> N/A | N/A <br> N/A | 1% <br> 0 |
 | [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 7–10% <br> 1 | 33–38% <br> 6 | 8–11% <br> 1 | 6–9% <br> 1 | 13–17% <br> 2–3 | 3–5% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 | 6–9% <br> 1 | 1–2% <br> 0 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
 | [22–28 January 2021](2021-01-28-Gallup.html) | Gallup | 6–9% <br> 1 | 27–32% <br> 5 | 11–15% <br> 2 | 6–8% <br> 1 | 12–15% <br> 2 | 6–9% <br> 1 | 2–4% <br> 0 | 1–2% <br> 0 | 5–8% <br> 1 | 2–3% <br> 0 | 7–10% <br> 1 | 0–1% <br> 0 | 0–1% <br> 0 | N/A <br> N/A |
 | [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 4–7% <br> 0–1 | 29–34% <br> 5–6 | 9–13% <br> 1–2 | 7–11% <br> 1 | 11–16% <br> 2 | 5–8% <br> 0–1 | 2–4% <br> 0 | 1–2% <br> 0 | 5–8% <br> 1 | 1–2% <br> 0 | 9–13% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
@@ -357,8 +357,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 40% | 100% |  |
-| 6 | 60% | 60% | Median |
+| 5 | 39% | 100% |  |
+| 6 | 61% | 61% | Median |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% | Majority |
 
@@ -370,8 +370,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 38% | 100% |  |
-| 2 | 62% | 62% | Last Result, Median |
+| 1 | 41% | 100% |  |
+| 2 | 59% | 59% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Socialistisk Folkeparti (Greens/EFA)
@@ -462,8 +462,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 60% | 100% | Median |
-| 2 | 40% | 40% |  |
+| 1 | 58% | 100% | Median |
+| 2 | 42% | 42% |  |
 | 3 | 0% | 0% |  |
 
 ### Borgerlisten (*)
@@ -521,8 +521,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 40% | 100% |  |
-| 6 | 60% | 60% | Median |
+| 5 | 39% | 100% |  |
+| 6 | 61% | 61% | Median |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% | Majority |
 
@@ -532,8 +532,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 36% | 100% |  |
-| 2 | 9% | 64% |  |
+| 1 | 39% | 100% |  |
+| 2 | 6% | 61% |  |
 | 3 | 55% | 55% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
@@ -555,8 +555,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 60% | 100% | Median |
-| 2 | 40% | 40% |  |
+| 1 | 58% | 100% | Median |
+| 2 | 42% | 42% |  |
 | 3 | 0% | 0% |  |
 
 ### Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA)
@@ -595,6 +595,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 4,718,592
 + **Error estimate:** 2.45%
