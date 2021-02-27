@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 3.5–7.6% | 3.2–8.0% | 3.0–8.3% | 2.6–8.9% |
+| N/A | [Poll Average](average.html) | 5.2% | 3.5–7.6% | 3.2–8.0% | 3.0–8.3% | 2.6–8.9% |
+| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 5.3% | 4.5–6.3% | 4.2–6.6% | 4.1–6.8% | 3.7–7.4% |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 6.2% | 5.4–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.1% | 4.0–7.7% |
 | [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 4.0% | 3.6–4.4% | 3.5–4.5% | 3.4–4.6% | 3.3–4.8% |
@@ -162,12 +163,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.3% | 100% |  |
 | 2.5–3.5% | 11% | 99.7% |  |
-| 3.5–4.5% | 27% | 89% |  |
-| 4.5–5.5% | 9% | 61% |  |
-| 5.5–6.5% | 21% | 52% | Median |
-| 6.5–7.5% | 20% | 31% | Last Result |
-| 7.5–8.5% | 9% | 11% |  |
-| 8.5–9.5% | 1.3% | 1.3% |  |
+| 3.5–4.5% | 30% | 88% |  |
+| 4.5–5.5% | 14% | 59% | Median |
+| 5.5–6.5% | 18% | 45% |  |
+| 6.5–7.5% | 17% | 27% | Last Result |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 1.2% | 1.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -180,7 +181,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 0 | 0 | 0 | 0 | 0 |
@@ -331,8 +333,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% |  |
-| 1 | 57% | 57% | Last Result, Median |
+| 0 | 50% | 100% | Median |
+| 1 | 50% | 50% | Last Result |
 | 2 | 0% | 0% |  |
 
 
