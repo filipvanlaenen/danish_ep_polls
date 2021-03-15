@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.4% | 0.4–1.5% | 0.3–1.7% | 0.2–1.9% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.4–1.5% | 0.3–1.6% | 0.2–1.9% |
+| [1–6 March 2021](2021-03-06-Voxmeter.html) | Voxmeter | 0.8% | 0.5–1.3% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [22–28 February 2021](2021-02-28-Voxmeter.html) | Voxmeter | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
@@ -161,8 +162,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 14% | 100% | Last Result |
-| 0.5–1.5% | 82% | 86% | Median |
+| 0.0–0.5% | 15% | 100% | Last Result |
+| 0.5–1.5% | 81% | 85% | Median |
 | 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -176,6 +177,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–6 March 2021](2021-03-06-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [22–28 February 2021](2021-02-28-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 0 | 0 | 0 | 0 | 0 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
