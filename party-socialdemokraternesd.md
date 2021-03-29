@@ -196,16 +196,16 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–21 March 2021](2021-03-21-Voxmeter.html) | Voxmeter | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [7–14 March 2021](2021-03-14-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [1–6 March 2021](2021-03-06-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [22–28 February 2021](2021-02-28-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 6 | 6 | 6 | 6 | 6 |
-| [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 6 | 6 | 6 | 6 | 5–7 |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 6 | 6 | 5–6 | 5–6 | 5–6 |
+| [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 6 | 6 | 6 | 6 | 6 |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [22–28 January 2021](2021-01-28-Gallup.html) | Gallup | 5 | 5 | 5 | 5 | 5 |
@@ -353,10 +353,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 0.1% | 100% |  |
-| 5 | 32% | 99.9% |  |
-| 6 | 67% | 67% | Median |
-| 7 | 0.5% | 0.5% |  |
+| 4 | 0% | 100% |  |
+| 5 | 40% | 100% |  |
+| 6 | 60% | 60% | Median |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% | Majority |
 
 
