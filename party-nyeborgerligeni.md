@@ -194,11 +194,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–14 March 2021](2021-03-14-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
 | [1–6 March 2021](2021-03-06-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
 | [22–28 February 2021](2021-02-28-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
-| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
-| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 2 | 2 | 2 | 2 | 1–2 |
+| [5–8 February 2021](2021-02-08-YouGov.html) | YouGov <br> B.T. | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–6 February 2021](2021-02-06-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [22–28 January 2021](2021-01-28-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
@@ -346,8 +346,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 62% | 100% | Median |
-| 2 | 38% | 38% |  |
+| 1 | 55% | 100% | Median |
+| 2 | 45% | 45% |  |
 | 3 | 0% | 0% |  |
 
 

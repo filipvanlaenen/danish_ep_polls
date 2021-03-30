@@ -188,7 +188,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [7–14 March 2021](2021-03-14-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
 | [1–6 March 2021](2021-03-06-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
 | [22–28 February 2021](2021-02-28-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
-| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 1 | 1 | 1 | 1 | 1 |
+| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 1 | 1 | 1 | 1 | 1–2 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 1 | 1 | 1 | 1 | 1 |
@@ -339,8 +339,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.9% | 100% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 99.6% | 100% | Last Result, Median |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 
