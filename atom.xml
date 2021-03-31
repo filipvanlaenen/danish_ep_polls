@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-03-30T14:44:33.819966+02:00</updated>
+  <updated>2021-03-31T17:56:36.389361+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 30.5–36.3%, 5–6 seats</li><li>Dansk Folkeparti (ID): 4.6–7.5%, 0–1 seats</li><li>Venstre (RE): 9.4–13.2%, 1–2 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 6.4–9.8%, 1 seats</li><li>Liberal Alliance (RE): 1.6–3.6%, 0 seats</li><li>Alternativet (Greens/EFA): 0.6–1.9%, 0 seats</li><li>Radikale Venstre (RE): 3.9–6.6%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 6.0–9.3%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 12.3–16.6%, 2–3 seats</li><li>Kristendemokraterne (EPP): 1.1–2.7%, 0 seats</li><li>Nye Borgerlige (NI): 7.3–10.8%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2021-03-28-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2021-03-28-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter, 22–28 March 2021</title>
+    <updated>2021-03-31T17:56:36.389361+02:00</updated>
+    <dc:date>2021-03-31T17:56:36.389361+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 31.3–37.1%, 5–6 seats</li><li>Dansk Folkeparti (ID): 4.5–7.4%, 0–1 seats</li><li>Venstre (RE): 10.1–14.0%, 1–2 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 6.2–9.4%, 1 seats</li><li>Liberal Alliance (RE): 1.5–3.3%, 0 seats</li><li>Alternativet (Greens/EFA): 0.3–1.4%, 0 seats</li><li>Radikale Venstre (RE): 4.1–6.9%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 6.6–10.0%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 11.9–16.1%, 2 seats</li><li>Kristendemokraterne (EPP): 0.8–2.3%, 0 seats</li><li>Nye Borgerlige (NI): 6.5–9.8%, 1 seats</li><li>Veganerpartiet (*): 0.2–1.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2021-03-21-Voxmeter.html</id>
@@ -1167,5 +1175,5 @@
     <updated>2020-03-06T23:27:29.541438+01:00</updated>
     <dc:date>2020-03-06T23:27:29.541438+01:00</dc:date>
   </entry>
-  <dc:date>2021-03-30T14:44:33.819966+02:00</dc:date>
+  <dc:date>2021-03-31T17:56:36.389361+02:00</dc:date>
 </feed>
