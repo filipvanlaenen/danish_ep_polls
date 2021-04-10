@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:47 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 29 March–4 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-04-04-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 29 March–4 April 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-04-04-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-04-04-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-04-04-Voxmeter.png" length="345485" type="image/png"/>
+      <pubDate>Fri, 9 Apr 2021 20:17:16 +0200</pubDate>
+      <dc:date>2021-04-09T20:17:16.02022+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter, 22–28 March 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-03-28-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 22–28 March 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-03-28-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-03-28-Voxmeter-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-14-Electica.png" length="332230" type="image/png"/>
       <pubDate>Tue, 30 Mar 2021 14:44:33 +0200</pubDate>
       <dc:date>2021-03-30T14:44:33.819966+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for B.T., 5–8 February 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by YouGov for B.T., 5–8 February 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov-seating-plan.png" length="371758" type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 11:17:44 +0200</pubDate>
-      <dc:date>2021-03-30T11:17:44.571871+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for B.T., 5–8 February 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by YouGov for B.T., 5–8 February 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov-seats.png" length="243567" type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 11:17:44 +0200</pubDate>
-      <dc:date>2021-03-30T11:17:44.571871+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for B.T., 5–8 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by YouGov for B.T., 5–8 February 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-08-YouGov.png" length="351402" type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 11:17:44 +0200</pubDate>
-      <dc:date>2021-03-30T11:17:44.571871+02:00</dc:date>
     </item>
   </channel>
 </rss>
