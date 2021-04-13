@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.4% | 0.4–1.5% | 0.3–1.7% | 0.2–1.9% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
+| [2–8 April 2021](2021-04-08-Gallup.html) | Gallup | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.0% |
 | [29 March–4 April 2021](2021-04-04-Voxmeter.html) | Voxmeter | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.7% | 0.4–2.0% |
 | [22–28 March 2021](2021-03-28-Voxmeter.html) | Voxmeter | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [15–21 March 2021](2021-03-21-Voxmeter.html) | Voxmeter | 0.7% | 0.4–1.1% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
@@ -166,9 +168,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 14% | 100% | Last Result |
-| 0.5–1.5% | 82% | 86% | Median |
-| 1.5–2.5% | 4% | 4% |  |
+| 0.0–0.5% | 29% | 100% | Last Result |
+| 0.5–1.5% | 70% | 71% | Median |
+| 1.5–2.5% | 0.7% | 0.7% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -181,6 +183,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [2–8 April 2021](2021-04-08-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [29 March–4 April 2021](2021-04-04-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [22–28 March 2021](2021-03-28-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [15–21 March 2021](2021-03-21-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
