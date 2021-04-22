@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:47 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 12–18 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-04-18-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 12–18 April 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-04-18-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-04-18-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-04-18-Voxmeter.png" length="362328" type="image/png"/>
+      <pubDate>Thu, 22 Apr 2021 07:47:06 +0200</pubDate>
+      <dc:date>2021-04-22T07:47:06.167492+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Epinion, 7–13 April 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-04-13-Epinion.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Epinion, 7–13 April 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-04-13-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-04-13-Epinion-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-28-Voxmeter.png" length="361872" type="image/png"/>
       <pubDate>Sat, 6 Mar 2021 18:49:25 +0100</pubDate>
       <dc:date>2021-03-06T18:49:25.586031+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Megafon, 22–25 February 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Megafon, 22–25 February 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon-seating-plan.png" length="389924" type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 13:01:30 +0200</pubDate>
-      <dc:date>2021-03-30T13:01:30.062125+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Megafon, 22–25 February 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Megafon, 22–25 February 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon-seats.png" length="286097" type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 13:01:30 +0200</pubDate>
-      <dc:date>2021-03-30T13:01:30.062125+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Megafon, 22–25 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Megafon, 22–25 February 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-02-25-Megafon.png" length="362230" type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 13:01:30 +0200</pubDate>
-      <dc:date>2021-03-30T13:01:30.062125+02:00</dc:date>
     </item>
   </channel>
 </rss>
