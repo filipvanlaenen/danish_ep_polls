@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.5% | 0.2–1.0% | 0.1–1.1% | 0.1–1.1% | 0.1–1.3% |
+| [12–18 April 2021](2021-04-18-Voxmeter.html) | Voxmeter | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [7–13 April 2021](2021-04-13-Epinion.html) | Epinion | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% |
 | [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [2–8 April 2021](2021-04-08-Gallup.html) | Gallup | 0.0% | N/A | N/A | N/A | N/A |
@@ -169,8 +170,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 55% | 100% | Last Result, Median |
-| 0.5–1.5% | 45% | 45% |  |
+| 0.0–0.5% | 56% | 100% | Last Result, Median |
+| 0.5–1.5% | 44% | 44% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -183,6 +184,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–18 April 2021](2021-04-18-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [7–13 April 2021](2021-04-13-Epinion.html) | Epinion | 0 | 0 | 0 | 0 | 0 |
 | [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [2–8 April 2021](2021-04-08-Gallup.html) | Gallup |  |  |  |  |  |
