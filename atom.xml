@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-04-23T19:24:33.418979+02:00</updated>
+  <updated>2021-04-25T19:30:00.447109+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 28.6–34.3%, 5–6 seats</li><li>Dansk Folkeparti (ID): 5.2–8.2%, 0–1 seats</li><li>Venstre (RE): 9.5–13.4%, 1–2 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 7.6–11.1%, 1–2 seats</li><li>Liberal Alliance (RE): 1.7–3.6%, 0 seats</li><li>Alternativet (Greens/EFA): 0.4–1.5%, 0 seats</li><li>Radikale Venstre (RE): 3.2–5.7%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 5.9–9.1%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 13.2–17.6%, 2–3 seats</li><li>Kristendemokraterne (EPP): 0.8–2.3%, 0 seats</li><li>Nye Borgerlige (NI): 7.1–10.6%, 1 seats</li><li>Veganerpartiet (*): 0.0–0.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2021-04-18-Voxmeter.html</id>
@@ -142,6 +142,14 @@
     <title>Opinion Poll by Voxmeter, 25–31 January 2021</title>
     <updated>2021-02-07T12:00:31.575385+01:00</updated>
     <dc:date>2021-02-07T12:00:31.575385+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 27.3–31.9%, 5 seats</li><li>Dansk Folkeparti (ID): 5.9–8.5%, 1 seats</li><li>Venstre (RE): 11.2–14.6%, 2 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 5.3–7.8%, 1 seats</li><li>Liberal Alliance (RE): 2.3–4.0%, 0 seats</li><li>Alternativet (Greens/EFA): 0.8–1.9%, 0 seats</li><li>Radikale Venstre (RE): 6.2–8.9%, 1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 5.7–8.3%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 12.0–15.5%, 2 seats</li><li>Kristendemokraterne (EPP): 1.6–3.1%, 0 seats</li><li>Nye Borgerlige (NI): 7.1–9.9%, 1 seats</li><li>Borgerlisten (*): 0.3–1.1%, 0 seats</li><li>Stram Kurs (*): 0.1–0.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2021-01-28-Gallup.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2021-01-28-Gallup.html"/>
+    <title>Opinion Poll by Gallup, 22–28 January 2021</title>
+    <updated>2021-04-25T19:30:00.447109+02:00</updated>
+    <dc:date>2021-04-25T19:30:00.447109+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 30.5–36.3%, 5–6 seats</li><li>Dansk Folkeparti (ID): 4.3–7.1%, 0–1 seats</li><li>Venstre (RE): 11.6–15.8%, 2–3 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 6.9–10.3%, 1–2 seats</li><li>Liberal Alliance (RE): 2.3–4.5%, 0 seats</li><li>Alternativet (Greens/EFA): 0.5–1.7%, 0 seats</li><li>Radikale Venstre (RE): 4.6–7.5%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 5.9–9.2%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 9.6–13.5%, 1–2 seats</li><li>Kristendemokraterne (EPP): 0.8–2.3%, 0 seats</li><li>Nye Borgerlige (NI): 5.6–8.7%, 0–1 seats</li><li>Veganerpartiet (*): 0.7–2.2%, 0 seats</li></ul></div></content>
@@ -1215,5 +1223,5 @@
     <updated>2020-03-06T23:27:29.541438+01:00</updated>
     <dc:date>2020-03-06T23:27:29.541438+01:00</dc:date>
   </entry>
-  <dc:date>2021-04-23T19:24:33.418979+02:00</dc:date>
+  <dc:date>2021-04-25T19:30:00.447109+02:00</dc:date>
 </feed>
