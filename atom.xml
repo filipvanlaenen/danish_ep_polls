@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-04-25T19:30:00.447109+02:00</updated>
+  <updated>2021-05-05T22:59:17.163258+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 29.8–35.5%, 5–6 seats</li><li>Dansk Folkeparti (ID): 4.5–7.3%, 0–1 seats</li><li>Venstre (RE): 9.6–13.6%, 1–2 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 7.6–11.2%, 1–2 seats</li><li>Liberal Alliance (RE): 2.2–4.4%, 0 seats</li><li>Alternativet (Greens/EFA): 0.3–1.3%, 0 seats</li><li>Radikale Venstre (RE): 2.6–4.9%, 0 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 6.0–9.3%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 13.4–17.9%, 2–3 seats</li><li>Kristendemokraterne (EPP): 0.8–2.3%, 0 seats</li><li>Nye Borgerlige (NI): 6.6–10.0%, 1 seats</li><li>Veganerpartiet (*): 0.1–0.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2021-04-25-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2021-04-25-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter, 19–25 April 2021</title>
+    <updated>2021-05-05T22:59:17.163258+02:00</updated>
+    <dc:date>2021-05-05T22:59:17.163258+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 28.6–34.3%, 5–6 seats</li><li>Dansk Folkeparti (ID): 5.2–8.2%, 0–1 seats</li><li>Venstre (RE): 9.5–13.4%, 1–2 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 7.6–11.1%, 1–2 seats</li><li>Liberal Alliance (RE): 1.7–3.6%, 0 seats</li><li>Alternativet (Greens/EFA): 0.4–1.5%, 0 seats</li><li>Radikale Venstre (RE): 3.2–5.7%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 5.9–9.1%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 13.2–17.6%, 2–3 seats</li><li>Kristendemokraterne (EPP): 0.8–2.3%, 0 seats</li><li>Nye Borgerlige (NI): 7.1–10.6%, 1 seats</li><li>Veganerpartiet (*): 0.0–0.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2021-04-18-Voxmeter.html</id>
@@ -1223,5 +1231,5 @@
     <updated>2020-03-06T23:27:29.541438+01:00</updated>
     <dc:date>2020-03-06T23:27:29.541438+01:00</dc:date>
   </entry>
-  <dc:date>2021-04-25T19:30:00.447109+02:00</dc:date>
+  <dc:date>2021-05-05T22:59:17.163258+02:00</dc:date>
 </feed>
