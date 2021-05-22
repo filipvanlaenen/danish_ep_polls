@@ -200,7 +200,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
-| [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 1 | 1 | 1 | 1 | 1 |
+| [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 1 | 1 | 1 | 1 | 1–2 |
 | [10–16 May 2021](2021-05-16-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–8 May 2021](2021-05-08-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 April–2 May 2021](2021-05-02-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
