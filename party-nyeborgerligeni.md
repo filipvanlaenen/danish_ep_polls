@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.2–10.6% | 5.9–11.2% | 5.7–11.7% | 5.3–12.6% |
+| N/A | [Poll Average](average.html) | 7.1% | 6.1–10.6% | 5.8–11.2% | 5.6–11.7% | 5.3–12.6% |
+| [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
+| [24–30 May 2021](2021-05-30-Voxmeter.html) | Voxmeter | 7.5% | 6.5–8.6% | 6.2–9.0% | 6.0–9.3% | 5.6–9.8% |
 | [25–27 May 2021](2021-05-27-Megafon.html) | Megafon | 10.2% | 9.0–11.7% | 8.7–12.1% | 8.4–12.5% | 7.8–13.2% |
 | [17–23 May 2021](2021-05-23-Voxmeter.html) | Voxmeter | 7.7% | 6.7–8.9% | 6.5–9.2% | 6.2–9.5% | 5.8–10.1% |
 | [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 6.6% | 5.8–7.5% | 5.6–7.7% | 5.4–7.9% | 5.1–8.4% |
@@ -182,12 +184,12 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.3% | 100% |  |
-| 5.5–6.5% | 20% | 98.7% |  |
-| 6.5–7.5% | 33% | 78% | Median |
-| 7.5–8.5% | 16% | 45% |  |
-| 8.5–9.5% | 9% | 29% |  |
-| 9.5–10.5% | 10% | 20% |  |
+| 4.5–5.5% | 2% | 100% |  |
+| 5.5–6.5% | 25% | 98% |  |
+| 6.5–7.5% | 37% | 73% | Median |
+| 7.5–8.5% | 12% | 37% |  |
+| 8.5–9.5% | 6% | 25% |  |
+| 9.5–10.5% | 9% | 19% |  |
 | 10.5–11.5% | 7% | 10% |  |
 | 11.5–12.5% | 3% | 3% |  |
 | 12.5–13.5% | 0.5% | 0.5% |  |
@@ -204,6 +206,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
+| [24–30 May 2021](2021-05-30-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [25–27 May 2021](2021-05-27-Megafon.html) | Megafon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–23 May 2021](2021-05-23-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 1 | 1 | 0–1 | 0–1 | 0–1 |
