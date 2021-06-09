@@ -10,18 +10,21 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 7.4–9.7% | 7.1–10.1% | 6.9–10.4% | 6.4–11.0% |
+| N/A | [Poll Average](average.html) | 8.4% | 7.3–9.6% | 7.0–10.0% | 6.8–10.3% | 6.3–10.9% |
+| [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.6% | 6.2–10.2% |
 | [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 8.1% | 7.1–9.3% | 6.9–9.7% | 6.6–10.0% | 6.2–10.6% |
 | [24–30 May 2021](2021-05-30-Voxmeter.html) | Voxmeter | 8.4% | 7.3–9.6% | 7.0–9.9% | 6.8–10.2% | 6.3–10.9% |
 | [25–27 May 2021](2021-05-27-Megafon.html) | Megafon | 8.6% | 7.4–9.9% | 7.1–10.3% | 6.9–10.7% | 6.4–11.4% |
 | [17–23 May 2021](2021-05-23-Voxmeter.html) | Voxmeter | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 8.1% | 7.3–9.1% | 7.1–9.4% | 6.9–9.6% | 6.5–10.1% |
 | [10–16 May 2021](2021-05-16-Voxmeter.html) | Voxmeter | 9.2% | 8.2–10.5% | 7.8–10.9% | 7.6–11.2% | 7.1–11.8% |
+| [7–9 May 2021](2021-05-09-YouGov.html) | YouGov <br> B.T. | 7.5% | N/A | N/A | N/A | N/A |
 | [3–8 May 2021](2021-05-08-Voxmeter.html) | Voxmeter | 8.9% | 7.8–10.1% | 7.5–10.5% | 7.3–10.8% | 6.8–11.4% |
 | [26 April–2 May 2021](2021-05-02-Voxmeter.html) | Voxmeter | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.6–11.1% |
 | [19–25 April 2021](2021-04-25-Voxmeter.html) | Voxmeter | 9.3% | 8.2–10.5% | 7.9–10.9% | 7.6–11.2% | 7.1–11.9% |
 | [12–18 April 2021](2021-04-18-Voxmeter.html) | Voxmeter | 9.2% | 8.1–10.4% | 7.8–10.8% | 7.6–11.1% | 7.1–11.7% |
 | [7–13 April 2021](2021-04-13-Epinion.html) | Epinion | 7.6% | 6.8–8.5% | 6.6–8.8% | 6.4–9.0% | 6.0–9.5% |
+| [9–11 April 2021](2021-04-11-YouGov.html) | YouGov <br> B.T. | 7.4% | N/A | N/A | N/A | N/A |
 | [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 8.6% | 7.5–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
 | [2–8 April 2021](2021-04-08-Gallup.html) | Gallup | 9.1% | 8.3–10.1% | 8.0–10.4% | 7.8–10.6% | 7.5–11.1% |
 | [29 March–4 April 2021](2021-04-04-Voxmeter.html) | Voxmeter | 7.7% | 6.7–8.8% | 6.4–9.2% | 6.2–9.5% | 5.7–10.0% |
@@ -185,12 +188,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.9% | 100% |  |
-| 6.5–7.5% | 12% | 99.1% |  |
-| 7.5–8.5% | 37% | 87% |  |
-| 8.5–9.5% | 35% | 49% | Median |
-| 9.5–10.5% | 12% | 14% |  |
-| 10.5–11.5% | 2% | 2% |  |
+| 5.5–6.5% | 1.1% | 100% |  |
+| 6.5–7.5% | 15% | 98.9% |  |
+| 7.5–8.5% | 40% | 84% | Median |
+| 8.5–9.5% | 33% | 45% |  |
+| 9.5–10.5% | 10% | 12% |  |
+| 10.5–11.5% | 1.3% | 1.3% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -204,17 +207,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1 |
 | [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [24–30 May 2021](2021-05-30-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
 | [25–27 May 2021](2021-05-27-Megafon.html) | Megafon | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [17–23 May 2021](2021-05-23-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
 | [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 1 | 1 | 1 | 1 | 1–2 |
 | [10–16 May 2021](2021-05-16-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–9 May 2021](2021-05-09-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
 | [3–8 May 2021](2021-05-08-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 April–2 May 2021](2021-05-02-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [19–25 April 2021](2021-04-25-Voxmeter.html) | Voxmeter | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [12–18 April 2021](2021-04-18-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
 | [7–13 April 2021](2021-04-13-Epinion.html) | Epinion | 1 | 1 | 1 | 1 | 1 |
+| [9–11 April 2021](2021-04-11-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
 | [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [2–8 April 2021](2021-04-08-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
 | [29 March–4 April 2021](2021-04-04-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
