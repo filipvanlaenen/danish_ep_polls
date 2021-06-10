@@ -18,13 +18,13 @@ Last result: **10.9%** (General Election of 26 May 2019)
 | [17–23 May 2021](2021-05-23-Voxmeter.html) | Voxmeter | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 8.7% | 7.8–9.7% | 7.6–10.0% | 7.4–10.2% | 7.0–10.7% |
 | [10–16 May 2021](2021-05-16-Voxmeter.html) | Voxmeter | 7.9% | 6.9–9.1% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
-| [7–9 May 2021](2021-05-09-YouGov.html) | YouGov <br> B.T. | 7.8% | N/A | N/A | N/A | N/A |
+| [7–9 May 2021](2021-05-09-YouGov.html) | YouGov <br> B.T. | 7.8% | 6.9–8.9% | 6.7–9.2% | 6.5–9.5% | 6.1–10.0% |
 | [3–8 May 2021](2021-05-08-Voxmeter.html) | Voxmeter | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.6–11.1% |
 | [26 April–2 May 2021](2021-05-02-Voxmeter.html) | Voxmeter | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [19–25 April 2021](2021-04-25-Voxmeter.html) | Voxmeter | 7.5% | 6.5–8.7% | 6.3–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [12–18 April 2021](2021-04-18-Voxmeter.html) | Voxmeter | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
 | [7–13 April 2021](2021-04-13-Epinion.html) | Epinion | 8.1% | 7.3–9.1% | 7.1–9.3% | 6.9–9.6% | 6.5–10.0% |
-| [9–11 April 2021](2021-04-11-YouGov.html) | YouGov <br> B.T. | 7.4% | N/A | N/A | N/A | N/A |
+| [9–11 April 2021](2021-04-11-YouGov.html) | YouGov <br> B.T. | 7.4% | 6.5–8.4% | 6.3–8.7% | 6.1–9.0% | 5.7–9.5% |
 | [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
 | [2–8 April 2021](2021-04-08-Gallup.html) | Gallup | 7.8% | 7.0–8.7% | 6.8–8.9% | 6.6–9.2% | 6.2–9.6% |
 | [29 March–4 April 2021](2021-04-04-Voxmeter.html) | Voxmeter | 7.8% | 6.8–8.9% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
@@ -209,13 +209,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [17–23 May 2021](2021-05-23-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
 | [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 1 | 1 | 1 | 1 | 1–2 |
 | [10–16 May 2021](2021-05-16-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
-| [7–9 May 2021](2021-05-09-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [7–9 May 2021](2021-05-09-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1 |
 | [3–8 May 2021](2021-05-08-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
 | [26 April–2 May 2021](2021-05-02-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [19–25 April 2021](2021-04-25-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [12–18 April 2021](2021-04-18-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [7–13 April 2021](2021-04-13-Epinion.html) | Epinion | 1 | 1 | 1 | 1 | 1 |
-| [9–11 April 2021](2021-04-11-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [9–11 April 2021](2021-04-11-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1 |
 | [5–10 April 2021](2021-04-10-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [2–8 April 2021](2021-04-08-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
 | [29 March–4 April 2021](2021-04-04-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
