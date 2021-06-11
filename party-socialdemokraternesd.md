@@ -213,7 +213,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 6 | 6 | 6 | 5–6 | 5–6 |
 | [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [24–30 May 2021](2021-05-30-Voxmeter.html) | Voxmeter | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–27 May 2021](2021-05-27-Megafon.html) | Megafon | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -388,8 +388,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 9% | 100% |  |
-| 5 | 71% | 91% | Median |
-| 6 | 19% | 19% |  |
-| 7 | 0% | 0% |  |
+| 5 | 70% | 91% | Median |
+| 6 | 21% | 21% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% | Majority |
 
 
