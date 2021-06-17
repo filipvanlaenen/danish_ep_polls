@@ -221,7 +221,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 0–1 | 0–1 |
+| [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
 | [4–10 June 2021](2021-06-10-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
 | [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1 |
 | [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
