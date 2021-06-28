@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 4.7–7.9% | 4.2–8.2% | 3.9–8.5% | 3.4–9.0% |
+| N/A | [Poll Average](average.html) | 6.7% | 4.7–7.9% | 4.2–8.2% | 3.9–8.5% | 3.4–9.1% |
+| [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 6.7% | 5.7–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
 | [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.1–8.1% | 4.7–8.6% |
 | [4–10 June 2021](2021-06-10-Gallup.html) | Gallup | 7.3% | 6.5–8.3% | 6.3–8.5% | 6.1–8.8% | 5.7–9.2% |
 | [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 7.3% | 6.4–8.3% | 6.2–8.6% | 6.0–8.9% | 5.6–9.4% |
@@ -186,11 +187,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.8% | 100% |  |
-| 3.5–4.5% | 8% | 99.2% |  |
-| 4.5–5.5% | 13% | 92% |  |
-| 5.5–6.5% | 27% | 79% |  |
-| 6.5–7.5% | 34% | 52% | Median |
-| 7.5–8.5% | 16% | 18% |  |
+| 3.5–4.5% | 7% | 99.2% |  |
+| 4.5–5.5% | 12% | 92% |  |
+| 5.5–6.5% | 26% | 80% |  |
+| 6.5–7.5% | 35% | 54% | Median |
+| 7.5–8.5% | 17% | 19% |  |
 | 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -221,6 +222,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–20 June 2021](2021-06-20-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 0–1 | 0–1 |
 | [7–12 June 2021](2021-06-12-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
 | [4–10 June 2021](2021-06-10-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
 | [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1 |
