@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-08-15T16:21:41.307358+02:00</updated>
+  <updated>2021-08-19T20:43:28.325364+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 27.8–33.5%, 5–6 seats</li><li>Dansk Folkeparti (ID): 4.5–7.4%, 0–1 seats</li><li>Venstre (RE): 11.7–16.0%, 2–3 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 7.5–11.1%, 1–2 seats</li><li>Liberal Alliance (RE): 1.4–3.2%, 0 seats</li><li>Alternativet (Greens/EFA): 0.1–0.7%, 0 seats</li><li>Radikale Venstre (RE): 4.6–7.6%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 7.7–11.3%, 1–2 seats</li><li>Det Konservative Folkeparti (EPP): 11.0–15.1%, 2 seats</li><li>Kristendemokraterne (EPP): 1.4–3.2%, 0 seats</li><li>Nye Borgerlige (NI): 5.3–8.5%, 1 seats</li><li>Veganerpartiet (*): 0.0–0.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2021-08-15-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-15-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter, 9–15 August 2021</title>
+    <updated>2021-08-19T20:43:28.325364+02:00</updated>
+    <dc:date>2021-08-19T20:43:28.325364+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 27.5–33.2%, 5–6 seats</li><li>Dansk Folkeparti (ID): 4.6–7.5%, 0–1 seats</li><li>Venstre (RE): 12.5–16.9%, 2–3 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 7.4–11.0%, 1–2 seats</li><li>Liberal Alliance (RE): 1.1–2.7%, 0 seats</li><li>Radikale Venstre (RE): 4.1–7.0%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 8.1–11.8%, 1–2 seats</li><li>Det Konservative Folkeparti (EPP): 11.5–15.7%, 2 seats</li><li>Kristendemokraterne (EPP): 1.4–3.3%, 0 seats</li><li>Nye Borgerlige (NI): 4.7–7.6%, 0–1 seats</li><li>Veganerpartiet (*): 0.1–0.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2021-08-07-Voxmeter.html</id>
@@ -1367,5 +1375,5 @@
     <updated>2020-03-06T23:27:29.541438+01:00</updated>
     <dc:date>2020-03-06T23:27:29.541438+01:00</dc:date>
   </entry>
-  <dc:date>2021-08-15T16:21:41.307358+02:00</dc:date>
+  <dc:date>2021-08-19T20:43:28.325364+02:00</dc:date>
 </feed>
