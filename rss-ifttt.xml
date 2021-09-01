@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:47 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 23–29 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-08-29-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 23–29 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-08-29-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-29-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-29-Voxmeter.png" length="348390" type="image/png"/>
+      <pubDate>Wed, 1 Sep 2021 18:37:17 +0200</pubDate>
+      <dc:date>2021-09-01T18:37:17.027683+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter, 9–15 August 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-08-15-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 9–15 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-08-15-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-15-Voxmeter-seating-plan.png"/>]]></description>
@@ -172,78 +180,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup.png" length="339370" type="image/png"/>
       <pubDate>Wed, 16 Jun 2021 17:40:45 +0200</pubDate>
       <dc:date>2021-06-16T17:40:45.756343+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for B.T., 4–6 June 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by YouGov for B.T., 4–6 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov-seating-plan.png" length="373913" type="image/png"/>
-      <pubDate>Thu, 10 Jun 2021 20:01:06 +0200</pubDate>
-      <dc:date>2021-06-10T20:01:06.577294+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for B.T., 4–6 June 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by YouGov for B.T., 4–6 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov-seats.png" length="263446" type="image/png"/>
-      <pubDate>Thu, 10 Jun 2021 20:01:06 +0200</pubDate>
-      <dc:date>2021-06-10T20:01:06.577294+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by YouGov for B.T., 4–6 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by YouGov for B.T., 4–6 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-YouGov.png" length="354782" type="image/png"/>
-      <pubDate>Thu, 10 Jun 2021 20:01:06 +0200</pubDate>
-      <dc:date>2021-06-10T20:01:06.577294+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 31 May–6 June 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 31 May–6 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter-seating-plan.png" length="382035" type="image/png"/>
-      <pubDate>Tue, 8 Jun 2021 22:53:19 +0200</pubDate>
-      <dc:date>2021-06-08T22:53:19.259054+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 31 May–6 June 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 31 May–6 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter-seats.png" length="240702" type="image/png"/>
-      <pubDate>Tue, 8 Jun 2021 22:53:19 +0200</pubDate>
-      <dc:date>2021-06-08T22:53:19.259054+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 31 May–6 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 31 May–6 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-06-Voxmeter.png" length="357447" type="image/png"/>
-      <pubDate>Tue, 8 Jun 2021 22:53:19 +0200</pubDate>
-      <dc:date>2021-06-08T22:53:19.259054+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 24–30 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 24–30 May 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter-seating-plan.png" length="385847" type="image/png"/>
-      <pubDate>Tue, 8 Jun 2021 21:24:03 +0200</pubDate>
-      <dc:date>2021-06-08T21:24:03.318053+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 24–30 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 24–30 May 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter-seats.png" length="267067" type="image/png"/>
-      <pubDate>Tue, 8 Jun 2021 21:24:03 +0200</pubDate>
-      <dc:date>2021-06-08T21:24:03.318053+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 24–30 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 24–30 May 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-05-30-Voxmeter.png" length="344999" type="image/png"/>
-      <pubDate>Tue, 8 Jun 2021 21:24:03 +0200</pubDate>
-      <dc:date>2021-06-08T21:24:03.318053+02:00</dc:date>
     </item>
   </channel>
 </rss>
