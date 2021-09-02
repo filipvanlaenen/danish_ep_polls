@@ -14,6 +14,22 @@
       <dc:date>2021-09-01T18:37:17.027683+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Megafon for Politiken and TV 2, 23–26 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-08-26-Megafon.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Megafon for Politiken and TV 2, 23–26 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-08-26-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-26-Megafon.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-26-Megafon.png" length="380765" type="image/png"/>
+      <pubDate>Wed, 1 Sep 2021 19:30:24 +0200</pubDate>
+      <dc:date>2021-09-01T19:30:24.874932+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 16–22 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-08-22-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 16–22 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-08-22-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-22-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-22-Voxmeter.png" length="363333" type="image/png"/>
+      <pubDate>Wed, 1 Sep 2021 20:04:38 +0200</pubDate>
+      <dc:date>2021-09-01T20:04:38.886253+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter, 9–15 August 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-08-15-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 9–15 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-08-15-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-15-Voxmeter-seating-plan.png"/>]]></description>
@@ -156,30 +172,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-12-Voxmeter.png" length="346221" type="image/png"/>
       <pubDate>Wed, 16 Jun 2021 20:12:03 +0200</pubDate>
       <dc:date>2021-06-16T20:12:03.307371+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 4–10 June 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Gallup, 4–10 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup-seating-plan.png" length="378536" type="image/png"/>
-      <pubDate>Wed, 16 Jun 2021 17:40:45 +0200</pubDate>
-      <dc:date>2021-06-16T17:40:45.756343+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 4–10 June 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Gallup, 4–10 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup-seats.png" length="230782" type="image/png"/>
-      <pubDate>Wed, 16 Jun 2021 17:40:45 +0200</pubDate>
-      <dc:date>2021-06-16T17:40:45.756343+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 4–10 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Gallup, 4–10 June 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-06-10-Gallup.png" length="339370" type="image/png"/>
-      <pubDate>Wed, 16 Jun 2021 17:40:45 +0200</pubDate>
-      <dc:date>2021-06-16T17:40:45.756343+02:00</dc:date>
     </item>
   </channel>
 </rss>
