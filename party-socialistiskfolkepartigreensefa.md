@@ -10,11 +10,14 @@ Last result: **10.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 7.4–10.3% | 7.1–10.7% | 6.9–11.0% | 6.5–11.6% |
+| N/A | [Poll Average](average.html) | 9.0% | 7.4–10.6% | 7.1–10.9% | 6.9–11.3% | 6.4–12.0% |
+| [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
+| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 7.9% | 7.0–9.0% | 6.8–9.3% | 6.5–9.5% | 6.1–10.1% |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 8.8% | 7.8–10.1% | 7.5–10.5% | 7.2–10.8% | 6.8–11.4% |
 | [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.9–11.5% | 7.4–12.2% |
 | [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 7.8% | 7.0–8.7% | 6.8–9.0% | 6.6–9.2% | 6.2–9.7% |
 | [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 9.4% | 8.3–10.7% | 8.0–11.0% | 7.7–11.3% | 7.2–12.0% |
+| [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. | 7.6% | 6.8–8.7% | 6.5–9.0% | 6.3–9.3% | 5.9–9.8% |
 | [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 9.3% | 8.2–10.6% | 7.9–11.0% | 7.7–11.3% | 7.2–11.9% |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 9.8% | 8.6–11.1% | 8.3–11.4% | 8.1–11.8% | 7.6–12.4% |
 | [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 9.6% | 8.8–10.6% | 8.5–10.9% | 8.3–11.1% | 7.9–11.6% |
@@ -194,14 +197,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.7% | 100% |  |
-| 6.5–7.5% | 11% | 99.3% |  |
-| 7.5–8.5% | 29% | 88% |  |
-| 8.5–9.5% | 31% | 58% | Median |
-| 9.5–10.5% | 21% | 27% |  |
-| 10.5–11.5% | 6% | 6% | Last Result |
-| 11.5–12.5% | 0.6% | 0.6% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.9% | 100% |  |
+| 6.5–7.5% | 12% | 99.1% |  |
+| 7.5–8.5% | 25% | 87% |  |
+| 8.5–9.5% | 28% | 62% | Median |
+| 9.5–10.5% | 24% | 34% |  |
+| 10.5–11.5% | 9% | 10% | Last Result |
+| 11.5–12.5% | 1.3% | 1.4% |  |
+| 12.5–13.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -213,10 +217,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1 |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
 | [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
+| [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1 |
 | [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–7 August 2021](2021-08-07-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 July–5 August 2021](2021-08-05-Gallup.html) | Gallup | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -397,8 +404,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 89% | 100% | Last Result, Median |
-| 2 | 11% | 11% |  |
+| 1 | 75% | 100% | Last Result, Median |
+| 2 | 25% | 25% |  |
 | 3 | 0% | 0% |  |
 
 
