@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:47 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 27 September–3 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-10-03-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 27 September–3 October 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-10-03-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-10-03-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-10-03-Voxmeter.png" length="369667" type="image/png"/>
+      <pubDate>Mon, 4 Oct 2021 17:15:36 +0200</pubDate>
+      <dc:date>2021-10-04T17:15:36.042775+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter, 13–19 September 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-09-19-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 13–19 September 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-09-19-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-09-19-Voxmeter-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-07-Voxmeter.png" length="342280" type="image/png"/>
       <pubDate>Sun, 15 Aug 2021 16:21:41 +0200</pubDate>
       <dc:date>2021-08-15T16:21:41.307358+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 30 July–5 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Gallup, 30 July–5 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup-seating-plan.png" length="386103" type="image/png"/>
-      <pubDate>Sun, 15 Aug 2021 15:57:52 +0200</pubDate>
-      <dc:date>2021-08-15T15:57:52.335151+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 30 July–5 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Gallup, 30 July–5 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup-seats.png" length="289465" type="image/png"/>
-      <pubDate>Sun, 15 Aug 2021 15:57:52 +0200</pubDate>
-      <dc:date>2021-08-15T15:57:52.335151+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup, 30 July–5 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Gallup, 30 July–5 August 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-08-05-Gallup.png" length="383582" type="image/png"/>
-      <pubDate>Sun, 15 Aug 2021 15:57:52 +0200</pubDate>
-      <dc:date>2021-08-15T15:57:52.335151+02:00</dc:date>
     </item>
   </channel>
 </rss>
