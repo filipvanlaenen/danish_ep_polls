@@ -223,7 +223,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–2 |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
 | [3 October 2021](2021-10-03-Gallup.html) | Gallup | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1–2 |
@@ -231,7 +231,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1–2 | 1–2 |
+| [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1–2 |
 | [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
 | [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–15 August 2021](2021-08-15-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
@@ -416,7 +416,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.4% | 100% | Last Result |
 | 1 | 96% | 98.6% | Median |
-| 2 | 3% | 3% |  |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
