@@ -227,10 +227,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2–3 | 2–3 |
-| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 2 | 2 | 2 | 2–3 | 2–3 |
+| [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 2 | 2 | 2 | 2 | 2–3 |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–2 |
-| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2–3 | 2–3 |
+| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3 October 2021](2021-10-03-Gallup.html) | Gallup | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 3 | 3 | 3 | 2–3 | 2–3 |
