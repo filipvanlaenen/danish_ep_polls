@@ -10,13 +10,15 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.6% | 25.0–30.9% | 24.3–31.7% | 23.7–32.3% | 22.6–33.4% |
+| N/A | [Poll Average](average.html) | 27.5% | 23.3–30.9% | 22.5–31.7% | 21.8–32.3% | 20.8–33.4% |
+| [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 23.3% | 21.7–25.1% | 21.2–25.6% | 20.8–26.0% | 20.1–26.8% |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 27.1% | 25.4–29.0% | 24.9–29.5% | 24.4–30.0% | 23.6–30.9% |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 28.0% | 26.6–29.5% | 26.2–29.9% | 25.9–30.3% | 25.2–31.0% |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 27.7% | 26.1–29.5% | 25.6–30.0% | 25.2–30.5% | 24.4–31.3% |
 | [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.5–32.8% |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 27.6% | 25.8–29.5% | 25.4–30.0% | 24.9–30.5% | 24.1–31.4% |
 | [3 October 2021](2021-10-03-Gallup.html) | Gallup | 27.3% | 25.9–28.8% | 25.6–29.2% | 25.2–29.5% | 24.6–30.2% |
+| [21–29 September 2021](2021-09-29-Epinion.html) | Epinion | 27.6% | 26.2–29.1% | 25.8–29.5% | 25.4–29.9% | 24.8–30.6% |
 | [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 30.8% | 29.2–32.5% | 28.7–33.0% | 28.3–33.4% | 27.5–34.2% |
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 27.7% | 25.9–29.5% | 25.4–30.1% | 25.0–30.5% | 24.2–31.4% |
 | [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 31.0% | 29.4–32.7% | 28.9–33.2% | 28.5–33.6% | 27.7–34.4% |
@@ -204,15 +206,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 18.5–19.5% | 0% | 100% | Last Result |
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.4% | 99.9% |  |
-| 22.5–23.5% | 2% | 99.6% |  |
-| 23.5–24.5% | 5% | 98% |  |
-| 24.5–25.5% | 9% | 93% |  |
-| 25.5–26.5% | 14% | 85% |  |
-| 26.5–27.5% | 20% | 70% |  |
-| 27.5–28.5% | 19% | 50% | Median |
+| 19.5–20.5% | 0.3% | 100% |  |
+| 20.5–21.5% | 1.4% | 99.7% |  |
+| 21.5–22.5% | 4% | 98% |  |
+| 22.5–23.5% | 6% | 95% |  |
+| 23.5–24.5% | 6% | 89% |  |
+| 24.5–25.5% | 6% | 83% |  |
+| 25.5–26.5% | 10% | 77% |  |
+| 26.5–27.5% | 18% | 67% |  |
+| 27.5–28.5% | 18% | 49% | Median |
 | 28.5–29.5% | 12% | 32% |  |
 | 29.5–30.5% | 8% | 20% |  |
 | 30.5–31.5% | 6% | 12% |  |
@@ -231,13 +233,15 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
+| [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 5 | 5 | 5 | 5 | 4–6 |
 | [3 October 2021](2021-10-03-Gallup.html) | Gallup | 5 | 5 | 4–5 | 4–5 | 4–6 |
+| [21–29 September 2021](2021-09-29-Epinion.html) | Epinion | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 5 | 5 | 5–6 | 5–6 | 5–6 |
@@ -426,9 +430,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% | Last Result |
-| 4 | 15% | 99.9% |  |
-| 5 | 74% | 85% | Median |
+| 3 | 2% | 100% | Last Result |
+| 4 | 25% | 98% |  |
+| 5 | 62% | 73% | Median |
 | 6 | 11% | 11% |  |
 | 7 | 0% | 0% |  |
 
