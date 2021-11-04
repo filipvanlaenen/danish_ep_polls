@@ -225,7 +225,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
 | [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 1 | 1 | 1 | 1 | 1 |
@@ -422,8 +422,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 90% | 100% | Last Result, Median |
-| 2 | 10% | 10% |  |
+| 1 | 95% | 100% | Last Result, Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 
