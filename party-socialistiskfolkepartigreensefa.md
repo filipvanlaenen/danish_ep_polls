@@ -10,7 +10,7 @@ Last result: **10.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 7.2–9.4% | 7.0–9.9% | 6.8–10.2% | 6.3–11.0% |
+| N/A | [Poll Average](average.html) | 8.2% | 7.2–9.3% | 7.0–9.7% | 6.8–10.1% | 6.4–10.9% |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 7.8% | 7.0–8.7% | 6.8–9.0% | 6.6–9.2% | 6.2–9.7% |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 8.7% | 7.6–10.1% | 7.2–10.5% | 7.0–10.8% | 6.5–11.5% |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter | 8.1% | N/A | N/A | N/A | N/A |
@@ -18,7 +18,7 @@ Last result: **10.9%** (General Election of 26 May 2019)
 | [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
 | [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 8.9% | N/A | N/A | N/A | N/A |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 7.8% | N/A | N/A | N/A | N/A |
-| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 8.0% | N/A | N/A | N/A | N/A |
+| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 8.4% | N/A | N/A | N/A | N/A |
 | [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 7.7% | N/A | N/A | N/A | N/A |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 8.9% | N/A | N/A | N/A | N/A |
@@ -211,12 +211,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.2% | 100% |  |
-| 6.5–7.5% | 19% | 98.8% |  |
-| 7.5–8.5% | 45% | 80% | Median |
-| 8.5–9.5% | 26% | 35% |  |
-| 9.5–10.5% | 7% | 8% |  |
-| 10.5–11.5% | 1.3% | 1.4% | Last Result |
+| 5.5–6.5% | 1.1% | 100% |  |
+| 6.5–7.5% | 19% | 98.9% |  |
+| 7.5–8.5% | 48% | 80% | Median |
+| 8.5–9.5% | 25% | 32% |  |
+| 9.5–10.5% | 6% | 7% |  |
+| 10.5–11.5% | 1.0% | 1.1% | Last Result |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -237,7 +237,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
 | [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 |  |  |  |  |  |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion |  |  |  |  |  |
+| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 1 | 1 | 1 | 1 | 1 |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -431,8 +431,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 98.8% | 100% | Last Result, Median |
-| 2 | 1.2% | 1.2% |  |
+| 1 | 99.0% | 100% | Last Result, Median |
+| 2 | 1.0% | 1.0% |  |
 | 3 | 0% | 0% |  |
 
 

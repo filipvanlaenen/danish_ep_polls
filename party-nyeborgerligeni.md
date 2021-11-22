@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.4–7.9% | 5.1–8.3% | 4.9–8.7% | 4.6–9.4% |
+| N/A | [Poll Average](average.html) | 6.3% | 5.3–7.7% | 5.1–8.2% | 4.9–8.6% | 4.5–9.3% |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 5.7% | 5.0–6.5% | 4.8–6.8% | 4.7–7.0% | 4.4–7.4% |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 7.3% | 6.2–8.6% | 5.9–8.9% | 5.7–9.2% | 5.2–9.9% |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter | 7.0% | N/A | N/A | N/A | N/A |
@@ -18,7 +18,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 7.1% | 6.1–8.2% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 7.8% | N/A | N/A | N/A | N/A |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 6.6% | N/A | N/A | N/A | N/A |
-| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 5.8% | N/A | N/A | N/A | N/A |
+| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 5.8% | 5.1–6.6% | 4.9–6.9% | 4.8–7.1% | 4.5–7.5% |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 7.1% | N/A | N/A | N/A | N/A |
 | [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 7.7% | N/A | N/A | N/A | N/A |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 6.6% | N/A | N/A | N/A | N/A |
@@ -214,13 +214,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 13% | 99.5% |  |
-| 5.5–6.5% | 36% | 87% |  |
-| 6.5–7.5% | 33% | 50% | Median |
-| 7.5–8.5% | 14% | 17% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 17% | 99.4% |  |
+| 5.5–6.5% | 42% | 82% | Median |
+| 6.5–7.5% | 28% | 41% |  |
+| 7.5–8.5% | 10% | 13% |  |
+| 8.5–9.5% | 2% | 3% |  |
+| 9.5–10.5% | 0.3% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -232,7 +232,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 0–1 | 0–1 |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 1 | 1 | 1 | 1 | 1 |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -240,7 +240,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
 | [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 |  |  |  |  |  |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion |  |  |  |  |  |
+| [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -434,8 +434,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 97% | 97% | Median |
+| 0 | 17% | 100% | Last Result |
+| 1 | 83% | 83% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
