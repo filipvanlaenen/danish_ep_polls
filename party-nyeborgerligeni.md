@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.4–8.6% | 5.1–9.1% | 4.9–9.4% | 4.6–10.1% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.6–8.6% | 5.3–9.1% | 5.1–9.4% | 4.7–10.1% |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 6.3% | 5.5–7.3% | 5.3–7.6% | 5.1–7.8% | 4.7–8.3% |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 5.7% | 5.0–6.5% | 4.8–6.8% | 4.7–7.0% | 4.4–7.4% |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 7.3% | 6.2–8.6% | 5.9–8.9% | 5.7–9.2% | 5.2–9.9% |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter | 7.0% | N/A | N/A | N/A | N/A |
@@ -214,11 +215,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 14% | 99.6% |  |
-| 5.5–6.5% | 34% | 86% |  |
-| 6.5–7.5% | 25% | 52% | Median |
-| 7.5–8.5% | 17% | 28% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 9% | 99.8% |  |
+| 5.5–6.5% | 33% | 91% |  |
+| 6.5–7.5% | 30% | 58% | Median |
+| 7.5–8.5% | 18% | 29% |  |
 | 8.5–9.5% | 9% | 11% |  |
 | 9.5–10.5% | 2% | 2% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
@@ -234,6 +235,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 0–1 | 0–1 |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 1 | 1 | 1 | 1 | 1 |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
