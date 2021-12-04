@@ -10,7 +10,8 @@ Last result: **9.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.4% | 13.3–18.5% | 12.9–19.3% | 12.6–19.9% | 11.9–21.0% |
+| N/A | [Poll Average](average.html) | 15.6% | 13.4–18.5% | 12.9–19.3% | 12.6–19.9% | 11.9–21.0% |
+| [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 15.1% | 13.7–16.7% | 13.4–17.1% | 13.0–17.5% | 12.4–18.2% |
 | [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 14.7% | 13.5–16.1% | 13.2–16.5% | 12.9–16.8% | 12.3–17.5% |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 14.3% | 13.2–15.5% | 12.9–15.8% | 12.7–16.1% | 12.2–16.7% |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 18.2% | 16.6–20.0% | 16.1–20.5% | 15.7–21.0% | 15.0–21.9% |
@@ -215,11 +216,11 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
 | 11.5–12.5% | 2% | 99.9% |  |
-| 12.5–13.5% | 11% | 98% |  |
-| 13.5–14.5% | 20% | 87% |  |
-| 14.5–15.5% | 19% | 67% | Median |
-| 15.5–16.5% | 15% | 48% |  |
-| 16.5–17.5% | 13% | 33% |  |
+| 12.5–13.5% | 10% | 98% |  |
+| 13.5–14.5% | 18% | 88% |  |
+| 14.5–15.5% | 19% | 70% |  |
+| 15.5–16.5% | 16% | 51% | Median |
+| 16.5–17.5% | 14% | 35% |  |
 | 17.5–18.5% | 11% | 21% |  |
 | 18.5–19.5% | 6% | 10% |  |
 | 19.5–20.5% | 3% | 4% |  |
@@ -236,7 +237,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -440,8 +442,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 55% | 100% | Median |
-| 3 | 44% | 45% |  |
+| 2 | 48% | 100% |  |
+| 3 | 51% | 52% | Median |
 | 4 | 0.8% | 0.8% |  |
 | 5 | 0% | 0% |  |
 
