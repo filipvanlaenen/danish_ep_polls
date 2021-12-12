@@ -6,16 +6,16 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E | P | G |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 4–8% <br> 0–1 | 23–32% <br> 4–6 | 8–18% <br> 1–3 | 6–10% <br> 1 | 14–20% <br> 2–3 | 4–8% <br> 0–1 | 2–4% <br> 0 | 0–2% <br> 0 | 6–12% <br> 1–2 | 1–2% <br> 0 | 4–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
-| [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 4–6% <br> 0–1 | 24–28% <br> 4–5 | 13–16% <br> 2–3 | 8–10% <br> 1–2 | 14–18% <br> 2–3 | 5–8% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 7–9% <br> 1 | 1–3% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
-| [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 5–8% <br> 1 | 23–29% <br> 4–5 | 14–19% <br> 2–3 | 7–10% <br> 1 | 13–17% <br> 2–3 | 5–8% <br> 0–1 | 2–4% <br> 0 | 1–2% <br> 0 | 9–12% <br> 1–2 | 1–3% <br> 0 | 4–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 4–7% <br> 0–1 | 22–28% <br> 4–5 | 12–16% <br> 2–3 | 7–11% <br> 1–2 | 16–21% <br> 3–4 | 4–7% <br> 0–1 | 2–4% <br> 0 | 0–2% <br> 0 | 7–11% <br> 1–2 | 1–3% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
-| [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 6–8% <br> 1 | 24–29% <br> 4–5 | 14–18% <br> 2–3 | 7–10% <br> 1 | 13–17% <br> 2–3 | 5–7% <br> 0–1 | 2–3% <br> 0 | 0–1% <br> 0 | 7–10% <br> 1 | 1–2% <br> 0 | 6–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 5–8% <br> 1 | 28–33% <br> 5–6 | 8–11% <br> 1–2 | 6–9% <br> 1 | 15–19% <br> 2–3 | 3–6% <br> 0–1 | 1–3% <br> 0 | 1–2% <br> 0 | 6–8% <br> 1 | 1–2% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E | P | G | Q |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | Poll Average | 4–8% <br> 0–1 | 23–32% <br> 4–6 | 8–18% <br> 1–3 | 6–10% <br> 1 | 14–20% <br> 2–3 | 4–8% <br> 0–1 | 2–4% <br> 0 | 0–2% <br> 0 | 6–12% <br> 1–2 | 1–2% <br> 0 | 4–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
+| [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 4–6% <br> 0–1 | 24–28% <br> 4–5 | 13–16% <br> 2–3 | 8–10% <br> 1 | 14–18% <br> 2–3 | 5–8% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 7–9% <br> 1 | 1–3% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
+| [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 5–8% <br> 1 | 23–29% <br> 4–5 | 14–19% <br> 2–3 | 7–10% <br> 1 | 13–17% <br> 2–3 | 5–8% <br> 0–1 | 2–4% <br> 0 | 1–2% <br> 0 | 9–12% <br> 1–2 | 1–3% <br> 0 | 4–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 4–7% <br> 0–1 | 22–28% <br> 4–5 | 12–16% <br> 2–3 | 7–11% <br> 1 | 16–21% <br> 3–4 | 4–7% <br> 0–1 | 2–4% <br> 0 | 0–2% <br> 0 | 7–11% <br> 1 | 1–3% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
+| [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 6–8% <br> 1 | 24–29% <br> 4–5 | 14–18% <br> 2–3 | 7–10% <br> 1 | 13–17% <br> 2–3 | 5–7% <br> 0–1 | 2–3% <br> 0 | 0–1% <br> 0 | 7–10% <br> 1 | 1–2% <br> 0 | 6–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 5–8% <br> 1 | 28–33% <br> 5–6 | 8–11% <br> 1–2 | 6–9% <br> 1 | 15–19% <br> 2–3 | 3–6% <br> 0–1 | 1–3% <br> 0 | 1–2% <br> 0 | 6–8% <br> 1 | 1–2% <br> 0 | 7–10% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -36,6 +36,7 @@ Only polls for which at least the sample size has been published are included in
 + **E:** Borgerlisten (*)
 + **P:** Stram Kurs (*)
 + **G:** Veganerpartiet (*)
++ **Q:** Frie Grønne (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -61,4 +62,5 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#borgerlisten-(*)">Borgerlisten (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#veganerpartiet-(*)">Veganerpartiet (*)</a> | 0.0% | 0.3% | 0.2–0.6% |0.1–0.7% | 0.1–0.8% | 0.1–1.0% |
+| <a href="#frie-grønne-(*)">Frie Grønne (*)</a> | 0.0% | 0.6% | 0.4–1.0% |0.3–1.1% | 0.3–1.3% | 0.2–1.5% |
 
