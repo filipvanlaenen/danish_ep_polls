@@ -14,8 +14,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
 | [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
-| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 1.5% | 1.2–2.1% | 1.1–2.2% | 1.0–2.4% | 0.8–2.7% |
-| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 1.1% | 0.9–1.6% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 1.5% | N/A | N/A | N/A | N/A |
+| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 1.1% | N/A | N/A | N/A | N/A |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 1.0% | 0.6–1.6% | 0.5–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter | 0.7% | N/A | N/A | N/A | N/A |
 | [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
@@ -232,8 +232,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 0 | 0 | 0 | 0 | 0 |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |

@@ -14,8 +14,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 4.8% | 4.2–5.5% | 4.0–5.7% | 3.9–5.9% | 3.6–6.3% |
 | [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 6.2% | 5.3–7.3% | 5.0–7.6% | 4.8–7.8% | 4.5–8.4% |
-| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 5.8% | 5.1–6.8% | 4.8–7.1% | 4.7–7.3% | 4.3–7.8% |
-| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 6.4% | 5.7–7.3% | 5.5–7.5% | 5.3–7.7% | 5.0–8.2% |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 5.8% | N/A | N/A | N/A | N/A |
+| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 6.4% | N/A | N/A | N/A | N/A |
 | [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 5.2% | 4.4–6.4% | 4.1–6.7% | 3.9–7.0% | 3.5–7.5% |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter | 6.2% | N/A | N/A | N/A | N/A |
 | [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 6.7% | 5.9–7.5% | 5.7–7.8% | 5.5–8.0% | 5.2–8.4% |
@@ -253,10 +253,10 @@ Last result: **4** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
-| [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 0–1 |
-| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 1 | 1 | 1 | 1 | 1 |
 | [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -456,8 +456,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 81% | 81% | Median |
+| 0 | 13% | 100% |  |
+| 1 | 87% | 87% | Median |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
