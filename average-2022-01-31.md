@@ -9,11 +9,11 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E | P | G | Q |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 4–7% <br> 0–1 | 23–28% <br> 4–5 | 12–18% <br> 2–3 | 6–10% <br> 1 | 14–20% <br> 2–3 | 4–8% <br> 0–1 | 2–4% <br> 0 | 0–2% <br> 0 | 7–11% <br> 1–2 | 1–3% <br> 0 | 5–9% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
-| [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter | 5–8% <br> 0–1 | 22–28% <br> 4–5 | 14–19% <br> 2–3 | 7–10% <br> 1–2 | 13–17% <br> 2–3 | 6–9% <br> 1 | 2–4% <br> 0 | 1–2% <br> 0 | 7–11% <br> 1 | 1–3% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
+| N/A | Poll Average | 4–6% <br> 0–1 | 22–28% <br> 4–5 | 10–17% <br> 1–3 | 6–10% <br> 1 | 13–21% <br> 2–3 | 5–9% <br> 0–1 | 2–4% <br> 0 | 0–2% <br> 0 | 7–11% <br> 1–2 | 1–3% <br> 0 | 5–9% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
+| [10–20 January 2022](2022-01-20-Megafon.html) | Megafon | 3–6% <br> 0–1 | 21–27% <br> 4 | 10–14% <br> 1–2 | 7–11% <br> 1–2 | 16–22% <br> 3–4 | 5–9% <br> 1 | 2–4% <br> 0 | 0–2% <br> 0 | 8–12% <br> 1–2 | 1–3% <br> 0 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
+| [10–16 January 2022](2022-01-16-Voxmeter.html) | Voxmeter | 4–7% <br> 0–1 | 23–29% <br> 4–5 | 13–17% <br> 2–3 | 7–10% <br> 1–2 | 12–17% <br> 2–3 | 6–9% <br> 1 | 2–5% <br> 0 | 1–2% <br> 0 | 8–11% <br> 1–2 | 1–2% <br> 0 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
 | [3–9 December 2021](2021-12-09-Gallup.html) | Gallup | 4–7% <br> 0–1 | 25–29% <br> 4–5 | 14–17% <br> 2–3 | 6–9% <br> 1 | 15–18% <br> 2–3 | 4–7% <br> 0–1 | 3–5% <br> 0 | 0–1% <br> 0 | 8–11% <br> 1–2 | 1–2% <br> 0 | 5–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
 | [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 4–6% <br> 0–1 | 24–28% <br> 4–5 | 13–16% <br> 2–3 | 8–10% <br> 1 | 14–18% <br> 2–3 | 5–8% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 7–9% <br> 1 | 1–3% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
-| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 4–7% <br> 0–1 | 22–28% <br> 4–5 | 12–16% <br> 2–3 | 7–11% <br> 1 | 16–21% <br> 3–4 | 4–7% <br> 0–1 | 2–4% <br> 0 | 0–2% <br> 0 | 7–11% <br> 1 | 1–3% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -47,19 +47,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#dansk-folkeparti-(id)">Dansk Folkeparti (ID)</a> | 26.6% | 5.4% | 4.4–6.6% |4.2–7.0% | 4.0–7.3% | 3.7–8.0% |
-| <a href="#socialdemokraterne-(s&d)">Socialdemokraterne (S&D)</a> | 19.1% | 25.8% | 23.7–27.6% |23.1–28.1% | 22.6–28.4% | 21.7–29.2% |
-| <a href="#venstre-(re)">Venstre (RE)</a> | 16.7% | 15.0% | 13.4–16.9% |12.9–17.6% | 12.5–18.1% | 11.7–19.0% |
-| <a href="#socialistisk-folkeparti-(greens/efa)">Socialistisk Folkeparti (Greens/EFA)</a> | 10.9% | 8.5% | 7.0–9.7% |6.7–10.1% | 6.5–10.4% | 6.0–11.1% |
-| <a href="#det-konservative-folkeparti-(epp)">Det Konservative Folkeparti (EPP)</a> | 9.1% | 16.3% | 14.5–18.6% |14.0–19.4% | 13.6–20.0% | 12.8–21.1% |
-| <a href="#radikale-venstre-(re)">Radikale Venstre (RE)</a> | 6.5% | 6.1% | 4.9–7.6% |4.6–8.0% | 4.4–8.4% | 3.9–9.0% |
-| <a href="#liberal-alliance-(re)">Liberal Alliance (RE)</a> | 2.9% | 2.9% | 2.2–3.8% |2.0–4.1% | 1.9–4.3% | 1.6–4.7% |
-| <a href="#alternativet-(greens/efa)">Alternativet (Greens/EFA)</a> | 0.0% | 0.9% | 0.6–1.5% |0.5–1.7% | 0.4–1.9% | 0.3–2.2% |
-| <a href="#enhedslisten–de-rød-grønne-(gue/ngl)">Enhedslisten–De Rød-Grønne (GUE/NGL)</a> | 0.0% | 8.7% | 7.4–10.1% |7.1–10.4% | 6.9–10.7% | 6.5–11.3% |
-| <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0.0% | 1.8% | 1.3–2.4% |1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
-| <a href="#nye-borgerlige-(ni)">Nye Borgerlige (NI)</a> | 0.0% | 6.7% | 5.5–8.1% |5.2–8.5% | 5.0–8.8% | 4.6–9.4% |
+| <a href="#dansk-folkeparti-(id)">Dansk Folkeparti (ID)</a> | 26.6% | 5.0% | 4.2–6.0% |3.9–6.2% | 3.7–6.5% | 3.3–7.0% |
+| <a href="#socialdemokraterne-(s&d)">Socialdemokraterne (S&D)</a> | 19.1% | 25.9% | 23.5–27.7% |22.7–28.1% | 22.1–28.5% | 21.1–29.3% |
+| <a href="#venstre-(re)">Venstre (RE)</a> | 16.7% | 14.6% | 11.4–16.1% |10.8–16.5% | 10.3–16.9% | 9.6–17.7% |
+| <a href="#socialistisk-folkeparti-(greens/efa)">Socialistisk Folkeparti (Greens/EFA)</a> | 10.9% | 8.5% | 7.1–9.8% |6.7–10.2% | 6.5–10.5% | 6.1–11.2% |
+| <a href="#det-konservative-folkeparti-(epp)">Det Konservative Folkeparti (EPP)</a> | 9.1% | 16.3% | 14.3–19.2% |13.7–20.0% | 13.2–20.6% | 12.4–21.7% |
+| <a href="#radikale-venstre-(re)">Radikale Venstre (RE)</a> | 6.5% | 6.6% | 5.2–8.0% |4.9–8.4% | 4.7–8.8% | 4.3–9.5% |
+| <a href="#liberal-alliance-(re)">Liberal Alliance (RE)</a> | 2.9% | 3.1% | 2.4–4.0% |2.2–4.2% | 2.0–4.4% | 1.7–4.8% |
+| <a href="#alternativet-(greens/efa)">Alternativet (Greens/EFA)</a> | 0.0% | 0.8% | 0.5–1.3% |0.4–1.5% | 0.4–1.7% | 0.3–2.0% |
+| <a href="#enhedslisten–de-rød-grønne-(gue/ngl)">Enhedslisten–De Rød-Grønne (GUE/NGL)</a> | 0.0% | 9.1% | 7.6–10.4% |7.3–10.8% | 7.0–11.1% | 6.6–11.8% |
+| <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0.0% | 1.7% | 1.2–2.3% |1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
+| <a href="#nye-borgerlige-(ni)">Nye Borgerlige (NI)</a> | 0.0% | 6.8% | 5.4–8.4% |5.2–8.9% | 4.9–9.2% | 4.5–10.0% |
 | <a href="#borgerlisten-(*)">Borgerlisten (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#veganerpartiet-(*)">Veganerpartiet (*)</a> | 0.0% | 0.3% | 0.1–0.5% |0.1–0.6% | 0.1–0.7% | 0.1–1.0% |
-| <a href="#frie-grønne-(*)">Frie Grønne (*)</a> | 0.0% | 0.4% | 0.1–0.9% |0.1–1.0% | 0.1–1.1% | 0.0–1.4% |
+| <a href="#veganerpartiet-(*)">Veganerpartiet (*)</a> | 0.0% | 0.3% | 0.1–0.6% |0.1–0.7% | 0.1–0.8% | 0.1–1.1% |
+| <a href="#frie-grønne-(*)">Frie Grønne (*)</a> | 0.0% | 0.4% | 0.1–0.7% |0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 
