@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:47 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 24–30 January 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 24–30 January 2022<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter-seating-plan.png" length="367636" type="image/png"/>
+      <pubDate>Sat, 5 Feb 2022 18:08:58 +0100</pubDate>
+      <dc:date>2022-02-05T18:08:58.80477+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 24–30 January 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 24–30 January 2022<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter-seats.png" length="259892" type="image/png"/>
+      <pubDate>Sat, 5 Feb 2022 18:08:58 +0100</pubDate>
+      <dc:date>2022-02-05T18:08:58.80477+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 24–30 January 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 24–30 January 2022<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2022-01-30-Voxmeter.png" length="356754" type="image/png"/>
+      <pubDate>Sat, 5 Feb 2022 18:08:58 +0100</pubDate>
+      <dc:date>2022-02-05T18:08:58.80477+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Megafon, 10–20 January 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2022-01-20-Megafon.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Megafon, 10–20 January 2022<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2022-01-20-Megafon.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2022-01-20-Megafon-seating-plan.png"/>]]></description>
@@ -148,54 +172,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-12-08-Epinion.png" length="375890" type="image/png"/>
       <pubDate>Sun, 12 Dec 2021 17:51:20 +0100</pubDate>
       <dc:date>2021-12-12T17:51:20.334832+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 29 November–5 December 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 29 November–5 December 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter-seating-plan.png" length="366376" type="image/png"/>
-      <pubDate>Sun, 12 Dec 2021 17:58:55 +0100</pubDate>
-      <dc:date>2021-12-12T17:58:55.55677+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 29 November–5 December 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 29 November–5 December 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter-seats.png" length="271344" type="image/png"/>
-      <pubDate>Sun, 12 Dec 2021 17:58:55 +0100</pubDate>
-      <dc:date>2021-12-12T17:58:55.55677+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 29 November–5 December 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 29 November–5 December 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-12-05-Voxmeter.png" length="357912" type="image/png"/>
-      <pubDate>Sun, 12 Dec 2021 17:58:55 +0100</pubDate>
-      <dc:date>2021-12-12T17:58:55.55677+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 22–28 November 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 22–28 November 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter-seating-plan.png" length="367454" type="image/png"/>
-      <pubDate>Sun, 12 Dec 2021 18:08:31 +0100</pubDate>
-      <dc:date>2021-12-12T18:08:31.042374+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 22–28 November 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 22–28 November 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter-seats.png" length="285550" type="image/png"/>
-      <pubDate>Sun, 12 Dec 2021 18:08:31 +0100</pubDate>
-      <dc:date>2021-12-12T18:08:31.042374+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 22–28 November 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 22–28 November 2021<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2021-11-28-Voxmeter.png" length="386198" type="image/png"/>
-      <pubDate>Sun, 12 Dec 2021 18:08:31 +0100</pubDate>
-      <dc:date>2021-12-12T18:08:31.042374+01:00</dc:date>
     </item>
   </channel>
 </rss>
