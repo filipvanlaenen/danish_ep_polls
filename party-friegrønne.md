@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.2–0.8% | 0.1–0.9% | 0.1–1.0% | 0.1–1.2% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.1% | 0.2–1.2% | 0.1–1.3% | 0.1–1.5% |
+| [14–20 February 2022](2022-02-20-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [9–16 February 2022](2022-02-16-Epinion.html) | Epinion <br> DR | 0.9% | 0.7–1.2% | 0.6–1.3% | 0.6–1.4% | 0.5–1.6% |
 | [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter | 0.2% | N/A | N/A | N/A | N/A |
 | [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% |
@@ -226,9 +228,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 67% | 100% | Last Result, Median |
-| 0.5–1.5% | 33% | 33% |  |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 47% | 100% | Last Result |
+| 0.5–1.5% | 52% | 53% | Median |
+| 1.5–2.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -240,6 +243,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–20 February 2022](2022-02-20-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [9–16 February 2022](2022-02-16-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
