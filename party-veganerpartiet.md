@@ -10,16 +10,21 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.1% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.1% |
+| [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 0.5% | 0.3–0.8% | 0.3–0.8% | 0.3–0.9% | 0.2–1.1% |
+| [7–12 March 2022](2022-03-12-Voxmeter.html) | Voxmeter | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [21–27 February 2022](2022-02-27-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [14–20 February 2022](2022-02-20-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [9–16 February 2022](2022-02-16-Epinion.html) | Epinion <br> DR | 0.4% | 0.3–0.6% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% |
 | [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. | 1.4% | N/A | N/A | N/A | N/A |
 | [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter | 0.2% | N/A | N/A | N/A | N/A |
 | [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 0.1% | 0.1–0.3% | 0.0–0.4% | 0.0–0.4% | 0.0–0.6% |
 | [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [17–23 January 2022](2022-01-23-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [10–20 January 2022](2022-01-20-Megafon.html) | Megafon | 0.3% | 0.2–0.8% | 0.2–0.9% | 0.1–1.0% | 0.1–1.3% |
 | [10–16 January 2022](2022-01-16-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [7–10 January 2022](2022-01-10-YouGov.html) | YouGov <br> B.T. | 0.5% | N/A | N/A | N/A | N/A |
 | [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [20–23 December 2021](2021-12-23-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [13–19 December 2021](2021-12-19-Voxmeter.html) | Voxmeter | 0.1% | N/A | N/A | N/A | N/A |
@@ -228,8 +233,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 83% | 100% | Last Result, Median |
-| 0.5–1.5% | 17% | 17% |  |
+| 0.0–0.5% | 76% | 100% | Last Result, Median |
+| 0.5–1.5% | 24% | 24% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -242,15 +247,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
+| [7–12 March 2022](2022-03-12-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [21–27 February 2022](2022-02-27-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [14–20 February 2022](2022-02-20-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [9–16 February 2022](2022-02-16-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
 | [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [17–23 January 2022](2022-01-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [10–20 January 2022](2022-01-20-Megafon.html) | Megafon | 0 | 0 | 0 | 0 | 0 |
 | [10–16 January 2022](2022-01-16-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [7–10 January 2022](2022-01-10-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
 | [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [20–23 December 2021](2021-12-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [13–19 December 2021](2021-12-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
