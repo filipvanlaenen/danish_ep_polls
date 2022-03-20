@@ -10,14 +10,14 @@ Last result: **9.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.4% | 13.8–19.2% | 13.4–20.0% | 13.1–20.6% | 12.6–21.7% |
+| N/A | [Poll Average](average.html) | 15.9% | 13.9–19.1% | 13.5–19.9% | 13.2–20.5% | 12.7–21.6% |
 | [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 14.3% | 13.3–15.3% | 13.0–15.6% | 12.8–15.9% | 12.4–16.4% |
 | [7–12 March 2022](2022-03-12-Voxmeter.html) | Voxmeter | 15.1% | 13.7–16.6% | 13.3–17.1% | 13.0–17.5% | 12.4–18.2% |
 | [21–27 February 2022](2022-02-27-Voxmeter.html) | Voxmeter | 16.8% | 15.4–18.4% | 15.0–18.9% | 14.6–19.3% | 14.0–20.1% |
 | [14–20 February 2022](2022-02-20-Voxmeter.html) | Voxmeter | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [9–16 February 2022](2022-02-16-Epinion.html) | Epinion <br> DR | 16.8% | 15.8–17.9% | 15.5–18.2% | 15.3–18.5% | 14.8–19.0% |
 | [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter | 16.6% | 15.1–18.1% | 14.7–18.6% | 14.4–19.0% | 13.7–19.8% |
-| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. | 17.4% | N/A | N/A | N/A | N/A |
+| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. | 17.4% | 16.1–18.9% | 15.7–19.3% | 15.4–19.6% | 14.8–20.3% |
 | [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter | 16.1% | N/A | N/A | N/A | N/A |
 | [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 15.3% | 14.2–16.5% | 13.9–16.8% | 13.7–17.1% | 13.2–17.7% |
 | [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter | 16.4% | 14.9–17.9% | 14.5–18.4% | 14.2–18.8% | 13.5–19.5% |
@@ -236,17 +236,17 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% | Last Result |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.4% | 100% |  |
-| 12.5–13.5% | 6% | 99.6% |  |
-| 13.5–14.5% | 21% | 94% |  |
-| 14.5–15.5% | 27% | 72% | Median |
-| 15.5–16.5% | 16% | 46% |  |
-| 16.5–17.5% | 7% | 29% |  |
-| 17.5–18.5% | 7% | 22% |  |
-| 18.5–19.5% | 7% | 15% |  |
-| 19.5–20.5% | 5% | 8% |  |
-| 20.5–21.5% | 2% | 3% |  |
-| 21.5–22.5% | 0.6% | 0.7% |  |
+| 11.5–12.5% | 0.3% | 100% |  |
+| 12.5–13.5% | 5% | 99.6% |  |
+| 13.5–14.5% | 17% | 95% |  |
+| 14.5–15.5% | 22% | 78% |  |
+| 15.5–16.5% | 16% | 56% | Median |
+| 16.5–17.5% | 13% | 39% |  |
+| 17.5–18.5% | 12% | 27% |  |
+| 18.5–19.5% | 8% | 15% |  |
+| 19.5–20.5% | 4% | 7% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.4% | 0.5% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -266,7 +266,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [14–20 February 2022](2022-02-20-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–16 February 2022](2022-02-16-Epinion.html) | Epinion <br> DR | 3 | 3 | 3 | 3 | 2–3 |
 | [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. | 3 | 3 | 3 | 3 | 3 |
 | [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2 | 2–3 | 2–3 |
 | [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -485,8 +485,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 63% | 100% | Median |
-| 3 | 36% | 37% |  |
+| 2 | 50% | 100% | Median |
+| 3 | 49% | 50% |  |
 | 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 

@@ -10,14 +10,14 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.1% | 23.6–28.9% | 22.8–29.3% | 22.2–29.7% | 21.1–30.5% |
+| N/A | [Poll Average](average.html) | 27.3% | 24.0–29.1% | 23.0–29.6% | 22.4–30.1% | 21.2–30.9% |
 | [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 28.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.7% |
 | [7–12 March 2022](2022-03-12-Voxmeter.html) | Voxmeter | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.4–29.8% | 23.5–30.7% |
 | [21–27 February 2022](2022-02-27-Voxmeter.html) | Voxmeter | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
 | [14–20 February 2022](2022-02-20-Voxmeter.html) | Voxmeter | 25.2% | 23.5–27.0% | 23.0–27.6% | 22.6–28.0% | 21.8–28.9% |
 | [9–16 February 2022](2022-02-16-Epinion.html) | Epinion <br> DR | 24.8% | 23.6–26.0% | 23.3–26.4% | 23.0–26.7% | 22.4–27.3% |
 | [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter | 24.8% | 23.1–26.6% | 22.6–27.2% | 22.3–27.6% | 21.5–28.5% |
-| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. | 28.2% | N/A | N/A | N/A | N/A |
+| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. | 28.2% | 26.6–29.9% | 26.1–30.3% | 25.7–30.7% | 25.0–31.6% |
 | [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter | 24.0% | N/A | N/A | N/A | N/A |
 | [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 27.5% | 26.1–28.9% | 25.7–29.3% | 25.4–29.7% | 24.7–30.4% |
 | [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter | 24.9% | 23.2–26.7% | 22.8–27.2% | 22.4–27.7% | 21.6–28.6% |
@@ -234,19 +234,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 18.5–19.5% | 0% | 100% | Last Result |
-| 19.5–20.5% | 0.2% | 100% |  |
-| 20.5–21.5% | 0.9% | 99.8% |  |
-| 21.5–22.5% | 3% | 98.9% |  |
-| 22.5–23.5% | 6% | 96% |  |
-| 23.5–24.5% | 8% | 90% |  |
-| 24.5–25.5% | 9% | 83% |  |
-| 25.5–26.5% | 14% | 74% |  |
-| 26.5–27.5% | 22% | 61% | Median |
-| 27.5–28.5% | 23% | 38% |  |
-| 28.5–29.5% | 12% | 15% |  |
-| 29.5–30.5% | 3% | 3% |  |
-| 30.5–31.5% | 0.4% | 0.4% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 19.5–20.5% | 0.1% | 100% |  |
+| 20.5–21.5% | 0.7% | 99.9% |  |
+| 21.5–22.5% | 2% | 99.1% |  |
+| 22.5–23.5% | 5% | 97% |  |
+| 23.5–24.5% | 6% | 92% |  |
+| 24.5–25.5% | 7% | 86% |  |
+| 25.5–26.5% | 12% | 79% |  |
+| 26.5–27.5% | 22% | 67% | Median |
+| 27.5–28.5% | 24% | 44% |  |
+| 28.5–29.5% | 15% | 20% |  |
+| 29.5–30.5% | 5% | 6% |  |
+| 30.5–31.5% | 0.9% | 1.0% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -257,14 +258,14 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [7–12 March 2022](2022-03-12-Voxmeter.html) | Voxmeter | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [21–27 February 2022](2022-02-27-Voxmeter.html) | Voxmeter | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [14–20 February 2022](2022-02-20-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [9–16 February 2022](2022-02-16-Epinion.html) | Epinion <br> DR | 4 | 4 | 4 | 4–5 | 4–5 |
 | [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 5 | 5 | 5 | 5 | 4–5 |
 | [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -483,9 +484,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 35% | 100% |  |
-| 5 | 63% | 65% | Median |
-| 6 | 2% | 2% |  |
+| 4 | 28% | 100% |  |
+| 5 | 69% | 72% | Median |
+| 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
 
