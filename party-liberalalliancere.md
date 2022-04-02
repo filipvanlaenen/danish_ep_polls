@@ -10,7 +10,8 @@ Last result: **2.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 2.0–3.4% | 1.8–3.7% | 1.7–3.9% | 1.5–4.4% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.3% | 1.7–3.6% | 1.6–3.8% | 1.4–4.4% |
+| [21–27 March 2022](2022-03-27-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [21–24 March 2022](2022-03-24-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.4% | 2.0–4.8% |
 | [14–20 March 2022](2022-03-20-Voxmeter.html) | Voxmeter | 2.6% | 2.0–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
 | [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 2.6% | 2.2–3.1% | 2.1–3.3% | 2.0–3.4% | 1.8–3.7% |
@@ -236,10 +237,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.9% | 100% |  |
-| 1.5–2.5% | 46% | 99.1% |  |
-| 2.5–3.5% | 47% | 53% | Last Result, Median |
-| 3.5–4.5% | 6% | 6% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 51% | 98% |  |
+| 2.5–3.5% | 41% | 47% | Last Result, Median |
+| 3.5–4.5% | 5% | 6% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -253,6 +254,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–27 March 2022](2022-03-27-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [21–24 March 2022](2022-03-24-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0–1 |
 | [14–20 March 2022](2022-03-20-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |

@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 4.9–8.6% | 4.6–9.1% | 4.3–9.5% | 3.9–10.2% |
+| N/A | [Poll Average](average.html) | 6.4% | 4.9–8.5% | 4.6–9.0% | 4.3–9.4% | 3.9–10.2% |
+| [21–27 March 2022](2022-03-27-Voxmeter.html) | Voxmeter | 6.8% | 5.8–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
 | [21–24 March 2022](2022-03-24-Megafon.html) | Megafon <br> Politiken and TV 2 | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.8–10.2% | 6.3–10.8% |
 | [14–20 March 2022](2022-03-20-Voxmeter.html) | Voxmeter | 7.4% | 6.4–8.6% | 6.1–8.9% | 5.9–9.2% | 5.5–9.8% |
 | [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 6.5% | 5.9–7.3% | 5.7–7.5% | 5.5–7.7% | 5.2–8.1% |
@@ -237,11 +238,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 4% | 99.9% |  |
-| 4.5–5.5% | 18% | 95% |  |
-| 5.5–6.5% | 28% | 77% |  |
-| 6.5–7.5% | 23% | 50% | Last Result, Median |
-| 7.5–8.5% | 16% | 27% |  |
-| 8.5–9.5% | 8% | 10% |  |
+| 4.5–5.5% | 19% | 95% |  |
+| 5.5–6.5% | 32% | 77% | Median |
+| 6.5–7.5% | 23% | 45% | Last Result |
+| 7.5–8.5% | 13% | 22% |  |
+| 8.5–9.5% | 7% | 9% |  |
 | 9.5–10.5% | 2% | 2% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -256,6 +257,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [21–27 March 2022](2022-03-27-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [21–24 March 2022](2022-03-24-Megafon.html) | Megafon <br> Politiken and TV 2 | 1 | 1 | 1 | 1–2 | 1–2 |
 | [14–20 March 2022](2022-03-20-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
@@ -484,7 +486,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 15% | 100% |  |
 | 1 | 84% | 85% | Last Result, Median |
-| 2 | 1.0% | 1.0% |  |
+| 2 | 0.9% | 0.9% |  |
 | 3 | 0% | 0% |  |
 
 
