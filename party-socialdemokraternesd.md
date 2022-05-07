@@ -10,7 +10,9 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.0% | 24.0–29.4% | 23.3–30.1% | 22.7–30.6% | 21.7–31.7% |
+| N/A | [Poll Average](average.html) | 27.3% | 24.2–29.6% | 23.4–30.2% | 22.7–30.8% | 21.7–31.8% |
+| [20–27 April 2022](2022-04-27-Epinion.html) | Epinion <br> DR | 27.7% | 26.3–29.1% | 25.9–29.5% | 25.6–29.9% | 24.9–30.6% |
+| [18–24 April 2022](2022-04-24-Voxmeter.html) | Voxmeter | 27.8% | 26.1–29.7% | 25.6–30.3% | 25.1–30.7% | 24.3–31.6% |
 | [8–11 April 2022](2022-04-11-YouGov.html) | YouGov <br> B.T. | 29.1% | 27.5–30.8% | 27.0–31.2% | 26.6–31.7% | 25.8–32.5% |
 | [4–9 April 2022](2022-04-09-Voxmeter.html) | Voxmeter | 26.0% | 24.2–27.8% | 23.8–28.3% | 23.4–28.8% | 22.5–29.7% |
 | [4 April 2022](2022-04-04-Gallup.html) | Gallup <br> Berlingske | 26.7% | 25.2–28.2% | 24.8–28.6% | 24.5–29.0% | 23.8–29.7% |
@@ -245,16 +247,16 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.3% | 100% |  |
 | 21.5–22.5% | 2% | 99.6% |  |
-| 22.5–23.5% | 5% | 98% |  |
-| 23.5–24.5% | 9% | 93% |  |
-| 24.5–25.5% | 12% | 85% |  |
-| 25.5–26.5% | 16% | 73% |  |
-| 26.5–27.5% | 18% | 57% | Median |
-| 27.5–28.5% | 18% | 39% |  |
-| 28.5–29.5% | 12% | 21% |  |
-| 29.5–30.5% | 6% | 9% |  |
-| 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.5% | 0.6% |  |
+| 22.5–23.5% | 4% | 98% |  |
+| 23.5–24.5% | 7% | 94% |  |
+| 24.5–25.5% | 9% | 87% |  |
+| 25.5–26.5% | 14% | 79% |  |
+| 26.5–27.5% | 20% | 65% | Median |
+| 27.5–28.5% | 20% | 45% |  |
+| 28.5–29.5% | 14% | 25% |  |
+| 29.5–30.5% | 7% | 11% |  |
+| 30.5–31.5% | 3% | 3% |  |
+| 31.5–32.5% | 0.6% | 0.7% |  |
 | 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
@@ -268,6 +270,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [20–27 April 2022](2022-04-27-Epinion.html) | Epinion <br> DR | 5 | 5 | 5 | 5 | 4–6 |
+| [18–24 April 2022](2022-04-24-Voxmeter.html) | Voxmeter | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [8–11 April 2022](2022-04-11-YouGov.html) | YouGov <br> B.T. | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [4–9 April 2022](2022-04-09-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4 April 2022](2022-04-04-Gallup.html) | Gallup <br> Berlingske | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -501,8 +505,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.2% | 100% | Last Result |
-| 4 | 34% | 99.8% |  |
-| 5 | 49% | 66% | Median |
+| 4 | 17% | 99.8% |  |
+| 5 | 66% | 83% | Median |
 | 6 | 16% | 16% |  |
 | 7 | 0% | 0% |  |
 
