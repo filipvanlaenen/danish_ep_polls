@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 6.1–8.7% | 5.8–9.2% | 5.5–9.6% | 5.0–10.3% |
+| N/A | [Poll Average](average.html) | 7.5% | 6.1–8.9% | 5.8–9.4% | 5.5–9.7% | 5.1–10.4% |
+| [2–8 May 2022](2022-05-08-Voxmeter.html) | Voxmeter | 8.0% | 7.0–9.2% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
+| [25 April–1 May 2022](2022-05-01-Voxmeter.html) | Voxmeter | 7.7% | N/A | N/A | N/A | N/A |
 | [20–27 April 2022](2022-04-27-Epinion.html) | Epinion <br> DR | 6.9% | 6.2–7.8% | 6.0–8.0% | 5.8–8.2% | 5.5–8.7% |
 | [18–24 April 2022](2022-04-24-Voxmeter.html) | Voxmeter | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.5% |
 | [8–11 April 2022](2022-04-11-YouGov.html) | YouGov <br> B.T. | 6.3% | 5.5–7.2% | 5.2–7.5% | 5.0–7.8% | 4.7–8.2% |
@@ -247,13 +249,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 20% | 97% |  |
-| 6.5–7.5% | 37% | 77% | Median |
-| 7.5–8.5% | 27% | 40% |  |
-| 8.5–9.5% | 10% | 13% |  |
-| 9.5–10.5% | 2% | 3% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 3% | 100% |  |
+| 5.5–6.5% | 17% | 97% |  |
+| 6.5–7.5% | 33% | 80% | Median |
+| 7.5–8.5% | 30% | 48% |  |
+| 8.5–9.5% | 14% | 17% |  |
+| 9.5–10.5% | 3% | 3% |  |
 | 10.5–11.5% | 0.3% | 0.3% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -267,6 +269,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [2–8 May 2022](2022-05-08-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
+| [25 April–1 May 2022](2022-05-01-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [20–27 April 2022](2022-04-27-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
 | [18–24 April 2022](2022-04-24-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
 | [8–11 April 2022](2022-04-11-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1 |
@@ -503,7 +507,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 99.3% | 100% | Median |
-| 2 | 0.6% | 0.6% |  |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 
