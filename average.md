@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E | P | G | Q |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 4–6% <br> 0–1 | 23–31% <br> 4–6 | 10–19% <br> 2–3 | 7–10% <br> 1–2 | 12–19% <br> 2–3 | 3–10% <br> 0–1 | 2–5% <br> 0 | 0–2% <br> 0 | 6–10% <br> 1 | 1–2% <br> 0 | 5–10% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
-| [16–22 May 2022](2022-05-22-Voxmeter.html) | Voxmeter | 3–6% <br> 0–1 | 23–28% <br> 4–5 | 15–20% <br> 2–3 | 7–11% <br> 1–2 | 11–16% <br> 2–3 | 6–9% <br> 1 | 3–5% <br> 0 | 1–2% <br> 0 | 7–10% <br> 1–2 | 1–2% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
+| N/A | Poll Average | 4–6% <br> 0–1 | 22–31% <br> 4–6 | 10–17% <br> 2–3 | 7–10% <br> 1–2 | 13–19% <br> 2–3 | 3–10% <br> 0–1 | 2–5% <br> 0 | 0–2% <br> 0 | 6–10% <br> 1 | 1–2% <br> 0 | 5–10% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–2% <br> 0 |
+| [23–29 May 2022](2022-05-29-Voxmeter.html) | Voxmeter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–18 May 2022](2022-05-18-Epinion.html) | Epinion <br> DR | 4–6% <br> 0–1 | 24–27% <br> 4–5 | 14–18% <br> 2–3 | 7–9% <br> 1 | 13–16% <br> 2–3 | 5–8% <br> 1 | 3–5% <br> 0 | 1–2% <br> 0 | 6–8% <br> 1 | 1% <br> 0 | 6–8% <br> 1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
 | [29 April–5 May 2022](2022-05-05-Gallup.html) | Gallup <br> Berlingske | 4–7% <br> 0–1 | 24–28% <br> 4–5 | 13–17% <br> 2–3 | 8–11% <br> 1–2 | 13–17% <br> 2–3 | 5–8% <br> 1 | 2–4% <br> 0 | 1–2% <br> 0 | 7–10% <br> 1 | 1–3% <br> 0 | 4–7% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 0–1% <br> 0 |
 | [8–11 April 2022](2022-04-11-YouGov.html) | YouGov <br> B.T. | 3–6% <br> 0 | 27–32% <br> 5–6 | 9–13% <br> 2 | 7–10% <br> 1 | 15–19% <br> 3–4 | 2–4% <br> 0 | 2–4% <br> 0 | 0–1% <br> 0 | 5–8% <br> 1 | 1–2% <br> 0 | 8–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–2% <br> 0 |
@@ -48,19 +48,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#dansk-folkeparti-(id)">Dansk Folkeparti (ID)</a> | 26.6% | 4.9% | 4.0–5.9% |3.7–6.2% | 3.5–6.4% | 3.1–6.9% |
-| <a href="#socialdemokraterne-(s&d)">Socialdemokraterne (S&D)</a> | 19.1% | 25.7% | 23.7–29.1% |23.1–30.0% | 22.6–30.6% | 21.7–31.7% |
-| <a href="#venstre-(re)">Venstre (RE)</a> | 16.7% | 15.1% | 11.1–17.4% |10.5–18.0% | 10.1–18.6% | 9.5–19.6% |
-| <a href="#socialistisk-folkeparti-(greens/efa)">Socialistisk Folkeparti (Greens/EFA)</a> | 10.9% | 8.5% | 7.4–9.8% |7.1–10.2% | 6.9–10.5% | 6.5–11.2% |
-| <a href="#det-konservative-folkeparti-(epp)">Det Konservative Folkeparti (EPP)</a> | 9.1% | 15.3% | 13.1–18.0% |12.6–18.5% | 12.1–19.0% | 11.3–19.9% |
-| <a href="#radikale-venstre-(re)">Radikale Venstre (RE)</a> | 6.5% | 6.7% | 3.3–8.6% |2.9–9.1% | 2.7–9.5% | 2.4–10.2% |
-| <a href="#liberal-alliance-(re)">Liberal Alliance (RE)</a> | 2.9% | 3.5% | 2.7–4.4% |2.5–4.7% | 2.4–4.9% | 2.1–5.3% |
-| <a href="#alternativet-(greens/efa)">Alternativet (Greens/EFA)</a> | 0.0% | 0.9% | 0.4–1.6% |0.3–1.8% | 0.3–1.9% | 0.2–2.2% |
-| <a href="#enhedslisten–de-rød-grønne-(gue/ngl)">Enhedslisten–De Rød-Grønne (GUE/NGL)</a> | 0.0% | 7.6% | 6.1–9.1% |5.8–9.5% | 5.5–9.8% | 5.1–10.5% |
-| <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0.0% | 1.3% | 0.8–2.0% |0.7–2.1% | 0.7–2.3% | 0.5–2.6% |
-| <a href="#nye-borgerlige-(ni)">Nye Borgerlige (NI)</a> | 0.0% | 6.7% | 5.2–9.4% |4.9–10.0% | 4.6–10.4% | 4.2–11.1% |
+| <a href="#dansk-folkeparti-(id)">Dansk Folkeparti (ID)</a> | 26.6% | 5.1% | 4.1–6.0% |3.9–6.2% | 3.7–6.5% | 3.3–6.9% |
+| <a href="#socialdemokraterne-(s&d)">Socialdemokraterne (S&D)</a> | 19.1% | 25.8% | 23.7–29.4% |23.1–30.2% | 22.5–30.8% | 21.6–31.8% |
+| <a href="#venstre-(re)">Venstre (RE)</a> | 16.7% | 14.5% | 10.9–16.4% |10.4–16.8% | 10.0–17.1% | 9.4–17.8% |
+| <a href="#socialistisk-folkeparti-(greens/efa)">Socialistisk Folkeparti (Greens/EFA)</a> | 10.9% | 8.4% | 7.3–9.7% |7.0–10.1% | 6.8–10.4% | 6.4–11.1% |
+| <a href="#det-konservative-folkeparti-(epp)">Det Konservative Folkeparti (EPP)</a> | 9.1% | 15.9% | 13.9–18.2% |13.5–18.7% | 13.2–19.1% | 12.6–20.0% |
+| <a href="#radikale-venstre-(re)">Radikale Venstre (RE)</a> | 6.5% | 6.4% | 3.1–8.6% |2.9–9.1% | 2.7–9.5% | 2.3–10.3% |
+| <a href="#liberal-alliance-(re)">Liberal Alliance (RE)</a> | 2.9% | 3.4% | 2.6–4.3% |2.5–4.6% | 2.3–4.8% | 2.1–5.1% |
+| <a href="#alternativet-(greens/efa)">Alternativet (Greens/EFA)</a> | 0.0% | 0.8% | 0.4–1.6% |0.3–1.8% | 0.3–1.9% | 0.2–2.2% |
+| <a href="#enhedslisten–de-rød-grønne-(gue/ngl)">Enhedslisten–De Rød-Grønne (GUE/NGL)</a> | 0.0% | 7.4% | 6.0–9.0% |5.7–9.4% | 5.5–9.7% | 5.0–10.4% |
+| <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0.0% | 1.2% | 0.8–1.9% |0.7–2.1% | 0.6–2.2% | 0.5–2.6% |
+| <a href="#nye-borgerlige-(ni)">Nye Borgerlige (NI)</a> | 0.0% | 6.5% | 5.1–9.7% |4.8–10.2% | 4.6–10.5% | 4.2–11.2% |
 | <a href="#borgerlisten-(*)">Borgerlisten (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#veganerpartiet-(*)">Veganerpartiet (*)</a> | 0.0% | 0.4% | 0.2–0.9% |0.1–1.1% | 0.1–1.2% | 0.1–1.5% |
-| <a href="#frie-grønne-(*)">Frie Grønne (*)</a> | 0.0% | 0.7% | 0.2–1.2% |0.1–1.3% | 0.1–1.4% | 0.1–1.7% |
+| <a href="#frie-grønne-(*)">Frie Grønne (*)</a> | 0.0% | 0.8% | 0.2–1.2% |0.1–1.3% | 0.1–1.5% | 0.1–1.7% |
 
