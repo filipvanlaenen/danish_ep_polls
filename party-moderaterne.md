@@ -10,7 +10,60 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.1–5.0% | 3.0–5.3% | 2.8–5.5% | 2.6–6.0% |
+| N/A | [Poll Average](average.html) | 3.3% | 1.8–4.9% | 1.7–5.3% | 1.5–5.6% | 1.3–6.2% |
+| [4–7 July 2022](2022-07-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.6% | 2.9–4.5% | 2.7–4.8% | 2.5–5.0% | 2.2–5.5% |
+| [27 June–3 July 2022](2022-07-03-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [20–23 June 2022](2022-06-23-Megafon.html) | Megafon <br> Politiken and TV 2 | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.2% |
+| [13–19 June 2022](2022-06-19-Voxmeter.html) | Voxmeter | 3.1% | 2.5–4.0% | 2.4–4.2% | 2.2–4.4% | 2.0–4.8% |
+| [14 June 2022](2022-06-14-Gallup.html) | Gallup <br> Berlingske | 3.6% | 3.1–4.3% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% |
+| [6–12 June 2022](2022-06-12-Voxmeter.html) | Voxmeter | 3.7% | N/A | N/A | N/A | N/A |
+| [30 May–5 June 2022](2022-06-05-Voxmeter.html) | Voxmeter | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [23–29 May 2022](2022-05-29-Voxmeter.html) | Voxmeter | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [22–29 May 2022](2022-05-29-Epinion.html) | Epinion <br> DR | 1.9% | 1.6–2.4% | 1.5–2.5% | 1.4–2.6% | 1.2–2.8% |
+| [16–22 May 2022](2022-05-22-Voxmeter.html) | Voxmeter | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [11–18 May 2022](2022-05-18-Epinion.html) | Epinion <br> DR | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.2% | 1.6–3.4% |
+| [9–15 May 2022](2022-05-15-Voxmeter.html) | Voxmeter | 1.9% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
+| [2–8 May 2022](2022-05-08-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.4–3.0% | 1.3–3.1% | 1.2–3.5% |
+| [29 April–5 May 2022](2022-05-05-Gallup.html) | Gallup <br> Berlingske | 3.0% | 2.5–3.6% | 2.3–3.8% | 2.2–4.0% | 2.0–4.3% |
+| [25 April–1 May 2022](2022-05-01-Voxmeter.html) | Voxmeter | 2.1% | N/A | N/A | N/A | N/A |
+| [20–27 April 2022](2022-04-27-Epinion.html) | Epinion <br> DR | 2.4% | 2.0–2.9% | 1.8–3.1% | 1.8–3.2% | 1.6–3.5% |
+| [18–24 April 2022](2022-04-24-Voxmeter.html) | Voxmeter | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [8–11 April 2022](2022-04-11-YouGov.html) | YouGov <br> B.T. | 4.8% | 4.1–5.7% | 3.9–5.9% | 3.8–6.2% | 3.4–6.6% |
+| [4–9 April 2022](2022-04-09-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [4 April 2022](2022-04-04-Gallup.html) | Gallup <br> Berlingske | 3.6% | 3.0–4.3% | 2.9–4.5% | 2.8–4.7% | 2.5–5.0% |
+| [28 March–3 April 2022](2022-04-03-Voxmeter.html) | Voxmeter | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [21–27 March 2022](2022-03-27-Voxmeter.html) | Voxmeter | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [21–24 March 2022](2022-03-24-Megafon.html) | Megafon <br> Politiken and TV 2 | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.5% |
+| [14–20 March 2022](2022-03-20-Voxmeter.html) | Voxmeter | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
+| [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 1.9% | 1.5–2.3% | 1.4–2.5% | 1.4–2.6% | 1.2–2.8% |
+| [7–12 March 2022](2022-03-12-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [4–7 March 2022](2022-03-07-YouGov.html) | YouGov <br> B.T. | 4.8% | 4.1–5.7% | 3.9–5.9% | 3.7–6.1% | 3.4–6.6% |
+| [21–27 February 2022](2022-02-27-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [14–20 February 2022](2022-02-20-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [9–16 February 2022](2022-02-16-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. | 4.5% | 3.8–5.3% | 3.6–5.6% | 3.5–5.8% | 3.2–6.2% |
+| [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 2.5% | 2.1–3.0% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% |
+| [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [17–23 January 2022](2022-01-23-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [10–20 January 2022](2022-01-20-Megafon.html) | Megafon | 2.2% | 1.7–3.0% | 1.5–3.2% | 1.4–3.4% | 1.2–3.9% |
+| [10–16 January 2022](2022-01-16-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [7–10 January 2022](2022-01-10-YouGov.html) | YouGov <br> B.T. | 2.4% | N/A | N/A | N/A | N/A |
+| [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [20–23 December 2021](2021-12-23-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [13–19 December 2021](2021-12-19-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [6–11 December 2021](2021-12-11-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [3–9 December 2021](2021-12-09-Gallup.html) | Gallup | 1.7% | 1.4–2.2% | 1.3–2.4% | 1.2–2.5% | 1.1–2.8% |
+| [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 0.0% | N/A | N/A | N/A | N/A |
+| [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 1.6% | 1.2–2.1% | 1.1–2.2% | 1.1–2.3% | 0.9–2.6% |
 | [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
@@ -18,7 +71,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
-| [3 October 2021](2021-10-03-Gallup.html) | Gallup | 3.5% | 3.0–4.1% | 2.8–4.3% | 2.7–4.5% | 2.5–4.8% |
+| [3 October 2021](2021-10-03-Gallup.html) | Gallup | 3.5% | N/A | N/A | N/A | N/A |
 | [21–29 September 2021](2021-09-29-Epinion.html) | Epinion | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 4.5% | 3.8–5.3% | 3.6–5.5% | 3.5–5.8% | 3.2–6.2% |
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
@@ -207,12 +260,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 28% | 99.6% |  |
-| 3.5–4.5% | 47% | 72% | Median |
-| 4.5–5.5% | 22% | 25% |  |
-| 5.5–6.5% | 2% | 2% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 32% | 97% |  |
+| 2.5–3.5% | 23% | 66% | Median |
+| 3.5–4.5% | 26% | 43% |  |
+| 4.5–5.5% | 14% | 17% |  |
+| 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -225,7 +278,60 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [4–7 July 2022](2022-07-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0–1 |
+| [27 June–3 July 2022](2022-07-03-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [20–23 June 2022](2022-06-23-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
+| [13–19 June 2022](2022-06-19-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [14 June 2022](2022-06-14-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
+| [6–12 June 2022](2022-06-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [30 May–5 June 2022](2022-06-05-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [23–29 May 2022](2022-05-29-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [22–29 May 2022](2022-05-29-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
+| [16–22 May 2022](2022-05-22-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [11–18 May 2022](2022-05-18-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
+| [9–15 May 2022](2022-05-15-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [2–8 May 2022](2022-05-08-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [29 April–5 May 2022](2022-05-05-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
+| [25 April–1 May 2022](2022-05-01-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [20–27 April 2022](2022-04-27-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
+| [18–24 April 2022](2022-04-24-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [8–11 April 2022](2022-04-11-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0–1 | 0–1 |
+| [4–9 April 2022](2022-04-09-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [4 April 2022](2022-04-04-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0–1 |
+| [28 March–3 April 2022](2022-04-03-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [21–27 March 2022](2022-03-27-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [21–24 March 2022](2022-03-24-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
+| [14–20 March 2022](2022-03-20-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
+| [7–12 March 2022](2022-03-12-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [4–7 March 2022](2022-03-07-YouGov.html) | YouGov <br> B.T. | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–27 February 2022](2022-02-27-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [14–20 February 2022](2022-02-20-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [9–16 February 2022](2022-02-16-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [7–12 February 2022](2022-02-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [4–6 February 2022](2022-02-06-YouGov.html) | YouGov <br> B.T. | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [31 January–6 February 2022](2022-02-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
+| [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [17–23 January 2022](2022-01-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [10–20 January 2022](2022-01-20-Megafon.html) | Megafon | 0 | 0 | 0 | 0 | 0 |
+| [10–16 January 2022](2022-01-16-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [7–10 January 2022](2022-01-10-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [20–23 December 2021](2021-12-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [13–19 December 2021](2021-12-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [6–11 December 2021](2021-12-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [3–9 December 2021](2021-12-09-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
+| [30 November–8 December 2021](2021-12-08-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [29 November–5 December 2021](2021-12-05-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon |  |  |  |  |  |
+| [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
 | [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 |  |  |  |  |  |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -233,7 +339,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [3 October 2021](2021-10-03-Gallup.html) | Gallup | 0 | 0 | 0 | 0 | 0 |
+| [3 October 2021](2021-10-03-Gallup.html) | Gallup |  |  |  |  |  |
 | [21–29 September 2021](2021-09-29-Epinion.html) | Epinion |  |  |  |  |  |
 | [17–20 September 2021](2021-09-20-YouGov.html) | YouGov <br> B.T. | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -423,8 +529,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 14% | 14% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0.9% | 0.9% |  |
 | 2 | 0% | 0% |  |
 
 
