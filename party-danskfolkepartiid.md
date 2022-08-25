@@ -10,9 +10,9 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.7–3.5% | 1.5–3.7% | 1.4–4.0% | 1.2–4.4% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.8–3.7% | 1.6–3.9% | 1.5–4.1% | 1.2–4.5% |
 | [16–24 August 2022](2022-08-24-Epinion.html) | Epinion <br> DR | 2.2% | 1.9–2.7% | 1.8–2.8% | 1.7–2.9% | 1.5–3.2% |
-| [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter | 3.2% | N/A | N/A | N/A | N/A |
+| [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [15–18 August 2022](2022-08-18-Megafon.html) | Megafon <br> Politiken and TV 2 | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [8–14 August 2022](2022-08-14-Voxmeter.html) | Voxmeter | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
 | [7 August 2022](2022-08-07-Yougov.html) | Yougov | 3.1% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.6% |
@@ -268,11 +268,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 49% | 95% | Median |
-| 2.5–3.5% | 37% | 46% |  |
-| 3.5–4.5% | 8% | 9% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 40% | 96% |  |
+| 2.5–3.5% | 43% | 55% | Median |
+| 3.5–4.5% | 12% | 13% |  |
+| 4.5–5.5% | 0.5% | 0.5% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -307,7 +307,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [16–24 August 2022](2022-08-24-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
-| [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [15–18 August 2022](2022-08-18-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
 | [8–14 August 2022](2022-08-14-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [7 August 2022](2022-08-07-Yougov.html) | Yougov | 0 | 0 | 0 | 0 | 0 |
