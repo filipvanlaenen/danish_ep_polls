@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.8–4.8% | 1.6–5.1% | 1.4–5.4% | 1.2–5.9% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.0–4.8% | 1.8–5.1% | 1.7–5.4% | 1.4–5.9% |
+| [22–28 August 2022](2022-08-28-Voxmeter.html) | Voxmeter | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [16–24 August 2022](2022-08-24-Epinion.html) | Epinion <br> DR | 2.8% | 2.4–3.3% | 2.3–3.4% | 2.2–3.6% | 2.0–3.8% |
 | [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
 | [15–18 August 2022](2022-08-18-Megafon.html) | Megafon <br> Politiken and TV 2 | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
@@ -268,9 +269,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 33% | 96% |  |
-| 2.5–3.5% | 25% | 63% | Median |
+| 0.5–1.5% | 1.5% | 100% |  |
+| 1.5–2.5% | 30% | 98.5% |  |
+| 2.5–3.5% | 30% | 68% | Median |
 | 3.5–4.5% | 23% | 38% |  |
 | 4.5–5.5% | 14% | 15% |  |
 | 5.5–6.5% | 2% | 2% |  |
@@ -287,6 +288,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–28 August 2022](2022-08-28-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [16–24 August 2022](2022-08-24-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [15–18 August 2022](2022-08-18-Megafon.html) | Megafon <br> Politiken and TV 2 | 0 | 0 | 0 | 0 | 0 |
