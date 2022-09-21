@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.7–4.7% | 1.5–5.1% | 1.3–5.4% | 1.1–5.9% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.7–4.7% | 1.5–5.1% | 1.4–5.4% | 1.1–5.9% |
+| [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
+| [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter | 2.1% | N/A | N/A | N/A | N/A |
 | [29 August–4 September 2022](2022-09-04-Voxmeter.html) | Voxmeter | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [2 September 2022](2022-09-02-Gallup.html) | Gallup <br> Berlingske | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [22–28 August 2022](2022-08-28-Voxmeter.html) | Voxmeter | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
@@ -271,9 +273,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 7% | 100% |  |
-| 1.5–2.5% | 32% | 93% |  |
-| 2.5–3.5% | 33% | 61% | Median |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 33% | 95% |  |
+| 2.5–3.5% | 34% | 62% | Median |
 | 3.5–4.5% | 16% | 28% |  |
 | 4.5–5.5% | 10% | 12% |  |
 | 5.5–6.5% | 1.4% | 1.5% |  |
@@ -290,6 +292,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [29 August–4 September 2022](2022-09-04-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [2 September 2022](2022-09-02-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0–1 | 0–1 |
 | [22–28 August 2022](2022-08-28-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
