@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.7% | 8.9–12.4% | 8.5–12.8% | 8.2–13.2% | 7.6–13.9% |
+| N/A | [Poll Average](average.html) | 10.5% | 8.9–12.1% | 8.5–12.6% | 8.2–13.1% | 7.6–13.8% |
+| [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 10.8% | 10.0–11.7% | 9.8–11.9% | 9.6–12.1% | 9.2–12.6% |
 | [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.6–11.3% | 7.1–11.9% |
 | [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter | 9.0% | N/A | N/A | N/A | N/A |
 | [29 August–4 September 2022](2022-09-04-Voxmeter.html) | Voxmeter | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.6–11.2% | 7.1–11.9% |
@@ -282,11 +283,11 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.4% | 100% |  |
 | 7.5–8.5% | 5% | 99.6% |  |
 | 8.5–9.5% | 17% | 95% |  |
-| 9.5–10.5% | 24% | 78% |  |
-| 10.5–11.5% | 24% | 54% | Median |
-| 11.5–12.5% | 21% | 30% |  |
-| 12.5–13.5% | 7% | 9% |  |
-| 13.5–14.5% | 1.0% | 1.1% |  |
+| 9.5–10.5% | 29% | 77% | Median |
+| 10.5–11.5% | 29% | 48% |  |
+| 11.5–12.5% | 14% | 20% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 0.9% | 1.0% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -300,6 +301,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 1–2 |
 | [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [29 August–4 September 2022](2022-09-04-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
