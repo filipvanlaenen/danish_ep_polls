@@ -15,8 +15,8 @@ Last result: **19.1%** (General Election of 26 May 2019)
 | [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR | 27.3% | 26.0–28.7% | 25.7–29.0% | 25.4–29.4% | 24.8–30.0% |
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 25.3% | 23.6–27.1% | 23.1–27.6% | 22.7–28.1% | 21.9–29.0% |
 | [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 24.4% | 23.0–25.8% | 22.7–26.2% | 22.3–26.6% | 21.7–27.3% |
-| [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 | 22.9% | N/A | N/A | N/A | N/A |
-| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 25.1% | N/A | N/A | N/A | N/A |
+| [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 | 22.9% | 21.2–24.6% | 20.8–25.1% | 20.4–25.6% | 19.6–26.4% |
+| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 25.1% | 23.4–26.9% | 22.9–27.4% | 22.5–27.9% | 21.7–28.8% |
 | [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 25.4% | 24.3–26.6% | 23.9–27.0% | 23.7–27.3% | 23.1–27.8% |
 | [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 24.2% | 22.5–26.0% | 22.0–26.5% | 21.6–26.9% | 20.8–27.8% |
 | [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter | 23.3% | N/A | N/A | N/A | N/A |
@@ -307,8 +307,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
-| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |

@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
 | [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 | 0.0% | N/A | N/A | N/A | N/A |
-| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 0.3% | N/A | N/A | N/A | N/A |
+| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 0.3% | 0.2–0.5% | 0.2–0.6% | 0.2–0.6% | 0.1–0.8% |
 | [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter | 0.1% | N/A | N/A | N/A | N/A |
@@ -299,7 +299,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
 | [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
-| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
