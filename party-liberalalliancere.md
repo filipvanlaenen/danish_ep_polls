@@ -10,7 +10,9 @@ Last result: **2.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.2–5.0% | 2.9–5.2% | 2.7–5.5% | 2.4–6.0% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.2–5.7% | 2.9–6.1% | 2.7–6.5% | 2.4–7.1% |
+| [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter | 5.6% | 4.8–6.6% | 4.6–6.9% | 4.4–7.1% | 4.0–7.6% |
+| [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske | 4.4% | 3.8–5.1% | 3.7–5.3% | 3.5–5.5% | 3.3–5.8% |
 | [5 October 2022](2022-10-05-Megafon.html) | Megafon <br> Politiken and TV | 4.5% | 3.7–5.4% | 3.6–5.7% | 3.4–5.9% | 3.1–6.4% |
 | [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.1% | 3.0–5.4% |
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
@@ -281,12 +283,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 1.2% | 100% |  |
-| 2.5–3.5% | 21% | 98.8% | Last Result |
-| 3.5–4.5% | 54% | 77% | Median |
-| 4.5–5.5% | 21% | 23% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 16% | 98.8% | Last Result |
+| 3.5–4.5% | 42% | 82% | Median |
+| 4.5–5.5% | 28% | 41% |  |
+| 5.5–6.5% | 11% | 13% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -298,6 +301,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0–1 |
 | [5 October 2022](2022-10-05-Megafon.html) | Megafon <br> Politiken and TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0–1 |
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -568,8 +573,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 74% | 100% | Last Result, Median |
+| 1 | 26% | 26% |  |
 | 2 | 0% | 0% |  |
 
 
