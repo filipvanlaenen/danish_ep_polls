@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.1% | 0.3–1.3% | 0.2–1.4% | 0.1–1.7% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.4% |
+| [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
+| [7–9 October 2022](2022-10-09-Megafon.html) | Megafon <br> Politiken and TV | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
 | [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
 | [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% |
 | [5 October 2022](2022-10-05-Megafon.html) | Megafon <br> Politiken and TV | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.7% | 0.4–2.0% |
@@ -281,9 +283,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 43% | 100% | Last Result |
-| 0.5–1.5% | 56% | 57% | Median |
-| 1.5–2.5% | 1.4% | 1.4% |  |
+| 0.0–0.5% | 53% | 100% | Last Result |
+| 0.5–1.5% | 47% | 47% | Median |
+| 1.5–2.5% | 0.2% | 0.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -296,6 +298,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [7–9 October 2022](2022-10-09-Megafon.html) | Megafon <br> Politiken and TV | 0 | 0 | 0 | 0 | 0 |
 | [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [5 October 2022](2022-10-05-Megafon.html) | Megafon <br> Politiken and TV | 0 | 0 | 0 | 0 | 0 |
