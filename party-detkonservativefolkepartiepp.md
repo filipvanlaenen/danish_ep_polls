@@ -10,11 +10,11 @@ Last result: **9.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.5% | 8.2–11.0% | 7.9–11.5% | 7.7–11.9% | 7.2–12.7% |
+| N/A | [Poll Average](average.html) | 9.7% | 8.3–11.2% | 8.0–11.6% | 7.7–12.0% | 7.3–12.7% |
 | [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR | 8.6% | 7.9–9.3% | 7.7–9.5% | 7.6–9.7% | 7.3–10.1% |
 | [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter | 8.9% | 7.9–10.2% | 7.6–10.5% | 7.3–10.9% | 6.8–11.5% |
 | [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske | 9.9% | 9.1–10.8% | 8.9–11.1% | 8.7–11.3% | 8.3–11.8% |
-| [11 October 2022](2022-10-11-Yougov.html) | Yougov | 10.4% | N/A | N/A | N/A | N/A |
+| [11 October 2022](2022-10-11-Yougov.html) | Yougov | 10.4% | 9.4–11.6% | 9.1–11.9% | 8.8–12.2% | 8.4–12.8% |
 | [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter | 9.8% | 8.6–11.1% | 8.3–11.4% | 8.1–11.7% | 7.6–12.4% |
 | [7–9 October 2022](2022-10-09-Megafon.html) | Megafon <br> Politiken and TV | 10.5% | 9.4–11.8% | 9.0–12.2% | 8.8–12.6% | 8.2–13.2% |
 | [7 October 2022](2022-10-07-Yougov.html) | Yougov | 10.8% | N/A | N/A | N/A | N/A |
@@ -289,13 +289,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 2% | 100% |  |
-| 7.5–8.5% | 18% | 98% |  |
-| 8.5–9.5% | 33% | 80% | Last Result, Median |
-| 9.5–10.5% | 29% | 47% |  |
-| 10.5–11.5% | 14% | 18% |  |
-| 11.5–12.5% | 4% | 4% |  |
-| 12.5–13.5% | 0.6% | 0.6% |  |
+| 6.5–7.5% | 1.3% | 100% |  |
+| 7.5–8.5% | 15% | 98.7% |  |
+| 8.5–9.5% | 29% | 84% | Last Result |
+| 9.5–10.5% | 31% | 55% | Median |
+| 10.5–11.5% | 18% | 24% |  |
+| 11.5–12.5% | 5% | 5% |  |
+| 12.5–13.5% | 0.7% | 0.7% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -308,11 +308,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1–2 |
 | [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11 October 2022](2022-10-11-Yougov.html) | Yougov |  |  |  |  |  |
+| [11 October 2022](2022-10-11-Yougov.html) | Yougov | 1 | 1 | 1 | 1 | 1–2 |
 | [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [7–9 October 2022](2022-10-09-Megafon.html) | Megafon <br> Politiken and TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7 October 2022](2022-10-07-Yougov.html) | Yougov |  |  |  |  |  |
@@ -588,8 +588,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 44% | 100% | Last Result |
-| 2 | 56% | 56% | Median |
+| 1 | 55% | 100% | Last Result, Median |
+| 2 | 45% | 45% |  |
 | 3 | 0% | 0% |  |
 
 
