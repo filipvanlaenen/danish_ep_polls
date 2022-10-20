@@ -10,7 +10,12 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.2% | 25.2–30.7% | 24.7–31.5% | 24.3–32.1% | 23.4–33.2% |
+| N/A | [Poll Average](average.html) | 26.5% | 24.3–30.3% | 23.7–31.2% | 23.2–31.8% | 22.3–32.8% |
+| [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 30.3% | 28.7–32.0% | 28.3–32.4% | 27.9–32.8% | 27.2–33.6% |
+| [16–18 October 2022](2022-10-18-Voxmeter.html) | Voxmeter | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
+| [18 October 2022](2022-10-18-Gallup.html) | Gallup <br> Berlingske | 27.7% | 26.4–29.0% | 26.1–29.4% | 25.8–29.7% | 25.2–30.4% |
+| [12–16 October 2022](2022-10-16-Megafon.html) | Megafon <br> Politiken and TV | 25.6% | 23.9–27.4% | 23.4–27.9% | 23.0–28.4% | 22.2–29.3% |
+| [13–15 October 2022](2022-10-15-Voxmeter.html) | Voxmeter | 26.1% | N/A | N/A | N/A | N/A |
 | [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR | 25.9% | 24.8–27.0% | 24.5–27.3% | 24.3–27.6% | 23.7–28.2% |
 | [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter | 27.5% | 25.7–29.3% | 25.2–29.9% | 24.8–30.3% | 24.0–31.2% |
 | [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske | 27.4% | 26.1–28.7% | 25.8–29.1% | 25.5–29.4% | 24.9–30.0% |
@@ -290,20 +295,20 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 18.5–19.5% | 0% | 100% | Last Result |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 0.5% | 99.9% |  |
-| 23.5–24.5% | 3% | 99.4% |  |
-| 24.5–25.5% | 12% | 96% |  |
-| 25.5–26.5% | 21% | 85% |  |
-| 26.5–27.5% | 21% | 63% | Median |
-| 27.5–28.5% | 15% | 42% |  |
-| 28.5–29.5% | 9% | 27% |  |
-| 29.5–30.5% | 7% | 18% |  |
-| 30.5–31.5% | 6% | 11% |  |
-| 31.5–32.5% | 3% | 5% |  |
-| 32.5–33.5% | 1.1% | 1.4% |  |
-| 33.5–34.5% | 0.2% | 0.3% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.7% | 99.9% |  |
+| 22.5–23.5% | 3% | 99.2% |  |
+| 23.5–24.5% | 9% | 96% |  |
+| 24.5–25.5% | 17% | 87% |  |
+| 25.5–26.5% | 21% | 71% |  |
+| 26.5–27.5% | 16% | 50% | Median |
+| 27.5–28.5% | 11% | 34% |  |
+| 28.5–29.5% | 8% | 23% |  |
+| 29.5–30.5% | 7% | 15% |  |
+| 30.5–31.5% | 5% | 9% |  |
+| 31.5–32.5% | 3% | 3% |  |
+| 32.5–33.5% | 0.7% | 0.8% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
 
@@ -315,7 +320,12 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [16–18 October 2022](2022-10-18-Voxmeter.html) | Voxmeter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [18 October 2022](2022-10-18-Gallup.html) | Gallup <br> Berlingske | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [12–16 October 2022](2022-10-16-Megafon.html) | Megafon <br> Politiken and TV | 5 | 5 | 4–5 | 4–5 | 4–5 |
+| [13–15 October 2022](2022-10-15-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter | 5 | 5 | 5 | 5 | 5–6 |
 | [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske | 5 | 5 | 5 | 5–6 | 4–6 |
@@ -596,9 +606,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 19% | 100% |  |
-| 5 | 60% | 81% | Median |
-| 6 | 21% | 21% |  |
-| 7 | 0% | 0% |  |
+| 4 | 15% | 100% |  |
+| 5 | 57% | 85% | Median |
+| 6 | 27% | 28% |  |
+| 7 | 0.7% | 0.7% |  |
+| 8 | 0% | 0% | Majority |
 
 
