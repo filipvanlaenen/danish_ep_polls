@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.2% | 0.3–1.4% | 0.3–1.6% | 0.2–1.9% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.3% | 0.3–1.5% | 0.3–1.6% | 0.2–2.0% |
+| [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 0.5% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% | 0.2–1.5% |
+| [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 0.6% | N/A | N/A | N/A | N/A |
 | [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
 | [16–18 October 2022](2022-10-18-Voxmeter.html) | Voxmeter | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [18 October 2022](2022-10-18-Gallup.html) | Gallup <br> Berlingske | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.4% |
@@ -293,9 +295,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 34% | 100% | Last Result |
-| 0.5–1.5% | 63% | 66% | Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 26% | 100% | Last Result |
+| 0.5–1.5% | 71% | 74% | Median |
+| 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -308,6 +310,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 0 | 0 | 0 | 0 | 0 |
 | [16–18 October 2022](2022-10-18-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [18 October 2022](2022-10-18-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
