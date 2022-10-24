@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.2% | 0.4–1.4% | 0.3–1.6% | 0.2–1.9% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.2% | 0.3–1.4% | 0.3–1.6% | 0.2–1.9% |
 | [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 0.5% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% | 0.2–1.5% |
-| [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
+| [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 0.6% | 0.4–0.9% | 0.4–0.9% | 0.4–1.0% | 0.3–1.2% |
 | [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
 | [16–18 October 2022](2022-10-18-Voxmeter.html) | Voxmeter | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [18 October 2022](2022-10-18-Gallup.html) | Gallup <br> Berlingske | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.4% |
