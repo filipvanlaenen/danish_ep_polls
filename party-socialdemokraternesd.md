@@ -10,7 +10,14 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.4% | 23.9–30.3% | 23.4–31.2% | 23.0–31.8% | 22.3–32.8% |
+| N/A | [Poll Average](average.html) | 26.0% | 23.6–28.8% | 23.0–29.6% | 22.5–30.1% | 21.6–31.2% |
+| [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 26.2% | 25.4–27.1% | 25.1–27.3% | 24.9–27.5% | 24.5–27.9% |
+| [28–29 October 2022](2022-10-29-Megafon.html) | Megafon <br> TV2 | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.4% | 21.3–28.3% |
+| [28–29 October 2022](2022-10-29-Epinion.html) | Epinion <br> DRTV | 24.4% | 22.7–26.2% | 22.2–26.7% | 21.8–27.1% | 21.0–28.0% |
+| [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 26.2% | 24.4–28.0% | 24.0–28.5% | 23.5–29.0% | 22.7–29.9% |
+| [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 28.6% | 27.0–30.3% | 26.6–30.8% | 26.2–31.2% | 25.4–32.0% |
+| [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter | 25.0% | N/A | N/A | N/A | N/A |
+| [24 October 2022](2022-10-24-Gallup.html) | Gallup <br> Berlingske | 24.4% | N/A | N/A | N/A | N/A |
 | [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 25.7% | 23.9–27.6% | 23.4–28.1% | 23.0–28.6% | 22.2–29.5% |
 | [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 24.3% | 23.1–25.5% | 22.8–25.8% | 22.5–26.1% | 22.0–26.7% |
 | [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 30.3% | 28.7–32.0% | 28.3–32.4% | 27.9–32.8% | 27.2–33.6% |
@@ -297,21 +304,19 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 18.5–19.5% | 0% | 100% | Last Result |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.9% | 99.9% |  |
-| 22.5–23.5% | 6% | 99.0% |  |
-| 23.5–24.5% | 14% | 93% |  |
-| 24.5–25.5% | 16% | 79% |  |
-| 25.5–26.5% | 15% | 63% | Median |
-| 26.5–27.5% | 14% | 48% |  |
-| 27.5–28.5% | 11% | 35% |  |
-| 28.5–29.5% | 8% | 23% |  |
-| 29.5–30.5% | 7% | 15% |  |
-| 30.5–31.5% | 5% | 9% |  |
-| 31.5–32.5% | 3% | 3% |  |
-| 32.5–33.5% | 0.7% | 0.8% |  |
-| 33.5–34.5% | 0.1% | 0.1% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.4% | 100% |  |
+| 21.5–22.5% | 2% | 99.5% |  |
+| 22.5–23.5% | 7% | 97% |  |
+| 23.5–24.5% | 13% | 90% |  |
+| 24.5–25.5% | 18% | 77% |  |
+| 25.5–26.5% | 24% | 60% | Median |
+| 26.5–27.5% | 16% | 36% |  |
+| 27.5–28.5% | 9% | 21% |  |
+| 28.5–29.5% | 7% | 12% |  |
+| 29.5–30.5% | 4% | 5% |  |
+| 30.5–31.5% | 1.2% | 1.4% |  |
+| 31.5–32.5% | 0.2% | 0.3% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -322,7 +327,14 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 5 | 5 | 5–6 | 5–6 | 5–6 |
+| [28–29 October 2022](2022-10-29-Megafon.html) | Megafon <br> TV2 | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [28–29 October 2022](2022-10-29-Epinion.html) | Epinion <br> DRTV | 4 | 4 | 4 | 4–5 | 4–5 |
+| [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [24 October 2022](2022-10-24-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
 | [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -610,10 +622,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 29% | 100% |  |
-| 5 | 43% | 71% | Median |
-| 6 | 27% | 28% |  |
-| 7 | 0.7% | 0.7% |  |
-| 8 | 0% | 0% | Majority |
+| 4 | 28% | 100% |  |
+| 5 | 67% | 72% | Median |
+| 6 | 5% | 5% |  |
+| 7 | 0% | 0% |  |
 
 

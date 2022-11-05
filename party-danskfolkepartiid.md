@@ -10,7 +10,14 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.9–3.8% | 1.6–4.2% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.2–4.1% | 2.0–4.5% | 1.9–4.8% | 1.6–5.3% |
+| [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 2.9% | 2.6–3.3% | 2.5–3.4% | 2.4–3.4% | 2.3–3.6% |
+| [28–29 October 2022](2022-10-29-Megafon.html) | Megafon <br> TV2 | 3.9% | 3.3–4.8% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [28–29 October 2022](2022-10-29-Epinion.html) | Epinion <br> DRTV | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
+| [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.9–4.7% |
+| [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 2.6% | 2.1–3.3% | 2.0–3.5% | 1.9–3.7% | 1.6–4.0% |
+| [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter | 1.9% | N/A | N/A | N/A | N/A |
+| [24 October 2022](2022-10-24-Gallup.html) | Gallup <br> Berlingske | 2.3% | N/A | N/A | N/A | N/A |
 | [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–4.1% |
 | [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.1% | 1.6–3.4% |
 | [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 2.8% | 2.3–3.5% | 2.2–3.7% | 2.1–3.9% | 1.8–4.2% |
@@ -296,12 +303,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 38% | 99.7% |  |
-| 2.5–3.5% | 56% | 62% | Median |
-| 3.5–4.5% | 5% | 6% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.4% | 100% |  |
+| 1.5–2.5% | 24% | 99.6% |  |
+| 2.5–3.5% | 55% | 76% | Median |
+| 3.5–4.5% | 17% | 21% |  |
+| 4.5–5.5% | 4% | 4% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -333,7 +340,14 @@ Last result: **4** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
+| [28–29 October 2022](2022-10-29-Megafon.html) | Megafon <br> TV2 | 0 | 0 | 0 | 0–1 | 0–1 |
+| [28–29 October 2022](2022-10-29-Epinion.html) | Epinion <br> DRTV | 0 | 0 | 0 | 0 | 0 |
+| [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 0 | 0 | 0 | 0 | 0 |
+| [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [24 October 2022](2022-10-24-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
 | [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 0 | 0 | 0 | 0 | 0 |
@@ -620,8 +634,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% |  |
+| 0 | 99.4% | 100% | Median |
+| 1 | 0.6% | 0.6% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
