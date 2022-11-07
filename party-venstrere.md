@@ -10,11 +10,10 @@ Last result: **16.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.7% | 12.4–14.7% | 11.9–15.1% | 11.6–15.5% | 11.0–16.4% |
+| N/A | [Poll Average](average.html) | 13.6% | 12.3–14.5% | 11.9–14.8% | 11.5–15.1% | 10.9–15.7% |
 | [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 12.9% | 11.8–14.1% | 11.4–14.5% | 11.2–14.8% | 10.7–15.4% |
 | [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter | 14.0% | 13.4–14.7% | 13.2–14.9% | 13.0–15.0% | 12.7–15.4% |
 | [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 13.7% | 13.0–14.4% | 12.9–14.6% | 12.7–14.7% | 12.4–15.1% |
-| [28–29 October 2022](2022-10-29-Megafon.html) | Megafon <br> TV2 | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
 | [27 October 2022](2022-10-27-Epinion.html) | Epinion <br> DR | 13.3% | 12.0–14.8% | 11.7–15.2% | 11.4–15.5% | 10.8–16.3% |
 | [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 10.4% | 9.4–11.6% | 9.1–11.9% | 8.8–12.2% | 8.4–12.8% |
@@ -25,22 +24,18 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 10.6% | 9.6–11.7% | 9.3–12.1% | 9.0–12.3% | 8.6–12.9% |
 | [16–18 October 2022](2022-10-18-Voxmeter.html) | Voxmeter | 14.7% | 13.3–16.2% | 13.0–16.6% | 12.6–17.0% | 12.0–17.8% |
 | [18 October 2022](2022-10-18-Gallup.html) | Gallup <br> Berlingske | 14.5% | 13.5–15.5% | 13.2–15.8% | 13.0–16.1% | 12.5–16.6% |
-| [12–16 October 2022](2022-10-16-Megafon.html) | Megafon <br> Politiken and TV | 14.8% | 13.4–16.3% | 13.0–16.7% | 12.7–17.1% | 12.1–17.9% |
 | [13–15 October 2022](2022-10-15-Voxmeter.html) | Voxmeter | 14.4% | N/A | N/A | N/A | N/A |
 | [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR | 12.9% | 12.1–13.8% | 11.9–14.0% | 11.7–14.2% | 11.3–14.7% |
 | [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.7–17.4% |
 | [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske | 12.9% | 11.9–13.9% | 11.7–14.2% | 11.5–14.4% | 11.0–14.9% |
 | [11 October 2022](2022-10-11-Yougov.html) | Yougov | 10.5% | 9.4–11.6% | 9.1–12.0% | 8.9–12.3% | 8.4–12.9% |
 | [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
-| [7–9 October 2022](2022-10-09-Megafon.html) | Megafon <br> Politiken and TV | 12.9% | 11.6–14.3% | 11.2–14.7% | 10.9–15.1% | 10.4–15.8% |
 | [7 October 2022](2022-10-07-Yougov.html) | Yougov | 9.5% | N/A | N/A | N/A | N/A |
 | [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter | 14.6% | 13.3–16.1% | 13.0–16.5% | 12.7–16.9% | 12.1–17.6% |
 | [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske | 13.2% | 12.2–14.3% | 11.9–14.6% | 11.7–14.9% | 11.2–15.4% |
-| [5 October 2022](2022-10-05-Megafon.html) | Megafon <br> Politiken and TV | 13.0% | 11.7–14.4% | 11.4–14.8% | 11.1–15.2% | 10.5–15.9% |
 | [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR | 12.7% | 11.8–13.7% | 11.5–14.0% | 11.3–14.3% | 10.9–14.8% |
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 15.5% | 14.1–17.0% | 13.7–17.5% | 13.4–17.9% | 12.7–18.6% |
 | [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 11.9% | 10.9–13.0% | 10.6–13.3% | 10.4–13.6% | 9.9–14.1% |
-| [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 | 13.8% | 12.5–15.2% | 12.1–15.7% | 11.8–16.0% | 11.2–16.8% |
 | [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 14.1% | 12.8–15.7% | 12.4–16.1% | 12.1–16.4% | 11.5–17.2% |
 | [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 11.9% | 11.1–12.8% | 10.8–13.1% | 10.6–13.3% | 10.2–13.7% |
 | [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 13.9% | 12.6–15.4% | 12.2–15.8% | 11.9–16.2% | 11.3–16.9% |
@@ -50,16 +45,13 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [22–28 August 2022](2022-08-28-Voxmeter.html) | Voxmeter | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–13.9% | 9.4–14.6% |
 | [16–24 August 2022](2022-08-24-Epinion.html) | Epinion <br> DR | 11.3% | 10.5–12.2% | 10.3–12.5% | 10.1–12.7% | 9.7–13.1% |
 | [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.6% |
-| [15–18 August 2022](2022-08-18-Megafon.html) | Megafon <br> Politiken and TV 2 | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.7–17.4% |
 | [8–14 August 2022](2022-08-14-Voxmeter.html) | Voxmeter | 13.4% | 12.1–14.9% | 11.8–15.3% | 11.5–15.6% | 10.9–16.3% |
 | [7 August 2022](2022-08-07-Yougov.html) | Yougov | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.4–11.8% | 8.0–12.4% |
 | [1–6 August 2022](2022-08-06-Voxmeter.html) | Voxmeter | 15.2% | N/A | N/A | N/A | N/A |
 | [5 August 2022](2022-08-05-Gallup.html) | Gallup <br> Berlingske | 13.2% | 12.1–14.3% | 11.9–14.7% | 11.6–15.0% | 11.1–15.5% |
 | [21–28 July 2022](2022-07-28-Epinion.html) | Epinion <br> DR | 14.3% | 13.3–15.4% | 13.0–15.7% | 12.8–16.0% | 12.3–16.5% |
-| [4–7 July 2022](2022-07-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 13.1% | 11.7–14.7% | 11.3–15.1% | 11.0–15.5% | 10.4–16.3% |
 | [27 June–3 July 2022](2022-07-03-Voxmeter.html) | Voxmeter | 13.6% | 12.3–15.0% | 11.9–15.5% | 11.6–15.8% | 11.0–16.6% |
 | [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter | 15.2% | 13.8–16.7% | 13.4–17.1% | 13.1–17.5% | 12.4–18.3% |
-| [20–23 June 2022](2022-06-23-Megafon.html) | Megafon <br> Politiken and TV 2 | 13.0% | 11.8–14.3% | 11.4–14.7% | 11.1–15.1% | 10.6–15.7% |
 | [13–19 June 2022](2022-06-19-Voxmeter.html) | Voxmeter | 17.3% | 15.9–18.9% | 15.5–19.4% | 15.2–19.8% | 14.5–20.5% |
 | [14 June 2022](2022-06-14-Gallup.html) | Gallup <br> Berlingske | 14.6% | 13.5–15.8% | 13.2–16.1% | 12.9–16.4% | 12.4–17.0% |
 | [6–12 June 2022](2022-06-12-Voxmeter.html) | Voxmeter | 17.7% | N/A | N/A | N/A | N/A |
@@ -79,7 +71,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [4 April 2022](2022-04-04-Gallup.html) | Gallup <br> Berlingske | 13.4% | 12.3–14.6% | 12.0–14.9% | 11.8–15.2% | 11.3–15.8% |
 | [28 March–3 April 2022](2022-04-03-Voxmeter.html) | Voxmeter | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [21–27 March 2022](2022-03-27-Voxmeter.html) | Voxmeter | 14.3% | 13.0–15.8% | 12.6–16.3% | 12.3–16.6% | 11.7–17.4% |
-| [21–24 March 2022](2022-03-24-Megafon.html) | Megafon <br> Politiken and TV 2 | 13.8% | 12.5–15.2% | 12.1–15.6% | 11.8–16.0% | 11.2–16.7% |
 | [14–20 March 2022](2022-03-20-Voxmeter.html) | Voxmeter | 15.1% | 13.7–16.6% | 13.3–17.0% | 13.0–17.4% | 12.3–18.2% |
 | [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 15.3% | 14.3–16.4% | 14.1–16.7% | 13.8–17.0% | 13.4–17.5% |
 | [7–12 March 2022](2022-03-12-Voxmeter.html) | Voxmeter | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
@@ -93,7 +84,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 13.8% | 12.8–15.0% | 12.5–15.3% | 12.2–15.6% | 11.7–16.1% |
 | [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter | 14.2% | 12.9–15.7% | 12.5–16.1% | 12.2–16.5% | 11.6–17.2% |
 | [17–23 January 2022](2022-01-23-Voxmeter.html) | Voxmeter | 14.4% | N/A | N/A | N/A | N/A |
-| [10–20 January 2022](2022-01-20-Megafon.html) | Megafon | 11.6% | 10.3–13.1% | 10.0–13.6% | 9.6–13.9% | 9.1–14.7% |
 | [10–16 January 2022](2022-01-16-Voxmeter.html) | Voxmeter | 15.1% | 13.7–16.6% | 13.3–17.0% | 13.0–17.4% | 12.3–18.2% |
 | [7–10 January 2022](2022-01-10-YouGov.html) | YouGov <br> B.T. | 11.0% | N/A | N/A | N/A | N/A |
 | [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter | 16.5% | 15.0–18.1% | 14.6–18.5% | 14.3–18.9% | 13.6–19.7% |
@@ -106,11 +96,9 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter | 17.5% | N/A | N/A | N/A | N/A |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter | 16.3% | N/A | N/A | N/A | N/A |
-| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 13.9% | 12.5–15.6% | 12.1–16.0% | 11.8–16.4% | 11.1–17.3% |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter | 15.2% | N/A | N/A | N/A | N/A |
 | [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 16.0% | 14.9–17.3% | 14.6–17.6% | 14.3–17.9% | 13.8–18.5% |
 | [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 14.6% | 13.2–16.1% | 12.8–16.5% | 12.5–16.9% | 11.9–17.7% |
-| [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 | 15.0% | N/A | N/A | N/A | N/A |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 14.3% | N/A | N/A | N/A | N/A |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 15.9% | 14.8–17.1% | 14.5–17.5% | 14.2–17.8% | 13.7–18.4% |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 13.3% | N/A | N/A | N/A | N/A |
@@ -122,7 +110,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter | 13.6% | N/A | N/A | N/A | N/A |
 | [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. | 10.3% | N/A | N/A | N/A | N/A |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter | 15.1% | N/A | N/A | N/A | N/A |
-| [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 | 12.6% | N/A | N/A | N/A | N/A |
 | [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR | 15.2% | N/A | N/A | N/A | N/A |
 | [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter | 14.5% | N/A | N/A | N/A | N/A |
 | [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. | 9.8% | N/A | N/A | N/A | N/A |
@@ -136,7 +123,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 11.6% | 10.5–12.8% | 10.2–13.1% | 9.9–13.4% | 9.4–14.1% |
 | [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 13.3% | 12.0–14.8% | 11.7–15.2% | 11.4–15.5% | 10.8–16.2% |
 | [24–30 May 2021](2021-05-30-Voxmeter.html) | Voxmeter | 12.5% | 11.3–14.0% | 10.9–14.4% | 10.6–14.7% | 10.1–15.5% |
-| [25–27 May 2021](2021-05-27-Megafon.html) | Megafon | 12.7% | 11.4–14.3% | 11.0–14.8% | 10.7–15.2% | 10.0–16.0% |
 | [17–23 May 2021](2021-05-23-Voxmeter.html) | Voxmeter | 11.4% | 10.2–12.8% | 9.8–13.1% | 9.6–13.5% | 9.0–14.2% |
 | [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 12.3% | 11.3–13.4% | 11.0–13.8% | 10.8–14.0% | 10.3–14.6% |
 | [10–16 May 2021](2021-05-16-Voxmeter.html) | Voxmeter | 11.8% | 10.6–13.2% | 10.2–13.6% | 10.0–13.9% | 9.4–14.6% |
@@ -155,7 +141,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [7–14 March 2021](2021-03-14-Voxmeter.html) | Voxmeter | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.3–14.3% | 9.7–15.0% |
 | [1–6 March 2021](2021-03-06-Voxmeter.html) | Voxmeter | 12.3% | 11.0–13.7% | 10.7–14.1% | 10.4–14.4% | 9.8–15.1% |
 | [22–28 February 2021](2021-02-28-Voxmeter.html) | Voxmeter | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.3% | 8.9–14.0% |
-| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 11.4% | 10.2–12.7% | 9.8–13.1% | 9.5–13.5% | 9.0–14.2% |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 12.7% | 11.4–14.1% | 11.1–14.5% | 10.8–14.8% | 10.2–15.5% |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 11.8% | 10.6–13.2% | 10.3–13.6% | 10.0–13.9% | 9.4–14.6% |
 | [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 9.8% | 9.2–10.4% | 9.1–10.6% | 8.9–10.7% | 8.6–11.0% |
@@ -164,7 +149,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 12.5% | 11.3–14.0% | 11.0–14.4% | 10.7–14.7% | 10.1–15.4% |
 | [22–28 January 2021](2021-01-28-Gallup.html) | Gallup | 12.8% | 11.8–14.0% | 11.5–14.3% | 11.2–14.6% | 10.7–15.2% |
 | [18–24 January 2021](2021-01-24-Voxmeter.html) | Voxmeter | 13.6% | 12.3–15.1% | 11.9–15.5% | 11.6–15.8% | 11.0–16.6% |
-| [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
 | [18–21 January 2021](2021-01-21-Epinion.html) | Epinion | 13.3% | 12.3–14.4% | 12.0–14.7% | 11.8–15.0% | 11.3–15.5% |
 | [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 9.2% | 8.2–10.3% | 8.0–10.7% | 7.7–11.0% | 7.3–11.5% |
 | [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
@@ -175,7 +159,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 17.6% | 16.5–18.9% | 16.1–19.2% | 15.9–19.5% | 15.3–20.1% |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 14.1% | 12.9–15.5% | 12.6–15.9% | 12.3–16.2% | 11.8–16.9% |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 19.2% | 17.7–20.8% | 17.2–21.3% | 16.9–21.7% | 16.2–22.5% |
-| [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.3–18.8% | 13.7–19.6% |
 | [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 19.7% | 18.1–21.3% | 17.7–21.8% | 17.3–22.2% | 16.6–23.0% |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 20.3% | 18.7–22.0% | 18.3–22.4% | 17.9–22.9% | 17.2–23.7% |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 18.6% | 17.1–20.2% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
@@ -184,7 +167,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 18.5% | 17.0–20.1% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 19.4% | 17.9–21.1% | 17.5–21.5% | 17.1–21.9% | 16.4–22.8% |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 20.4% | 18.9–22.1% | 18.4–22.6% | 18.1–23.0% | 17.3–23.9% |
-| [19–22 October 2020](2020-10-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 17.3% | 15.9–18.9% | 15.5–19.4% | 15.1–19.8% | 14.5–20.6% |
 | [12–18 October 2020](2020-10-18-Voxmeter.html) | Voxmeter | 18.3% | 16.8–19.9% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
 | [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 19.7% | 18.1–21.4% | 17.7–21.8% | 17.3–22.2% | 16.6–23.1% |
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 15.8% | 14.5–17.1% | 14.1–17.5% | 13.8–17.9% | 13.3–18.6% |
@@ -198,14 +180,12 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [31 August–6 September 2020](2020-09-06-Voxmeter.html) | Voxmeter | 20.4% | 18.9–22.1% | 18.4–22.6% | 18.1–23.0% | 17.3–23.8% |
 | [31 August–1 September 2020](2020-09-01-Voxmeter.html) | Voxmeter | 20.4% | 18.9–22.1% | 18.4–22.6% | 18.1–23.0% | 17.3–23.8% |
 | [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 19.4% | 17.9–21.1% | 17.5–21.6% | 17.1–22.0% | 16.4–22.8% |
-| [24–27 August 2020](2020-08-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 18.3% | 16.8–19.9% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
 | [17–23 August 2020](2020-08-23-Voxmeter.html) | Voxmeter | 18.8% | 17.3–20.4% | 16.9–20.9% | 16.5–21.3% | 15.9–22.1% |
 | [10–16 August 2020](2020-08-16-Voxmeter.html) | Voxmeter <br> Ritzau | 17.8% | 16.4–19.4% | 15.9–19.9% | 15.6–20.3% | 14.9–21.1% |
 | [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 18.9% | 17.4–20.5% | 16.9–21.0% | 16.6–21.4% | 15.9–22.2% |
 | [1–31 July 2020](2020-07-31-Gallup.html) | Gallup | 19.0% | 17.7–20.3% | 17.3–20.7% | 17.0–21.1% | 16.5–21.7% |
 | [2–6 July 2020](2020-07-06-YouGov.html) | YouGov | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.2% | 14.4–19.9% |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 20.1% | 18.6–21.8% | 18.1–22.2% | 17.8–22.6% | 17.1–23.5% |
-| [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 17.4% | 16.0–19.0% | 15.6–19.4% | 15.3–19.8% | 14.6–20.6% |
 | [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 19.9% | 18.3–21.5% | 17.9–22.0% | 17.5–22.4% | 16.8–23.2% |
 | [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 20.4% | 18.8–22.0% | 18.4–22.5% | 18.0–22.9% | 17.3–23.8% |
 | [11 June 2020](2020-06-11-Gallup.html) | Gallup | 21.4% | 20.1–22.8% | 19.7–23.2% | 19.4–23.5% | 18.7–24.2% |
@@ -218,7 +198,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [7–11 May 2020](2020-05-11-YouGov.html) | YouGov | 19.3% | 18.0–20.8% | 17.6–21.3% | 17.2–21.6% | 16.6–22.4% |
 | [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 21.9% | 20.3–23.6% | 19.8–24.1% | 19.4–24.5% | 18.7–25.3% |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter <br> Ritzau | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 18.0–24.5% |
-| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 19.8% | 18.2–21.4% | 17.8–21.9% | 17.4–22.3% | 16.7–23.2% |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter <br> Ritzau | 20.9% | 19.3–22.6% | 18.9–23.1% | 18.5–23.5% | 17.8–24.3% |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter <br> Ritzau | 21.5% | 19.9–23.2% | 19.5–23.7% | 19.1–24.1% | 18.4–24.9% |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 21.0% | 19.8–22.4% | 19.4–22.7% | 19.1–23.1% | 18.5–23.7% |
@@ -231,7 +210,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [2–7 March 2020](2020-03-07-Voxmeter.html) | Voxmeter <br> Ritzau | 23.3% | 21.7–25.1% | 21.2–25.5% | 20.9–26.0% | 20.1–26.8% |
 | [25 February–2 March 2020](2020-03-02-Epinion.html) | Epinion <br> DR | 22.3% | 21.0–23.7% | 20.6–24.1% | 20.3–24.4% | 19.7–25.1% |
 | [24 February–1 March 2020](2020-03-01-Voxmeter.html) | Voxmeter <br> Ritzau | 23.6% | 22.0–25.4% | 21.5–25.8% | 21.1–26.3% | 20.3–27.1% |
-| [24–27 February 2020](2020-02-27-Megafon.html) | Megafon <br> TV2 | 21.7% | 20.1–23.4% | 19.7–23.9% | 19.3–24.3% | 18.6–25.1% |
 | [17–23 February 2020](2020-02-23-Voxmeter.html) | Voxmeter <br> Ritzau | 23.8% | 22.2–25.6% | 21.7–26.1% | 21.4–26.5% | 20.6–27.4% |
 | [10–16 February 2020](2020-02-16-Voxmeter.html) | Voxmeter <br> Ritzau | 24.4% | 22.7–26.2% | 22.3–26.7% | 21.9–27.2% | 21.1–28.1% |
 | [7–13 February 2020](2020-02-13-Gallup.html) | Gallup | 22.4% | 21.1–23.8% | 20.7–24.2% | 20.4–24.6% | 19.7–25.3% |
@@ -246,7 +224,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [12 December 2019](2019-12-12-Gallup.html) | Gallup | 23.3% | 21.9–24.8% | 21.6–25.2% | 21.2–25.5% | 20.6–26.2% |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 23.9% | 22.2–25.7% | 21.7–26.2% | 21.3–26.6% | 20.5–27.5% |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 22.9% | 21.3–24.6% | 20.9–25.1% | 20.5–25.6% | 19.7–26.4% |
-| [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 21.8% | 20.2–23.6% | 19.8–24.1% | 19.4–24.5% | 18.6–25.3% |
 | [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 23.7% | 22.0–25.4% | 21.5–25.9% | 21.1–26.4% | 20.3–27.3% |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 23.2% | 21.9–24.6% | 21.6–25.0% | 21.2–25.4% | 20.6–26.0% |
 | [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 24.3% | 22.6–26.1% | 22.2–26.6% | 21.8–27.0% | 21.0–27.9% |
@@ -268,7 +245,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 22.6% | 21.0–24.4% | 20.6–24.8% | 20.2–25.3% | 19.4–26.1% |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 23.4% | 21.8–25.2% | 21.4–25.7% | 21.0–26.1% | 20.2–26.9% |
 | [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 23.2% | 21.6–25.0% | 21.1–25.5% | 20.7–25.9% | 20.0–26.7% |
-| [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 21.3% | 19.7–23.0% | 19.3–23.5% | 18.9–23.9% | 18.1–24.8% |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 23.8% | 22.2–25.5% | 21.7–26.0% | 21.3–26.5% | 20.6–27.3% |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 25.4% | 23.7–27.3% | 23.3–27.8% | 22.8–28.2% | 22.1–29.1% |
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 23.5% | 22.2–25.0% | 21.8–25.4% | 21.5–25.7% | 20.8–26.4% |
@@ -289,7 +265,6 @@ Last result: **16.7%** (General Election of 26 May 2019)
 | [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 17.8% | 16.3–19.4% | 15.9–19.9% | 15.6–20.3% | 14.9–21.1% |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 18.3% | 16.8–20.0% | 16.4–20.4% | 16.0–20.9% | 15.3–21.7% |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 17.9% | 16.5–19.6% | 16.0–20.0% | 15.7–20.4% | 15.0–21.2% |
-| [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 19.5% | 18.0–21.2% | 17.6–21.7% | 17.2–22.1% | 16.5–22.9% |
 | [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 20.4% | 19.2–21.7% | 18.9–22.1% | 18.6–22.4% | 18.0–23.0% |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 17.2% | 15.8–18.9% | 15.3–19.3% | 15.0–19.7% | 14.3–20.5% |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 17.5% | 16.0–19.1% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
@@ -307,12 +282,12 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% |  |
 | 10.5–11.5% | 2% | 99.9% |  |
-| 11.5–12.5% | 11% | 98% |  |
-| 12.5–13.5% | 31% | 87% |  |
-| 13.5–14.5% | 42% | 56% | Median |
-| 14.5–15.5% | 12% | 14% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.3% | 0.3% | Last Result |
+| 11.5–12.5% | 12% | 97% |  |
+| 12.5–13.5% | 33% | 86% |  |
+| 13.5–14.5% | 43% | 53% | Median |
+| 14.5–15.5% | 9% | 9% |  |
+| 15.5–16.5% | 0.7% | 0.8% |  |
+| 16.5–17.5% | 0.1% | 0.1% | Last Result |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -328,7 +303,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 2 | 2 | 2 | 2 | 2–3 |
 | [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [28–29 October 2022](2022-10-29-Megafon.html) | Megafon <br> TV2 | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 2 |
 | [27 October 2022](2022-10-27-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2–3 |
 | [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -339,22 +313,18 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [16–18 October 2022](2022-10-18-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18 October 2022](2022-10-18-Gallup.html) | Gallup <br> Berlingske | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [12–16 October 2022](2022-10-16-Megafon.html) | Megafon <br> Politiken and TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [13–15 October 2022](2022-10-15-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2 |
 | [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2–3 | 2–3 |
 | [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2 | 2–3 | 2–3 |
 | [11 October 2022](2022-10-11-Yougov.html) | Yougov | 2 | 2 | 2 | 2 | 2 |
 | [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [7–9 October 2022](2022-10-09-Megafon.html) | Megafon <br> Politiken and TV | 2 | 2 | 2 | 2 | 2–3 |
 | [7 October 2022](2022-10-07-Yougov.html) | Yougov |  |  |  |  |  |
 | [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2 | 2 | 2 |
-| [5 October 2022](2022-10-05-Megafon.html) | Megafon <br> Politiken and TV | 2 | 2 | 2 | 2–3 | 2–3 |
 | [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2 |
 | [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [26–29 September 2022](2022-09-29-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2 |
 | [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -364,16 +334,13 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [22–28 August 2022](2022-08-28-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–2 |
 | [16–24 August 2022](2022-08-24-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2 |
 | [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 1–2 | 1–2 |
-| [15–18 August 2022](2022-08-18-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–14 August 2022](2022-08-14-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7 August 2022](2022-08-07-Yougov.html) | Yougov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–6 August 2022](2022-08-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [5 August 2022](2022-08-05-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2 | 2 | 2 |
 | [21–28 July 2022](2022-07-28-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2–3 | 2–3 |
-| [4–7 July 2022](2022-07-07-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2 | 2 | 2 | 2–3 |
 | [27 June–3 July 2022](2022-07-03-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [20–23 June 2022](2022-06-23-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2 | 2 | 2 | 2–3 |
 | [13–19 June 2022](2022-06-19-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 2–3 |
 | [14 June 2022](2022-06-14-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [6–12 June 2022](2022-06-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -393,7 +360,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [4 April 2022](2022-04-04-Gallup.html) | Gallup <br> Berlingske | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 March–3 April 2022](2022-04-03-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–27 March 2022](2022-03-27-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [21–24 March 2022](2022-03-24-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–20 March 2022](2022-03-20-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–15 March 2022](2022-03-15-Epinion.html) | Epinion <br> DR | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–12 March 2022](2022-03-12-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -407,7 +373,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [26 January–3 February 2022](2022-02-03-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2 | 2 | 2–3 |
 | [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–23 January 2022](2022-01-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [10–20 January 2022](2022-01-20-Megafon.html) | Megafon | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–16 January 2022](2022-01-16-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–10 January 2022](2022-01-10-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
 | [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -420,11 +385,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [22–28 November 2021](2021-11-28-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 2–3 |
 | [15–21 November 2021](2021-11-21-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [8–14 November 2021](2021-11-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [8–10 November 2021](2021-11-10-Megafon.html) | Megafon | 2 | 2 | 2 | 2–3 | 2–3 |
 | [1–6 November 2021](2021-11-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [29 October–4 November 2021](2021-11-04-Gallup.html) | Gallup | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–31 October 2021](2021-10-31-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [25–28 October 2021](2021-10-28-Megafon.html) | Megafon <br> TV 2 |  |  |  |  |  |
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -436,7 +399,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [13–19 September 2021](2021-09-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [10–12 September 2021](2021-09-12-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
 | [23–29 August 2021](2021-08-29-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [23–26 August 2021](2021-08-26-Megafon.html) | Megafon <br> Politiken and TV 2 |  |  |  |  |  |
 | [19–26 August 2021](2021-08-26-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [16–22 August 2021](2021-08-22-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [13–16 August 2021](2021-08-16-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
@@ -450,7 +412,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [4–6 June 2021](2021-06-06-YouGov.html) | YouGov <br> B.T. | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [31 May–6 June 2021](2021-06-06-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 2–3 |
 | [24–30 May 2021](2021-05-30-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–2 |
-| [25–27 May 2021](2021-05-27-Megafon.html) | Megafon | 2 | 2 | 2 | 1–2 | 1–3 |
 | [17–23 May 2021](2021-05-23-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [11–19 May 2021](2021-05-19-Epinion.html) | Epinion | 2 | 2 | 2 | 1–2 | 1–2 |
 | [10–16 May 2021](2021-05-16-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -469,7 +430,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [7–14 March 2021](2021-03-14-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 1–2 | 1–2 |
 | [1–6 March 2021](2021-03-06-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [22–28 February 2021](2021-02-28-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [22–25 February 2021](2021-02-25-Megafon.html) | Megafon | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–21 February 2021](2021-02-21-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–2 |
 | [8–15 February 2021](2021-02-15-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–14 February 2021](2021-02-14-Electica.html) | Electica <br> Alliancen | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -478,7 +438,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [25–31 January 2021](2021-01-31-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–2 |
 | [22–28 January 2021](2021-01-28-Gallup.html) | Gallup | 2 | 2 | 2 | 2 | 2 |
 | [18–24 January 2021](2021-01-24-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2–3 | 2–3 |
-| [18–21 January 2021](2021-01-21-Megafon.html) | Megafon <br> Politiken and TV 2 | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [18–21 January 2021](2021-01-21-Epinion.html) | Epinion | 2 | 2 | 2 | 2 | 2 |
 | [15–18 January 2021](2021-01-18-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1–2 |
 | [11–17 January 2021](2021-01-17-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -489,7 +448,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [1–8 December 2020](2020-12-08-Epinion.html) | Epinion | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [4–7 December 2020](2020-12-07-YouGov.html) | YouGov <br> B.T. | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 November–5 December 2020](2020-12-05-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| [30 November–3 December 2020](2020-12-03-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–29 November 2020](2020-11-29-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [16–22 November 2020](2020-11-22-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–15 November 2020](2020-11-15-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 2–4 |
@@ -498,7 +456,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [2–7 November 2020](2020-11-07-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 3–4 |
 | [26 October–1 November 2020](2020-11-01-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [19–25 October 2020](2020-10-25-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [19–22 October 2020](2020-10-22-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 3 | 3 | 2–3 | 2–4 |
 | [12–18 October 2020](2020-10-18-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 2–4 |
 | [5–10 October 2020](2020-10-10-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [2–5 October 2020](2020-10-05-YouGov.html) | YouGov | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -512,14 +469,12 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [31 August–6 September 2020](2020-09-06-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [31 August–1 September 2020](2020-09-01-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [24–30 August 2020](2020-08-30-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3–4 | 3–4 |
-| [24–27 August 2020](2020-08-27-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [17–23 August 2020](2020-08-23-Voxmeter.html) | Voxmeter | 3 | 3 | 3 | 3 | 3–4 |
 | [10–16 August 2020](2020-08-16-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 2–3 |
 | [3–8 August 2020](2020-08-08-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [1–31 July 2020](2020-07-31-Gallup.html) | Gallup | 3 | 3 | 3 | 3 | 3 |
 | [2–6 July 2020](2020-07-06-YouGov.html) | YouGov | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–28 June 2020](2020-06-28-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3–4 | 3–4 |
-| [22–25 June 2020](2020-06-25-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–21 June 2020](2020-06-21-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–13 June 2020](2020-06-13-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11 June 2020](2020-06-11-Gallup.html) | Gallup | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -532,7 +487,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [7–11 May 2020](2020-05-11-YouGov.html) | YouGov | 3 | 3 | 3 | 3 | 2–3 |
 | [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [27–30 April 2020](2020-04-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–16 April 2020](2020-04-16-Epinion.html) | Epinion | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -545,7 +499,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [2–7 March 2020](2020-03-07-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4 | 3–5 |
 | [25 February–2 March 2020](2020-03-02-Epinion.html) | Epinion <br> DR | 4 | 4 | 4 | 4 | 3–4 |
 | [24 February–1 March 2020](2020-03-01-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4–5 | 3–5 |
-| [24–27 February 2020](2020-02-27-Megafon.html) | Megafon <br> TV2 | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [17–23 February 2020](2020-02-23-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [10–16 February 2020](2020-02-16-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4–5 | 4–5 |
 | [7–13 February 2020](2020-02-13-Gallup.html) | Gallup | 4 | 4 | 4 | 4 | 3–4 |
@@ -560,7 +513,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [12 December 2019](2019-12-12-Gallup.html) | Gallup | 4 | 4 | 4 | 4 | 4–5 |
 | [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| [26–28 November 2019](2019-11-28-Megafon.html) | Megafon <br> Politiken and TV 2 | 4 | 4 | 4 | 3–4 | 3–5 |
 | [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4 | 3–5 |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 4 | 4 | 4 | 4 | 3–4 |
 | [11–18 November 2019](2019-11-18-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -582,7 +534,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4–5 | 3–5 |
 | [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4 | 3–5 |
-| [16–20 August 2019](2019-08-20-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4 | 4–5 |
 | [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 4 | 4 | 4–5 | 4–5 | 4–5 |
@@ -603,7 +554,6 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [29–31 May 2019](2019-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 2–4 |
 | [26–30 May 2019](2019-05-30-YouGov.html) | YouGov | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [28–30 May 2019](2019-05-30-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 2–3 | 2–4 | 2–4 |
-| [28–30 May 2019](2019-05-30-Megafon.html) | Megafon <br> Politiken and TV 2 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [28–30 May 2019](2019-05-30-Epinion.html) | Epinion <br> DR | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25–29 May 2019](2019-05-29-YouGov.html) | YouGov | 3 | 3 | 3 | 3–4 | 2–4 |
 | [27–29 May 2019](2019-05-29-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 3 | 3 | 3 | 3–4 |
@@ -621,8 +571,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
-| 2 | 85% | 99.9% | Last Result, Median |
-| 3 | 15% | 15% |  |
+| 2 | 83% | 99.9% | Last Result, Median |
+| 3 | 17% | 17% |  |
 | 4 | 0% | 0% |  |
 
 
