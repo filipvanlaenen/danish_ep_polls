@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.0% | 0.2–1.0% | 0.1–1.1% | 0.1–1.2% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.0% | 0.1–1.1% | 0.1–1.1% | 0.1–1.3% |
+| [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
 | [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter | 0.7% | 0.6–0.9% | 0.5–0.9% | 0.5–1.0% | 0.4–1.1% |
 | [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 0.9% | 0.7–1.1% | 0.7–1.2% | 0.7–1.2% | 0.6–1.3% |
@@ -279,8 +280,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 42% | 100% | Last Result |
-| 0.5–1.5% | 58% | 58% | Median |
+| 0.0–0.5% | 53% | 100% | Last Result |
+| 0.5–1.5% | 47% | 47% | Median |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -293,6 +294,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 0 | 0 | 0 | 0 | 0 |
 | [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
