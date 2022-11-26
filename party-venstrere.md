@@ -10,7 +10,7 @@ Last result: **16.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.3% | 11.9–14.4% | 11.5–14.7% | 11.2–15.1% | 10.6–15.8% |
+| N/A | [Poll Average](average.html) | 12.9% | 11.5–14.2% | 11.2–14.7% | 10.9–15.0% | 10.3–15.7% |
 | [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter | 12.8% | 11.5–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.7% |
 | [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 12.9% | 11.8–14.1% | 11.4–14.5% | 11.2–14.8% | 10.7–15.4% |
 | [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter | 14.0% | 13.4–14.7% | 13.2–14.9% | 13.0–15.0% | 12.7–15.4% |
@@ -281,13 +281,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.4% | 100% |  |
-| 10.5–11.5% | 5% | 99.6% |  |
-| 11.5–12.5% | 19% | 95% |  |
-| 12.5–13.5% | 37% | 76% | Median |
-| 13.5–14.5% | 32% | 39% |  |
-| 14.5–15.5% | 6% | 7% |  |
-| 15.5–16.5% | 0.8% | 0.9% |  |
+| 9.5–10.5% | 1.0% | 100% |  |
+| 10.5–11.5% | 9% | 98.9% |  |
+| 11.5–12.5% | 28% | 90% |  |
+| 12.5–13.5% | 36% | 61% | Median |
+| 13.5–14.5% | 20% | 26% |  |
+| 14.5–15.5% | 5% | 6% |  |
+| 15.5–16.5% | 0.7% | 0.8% |  |
 | 16.5–17.5% | 0.1% | 0.1% | Last Result |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -300,7 +300,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2–3 |
 | [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 2–3 |
 | [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 2 | 2 | 2 | 2 | 2–3 |
 | [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -572,9 +572,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 97% | 99.9% | Last Result, Median |
-| 3 | 3% | 3% |  |
+| 2 | 98% | 100% | Last Result, Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 
