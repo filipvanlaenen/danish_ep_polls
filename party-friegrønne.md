@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0.5% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [5–11 December 2022](2022-12-11-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [28–4 December 2022](2022-12-04-Voxmeter.html) | Voxmeter | 0.4% | N/A | N/A | N/A | N/A |
-| [21–27 November 2022](2022-11-27-Voxmeter.html) | Voxmeter | 0.3% | N/A | N/A | N/A | N/A |
+| [21–27 November 2022](2022-11-27-Voxmeter.html) | Voxmeter | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 0.9% | 0.6–1.3% | 0.6–1.5% | 0.5–1.6% | 0.4–1.8% |
 | [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter | 0.7% | 0.6–0.9% | 0.5–0.9% | 0.5–1.0% | 0.4–1.1% |
@@ -300,7 +300,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [5–11 December 2022](2022-12-11-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [28–4 December 2022](2022-12-04-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [21–27 November 2022](2022-11-27-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [21–27 November 2022](2022-11-27-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 0 | 0 | 0 | 0 | 0 |
 | [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
