@@ -10,12 +10,13 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.6–2.9% | 1.4–3.0% | 1.3–3.1% | 1.1–3.4% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.7–3.2% | 1.5–3.4% | 1.4–3.6% | 1.2–3.9% |
 | [19–22 December 2022](2022-12-22-Voxmeter.html) | Voxmeter | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
 | [12–18 December 2022](2022-12-18-Voxmeter.html) | Voxmeter | 2.5% | 2.0–3.2% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [12–18 December 2022](2022-12-18-Epinion.html) | Epinion <br> DR | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.2% | 1.7–3.5% |
 | [5–11 December 2022](2022-12-11-Voxmeter.html) | Voxmeter | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [28–4 December 2022](2022-12-04-Voxmeter.html) | Voxmeter | 2.3% | N/A | N/A | N/A | N/A |
+| [25 November–1 December 2022](2022-12-01-Gallup.html) | Gallup <br> Berlingske | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.1–3.8% | 2.0–4.2% |
 | [21–27 November 2022](2022-11-27-Voxmeter.html) | Voxmeter | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 2.8% | 2.3–3.4% | 2.1–3.6% | 2.0–3.8% | 1.8–4.1% |
@@ -287,10 +288,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 8% | 100% |  |
-| 1.5–2.5% | 63% | 92% | Median |
-| 2.5–3.5% | 29% | 29% |  |
-| 3.5–4.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 48% | 95% |  |
+| 2.5–3.5% | 44% | 47% | Median |
+| 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -330,6 +331,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [12–18 December 2022](2022-12-18-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [5–11 December 2022](2022-12-11-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [28–4 December 2022](2022-12-04-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [25 November–1 December 2022](2022-12-01-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [21–27 November 2022](2022-11-27-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 0 | 0 | 0 | 0 | 0 |
