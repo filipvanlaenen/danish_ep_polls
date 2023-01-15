@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 2.1–3.6% | 2.0–3.8% | 1.9–4.0% | 1.7–4.4% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.2–3.9% | 2.1–4.1% | 2.0–4.4% | 1.8–4.8% |
+| [2–8 January 2023](2023-01-08-Voxmeter.html) | Voxmeter | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.1% |
 | [19–22 December 2022](2022-12-22-Voxmeter.html) | Voxmeter | 2.6% | 2.0–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
 | [12–18 December 2022](2022-12-18-Voxmeter.html) | Voxmeter | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
 | [12–18 December 2022](2022-12-18-Epinion.html) | Epinion <br> DR | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.1% | 1.7–3.4% |
@@ -288,11 +289,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 36% | 99.8% |  |
-| 2.5–3.5% | 53% | 63% | Median |
-| 3.5–4.5% | 10% | 10% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 24% | 100% |  |
+| 2.5–3.5% | 54% | 76% | Median |
+| 3.5–4.5% | 20% | 22% |  |
+| 4.5–5.5% | 1.2% | 1.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -305,6 +306,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–8 January 2023](2023-01-08-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [19–22 December 2022](2022-12-22-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [12–18 December 2022](2022-12-18-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [12–18 December 2022](2022-12-18-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
