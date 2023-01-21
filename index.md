@@ -1,14 +1,13 @@
 # Overview
 
-The table below lists the most recent polls (less than 45 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | O | A | V | F | C | B | I | Å | Ø | K | D | E | P | G | Q | Æ | M |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 2–4% <br> 0 | 25–30% <br> 4–6 | 9–16% <br> 1–3 | 8–12% <br> 1–2 | 4–6% <br> 0–1 | 3–5% <br> 0–1 | 8–12% <br> 1–2 | 2–4% <br> 0 | 5–8% <br> 1 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 6–10% <br> 1–2 | 7–11% <br> 1–2 |
+| N/A | [Poll Average](average.html) | 2–4% <br> 0 | 25–30% <br> 4–6 | 9–13% <br> 1–2 | 9–13% <br> 1–2 | 4–6% <br> 0–1 | 3–5% <br> 0–1 | 8–12% <br> 1–2 | 2–4% <br> 0 | 5–8% <br> 1 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 6–10% <br> 1–2 | 8–11% <br> 1–2 |
 | [2–8 January 2023](2023-01-08-Voxmeter.html) | Voxmeter | 2–4% <br> 0 | 25–30% <br> 4–6 | 9–13% <br> 1–2 | 9–13% <br> 1–2 | 4–6% <br> 0–1 | 3–5% <br> 0–1 | 9–12% <br> 1–2 | 2–5% <br> 0 | 5–8% <br> 1 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 6–9% <br> 1 | 8–11% <br> 1–2 |
 | [12–18 December 2022](2022-12-18-Epinion.html) | Epinion <br> DR | 2–3% <br> 0 | 25–29% <br> 5 | 9–12% <br> 1–2 | 9–12% <br> 1–2 | 4–5% <br> 0 | 3–5% <br> 0 | 8–11% <br> 1–2 | 2–3% <br> 0 | 6–8% <br> 1 | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0% <br> 0 | 8–11% <br> 1–2 | 8–11% <br> 1–2 |
-| [25 November–1 December 2022](2022-12-01-Gallup.html) | Gallup <br> Berlingske | 2–4% <br> 0 | 26–30% <br> 5–6 | 13–16% <br> 2–3 | 7–10% <br> 1–2 | 4–6% <br> 0–1 | 3–4% <br> 0 | 8–11% <br> 1–2 | 2–4% <br> 0 | 5–7% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 6–9% <br> 1–2 | 7–10% <br> 1–2 |
 | 26 May 2019 | General Election | 26.6% <br> 4 | 19.1% <br> 3 | 16.7% <br> 2 | 10.9% <br> 1 | 9.1% <br> 1 | 6.5% <br> 1 | 2.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
