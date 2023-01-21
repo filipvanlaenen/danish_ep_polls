@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.8% | 0.1–1.1% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [2–8 January 2023](2023-01-08-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [19–22 December 2022](2022-12-22-Voxmeter.html) | Voxmeter | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
 | [12–18 December 2022](2022-12-18-Voxmeter.html) | Voxmeter | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
@@ -288,8 +288,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 84% | 100% | Last Result, Median |
-| 0.5–1.5% | 16% | 16% |  |
+| 0.0–0.5% | 82% | 100% | Last Result, Median |
+| 0.5–1.5% | 18% | 18% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 

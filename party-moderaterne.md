@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.7–10.1% | 7.4–10.4% | 7.1–10.7% | 6.7–11.3% |
+| N/A | [Poll Average](average.html) | 9.3% | 8.3–10.2% | 8.0–10.6% | 7.7–10.8% | 7.2–11.5% |
 | [2–8 January 2023](2023-01-08-Voxmeter.html) | Voxmeter | 9.1% | 8.1–10.4% | 7.8–10.8% | 7.5–11.1% | 7.0–11.7% |
 | [19–22 December 2022](2022-12-22-Voxmeter.html) | Voxmeter | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.7–10.1% |
 | [12–18 December 2022](2022-12-18-Voxmeter.html) | Voxmeter | 8.8% | 7.7–10.0% | 7.4–10.4% | 7.2–10.7% | 6.7–11.3% |
@@ -294,13 +294,13 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.3% | 100% |  |
-| 6.5–7.5% | 7% | 99.7% |  |
-| 7.5–8.5% | 28% | 92% |  |
-| 8.5–9.5% | 40% | 64% | Median |
-| 9.5–10.5% | 20% | 24% |  |
-| 10.5–11.5% | 3% | 3% |  |
-| 11.5–12.5% | 0.2% | 0.3% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 1.4% | 100% |  |
+| 7.5–8.5% | 16% | 98.6% |  |
+| 8.5–9.5% | 48% | 83% | Median |
+| 9.5–10.5% | 29% | 34% |  |
+| 10.5–11.5% | 5% | 5% |  |
+| 11.5–12.5% | 0.4% | 0.4% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -593,8 +593,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 79% | 100% | Median |
-| 2 | 21% | 21% |  |
+| 1 | 72% | 100% | Median |
+| 2 | 28% | 28% |  |
 | 3 | 0% | 0% |  |
 
 
