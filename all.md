@@ -297,8 +297,8 @@ Only polls for which at least the sample size has been published are included in
 + **P:** Stram Kurs (*)
 + **G:** Veganerpartiet (*)
 + **Q:** Frie Grønne (*)
-+ **Æ:** Danmarksdemokraterne (*)
-+ **M:** Moderaterne (*)
++ **Æ:** Danmarksdemokraterne (NI)
++ **M:** Moderaterne (NI)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
