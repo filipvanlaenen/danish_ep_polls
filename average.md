@@ -34,8 +34,8 @@ Only polls for which at least the sample size has been published are included in
 + **P:** Stram Kurs (*)
 + **G:** Veganerpartiet (*)
 + **Q:** Frie Grønne (*)
-+ **Æ:** Danmarksdemokraterne (*)
-+ **M:** Moderaterne (*)
++ **Æ:** Danmarksdemokraterne (NI)
++ **M:** Moderaterne (NI)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -62,8 +62,8 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#veganerpartiet-(*)">Veganerpartiet (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#frie-grønne-(*)">Frie Grønne (*)</a> | 0.0% | 0.3% | 0.1–0.7% |0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
-| <a href="#danmarksdemokraterne-(*)">Danmarksdemokraterne (*)</a> | 0.0% | 8.6% | 6.8–10.0% |6.4–10.3% | 6.1–10.5% | 5.7–11.0% |
-| <a href="#moderaterne-(*)">Moderaterne (*)</a> | 0.0% | 9.3% | 8.3–10.2% |8.0–10.6% | 7.7–10.8% | 7.2–11.5% |
+| <a href="#danmarksdemokraterne-(ni)">Danmarksdemokraterne (NI)</a> | 0.0% | 8.6% | 6.8–10.0% |6.4–10.3% | 6.1–10.5% | 5.7–11.0% |
+| <a href="#moderaterne-(ni)">Moderaterne (NI)</a> | 0.0% | 9.3% | 8.3–10.2% |8.0–10.6% | 7.7–10.8% | 7.2–11.5% |
 
 ### Dansk Folkeparti (ID)
 
@@ -251,9 +251,9 @@ Only polls for which at least the sample size has been published are included in
 | 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
-### Moderaterne (*)
+### Moderaterne (NI)
 
-*For a full overview of the results for this party, see the [Moderaterne (*)](party-moderaterne.html) page.*
+*For a full overview of the results for this party, see the [Moderaterne (NI)](party-moderaterneni.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -282,9 +282,9 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 18% | 18% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
-### Danmarksdemokraterne (*)
+### Danmarksdemokraterne (NI)
 
-*For a full overview of the results for this party, see the [Danmarksdemokraterne (*)](party-danmarksdemokraterne.html) page.*
+*For a full overview of the results for this party, see the [Danmarksdemokraterne (NI)](party-danmarksdemokraterneni.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -328,8 +328,8 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#veganerpartiet-(*)">Veganerpartiet (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#frie-grønne-(*)">Frie Grønne (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#danmarksdemokraterne-(*)">Danmarksdemokraterne (*)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#moderaterne-(*)">Moderaterne (*)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#danmarksdemokraterne-(ni)">Danmarksdemokraterne (NI)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
+| <a href="#moderaterne-(ni)">Moderaterne (NI)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 
 ### Dansk Folkeparti (ID)
 
@@ -488,11 +488,11 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Danmarksdemokraterne (*)
+### Danmarksdemokraterne (NI)
 
-*For a full overview of the results for this party, see the [Danmarksdemokraterne (*)](party-danmarksdemokraterne.html) page.*
+*For a full overview of the results for this party, see the [Danmarksdemokraterne (NI)](party-danmarksdemokraterneni.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-danmarksdemokraterne.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-danmarksdemokraterneni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -501,11 +501,11 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 25% | 25% |  |
 | 3 | 0% | 0% |  |
 
-### Moderaterne (*)
+### Moderaterne (NI)
 
-*For a full overview of the results for this party, see the [Moderaterne (*)](party-moderaterne.html) page.*
+*For a full overview of the results for this party, see the [Moderaterne (NI)](party-moderaterneni.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-moderaterne.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-moderaterneni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -525,12 +525,12 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Socialdemokraterne (S&D) | 3 | 5 | 0% | 5 | 4–5 | 4–6 | 4–6 |
 | Venstre (RE) – Radikale Venstre (RE) – Liberal Alliance (RE) | 3 | 3 | 0% | 3–4 | 3–4 | 2–4 | 2–4 |
-| Borgerlisten (*) – Danmarksdemokraterne (*) – Frie Grønne (*) – Moderaterne (*) – Stram Kurs (*) – Veganerpartiet (*) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–4 |
+| Danmarksdemokraterne (NI) – Moderaterne (NI) – Nye Borgerlige (NI) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–4 |
 | Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA) | 1 | 2 | 0% | 2 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Borgerlisten (*) – Frie Grønne (*) – Stram Kurs (*) – Veganerpartiet (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Dansk Folkeparti (ID) | 4 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Nye Borgerlige (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Socialdemokraterne (S&D)
 
@@ -555,9 +555,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 24% | 24% | Median |
 | 5 | 0% | 0% |  |
 
-### Borgerlisten (*) – Danmarksdemokraterne (*) – Frie Grønne (*) – Moderaterne (*) – Stram Kurs (*) – Veganerpartiet (*)
+### Danmarksdemokraterne (NI) – Moderaterne (NI) – Nye Borgerlige (NI)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-e–æ–q–m–p–g.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-æ–m–d.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -599,6 +599,14 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 36% | 36% | Last Result |
 | 2 | 0% | 0% |  |
 
+### Borgerlisten (*) – Frie Grønne (*) – Stram Kurs (*) – Veganerpartiet (*)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-e–q–p–g.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
 ### Dansk Folkeparti (ID)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-o.png "Seats Probability Mass Function")
@@ -610,16 +618,6 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
-
-### Nye Borgerlige (NI)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-d.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
-| 2 | 0% | 0% |  |
 
 
 ## Technical Information
