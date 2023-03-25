@@ -10,7 +10,20 @@ Last result: **10.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.7% | 9.7–11.9% | 9.4–12.4% | 9.2–12.7% | 8.8–13.5% |
+| N/A | [Poll Average](average.html) | 12.8% | 11.6–14.0% | 11.3–14.3% | 11.0–14.7% | 10.4–15.3% |
+| [13–19 March 2023](2023-03-19-Voxmeter.html) | Voxmeter | 12.7% | 11.4–14.1% | 11.1–14.5% | 10.7–14.8% | 10.2–15.6% |
+| [10–13 March 2023](2023-03-13-YouGov.html) | YouGov <br> B.T. | 12.7% | 11.6–14.0% | 11.2–14.4% | 11.0–14.7% | 10.5–15.3% |
+| [6–12 March 2023](2023-03-12-Voxmeter.html) | Voxmeter | 13.6% | N/A | N/A | N/A | N/A |
+| [27 February–5 March 2023](2023-03-05-Voxmeter.html) | Voxmeter | 14.5% | N/A | N/A | N/A | N/A |
+| [20–26 February 2023](2023-02-26-Voxmeter.html) | Voxmeter | 14.4% | 13.0–15.9% | 12.7–16.3% | 12.3–16.7% | 11.7–17.4% |
+| [14–20 February 2023](2023-02-20-Epinion.html) | Epinion <br> DR | 12.8% | 11.8–13.8% | 11.6–14.1% | 11.3–14.4% | 10.9–14.9% |
+| [13–19 February 2023](2023-02-19-Voxmeter.html) | Voxmeter | 13.1% | N/A | N/A | N/A | N/A |
+| [6–12 February 2023](2023-02-12-Voxmeter.html) | Voxmeter | 14.9% | N/A | N/A | N/A | N/A |
+| [30 January–5 February 2023](2023-02-05-Voxmeter.html) | Voxmeter | 14.4% | N/A | N/A | N/A | N/A |
+| [27 January–2 February 2023](2023-02-02-Gallup.html) | Gallup <br> Berlingske | 12.8% | 11.8–13.9% | 11.5–14.2% | 11.3–14.5% | 10.8–15.1% |
+| [23–29 January 2023](2023-01-29-Voxmeter.html) | Voxmeter | 13.5% | N/A | N/A | N/A | N/A |
+| [16–22 January 2023](2023-01-22-Voxmeter.html) | Voxmeter | 13.5% | N/A | N/A | N/A | N/A |
+| [9–15 January 2023](2023-01-15-Voxmeter.html) | Voxmeter | 11.7% | N/A | N/A | N/A | N/A |
 | [2–8 January 2023](2023-01-08-Voxmeter.html) | Voxmeter | 11.0% | 9.8–12.4% | 9.5–12.7% | 9.2–13.1% | 8.7–13.8% |
 | [19–22 December 2022](2022-12-22-Voxmeter.html) | Voxmeter | 10.6% | 9.5–12.0% | 9.2–12.4% | 8.9–12.7% | 8.4–13.4% |
 | [12–18 December 2022](2022-12-18-Voxmeter.html) | Voxmeter | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.4–12.1% | 7.8–12.8% |
@@ -288,15 +301,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 7% | 99.8% |  |
-| 9.5–10.5% | 37% | 93% |  |
-| 10.5–11.5% | 38% | 56% | Last Result, Median |
-| 11.5–12.5% | 14% | 18% |  |
-| 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 0.4% | 0.4% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.7% | 100% |  |
+| 10.5–11.5% | 8% | 99.3% | Last Result |
+| 11.5–12.5% | 31% | 91% |  |
+| 12.5–13.5% | 40% | 60% | Median |
+| 13.5–14.5% | 17% | 20% |  |
+| 14.5–15.5% | 3% | 3% |  |
+| 15.5–16.5% | 0.3% | 0.3% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -307,7 +320,20 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2–3 |
+| [13–19 March 2023](2023-03-19-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 2 |
+| [10–13 March 2023](2023-03-13-YouGov.html) | YouGov <br> B.T. | 2 | 2 | 2 | 2 | 2–3 |
+| [6–12 March 2023](2023-03-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [27 February–5 March 2023](2023-03-05-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [20–26 February 2023](2023-02-26-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [14–20 February 2023](2023-02-20-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2 |
+| [13–19 February 2023](2023-02-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [6–12 February 2023](2023-02-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [30 January–5 February 2023](2023-02-05-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [27 January–2 February 2023](2023-02-02-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2 | 2 | 2–3 |
+| [23–29 January 2023](2023-01-29-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [16–22 January 2023](2023-01-22-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [9–15 January 2023](2023-01-15-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [2–8 January 2023](2023-01-08-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [19–22 December 2022](2022-12-22-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–18 December 2022](2022-12-18-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -587,8 +613,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% | Last Result |
-| 2 | 95% | 95% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 0.1% | 100% | Last Result |
+| 2 | 99.3% | 99.9% | Median |
+| 3 | 0.7% | 0.7% |  |
+| 4 | 0% | 0% |  |
 
 
