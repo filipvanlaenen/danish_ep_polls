@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.9% | 0.1–1.0% | 0.1–1.1% | 0.0–1.3% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.8% | 0.1–0.8% | 0.1–0.9% | 0.0–1.1% |
+| [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.4–1.0% | 0.3–1.2% |
+| [20–26 March 2023](2023-03-26-Voxmeter.html) | Voxmeter | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [13–19 March 2023](2023-03-19-Voxmeter.html) | Voxmeter | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.0–0.7% | 0.0–0.9% |
 | [10–13 March 2023](2023-03-13-YouGov.html) | YouGov <br> B.T. | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% | 0.0–0.7% |
 | [6–12 March 2023](2023-03-12-Voxmeter.html) | Voxmeter | 0.5% | N/A | N/A | N/A | N/A |
@@ -301,10 +303,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 67% | 100% | Last Result, Median |
-| 0.5–1.5% | 33% | 33% |  |
+| 0.0–0.5% | 71% | 100% | Last Result, Median |
+| 0.5–1.5% | 29% | 29% |  |
 | 1.5–2.5% | 0% | 0% |  |
-| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -316,6 +317,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
+| [20–26 March 2023](2023-03-26-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [13–19 March 2023](2023-03-19-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [10–13 March 2023](2023-03-13-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0 | 0 |
 | [6–12 March 2023](2023-03-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |

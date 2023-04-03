@@ -10,7 +10,9 @@ Last result: **16.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 8.5–11.6% | 8.3–12.1% | 8.0–12.5% | 7.5–13.3% |
+| N/A | [Poll Average](average.html) | 9.3% | 8.3–10.4% | 8.1–10.8% | 7.8–11.1% | 7.4–11.8% |
+| [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 9.1% | 8.4–9.9% | 8.2–10.2% | 8.0–10.4% | 7.7–10.8% |
+| [20–26 March 2023](2023-03-26-Voxmeter.html) | Voxmeter | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [13–19 March 2023](2023-03-19-Voxmeter.html) | Voxmeter | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.1% | 8.7–13.7% |
 | [10–13 March 2023](2023-03-13-YouGov.html) | YouGov <br> B.T. | 9.2% | 8.2–10.3% | 7.9–10.6% | 7.7–10.9% | 7.2–11.5% |
 | [6–12 March 2023](2023-03-12-Voxmeter.html) | Voxmeter | 10.5% | N/A | N/A | N/A | N/A |
@@ -302,14 +304,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.6% | 100% |  |
-| 7.5–8.5% | 10% | 99.4% |  |
-| 8.5–9.5% | 33% | 90% |  |
-| 9.5–10.5% | 30% | 57% | Median |
-| 10.5–11.5% | 17% | 27% |  |
-| 11.5–12.5% | 8% | 10% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.3% | 0.3% |  |
+| 6.5–7.5% | 0.9% | 100% |  |
+| 7.5–8.5% | 16% | 99.1% |  |
+| 8.5–9.5% | 47% | 83% | Median |
+| 9.5–10.5% | 29% | 36% |  |
+| 10.5–11.5% | 7% | 7% |  |
+| 11.5–12.5% | 0.8% | 0.8% |  |
+| 12.5–13.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
@@ -324,6 +326,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–26 March 2023](2023-03-26-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–19 March 2023](2023-03-19-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–2 |
 | [10–13 March 2023](2023-03-13-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1–2 | 1–2 |
 | [6–12 March 2023](2023-03-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
