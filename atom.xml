@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-04-03T21:26:54.840088+02:00</updated>
+  <updated>2023-04-13T19:32:55.730102+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 20.0–25.1%, 4 seats</li><li>Dansk Folkeparti (ID): 2.5–4.7%, 0 seats</li><li>Venstre (RE): 7.7–11.3%, 1–2 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 5.3–8.4%, 1 seats</li><li>Liberal Alliance (RE): 7.7–11.3%, 1 seats</li><li>Alternativet (Greens/EFA): 1.7–3.7%, 0 seats</li><li>Radikale Venstre (RE): 3.0–5.4%, 0 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 13.0–17.3%, 2–3 seats</li><li>Det Konservative Folkeparti (EPP): 4.9–7.9%, 1 seats</li><li>Nye Borgerlige (NI): 1.6–3.5%, 0 seats</li><li>Moderaterne (NI): 6.8–10.2%, 1 seats</li><li>Frie Grønne (*): 0.3–1.3%, 0 seats</li><li>Danmarksdemokraterne (NI): 7.7–11.3%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2023-04-10-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2023-04-10-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter, 3–10 April 2023</title>
+    <updated>2023-04-13T19:32:55.730102+02:00</updated>
+    <dc:date>2023-04-13T19:32:55.730102+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Socialdemokraterne (S&amp;D): 19.1–22.5%, 4 seats</li><li>Dansk Folkeparti (ID): 3.9–5.6%, 0–1 seats</li><li>Venstre (RE): 8.0–10.4%, 1–2 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 6.6–8.8%, 1 seats</li><li>Liberal Alliance (RE): 9.8–12.4%, 2 seats</li><li>Alternativet (Greens/EFA): 1.7–2.9%, 0 seats</li><li>Radikale Venstre (RE): 2.7–4.1%, 0 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 11.8–14.5%, 2 seats</li><li>Det Konservative Folkeparti (EPP): 4.6–6.5%, 1 seats</li><li>Nye Borgerlige (NI): 2.1–3.5%, 0 seats</li><li>Moderaterne (NI): 7.9–10.3%, 1–2 seats</li><li>Frie Grønne (*): 0.4–1.0%, 0 seats</li><li>Danmarksdemokraterne (NI): 7.8–10.1%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2023-03-28-Epinion.html</id>
@@ -1975,5 +1983,5 @@
     <updated>2020-03-06T23:27:29+01:00</updated>
     <dc:date>2020-03-06T23:27:29+01:00</dc:date>
   </entry>
-  <dc:date>2023-04-03T21:26:54.840088+02:00</dc:date>
+  <dc:date>2023-04-13T19:32:55.730102+02:00</dc:date>
 </feed>
