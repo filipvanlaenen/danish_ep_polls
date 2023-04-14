@@ -36,7 +36,7 @@ Only polls for which at least the sample size has been published are included in
 + **G:** Veganerpartiet (*)
 + **Q:** Frie Grønne (*)
 + **Æ:** Danmarksdemokraterne (NI)
-+ **M:** Moderaterne (NI)
++ **M:** Moderaterne (RE)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -64,7 +64,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#veganerpartiet-(*)">Veganerpartiet (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#frie-grønne-(*)">Frie Grønne (*)</a> | 0.0% | 0.5% | 0.2–0.9% |0.1–1.0% | 0.1–1.1% | 0.0–1.4% |
 | <a href="#danmarksdemokraterne-(ni)">Danmarksdemokraterne (NI)</a> | 0.0% | 9.5% | 8.4–11.1% |8.1–11.5% | 7.9–11.9% | 7.4–12.5% |
-| <a href="#moderaterne-(ni)">Moderaterne (NI)</a> | 0.0% | 8.2% | 5.4–9.5% |5.1–9.8% | 4.9–10.1% | 4.4–10.6% |
+| <a href="#moderaterne-(re)">Moderaterne (RE)</a> | 0.0% | 8.2% | 5.4–9.5% |5.1–9.8% | 4.9–10.1% | 4.4–10.6% |
 
 ### Dansk Folkeparti (ID)
 
@@ -252,9 +252,9 @@ Only polls for which at least the sample size has been published are included in
 | 3.5–4.5% | 1.1% | 1.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
-### Moderaterne (NI)
+### Moderaterne (RE)
 
-*For a full overview of the results for this party, see the [Moderaterne (NI)](party-moderaterneni.html) page.*
+*For a full overview of the results for this party, see the [Moderaterne (RE)](party-moderaternere.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -332,7 +332,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#veganerpartiet-(*)">Veganerpartiet (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#frie-grønne-(*)">Frie Grønne (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#danmarksdemokraterne-(ni)">Danmarksdemokraterne (NI)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#moderaterne-(ni)">Moderaterne (NI)</a> | 0 | 1 | 1 |0–1 | 0–1 | 0–2 |
+| <a href="#moderaterne-(re)">Moderaterne (RE)</a> | 0 | 1 | 1 |0–1 | 0–1 | 0–2 |
 
 ### Dansk Folkeparti (ID)
 
@@ -503,11 +503,11 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 31% | 31% |  |
 | 3 | 0% | 0% |  |
 
-### Moderaterne (NI)
+### Moderaterne (RE)
 
-*For a full overview of the results for this party, see the [Moderaterne (NI)](party-moderaterneni.html) page.*
+*For a full overview of the results for this party, see the [Moderaterne (RE)](party-moderaternere.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-moderaterneni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-moderaternere.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -526,9 +526,9 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Socialdemokraterne (S&D) | 3 | 4 | 0% | 4 | 4–5 | 4–5 | 3–5 |
-| Venstre (RE) – Radikale Venstre (RE) – Liberal Alliance (RE) | 3 | 3 | 0% | 2–4 | 2–4 | 2–4 | 2–4 |
+| Venstre (RE) – Radikale Venstre (RE) – Liberal Alliance (RE) – Moderaterne (RE) | 3 | 4 | 0% | 3–5 | 2–5 | 2–5 | 2–5 |
 | Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA) | 1 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Danmarksdemokraterne (NI) – Moderaterne (NI) – Nye Borgerlige (NI) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Danmarksdemokraterne (NI) – Nye Borgerlige (NI) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP) | 1 | 1 | 0% | 1 | 1 | 1 | 0–1 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
 | Dansk Folkeparti (ID) | 4 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -545,16 +545,18 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 9% | 9% |  |
 | 6 | 0% | 0% |  |
 
-### Venstre (RE) – Radikale Venstre (RE) – Liberal Alliance (RE)
+### Venstre (RE) – Radikale Venstre (RE) – Liberal Alliance (RE) – Moderaterne (RE)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–b–i.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-v–b–i–m.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 28% | 100% |  |
-| 3 | 49% | 72% | Last Result, Median |
-| 4 | 23% | 23% |  |
-| 5 | 0% | 0% |  |
+| 2 | 8% | 100% |  |
+| 3 | 21% | 92% | Last Result |
+| 4 | 47% | 71% | Median |
+| 5 | 24% | 24% |  |
+| 6 | 0.3% | 0.3% |  |
+| 7 | 0% | 0% |  |
 
 ### Socialistisk Folkeparti (Greens/EFA) – Alternativet (Greens/EFA)
 
@@ -567,17 +569,16 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 33% | 33% |  |
 | 4 | 0% | 0% |  |
 
-### Danmarksdemokraterne (NI) – Moderaterne (NI) – Nye Borgerlige (NI)
+### Danmarksdemokraterne (NI) – Nye Borgerlige (NI)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-æ–m–d.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-æ–d.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 76% | 99.8% | Median |
-| 3 | 24% | 24% |  |
-| 4 | 0% | 0% |  |
+| 1 | 69% | 100% | Median |
+| 2 | 31% | 31% |  |
+| 3 | 0% | 0% |  |
 
 ### Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP)
 
