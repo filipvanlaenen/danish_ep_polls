@@ -32,7 +32,7 @@ Only polls for which at least the sample size has been published are included in
 + **G:** Veganerpartiet (*)
 + **Q:** Frie Grønne (*)
 + **Æ:** Danmarksdemokraterne (NI)
-+ **M:** Moderaterne (NI)
++ **M:** Moderaterne (RE)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
