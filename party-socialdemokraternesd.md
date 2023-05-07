@@ -10,8 +10,12 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.8% | 20.1–24.6% | 19.7–25.2% | 19.4–25.6% | 18.9–26.6% |
+| N/A | [Poll Average](average.html) | 21.1% | 19.8–22.6% | 19.5–23.1% | 19.1–23.6% | 18.5–24.6% |
+| [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 21.6% | 20.0–23.4% | 19.6–23.9% | 19.2–24.3% | 18.5–25.1% |
+| [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 21.1% | 20.0–22.3% | 19.7–22.6% | 19.4–22.9% | 18.9–23.5% |
+| [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter | 22.8% | N/A | N/A | N/A | N/A |
 | [10–17 April 2023](2023-04-17-Voxmeter.html) | Voxmeter | 23.4% | 21.8–25.2% | 21.3–25.7% | 20.9–26.1% | 20.2–26.9% |
+| [7–13 April 2023](2023-04-13-Gallup.html) | Gallup <br> Berlingske | 20.7% | 19.5–21.9% | 19.2–22.3% | 18.9–22.6% | 18.4–23.2% |
 | [3–10 April 2023](2023-04-10-Voxmeter.html) | Voxmeter | 22.4% | 20.8–24.2% | 20.4–24.7% | 20.0–25.1% | 19.2–26.0% |
 | [27 March–3 April 2023](2023-04-03-Voxmeter.html) | Voxmeter | 22.8% | N/A | N/A | N/A | N/A |
 | [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 20.8% | 19.7–21.9% | 19.4–22.2% | 19.1–22.5% | 18.7–23.1% |
@@ -307,18 +311,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 3% | 99.8% | Last Result |
-| 19.5–20.5% | 16% | 96% |  |
-| 20.5–21.5% | 24% | 80% |  |
-| 21.5–22.5% | 17% | 56% | Median |
-| 22.5–23.5% | 15% | 39% |  |
-| 23.5–24.5% | 13% | 23% |  |
-| 24.5–25.5% | 7% | 10% |  |
-| 25.5–26.5% | 2% | 3% |  |
-| 26.5–27.5% | 0.5% | 0.5% |  |
-| 27.5–28.5% | 0.1% | 0.1% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 17.5–18.5% | 0.5% | 100% |  |
+| 18.5–19.5% | 6% | 99.5% | Last Result |
+| 19.5–20.5% | 23% | 94% |  |
+| 20.5–21.5% | 36% | 71% | Median |
+| 21.5–22.5% | 23% | 34% |  |
+| 22.5–23.5% | 8% | 11% |  |
+| 23.5–24.5% | 2% | 3% |  |
+| 24.5–25.5% | 0.5% | 0.5% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -329,8 +331,12 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 4 | 4 | 4 | 4 | 3–4 |
+| [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [10–17 April 2023](2023-04-17-Voxmeter.html) | Voxmeter | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| [7–13 April 2023](2023-04-13-Gallup.html) | Gallup <br> Berlingske | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–10 April 2023](2023-04-10-Voxmeter.html) | Voxmeter | 4 | 4 | 4 | 4 | 4–5 |
 | [27 March–3 April 2023](2023-04-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 4 | 4 | 4 | 4 | 3–4 |
@@ -627,9 +633,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 3% | 100% | Last Result |
-| 4 | 93% | 97% | Median |
-| 5 | 4% | 4% |  |
+| 3 | 10% | 100% | Last Result |
+| 4 | 90% | 90% | Median |
+| 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
 

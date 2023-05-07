@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.3% |
+| [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [10–17 April 2023](2023-04-17-Voxmeter.html) | Voxmeter | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
+| [7–13 April 2023](2023-04-13-Gallup.html) | Gallup <br> Berlingske | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.3% |
 | [3–10 April 2023](2023-04-10-Voxmeter.html) | Voxmeter | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
 | [27 March–3 April 2023](2023-04-03-Voxmeter.html) | Voxmeter | 0.5% | N/A | N/A | N/A | N/A |
 | [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.4–1.0% | 0.3–1.2% |
@@ -306,8 +310,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 47% | 100% | Last Result |
-| 0.5–1.5% | 53% | 53% | Median |
+| 0.0–0.5% | 26% | 100% | Last Result |
+| 0.5–1.5% | 74% | 74% | Median |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -320,7 +324,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [10–17 April 2023](2023-04-17-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [7–13 April 2023](2023-04-13-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [3–10 April 2023](2023-04-10-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [27 March–3 April 2023](2023-04-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
