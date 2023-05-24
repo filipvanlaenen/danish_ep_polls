@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.4% | 8.2–11.3% | 7.9–11.9% | 7.7–12.3% | 7.4–13.1% |
+| N/A | [Poll Average](average.html) | 8.9% | 8.0–10.1% | 7.7–10.5% | 7.5–10.8% | 7.1–11.5% |
+| [15–21 May 2023](2023-05-21-Voxmeter.html) | Voxmeter | 9.2% | 8.2–10.5% | 7.8–10.9% | 7.6–11.2% | 7.1–11.8% |
 | [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 10.8% | 9.6–12.1% | 9.3–12.5% | 9.0–12.8% | 8.5–13.5% |
 | [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 8.6% | 7.9–9.4% | 7.7–9.6% | 7.5–9.9% | 7.1–10.3% |
 | [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter | 9.4% | N/A | N/A | N/A | N/A |
@@ -317,15 +318,13 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.2% | 100% |  |
-| 7.5–8.5% | 19% | 98.8% |  |
-| 8.5–9.5% | 37% | 80% | Median |
-| 9.5–10.5% | 22% | 43% |  |
-| 10.5–11.5% | 14% | 21% |  |
-| 11.5–12.5% | 6% | 8% |  |
-| 12.5–13.5% | 1.4% | 2% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 6.5–7.5% | 3% | 100% |  |
+| 7.5–8.5% | 30% | 97% |  |
+| 8.5–9.5% | 45% | 67% | Median |
+| 9.5–10.5% | 18% | 22% |  |
+| 10.5–11.5% | 4% | 5% |  |
+| 11.5–12.5% | 0.4% | 0.5% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -337,6 +336,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–21 May 2023](2023-05-21-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1–2 |
 | [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -639,8 +639,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 66% | 100% | Median |
-| 2 | 34% | 34% |  |
+| 1 | 84% | 100% | Median |
+| 2 | 16% | 16% |  |
 | 3 | 0% | 0% |  |
 
 
