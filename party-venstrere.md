@@ -10,11 +10,14 @@ Last result: **16.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.6% | 8.3–13.3% |
+| N/A | [Poll Average](average.html) | 10.2% | 9.0–11.5% | 8.7–11.9% | 8.5–12.2% | 7.9–12.9% |
+| [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 10.2% | 9.0–11.5% | 8.7–11.9% | 8.5–12.2% | 7.9–12.9% |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 10.5% | 9.4–11.9% | 9.1–12.3% | 8.8–12.6% | 8.3–13.3% |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter | 10.5% | N/A | N/A | N/A | N/A |
 | [22–28 May 2023](2023-05-28-Voxmeter.html) | Voxmeter | 11.2% | 10.0–12.6% | 9.6–12.9% | 9.4–13.3% | 8.8–14.0% |
 | [15–21 May 2023](2023-05-21-Voxmeter.html) | Voxmeter | 11.3% | 10.1–12.7% | 9.8–13.0% | 9.5–13.4% | 8.9–14.1% |
+| [8–14 May 2023](2023-05-14-Voxmeter.html) | Voxmeter | 9.7% | N/A | N/A | N/A | N/A |
+| [1–7 May 2023](2023-05-07-Voxmeter.html) | Voxmeter | 10.3% | N/A | N/A | N/A | N/A |
 | [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 9.4% | 8.3–10.7% | 8.0–11.0% | 7.7–11.4% | 7.2–12.0% |
 | [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 9.0% | 8.3–9.8% | 8.0–10.1% | 7.9–10.3% | 7.5–10.7% |
 | [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter | 10.6% | N/A | N/A | N/A | N/A |
@@ -314,14 +317,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 1.2% | 100% |  |
-| 8.5–9.5% | 12% | 98.8% |  |
-| 9.5–10.5% | 34% | 87% |  |
-| 10.5–11.5% | 35% | 52% | Median |
-| 11.5–12.5% | 14% | 17% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 3% | 99.9% |  |
+| 8.5–9.5% | 20% | 97% |  |
+| 9.5–10.5% | 39% | 76% | Median |
+| 10.5–11.5% | 28% | 37% |  |
+| 11.5–12.5% | 8% | 9% |  |
+| 12.5–13.5% | 1.1% | 1.1% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
@@ -336,10 +340,13 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [22–28 May 2023](2023-05-28-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 1–2 | 1–2 |
 | [15–21 May 2023](2023-05-21-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [8–14 May 2023](2023-05-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [1–7 May 2023](2023-05-07-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -641,8 +648,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 19% | 100% |  |
-| 2 | 81% | 81% | Last Result, Median |
+| 1 | 30% | 100% |  |
+| 2 | 70% | 70% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 

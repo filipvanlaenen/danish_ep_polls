@@ -10,11 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.7–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
+| [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter | 2.5% | N/A | N/A | N/A | N/A |
 | [22–28 May 2023](2023-05-28-Voxmeter.html) | Voxmeter | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
 | [15–21 May 2023](2023-05-21-Voxmeter.html) | Voxmeter | 2.6% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [8–14 May 2023](2023-05-14-Voxmeter.html) | Voxmeter | 2.9% | N/A | N/A | N/A | N/A |
+| [1–7 May 2023](2023-05-07-Voxmeter.html) | Voxmeter | 2.3% | N/A | N/A | N/A | N/A |
 | [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 2.7% | 2.1–3.4% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 3.1% | 2.7–3.6% | 2.5–3.8% | 2.4–3.9% | 2.2–4.2% |
 | [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter | 3.2% | N/A | N/A | N/A | N/A |
@@ -315,10 +318,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 74% | 89% | Median |
-| 2.5–3.5% | 15% | 15% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 68% | 95% | Median |
+| 2.5–3.5% | 27% | 28% |  |
+| 3.5–4.5% | 0.9% | 0.9% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -331,10 +334,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [22–28 May 2023](2023-05-28-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [15–21 May 2023](2023-05-21-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [8–14 May 2023](2023-05-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [1–7 May 2023](2023-05-07-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
