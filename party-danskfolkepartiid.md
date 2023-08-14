@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.2% | 2.6–4.5% | 2.4–4.7% | 2.2–5.1% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter | 3.4% | N/A | N/A | N/A | N/A |
@@ -123,7 +124,7 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | [24–30 January 2022](2022-01-30-Voxmeter.html) | Voxmeter | 7.1% | 6.2–8.2% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [17–23 January 2022](2022-01-23-Voxmeter.html) | Voxmeter | 5.5% | N/A | N/A | N/A | N/A |
 | [10–16 January 2022](2022-01-16-Voxmeter.html) | Voxmeter | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
-| [7–10 January 2022](2022-01-10-YouGov.html) | YouGov <br> B.T. | 6.5% | N/A | N/A | N/A | N/A |
+| [7–10 January 2022](2022-01-10-YouGov.html) | YouGov <br> B.T. | 6.4% | N/A | N/A | N/A | N/A |
 | [3–8 January 2022](2022-01-08-Voxmeter.html) | Voxmeter | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.8–7.9% | 4.5–8.4% |
 | [20–23 December 2021](2021-12-23-Voxmeter.html) | Voxmeter | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.6% | 5.1–9.2% |
 | [13–19 December 2021](2021-12-19-Voxmeter.html) | Voxmeter | 6.9% | N/A | N/A | N/A | N/A |
@@ -140,7 +141,7 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 6.9% | N/A | N/A | N/A | N/A |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 5.9% | 5.2–6.7% | 5.0–6.9% | 4.8–7.1% | 4.5–7.5% |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 6.5% | N/A | N/A | N/A | N/A |
-| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 6.0% | N/A | N/A | N/A | N/A |
+| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 6.1% | N/A | N/A | N/A | N/A |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 5.6% | N/A | N/A | N/A | N/A |
 | [3 October 2021](2021-10-03-Gallup.html) | Gallup | 6.9% | N/A | N/A | N/A | N/A |
 | [21–29 September 2021](2021-09-29-Epinion.html) | Epinion | 6.2% | N/A | N/A | N/A | N/A |
@@ -229,12 +230,12 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | [11 June 2020](2020-06-11-Gallup.html) | Gallup | 6.1% | 5.4–7.0% | 5.2–7.2% | 5.0–7.4% | 4.7–7.9% |
 | [8–10 June 2020](2020-06-10-YouGov.html) | YouGov | 6.6% | 5.8–7.6% | 5.6–7.9% | 5.4–8.1% | 5.0–8.6% |
 | [1–7 June 2020](2020-06-07-Voxmeter.html) | Voxmeter <br> Ritzau | 5.9% | 5.1–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.0% |
-| [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.2% | 4.8–8.8% |
+| [25–31 May 2020](2020-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 6.5% | 5.7–7.7% | 5.4–8.0% | 5.2–8.2% | 4.8–8.8% |
 | [22–29 May 2020](2020-05-29-Epinion.html) | Epinion | 6.8% | 6.1–7.7% | 5.9–7.9% | 5.7–8.2% | 5.4–8.6% |
 | [18–24 May 2020](2020-05-24-Voxmeter.html) | Voxmeter <br> Ritzau | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.1–8.1% | 4.7–8.7% |
 | [11–17 May 2020](2020-05-17-Voxmeter.html) | Voxmeter <br> Ritzau | 7.2% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.3–9.5% |
 | [7–11 May 2020](2020-05-11-YouGov.html) | YouGov | 8.6% | 7.6–9.7% | 7.3–10.0% | 7.1–10.2% | 6.7–10.8% |
-| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 6.2% | 5.4–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
+| [4–9 May 2020](2020-05-09-Voxmeter.html) | Voxmeter <br> Ritzau | 6.3% | 5.4–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [27 April–3 May 2020](2020-05-03-Voxmeter.html) | Voxmeter <br> Ritzau | 6.7% | 5.8–7.8% | 5.6–8.2% | 5.3–8.4% | 4.9–9.0% |
 | [20–26 April 2020](2020-04-26-Voxmeter.html) | Voxmeter <br> Ritzau | 7.2% | 6.2–8.3% | 6.0–8.7% | 5.8–8.9% | 5.3–9.5% |
 | [6–19 April 2020](2020-04-19-Voxmeter.html) | Voxmeter <br> Ritzau | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
@@ -260,7 +261,7 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 8.5% | 7.5–9.8% | 7.2–10.1% | 7.0–10.4% | 6.5–11.0% |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 8.2% | 7.2–9.4% | 6.9–9.7% | 6.7–10.0% | 6.2–10.6% |
 | [12 December 2019](2019-12-12-Gallup.html) | Gallup | 7.7% | 6.9–8.7% | 6.7–9.0% | 6.5–9.2% | 6.1–9.7% |
-| [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 9.1% | 8.0–10.3% | 7.7–10.7% | 7.5–11.0% | 7.0–11.7% |
+| [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.5–11.0% | 7.0–11.7% |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 9.8% | 8.7–11.0% | 8.4–11.4% | 8.1–11.7% | 7.6–12.3% |
 | [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.6–11.2% | 7.1–11.9% |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 10.6% | 9.7–11.6% | 9.4–11.9% | 9.2–12.2% | 8.7–12.7% |
@@ -279,12 +280,12 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | [19 September 2019](2019-09-19-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 10.9% | 9.7–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
 | [9–15 September 2019](2019-09-15-Voxmeter.html) | Voxmeter <br> Ritzau | 8.9% | 7.9–10.2% | 7.6–10.5% | 7.3–10.8% | 6.9–11.4% |
 | [12 September 2019](2019-09-12-Gallup.html) | Gallup | 9.4% | 8.6–10.4% | 8.3–10.7% | 8.1–10.9% | 7.7–11.4% |
-| [9 September 2019](2019-09-09-YouGov.html) | YouGov | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.5% | 8.2–13.2% |
+| [9 September 2019](2019-09-09-YouGov.html) | YouGov | 10.4% | 9.3–11.8% | 9.0–12.2% | 8.7–12.5% | 8.2–13.2% |
 | [2–9 September 2019](2019-09-09-Voxmeter.html) | Voxmeter <br> Ritzau | 8.1% | 7.1–9.2% | 6.8–9.6% | 6.6–9.9% | 6.1–10.5% |
 | [26 August–1 September 2019](2019-09-01-Voxmeter.html) | Voxmeter <br> Ritzau | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 6.0–10.3% |
 | [18–26 August 2019](2019-08-26-Voxmeter.html) | Voxmeter <br> Ritzau | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
 | [12–18 August 2019](2019-08-18-Voxmeter.html) | Voxmeter <br> Ritzau | 8.3% | 7.3–9.5% | 7.0–9.8% | 6.8–10.1% | 6.3–10.7% |
-| [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 8.3% | 7.2–9.5% | 7.0–9.8% | 6.7–10.1% | 6.2–10.7% |
+| [5–10 August 2019](2019-08-10-Voxmeter.html) | Voxmeter <br> Ritzau | 8.2% | 7.2–9.5% | 7.0–9.8% | 6.7–10.1% | 6.2–10.7% |
 | [8 August 2019](2019-08-08-Gallup.html) | Gallup | 9.5% | 8.6–10.5% | 8.4–10.8% | 8.1–11.1% | 7.7–11.6% |
 | [24–30 June 2019](2019-06-30-Voxmeter.html) | Voxmeter <br> Ritzau | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
 | [17–23 June 2019](2019-06-23-Voxmeter.html) | Voxmeter <br> Ritzau | 8.3% | 7.3–9.5% | 7.0–9.8% | 6.8–10.1% | 6.3–10.7% |
@@ -293,7 +294,7 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | [4 June 2019](2019-06-04-Gallup.html) | Gallup | 10.6% | 10.0–11.2% | 9.9–11.4% | 9.8–11.5% | 9.5–11.8% |
 | [4 June 2019](2019-06-04-Epinion.html) | Epinion <br> DR | 9.6% | 8.9–10.4% | 8.7–10.7% | 8.5–10.9% | 8.2–11.3% |
 | [30 May–3 June 2019](2019-06-03-YouGov.html) | YouGov | 10.5% | 9.3–12.0% | 8.9–12.4% | 8.6–12.8% | 8.1–13.5% |
-| [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 10.2% | 9.0–11.5% | 8.7–11.9% | 8.4–12.2% | 7.9–12.9% |
+| [1–3 June 2019](2019-06-03-Voxmeter.html) | Voxmeter <br> Ritzau | 10.1% | 9.0–11.5% | 8.7–11.9% | 8.4–12.2% | 7.9–12.9% |
 | [3 June 2019](2019-06-03-Norstat.html) | Norstat <br> Altinget and Jyllands-Posten | 10.5% | 9.4–11.7% | 9.1–12.0% | 8.9–12.3% | 8.4–12.9% |
 | [3 June 2019](2019-06-03-GreensAnalyseinstitut.html) | Greens Analyseinstitut <br> Børsen | 10.5% | 9.4–11.7% | 9.1–12.1% | 8.9–12.4% | 8.4–13.0% |
 | [29 May–2 June 2019](2019-06-02-YouGov.html) | YouGov | 8.2% | 7.1–9.6% | 6.8–10.0% | 6.5–10.4% | 6.0–11.1% |
@@ -318,11 +319,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 52% | 96% | Median |
-| 3.5–4.5% | 39% | 43% |  |
-| 4.5–5.5% | 4% | 4% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 47% | 97% |  |
+| 3.5–4.5% | 45% | 50% | Median |
+| 4.5–5.5% | 6% | 6% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -355,6 +356,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -663,8 +665,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 99.0% | 100% | Median |
+| 1 | 1.0% | 1.0% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |

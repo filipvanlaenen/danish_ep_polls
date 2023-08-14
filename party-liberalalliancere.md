@@ -10,7 +10,8 @@ Last result: **2.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.4% | 9.2–11.7% | 8.9–12.1% | 8.6–12.4% | 8.1–13.1% |
+| N/A | [Poll Average](average.html) | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.6% | 8.3–13.3% |
+| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 10.4% | 9.2–11.7% | 8.9–12.1% | 8.6–12.4% | 8.1–13.1% |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.4% | 8.9–14.0% |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter | 11.3% | N/A | N/A | N/A | N/A |
@@ -140,7 +141,7 @@ Last result: **2.9%** (General Election of 26 May 2019)
 | [18–24 October 2021](2021-10-24-Voxmeter.html) | Voxmeter | 4.2% | N/A | N/A | N/A | N/A |
 | [14–21 October 2021](2021-10-21-Epinion.html) | Epinion | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.2–3.8% | 2.0–4.1% |
 | [11–17 October 2021](2021-10-17-Voxmeter.html) | Voxmeter | 4.0% | N/A | N/A | N/A | N/A |
-| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 3.3% | N/A | N/A | N/A | N/A |
+| [4–11 October 2021](2021-10-11-Voxmeter.html) | Voxmeter | 3.2% | N/A | N/A | N/A | N/A |
 | [27 September–3 October 2021](2021-10-03-Voxmeter.html) | Voxmeter | 2.9% | N/A | N/A | N/A | N/A |
 | [3 October 2021](2021-10-03-Gallup.html) | Gallup | 1.9% | N/A | N/A | N/A | N/A |
 | [21–29 September 2021](2021-09-29-Epinion.html) | Epinion | 2.8% | N/A | N/A | N/A | N/A |
@@ -260,7 +261,7 @@ Last result: **2.9%** (General Election of 26 May 2019)
 | [16–22 December 2019](2019-12-22-Voxmeter.html) | Voxmeter <br> Ritzau | 1.6% | 1.2–2.2% | 1.0–2.3% | 1.0–2.5% | 0.8–2.9% |
 | [9–15 December 2019](2019-12-15-Voxmeter.html) | Voxmeter <br> Ritzau | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [12 December 2019](2019-12-12-Gallup.html) | Gallup | 1.7% | 1.3–2.2% | 1.2–2.3% | 1.1–2.5% | 1.0–2.8% |
-| [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
+| [2–8 December 2019](2019-12-08-Voxmeter.html) | Voxmeter <br> Ritzau | 2.5% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
 | [25 November–2 December 2019](2019-12-02-Voxmeter.html) | Voxmeter <br> Ritzau | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [18–25 November 2019](2019-11-25-Voxmeter.html) | Voxmeter <br> Ritzau | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [20 November 2019](2019-11-20-Epinion.html) | Epinion <br> DR | 1.9% | 1.6–2.5% | 1.4–2.6% | 1.4–2.7% | 1.2–3.0% |
@@ -321,14 +322,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 2% | 99.9% |  |
-| 8.5–9.5% | 16% | 98% |  |
-| 9.5–10.5% | 37% | 82% | Median |
-| 10.5–11.5% | 32% | 45% |  |
-| 11.5–12.5% | 11% | 13% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 1.1% | 100% |  |
+| 8.5–9.5% | 12% | 98.9% |  |
+| 9.5–10.5% | 34% | 87% |  |
+| 10.5–11.5% | 36% | 53% | Median |
+| 11.5–12.5% | 15% | 18% |  |
+| 12.5–13.5% | 3% | 3% |  |
+| 13.5–14.5% | 0.2% | 0.3% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -340,7 +341,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -650,8 +652,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 33% | 100% |  |
-| 2 | 67% | 67% | Median |
+| 1 | 8% | 100% |  |
+| 2 | 92% | 92% | Median |
 | 3 | 0% | 0% |  |
 
 
