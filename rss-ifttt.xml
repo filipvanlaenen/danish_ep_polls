@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 21 Jan 2023 17:54:14 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Epinion for DR, 14–23 August 2023 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Epinion for DR, 14–23 August 2023<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion-seating-plan.png" length="356619" type="image/png"/>
+      <pubDate>Sat, 26 Aug 2023 19:24:26 +0200</pubDate>
+      <dc:date>2023-08-26T19:24:26.837991166+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 14–23 August 2023 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Epinion for DR, 14–23 August 2023<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion-seats.png" length="292362" type="image/png"/>
+      <pubDate>Sat, 26 Aug 2023 19:24:26 +0200</pubDate>
+      <dc:date>2023-08-26T19:24:26.837991166+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 14–23 August 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Epinion for DR, 14–23 August 2023<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2023-08-23-Epinion.png" length="369458" type="image/png"/>
+      <pubDate>Sat, 26 Aug 2023 19:24:26 +0200</pubDate>
+      <dc:date>2023-08-26T19:24:26.837991166+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter, 31 July–7 August 2023 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2023-08-07-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 31 July–7 August 2023<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2023-08-07-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2023-08-07-Voxmeter-seating-plan.png"/>]]></description>
@@ -148,30 +172,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2023-04-30-Voxmeter.png" length="384945" type="image/png"/>
       <pubDate>Sat, 6 May 2023 23:13:52 +0200</pubDate>
       <dc:date>2023-05-06T23:13:52.505881323+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion for DR, 19–26 April 2023 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Epinion for DR, 19–26 April 2023<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion-seating-plan.png" length="348525" type="image/png"/>
-      <pubDate>Sun, 7 May 2023 11:13:57 +0200</pubDate>
-      <dc:date>2023-05-07T11:13:57.191236555+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion for DR, 19–26 April 2023 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Epinion for DR, 19–26 April 2023<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion-seats.png" length="251565" type="image/png"/>
-      <pubDate>Sun, 7 May 2023 11:13:57 +0200</pubDate>
-      <dc:date>2023-05-07T11:13:57.191236555+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Epinion for DR, 19–26 April 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Epinion for DR, 19–26 April 2023<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2023-04-26-Epinion.png" length="363196" type="image/png"/>
-      <pubDate>Sun, 7 May 2023 11:13:57 +0200</pubDate>
-      <dc:date>2023-05-07T11:13:57.191236555+02:00</dc:date>
     </item>
   </channel>
 </rss>
