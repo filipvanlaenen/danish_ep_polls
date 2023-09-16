@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.9–4.2% | 2.7–4.4% | 2.6–4.6% | 2.3–5.1% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.2–3.9% | 2.0–4.1% | 1.9–4.2% | 1.6–4.6% |
+| [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter | 2.6% | 2.0–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
 | [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 3.4% | 2.9–4.1% | 2.8–4.2% | 2.7–4.4% | 2.4–4.7% |
 | [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
@@ -319,12 +320,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 52% | 98% | Median |
-| 3.5–4.5% | 42% | 46% |  |
-| 4.5–5.5% | 3% | 3% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 21% | 99.7% |  |
+| 2.5–3.5% | 55% | 79% | Median |
+| 3.5–4.5% | 23% | 23% |  |
+| 4.5–5.5% | 0.6% | 0.6% |  |
+| 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -356,7 +358,8 @@ Last result: **4** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
@@ -367,10 +370,10 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [8–14 May 2023](2023-05-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [1–7 May 2023](2023-05-07-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0–1 |
+| [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0–1 | 0–1 |
 | [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [10–17 April 2023](2023-04-17-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [7–13 April 2023](2023-04-13-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
+| [7–13 April 2023](2023-04-13-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0–1 |
 | [3–10 April 2023](2023-04-10-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
 | [27 March–3 April 2023](2023-04-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -667,8 +670,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Median |
-| 1 | 0.5% | 0.5% |  |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |
