@@ -343,11 +343,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0–1 | 0–1 |
-| [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0–1 |
-| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -657,8 +657,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 70% | 100% | Median |
-| 1 | 30% | 30% | Last Result |
+| 0 | 80% | 100% | Median |
+| 1 | 20% | 20% | Last Result |
 | 2 | 0% | 0% |  |
 
 

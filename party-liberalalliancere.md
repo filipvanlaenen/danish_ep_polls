@@ -349,13 +349,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–2 |
-| [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2 |
+| [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 1–2 | 1–2 |
+| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -666,9 +666,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 28% | 100% |  |
-| 2 | 67% | 72% | Median |
-| 3 | 5% | 5% |  |
+| 1 | 35% | 100% |  |
+| 2 | 63% | 65% | Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 

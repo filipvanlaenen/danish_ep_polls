@@ -349,12 +349,12 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1–2 |
+| [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 1 | 1 | 1 | 1 | 1 |
 | [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2 | 2 | 2–3 |
-| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2 | 2 | 2 |
+| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -664,9 +664,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 36% | 100% |  |
-| 2 | 64% | 64% | Last Result, Median |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% |  |
+| 1 | 49% | 100% |  |
+| 2 | 51% | 51% | Last Result, Median |
+| 3 | 0% | 0% |  |
 
 

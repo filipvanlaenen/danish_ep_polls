@@ -1,4 +1,4 @@
-# Danmarksdemokraterne (NI)
+# Socialdemokraterne–Socialistisk Folkeparti–Alternativet (S&D)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,91 +10,91 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.1% | 8.0–10.3% | 7.6–10.8% | 7.4–11.2% | 6.8–11.9% |
-| [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter | 8.4% | 7.4–9.6% | 7.1–9.9% | 6.9–10.2% | 6.4–10.8% |
-| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 9.9% | 8.8–11.2% | 8.5–11.5% | 8.2–11.8% | 7.7–12.5% |
-| [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter | 8.9% | 7.8–10.1% | 7.5–10.5% | 7.3–10.8% | 6.8–11.4% |
-| [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 9.0% | 8.2–10.0% | 7.9–10.2% | 7.8–10.4% | 7.4–10.9% |
-| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 8.9% | 8.1–9.8% | 7.9–10.1% | 7.7–10.3% | 7.3–10.7% |
-| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 8.7% | 7.6–9.9% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
-| [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 9.5% | 8.4–10.8% | 8.1–11.1% | 7.8–11.5% | 7.3–12.1% |
-| [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
-| [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter | 9.4% | N/A | N/A | N/A | N/A |
-| [31 May–6 June 2023](2023-06-06-Gallup.html) | Gallup <br> Berlingske | 8.7% | N/A | N/A | N/A | N/A |
-| [22–28 May 2023](2023-05-28-Voxmeter.html) | Voxmeter | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.5–11.1% | 7.1–11.8% |
-| [15–21 May 2023](2023-05-21-Voxmeter.html) | Voxmeter | 9.2% | 8.2–10.5% | 7.8–10.9% | 7.6–11.2% | 7.1–11.8% |
-| [8–14 May 2023](2023-05-14-Voxmeter.html) | Voxmeter | 10.0% | N/A | N/A | N/A | N/A |
-| [1–7 May 2023](2023-05-07-Voxmeter.html) | Voxmeter | 10.4% | N/A | N/A | N/A | N/A |
-| [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 10.8% | 9.6–12.1% | 9.3–12.5% | 9.0–12.8% | 8.5–13.5% |
-| [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 8.6% | 7.9–9.4% | 7.7–9.6% | 7.5–9.9% | 7.1–10.3% |
-| [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter | 9.4% | N/A | N/A | N/A | N/A |
-| [10–17 April 2023](2023-04-17-Voxmeter.html) | Voxmeter | 9.0% | 7.9–10.2% | 7.6–10.5% | 7.4–10.9% | 6.9–11.5% |
-| [7–13 April 2023](2023-04-13-Gallup.html) | Gallup <br> Berlingske | 9.2% | 8.4–10.1% | 8.2–10.4% | 8.0–10.6% | 7.6–11.1% |
-| [3–10 April 2023](2023-04-10-Voxmeter.html) | Voxmeter | 9.4% | 8.3–10.6% | 8.0–11.0% | 7.7–11.3% | 7.2–11.9% |
-| [27 March–3 April 2023](2023-04-03-Voxmeter.html) | Voxmeter | 9.4% | N/A | N/A | N/A | N/A |
-| [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 8.9% | 8.2–9.7% | 8.0–9.9% | 7.8–10.1% | 7.4–10.5% |
-| [20–26 March 2023](2023-03-26-Voxmeter.html) | Voxmeter | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
-| [13–19 March 2023](2023-03-19-Voxmeter.html) | Voxmeter | 8.4% | 7.4–9.7% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
-| [10–13 March 2023](2023-03-13-YouGov.html) | YouGov <br> B.T. | 10.5% | 9.4–11.7% | 9.1–12.0% | 8.9–12.3% | 8.4–12.9% |
-| [6–12 March 2023](2023-03-12-Voxmeter.html) | Voxmeter | 8.3% | N/A | N/A | N/A | N/A |
-| [27 February–5 March 2023](2023-03-05-Voxmeter.html) | Voxmeter | 9.3% | N/A | N/A | N/A | N/A |
-| [20–26 February 2023](2023-02-26-Voxmeter.html) | Voxmeter | 8.4% | 7.3–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
-| [14–20 February 2023](2023-02-20-Epinion.html) | Epinion <br> DR | 9.9% | 9.0–10.8% | 8.8–11.1% | 8.6–11.3% | 8.2–11.8% |
-| [13–19 February 2023](2023-02-19-Voxmeter.html) | Voxmeter | 8.6% | N/A | N/A | N/A | N/A |
-| [6–12 February 2023](2023-02-12-Voxmeter.html) | Voxmeter | 8.2% | N/A | N/A | N/A | N/A |
-| [30 January–5 February 2023](2023-02-05-Voxmeter.html) | Voxmeter | 9.0% | N/A | N/A | N/A | N/A |
-| [27 January–2 February 2023](2023-02-02-Gallup.html) | Gallup <br> Berlingske | 8.3% | 7.5–9.2% | 7.2–9.5% | 7.0–9.7% | 6.7–10.2% |
-| [23–29 January 2023](2023-01-29-Voxmeter.html) | Voxmeter | 8.3% | N/A | N/A | N/A | N/A |
-| [16–22 January 2023](2023-01-22-Voxmeter.html) | Voxmeter | 8.4% | N/A | N/A | N/A | N/A |
-| [9–15 January 2023](2023-01-15-Voxmeter.html) | Voxmeter | 7.0% | N/A | N/A | N/A | N/A |
-| [2–8 January 2023](2023-01-08-Voxmeter.html) | Voxmeter | 7.4% | 6.4–8.5% | 6.1–8.9% | 5.9–9.1% | 5.5–9.7% |
-| [19–22 December 2022](2022-12-22-Voxmeter.html) | Voxmeter | 8.7% | 7.6–9.9% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
-| [12–18 December 2022](2022-12-18-Voxmeter.html) | Voxmeter | 8.7% | 7.6–9.9% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
-| [12–18 December 2022](2022-12-18-Epinion.html) | Epinion <br> DR | 9.4% | 8.7–10.3% | 8.4–10.5% | 8.2–10.7% | 7.9–11.2% |
-| [5–11 December 2022](2022-12-11-Voxmeter.html) | Voxmeter | 8.4% | 7.3–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
-| [28–4 December 2022](2022-12-04-Voxmeter.html) | Voxmeter | 8.0% | N/A | N/A | N/A | N/A |
-| [25 November–1 December 2022](2022-12-01-Gallup.html) | Gallup <br> Berlingske | 7.5% | 6.7–8.4% | 6.5–8.7% | 6.3–8.9% | 5.9–9.4% |
-| [21–27 November 2022](2022-11-27-Voxmeter.html) | Voxmeter | 7.6% | 6.6–8.7% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
-| [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
-| [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 10.1% | 9.1–11.2% | 8.8–11.6% | 8.6–11.8% | 8.1–12.4% |
-| [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter | 6.9% | 6.4–7.4% | 6.3–7.6% | 6.2–7.7% | 6.0–7.9% |
-| [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 7.0% | 6.5–7.5% | 6.4–7.7% | 6.3–7.8% | 6.1–8.0% |
-| [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 8.8% | 7.7–10.0% | 7.4–10.4% | 7.2–10.7% | 6.7–11.3% |
-| [27 October 2022](2022-10-27-Epinion.html) | Epinion <br> DR | 8.6% | 7.5–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
-| [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 8.5% | 7.5–9.6% | 7.3–9.9% | 7.1–10.2% | 6.6–10.7% |
-| [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter | 8.1% | N/A | N/A | N/A | N/A |
-| [24 October 2022](2022-10-24-Gallup.html) | Gallup <br> Berlingske | 8.1% | N/A | N/A | N/A | N/A |
-| [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 6.8% | 5.8–8.0% | 5.6–8.3% | 5.3–8.6% | 4.9–9.2% |
-| [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 8.6% | 7.9–9.4% | 7.7–9.7% | 7.5–9.9% | 7.2–10.3% |
-| [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 8.3% | 7.4–9.3% | 7.1–9.6% | 6.9–9.9% | 6.5–10.4% |
-| [16–18 October 2022](2022-10-18-Voxmeter.html) | Voxmeter | 7.4% | 6.5–8.6% | 6.2–8.9% | 6.0–9.2% | 5.5–9.8% |
-| [18 October 2022](2022-10-18-Gallup.html) | Gallup <br> Berlingske | 5.9% | 5.3–6.6% | 5.1–6.8% | 4.9–7.0% | 4.6–7.4% |
-| [13–15 October 2022](2022-10-15-Voxmeter.html) | Voxmeter | 7.9% | N/A | N/A | N/A | N/A |
-| [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR | 8.0% | 7.4–8.7% | 7.2–8.9% | 7.0–9.1% | 6.7–9.5% |
-| [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.1–10.6% | 6.7–11.2% |
-| [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
-| [11 October 2022](2022-10-11-Yougov.html) | Yougov | 10.6% | 9.6–11.8% | 9.3–12.1% | 9.0–12.4% | 8.6–13.0% |
-| [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.5% |
-| [7 October 2022](2022-10-07-Yougov.html) | Yougov | 11.2% | N/A | N/A | N/A | N/A |
-| [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter | 7.9% | 7.0–9.1% | 6.7–9.4% | 6.5–9.7% | 6.1–10.3% |
-| [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske | 10.7% | 9.8–11.7% | 9.6–12.0% | 9.3–12.3% | 8.9–12.8% |
-| [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR | 10.3% | 9.5–11.3% | 9.2–11.5% | 9.0–11.8% | 8.6–12.2% |
-| [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
-| [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 9.8% | 8.9–10.8% | 8.6–11.1% | 8.4–11.3% | 8.0–11.8% |
-| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 9.1% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 7.0–11.6% |
-| [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 10.8% | 10.0–11.7% | 9.8–11.9% | 9.6–12.1% | 9.2–12.6% |
-| [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.6–11.3% | 7.1–11.9% |
-| [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter | 9.0% | N/A | N/A | N/A | N/A |
-| [29 August–4 September 2022](2022-09-04-Voxmeter.html) | Voxmeter | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.6–11.2% | 7.1–11.9% |
-| [2 September 2022](2022-09-02-Gallup.html) | Gallup <br> Berlingske | 10.2% | 9.1–11.5% | 8.7–11.9% | 8.5–12.2% | 8.0–12.9% |
-| [22–28 August 2022](2022-08-28-Voxmeter.html) | Voxmeter | 8.9% | 7.8–10.2% | 7.5–10.5% | 7.3–10.8% | 6.8–11.5% |
-| [16–24 August 2022](2022-08-24-Epinion.html) | Epinion <br> DR | 11.8% | 11.0–12.7% | 10.7–13.0% | 10.5–13.2% | 10.1–13.6% |
-| [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter | 9.3% | 8.2–10.5% | 7.9–10.9% | 7.7–11.2% | 7.2–11.8% |
-| [8–14 August 2022](2022-08-14-Voxmeter.html) | Voxmeter | 9.7% | 8.6–11.0% | 8.3–11.3% | 8.0–11.7% | 7.6–12.3% |
-| [7 August 2022](2022-08-07-Yougov.html) | Yougov | 11.9% | 10.8–13.2% | 10.5–13.5% | 10.2–13.8% | 9.7–14.4% |
-| [1–6 August 2022](2022-08-06-Voxmeter.html) | Voxmeter | 11.2% | N/A | N/A | N/A | N/A |
-| [5 August 2022](2022-08-05-Gallup.html) | Gallup <br> Berlingske | 10.2% | 9.3–11.2% | 9.0–11.6% | 8.8–11.8% | 8.4–12.3% |
-| [21–28 July 2022](2022-07-28-Epinion.html) | Epinion <br> DR | 10.8% | 10.0–11.8% | 9.7–12.1% | 9.5–12.4% | 9.1–12.9% |
+| N/A | [Poll Average](average.html) | 38.4% | 36.7–40.1% | 36.2–40.7% | 35.8–41.1% | 35.0–42.1% |
+| [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter | 38.8% | 36.9–40.7% | 36.4–41.3% | 35.9–41.7% | 35.0–42.7% |
+| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 38.3% | 36.4–40.2% | 35.8–40.8% | 35.4–41.3% | 34.5–42.2% |
+| [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter | 39.3% | N/A | N/A | N/A | N/A |
+| [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 38.3% | 36.8–39.8% | 36.4–40.3% | 36.1–40.6% | 35.4–41.4% |
+| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 38.2% | 36.8–39.7% | 36.4–40.1% | 36.0–40.5% | 35.3–41.2% |
+| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 40.9% | 38.9–42.9% | 38.4–43.5% | 37.9–44.0% | 37.0–45.0% |
+| [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 37.9% | N/A | N/A | N/A | N/A |
+| [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 39.2% | N/A | N/A | N/A | N/A |
+| [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter | 37.9% | N/A | N/A | N/A | N/A |
+| [31 May–6 June 2023](2023-06-06-Gallup.html) | Gallup <br> Berlingske | 37.4% | N/A | N/A | N/A | N/A |
+| [22–28 May 2023](2023-05-28-Voxmeter.html) | Voxmeter | 38.6% | N/A | N/A | N/A | N/A |
+| [15–21 May 2023](2023-05-21-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [8–14 May 2023](2023-05-14-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [1–7 May 2023](2023-05-07-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [10–17 April 2023](2023-04-17-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [7–13 April 2023](2023-04-13-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [3–10 April 2023](2023-04-10-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [27 March–3 April 2023](2023-04-03-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [20–26 March 2023](2023-03-26-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [13–19 March 2023](2023-03-19-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [10–13 March 2023](2023-03-13-YouGov.html) | YouGov <br> B.T. | 0.0% | N/A | N/A | N/A | N/A |
+| [6–12 March 2023](2023-03-12-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [27 February–5 March 2023](2023-03-05-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [20–26 February 2023](2023-02-26-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [14–20 February 2023](2023-02-20-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [13–19 February 2023](2023-02-19-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [6–12 February 2023](2023-02-12-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [30 January–5 February 2023](2023-02-05-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [27 January–2 February 2023](2023-02-02-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [23–29 January 2023](2023-01-29-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [16–22 January 2023](2023-01-22-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [9–15 January 2023](2023-01-15-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [2–8 January 2023](2023-01-08-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [19–22 December 2022](2022-12-22-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [12–18 December 2022](2022-12-18-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [12–18 December 2022](2022-12-18-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [5–11 December 2022](2022-12-11-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [28–4 December 2022](2022-12-04-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [25 November–1 December 2022](2022-12-01-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [21–27 November 2022](2022-11-27-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 0.0% | N/A | N/A | N/A | N/A |
+| [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [27 October 2022](2022-10-27-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 0.0% | N/A | N/A | N/A | N/A |
+| [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [24 October 2022](2022-10-24-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 October 2022](2022-10-18-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [18 October 2022](2022-10-18-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [13–15 October 2022](2022-10-15-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [11 October 2022](2022-10-11-Yougov.html) | Yougov | 0.0% | N/A | N/A | N/A | N/A |
+| [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [7 October 2022](2022-10-07-Yougov.html) | Yougov | 0.0% | N/A | N/A | N/A | N/A |
+| [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [29 August–4 September 2022](2022-09-04-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [2 September 2022](2022-09-02-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [22–28 August 2022](2022-08-28-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [16–24 August 2022](2022-08-24-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
+| [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [8–14 August 2022](2022-08-14-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [7 August 2022](2022-08-07-Yougov.html) | Yougov | 0.0% | N/A | N/A | N/A | N/A |
+| [1–6 August 2022](2022-08-06-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [5 August 2022](2022-08-05-Gallup.html) | Gallup <br> Berlingske | 0.0% | N/A | N/A | N/A | N/A |
+| [21–28 July 2022](2022-07-28-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
 | [27 June–3 July 2022](2022-07-03-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [13–19 June 2022](2022-06-19-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
@@ -320,7 +320,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Danmarksdemokraterne (NI).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Socialdemokraterne–Socialistisk Folkeparti–Alternativet (S&D).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -330,15 +330,45 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 4% | 99.8% |  |
-| 7.5–8.5% | 24% | 96% |  |
-| 8.5–9.5% | 43% | 72% | Median |
-| 9.5–10.5% | 22% | 29% |  |
-| 10.5–11.5% | 6% | 7% |  |
-| 11.5–12.5% | 1.1% | 1.2% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0% | 100% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 0% | 100% |  |
+| 28.5–29.5% | 0% | 100% |  |
+| 29.5–30.5% | 0% | 100% |  |
+| 30.5–31.5% | 0% | 100% |  |
+| 31.5–32.5% | 0% | 100% |  |
+| 32.5–33.5% | 0% | 100% |  |
+| 33.5–34.5% | 0.2% | 100% |  |
+| 34.5–35.5% | 1.3% | 99.8% |  |
+| 35.5–36.5% | 6% | 98% |  |
+| 36.5–37.5% | 18% | 92% |  |
+| 37.5–38.5% | 29% | 74% | Median |
+| 38.5–39.5% | 26% | 45% |  |
+| 39.5–40.5% | 13% | 19% |  |
+| 40.5–41.5% | 5% | 6% |  |
+| 41.5–42.5% | 1.1% | 1.3% |  |
+| 42.5–43.5% | 0.2% | 0.2% |  |
+| 43.5–44.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -349,91 +379,91 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
-| [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [5–11 June 2023](2023-06-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [31 May–6 June 2023](2023-06-06-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
-| [22–28 May 2023](2023-05-28-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–21 May 2023](2023-05-21-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22–28 May 2023](2023-05-28-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [15–21 May 2023](2023-05-21-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [8–14 May 2023](2023-05-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [1–7 May 2023](2023-05-07-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [24–30 April 2023](2023-04-30-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [19–26 April 2023](2023-04-26-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [17–23 April 2023](2023-04-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [10–17 April 2023](2023-04-17-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7–13 April 2023](2023-04-13-Gallup.html) | Gallup <br> Berlingske | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [3–10 April 2023](2023-04-10-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
+| [10–17 April 2023](2023-04-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [7–13 April 2023](2023-04-13-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
+| [3–10 April 2023](2023-04-10-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [27 March–3 April 2023](2023-04-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1–2 | 1–2 |
-| [20–26 March 2023](2023-03-26-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [13–19 March 2023](2023-03-19-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
-| [10–13 March 2023](2023-03-13-YouGov.html) | YouGov <br> B.T. | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22–28 March 2023](2023-03-28-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [20–26 March 2023](2023-03-26-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [13–19 March 2023](2023-03-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [10–13 March 2023](2023-03-13-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
 | [6–12 March 2023](2023-03-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [27 February–5 March 2023](2023-03-05-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [20–26 February 2023](2023-02-26-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
-| [14–20 February 2023](2023-02-20-Epinion.html) | Epinion <br> DR | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [20–26 February 2023](2023-02-26-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [14–20 February 2023](2023-02-20-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [13–19 February 2023](2023-02-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [6–12 February 2023](2023-02-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [30 January–5 February 2023](2023-02-05-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [27 January–2 February 2023](2023-02-02-Gallup.html) | Gallup <br> Berlingske | 1 | 1 | 1 | 1–2 | 1–2 |
+| [27 January–2 February 2023](2023-02-02-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
 | [23–29 January 2023](2023-01-29-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [16–22 January 2023](2023-01-22-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [9–15 January 2023](2023-01-15-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [2–8 January 2023](2023-01-08-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
-| [19–22 December 2022](2022-12-22-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
-| [12–18 December 2022](2022-12-18-Voxmeter.html) | Voxmeter | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [12–18 December 2022](2022-12-18-Epinion.html) | Epinion <br> DR | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [5–11 December 2022](2022-12-11-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [2–8 January 2023](2023-01-08-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [19–22 December 2022](2022-12-22-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [12–18 December 2022](2022-12-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [12–18 December 2022](2022-12-18-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [5–11 December 2022](2022-12-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [28–4 December 2022](2022-12-04-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [25 November–1 December 2022](2022-12-01-Gallup.html) | Gallup <br> Berlingske | 1 | 1 | 1 | 1–2 | 1–2 |
-| [21–27 November 2022](2022-11-27-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
-| [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1–2 | 1–2 |
-| [27–31 October 2022](2022-10-31-Yougov.html) | Yougov | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
-| [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske | 1 | 1 | 1 | 1 | 1 |
-| [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [27 October 2022](2022-10-27-Epinion.html) | Epinion <br> DR | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [21–25 October 2022](2022-10-25-Yougov.html) | Yougov | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [25 November–1 December 2022](2022-12-01-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
+| [21–27 November 2022](2022-11-27-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [7–13 November 2022](2022-11-13-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [27–31 October 2022](2022-10-31-Yougov.html) | Yougov |  |  |  |  |  |
+| [31 October 2022](2022-10-31-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [31 October 2022](2022-10-31-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
+| [25–27 October 2022](2022-10-27-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [27 October 2022](2022-10-27-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [21–25 October 2022](2022-10-25-Yougov.html) | Yougov |  |  |  |  |  |
 | [22–24 October 2022](2022-10-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [24 October 2022](2022-10-24-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
-| [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
-| [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1–2 |
-| [15–18 October 2022](2022-10-18-Yougov.html) | Yougov | 1 | 1 | 1 | 1 | 1–2 |
-| [16–18 October 2022](2022-10-18-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1 |
-| [18 October 2022](2022-10-18-Gallup.html) | Gallup <br> Berlingske | 1 | 1 | 1 | 1 | 1 |
+| [19–21 October 2022](2022-10-21-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [20 October 2022](2022-10-20-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [15–18 October 2022](2022-10-18-Yougov.html) | Yougov |  |  |  |  |  |
+| [16–18 October 2022](2022-10-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [18 October 2022](2022-10-18-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
 | [13–15 October 2022](2022-10-15-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
-| [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske | 1 | 1 | 1 | 1 | 1 |
-| [11 October 2022](2022-10-11-Yougov.html) | Yougov | 2 | 2 | 2 | 2 | 2 |
-| [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13 October 2022](2022-10-13-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [10–12 October 2022](2022-10-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [12 October 2022](2022-10-12-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
+| [11 October 2022](2022-10-11-Yougov.html) | Yougov |  |  |  |  |  |
+| [7–9 October 2022](2022-10-09-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [7 October 2022](2022-10-07-Yougov.html) | Yougov |  |  |  |  |  |
-| [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
-| [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2 | 1–2 | 1–2 |
-| [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 1–2 |
-| [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [3–6 October 2022](2022-10-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [6 October 2022](2022-10-06-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
+| [5 October 2022](2022-10-05-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [26 September–2 October 2022](2022-10-02-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [2 October 2022](2022-10-02-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
+| [19–25 September 2022](2022-09-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [13–20 September 2022](2022-09-20-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [12–18 September 2022](2022-09-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [5–11 September 2022](2022-09-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [29 August–4 September 2022](2022-09-04-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [2 September 2022](2022-09-02-Gallup.html) | Gallup <br> Berlingske | 2 | 2 | 2 | 2 | 1–2 |
-| [22–28 August 2022](2022-08-28-Voxmeter.html) | Voxmeter | 1 | 1 | 1 | 1 | 1–2 |
-| [16–24 August 2022](2022-08-24-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2 |
-| [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [8–14 August 2022](2022-08-14-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7 August 2022](2022-08-07-Yougov.html) | Yougov | 2 | 2 | 2 | 2 | 2 |
+| [29 August–4 September 2022](2022-09-04-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [2 September 2022](2022-09-02-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
+| [22–28 August 2022](2022-08-28-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [16–24 August 2022](2022-08-24-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [15–21 August 2022](2022-08-21-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [8–14 August 2022](2022-08-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [7 August 2022](2022-08-07-Yougov.html) | Yougov |  |  |  |  |  |
 | [1–6 August 2022](2022-08-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [5 August 2022](2022-08-05-Gallup.html) | Gallup <br> Berlingske | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [21–28 July 2022](2022-07-28-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2 |
+| [5 August 2022](2022-08-05-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
+| [21–28 July 2022](2022-07-28-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [27 June–3 July 2022](2022-07-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [20–26 June 2022](2022-06-26-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [13–19 June 2022](2022-06-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -659,15 +689,22 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-danmarksdemokraterneni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-socialdemokraterne–socialistiskfolkeparti–alternativetsd.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Danmarksdemokraterne (NI).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Socialdemokraterne–Socialistisk Folkeparti–Alternativet (S&D).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 79% | 100% | Median |
-| 2 | 21% | 21% |  |
-| 3 | 0% | 0% |  |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 4% | 100% |  |
+| 7 | 64% | 96% | Median |
+| 8 | 32% | 32% | Majority |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 
