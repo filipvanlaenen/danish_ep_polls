@@ -19,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 0.0% | N/A | N/A | N/A | N/A |
 | [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
-| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 0.5% | N/A | N/A | N/A | N/A |
+| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.3–0.9% | 0.2–1.1% |
 | [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
@@ -350,7 +350,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
 | [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
-| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
+| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |

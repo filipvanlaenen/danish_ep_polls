@@ -10,16 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.3–2.8% | 1.2–3.1% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.7% |
 | [3 October 2023](2023-10-03-Gallup.html) | Gallup <br> Berlingske | 1.9% | 1.5–2.4% | 1.4–2.5% | 1.4–2.6% | 1.2–2.9% |
 | [25 September–1 October 2023](2023-10-01-Voxmeter.html) | Voxmeter | 1.9% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [22–29 September 2023](2023-09-29-Epinion.html) | Epinion <br> DR | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
-| [18–24 September 2023](2023-09-24-Voxmeter.html) | Voxmeter | 1.8% | N/A | N/A | N/A | N/A |
+| [18–24 September 2023](2023-09-24-Voxmeter.html) | Voxmeter | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter | 2.7% | N/A | N/A | N/A | N/A |
-| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 2.5% | N/A | N/A | N/A | N/A |
+| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
 | [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter | 3.0% | N/A | N/A | N/A | N/A |
 | [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 3.1% | N/A | N/A | N/A | N/A |
-| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 2.6% | N/A | N/A | N/A | N/A |
+| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 2.6% | 2.2–3.2% | 2.1–3.3% | 2.0–3.4% | 1.8–3.7% |
 | [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 2.6% | N/A | N/A | N/A | N/A |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 2.2% | N/A | N/A | N/A | N/A |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 2.0% | N/A | N/A | N/A | N/A |
@@ -329,10 +329,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 83% | 90% | Median |
-| 2.5–3.5% | 7% | 7% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 7% | 100% |  |
+| 1.5–2.5% | 75% | 93% | Median |
+| 2.5–3.5% | 17% | 18% |  |
+| 3.5–4.5% | 0.8% | 0.8% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -348,12 +348,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3 October 2023](2023-10-03-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [25 September–1 October 2023](2023-10-01-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [22–29 September 2023](2023-09-29-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
-| [18–24 September 2023](2023-09-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [18–24 September 2023](2023-09-24-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 0 | 0 | 0 | 0 | 0 |
 | [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
-| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
+| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |

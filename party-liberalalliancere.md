@@ -10,16 +10,16 @@ Last result: **2.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.7% | 10.6–13.1% | 10.4–13.5% | 10.1–13.9% | 9.7–14.7% |
+| N/A | [Poll Average](average.html) | 11.4% | 9.7–12.9% | 9.3–13.3% | 8.9–13.8% | 8.2–14.6% |
 | [3 October 2023](2023-10-03-Gallup.html) | Gallup <br> Berlingske | 11.2% | 10.3–12.2% | 10.1–12.5% | 9.8–12.8% | 9.4–13.3% |
 | [25 September–1 October 2023](2023-10-01-Voxmeter.html) | Voxmeter | 12.3% | 11.1–13.7% | 10.8–14.1% | 10.5–14.5% | 9.9–15.2% |
 | [22–29 September 2023](2023-09-29-Epinion.html) | Epinion <br> DR | 11.7% | 10.9–12.6% | 10.6–12.9% | 10.4–13.1% | 10.0–13.6% |
-| [18–24 September 2023](2023-09-24-Voxmeter.html) | Voxmeter | 13.1% | N/A | N/A | N/A | N/A |
+| [18–24 September 2023](2023-09-24-Voxmeter.html) | Voxmeter | 13.1% | 11.9–14.6% | 11.5–15.0% | 11.2–15.4% | 10.6–16.1% |
 | [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter | 12.9% | N/A | N/A | N/A | N/A |
-| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 10.0% | N/A | N/A | N/A | N/A |
+| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 10.0% | 8.9–11.2% | 8.6–11.6% | 8.3–11.9% | 7.8–12.6% |
 | [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter | 10.9% | N/A | N/A | N/A | N/A |
 | [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR | 10.9% | N/A | N/A | N/A | N/A |
-| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 8.5% | N/A | N/A | N/A | N/A |
+| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 8.5% | 7.7–9.4% | 7.5–9.7% | 7.3–9.9% | 7.0–10.3% |
 | [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter | 10.6% | N/A | N/A | N/A | N/A |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter | 10.4% | N/A | N/A | N/A | N/A |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter | 11.2% | N/A | N/A | N/A | N/A |
@@ -333,15 +333,15 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.3% | 100% |  |
-| 9.5–10.5% | 8% | 99.7% |  |
-| 10.5–11.5% | 34% | 92% |  |
-| 11.5–12.5% | 38% | 58% | Median |
-| 12.5–13.5% | 16% | 20% |  |
-| 13.5–14.5% | 4% | 5% |  |
-| 14.5–15.5% | 0.7% | 0.7% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 1.1% | 100% |  |
+| 8.5–9.5% | 7% | 98.8% |  |
+| 9.5–10.5% | 16% | 92% |  |
+| 10.5–11.5% | 31% | 76% | Median |
+| 11.5–12.5% | 29% | 45% |  |
+| 12.5–13.5% | 12% | 15% |  |
+| 13.5–14.5% | 3% | 4% |  |
+| 14.5–15.5% | 0.5% | 0.6% |  |
+| 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -357,12 +357,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3 October 2023](2023-10-03-Gallup.html) | Gallup <br> Berlingske | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25 September–1 October 2023](2023-10-01-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–3 |
 | [22–29 September 2023](2023-09-29-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2 |
-| [18–24 September 2023](2023-09-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [18–24 September 2023](2023-09-24-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. |  |  |  |  |  |
+| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
-| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske |  |  |  |  |  |
+| [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 1 | 1 | 1 | 1–2 | 1–2 |
 | [31 July–7 August 2023](2023-08-07-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [19–25 June 2023](2023-06-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [12–18 June 2023](2023-06-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -674,9 +674,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 12% | 100% |  |
-| 2 | 88% | 88% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 1 | 20% | 100% |  |
+| 2 | 80% | 80% | Median |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 
