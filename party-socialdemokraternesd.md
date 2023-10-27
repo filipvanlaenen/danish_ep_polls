@@ -350,13 +350,13 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3 October 2023](2023-10-03-Gallup.html) | Gallup <br> Berlingske | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [25 September–1 October 2023](2023-10-01-Voxmeter.html) | Voxmeter | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [25 September–1 October 2023](2023-10-01-Voxmeter.html) | Voxmeter | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [22–29 September 2023](2023-09-29-Epinion.html) | Epinion <br> DR | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [18–24 September 2023](2023-09-24-Voxmeter.html) | Voxmeter | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [18–24 September 2023](2023-09-24-Voxmeter.html) | Voxmeter | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [11–17 September 2023](2023-09-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [7–11 September 2023](2023-09-11-YouGov.html) | YouGov <br> B.T. | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [28 August–3 September 2023](2023-09-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [14–23 August 2023](2023-08-23-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [16–22 August 2023](2023-08-22-Gallup.html) | Gallup <br> Berlingske | 5 | 5 | 4–5 | 4–5 | 4–5 |
@@ -670,10 +670,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% | Last Result |
-| 4 | 40% | 100% |  |
-| 5 | 59% | 60% | Median |
-| 6 | 0.6% | 0.6% |  |
+| 3 | 0.1% | 100% | Last Result |
+| 4 | 42% | 99.9% |  |
+| 5 | 58% | 58% | Median |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 
