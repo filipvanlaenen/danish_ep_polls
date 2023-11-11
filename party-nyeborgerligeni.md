@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.2% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.7% |
+| [30 October–5 November 2023](2023-11-05-Voxmeter.html) | Voxmeter | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.7% |
 | [3 October 2023](2023-10-03-Gallup.html) | Gallup <br> Berlingske | 2.3% | 1.9–2.8% | 1.8–3.0% | 1.7–3.1% | 1.5–3.4% |
 | [25 September–1 October 2023](2023-10-01-Voxmeter.html) | Voxmeter | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
 | [22–29 September 2023](2023-09-29-Epinion.html) | Epinion <br> DR | 2.7% | 2.3–3.2% | 2.2–3.4% | 2.1–3.5% | 1.9–3.7% |
@@ -329,12 +330,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 41% | 99.7% |  |
-| 2.5–3.5% | 54% | 59% | Median |
-| 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 65% | 97% | Median |
+| 2.5–3.5% | 31% | 32% |  |
+| 3.5–4.5% | 1.2% | 1.2% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -346,6 +346,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30 October–5 November 2023](2023-11-05-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [3 October 2023](2023-10-03-Gallup.html) | Gallup <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [25 September–1 October 2023](2023-10-01-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [22–29 September 2023](2023-09-29-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
