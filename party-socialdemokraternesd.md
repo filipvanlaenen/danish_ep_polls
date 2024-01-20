@@ -10,7 +10,8 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.8% | 18.4–21.4% | 18.1–21.8% | 17.7–22.3% | 17.1–23.1% |
+| N/A | [Poll Average](average.html) | 22.2% | 20.5–23.9% | 20.1–24.4% | 19.7–24.8% | 19.0–25.7% |
+| [8–14 January 2024](2024-01-14-Voxmeter.html) | Voxmeter | 22.1% | 20.5–23.9% | 20.1–24.4% | 19.7–24.8% | 18.9–25.7% |
 | [18–22 December 2023](2023-12-22-Voxmeter.html) | Voxmeter | 20.1% | 18.5–21.7% | 18.1–22.2% | 17.7–22.6% | 17.0–23.5% |
 | [11–17 December 2023](2023-12-17-Voxmeter.html) | Voxmeter | 21.3% | 19.7–23.0% | 19.3–23.5% | 18.9–23.9% | 18.1–24.8% |
 | [6–13 December 2023](2023-12-13-Epinion.html) | Epinion <br> DR | 19.6% | 18.4–20.9% | 18.1–21.3% | 17.8–21.6% | 17.2–22.2% |
@@ -337,17 +338,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 1.5% | 99.9% |  |
-| 17.5–18.5% | 10% | 98% |  |
-| 18.5–19.5% | 28% | 88% | Last Result |
-| 19.5–20.5% | 33% | 60% | Median |
-| 20.5–21.5% | 19% | 27% |  |
-| 21.5–22.5% | 6% | 8% |  |
-| 22.5–23.5% | 1.3% | 2% |  |
-| 23.5–24.5% | 0.2% | 0.2% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.2% | 100% |  |
+| 18.5–19.5% | 2% | 99.8% | Last Result |
+| 19.5–20.5% | 8% | 98% |  |
+| 20.5–21.5% | 21% | 90% |  |
+| 21.5–22.5% | 30% | 69% | Median |
+| 22.5–23.5% | 24% | 39% |  |
+| 23.5–24.5% | 11% | 15% |  |
+| 24.5–25.5% | 3% | 4% |  |
+| 25.5–26.5% | 0.6% | 0.6% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -358,7 +360,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [8–14 January 2024](2024-01-14-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18–22 December 2023](2023-12-22-Voxmeter.html) | Voxmeter | 4 | 4 | 4 | 4–5 | 3–5 |
 | [11–17 December 2023](2023-12-17-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [6–13 December 2023](2023-12-13-Epinion.html) | Epinion <br> DR | 4 | 4 | 4 | 4 | 3–5 |
@@ -687,9 +690,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 2% | 100% | Last Result |
-| 4 | 96% | 98% | Median |
-| 5 | 2% | 2% |  |
+| 3 | 0.2% | 100% | Last Result |
+| 4 | 71% | 99.8% | Median |
+| 5 | 29% | 29% |  |
 | 6 | 0% | 0% |  |
 
 
