@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 5 Aug 2023 14:48:45 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Voxmeter, 8–14 January 2024 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 8–14 January 2024<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter-seating-plan.png" length="375956" type="image/png"/>
+      <pubDate>Sat, 20 Jan 2024 20:10:56 +0100</pubDate>
+      <dc:date>2024-01-20T20:10:56.145580211+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 8–14 January 2024 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 8–14 January 2024<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter-seats.png" length="299334" type="image/png"/>
+      <pubDate>Sat, 20 Jan 2024 20:10:56 +0100</pubDate>
+      <dc:date>2024-01-20T20:10:56.145580211+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 8–14 January 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 8–14 January 2024<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-01-14-Voxmeter.png" length="384155" type="image/png"/>
+      <pubDate>Sat, 20 Jan 2024 20:10:56 +0100</pubDate>
+      <dc:date>2024-01-20T20:10:56.145580211+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter, 18–22 December 2023 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2023-12-22-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 18–22 December 2023<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2023-12-22-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2023-12-22-Voxmeter-seating-plan.png"/>]]></description>
@@ -124,30 +148,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2023-11-15-Epinion.png" length="364491" type="image/png"/>
       <pubDate>Fri, 24 Nov 2023 19:02:02 +0100</pubDate>
       <dc:date>2023-11-24T19:02:02.701779071+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup for Berlingske, 3 October 2023 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Gallup for Berlingske, 3 October 2023<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup-seating-plan.png" length="369425" type="image/png"/>
-      <pubDate>Fri, 24 Nov 2023 21:53:54 +0100</pubDate>
-      <dc:date>2023-11-24T21:53:54.010885934+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup for Berlingske, 3 October 2023 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Gallup for Berlingske, 3 October 2023<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup-seats.png" length="307897" type="image/png"/>
-      <pubDate>Fri, 24 Nov 2023 21:53:54 +0100</pubDate>
-      <dc:date>2023-11-24T21:53:54.010885934+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Gallup for Berlingske, 3 October 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Gallup for Berlingske, 3 October 2023<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2023-10-03-Gallup.png" length="383791" type="image/png"/>
-      <pubDate>Fri, 24 Nov 2023 21:53:54 +0100</pubDate>
-      <dc:date>2023-11-24T21:53:54.010885934+01:00</dc:date>
     </item>
   </channel>
 </rss>
