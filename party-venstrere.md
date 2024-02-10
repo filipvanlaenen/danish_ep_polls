@@ -10,12 +10,8 @@ Last result: **16.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.5% | 8.5–10.5% | 8.2–10.8% | 8.0–11.1% | 7.5–11.8% |
-| [29 January–5 February 2024](2024-02-05-Voxmeter.html) | Voxmeter | 9.4% | 8.4–10.7% | 8.0–11.1% | 7.8–11.4% | 7.3–12.1% |
-| [24–31 January 2024](2024-01-31-Epinion.html) | Epinion | 9.4% | 8.6–10.3% | 8.4–10.5% | 8.2–10.7% | 7.9–11.1% |
-| [22–28 January 2024](2024-01-28-Voxmeter.html) | Voxmeter | 11.1% | 9.9–12.5% | 9.6–12.8% | 9.3–13.2% | 8.8–13.9% |
-| [14–21 January 2024](2024-01-21-Voxmeter.html) | Voxmeter | 10.0% | 8.9–11.4% | 8.6–11.7% | 8.3–12.1% | 7.8–12.7% |
-| [8–14 January 2024](2024-01-14-Voxmeter.html) | Voxmeter | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 9.0–14.1% |
+| N/A | [Poll Average](average.html) | 11.1% | 9.9–12.4% | 9.6–12.7% | 9.3–13.1% | 8.8–13.7% |
+| [24–31 January 2024](2024-01-31-Epinion.html) | Epinion <br> Altinget and DR | 11.0% | 9.9–12.4% | 9.6–12.8% | 9.3–13.1% | 8.7–13.7% |
 | [18–22 December 2023](2023-12-22-Voxmeter.html) | Voxmeter | 10.5% | 9.4–11.9% | 9.1–12.2% | 8.8–12.6% | 8.3–13.2% |
 | [11–17 December 2023](2023-12-17-Voxmeter.html) | Voxmeter | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 9.0–14.1% |
 | [6–13 December 2023](2023-12-13-Epinion.html) | Epinion <br> DR | 8.1% | 7.3–9.0% | 7.1–9.3% | 6.9–9.5% | 6.5–10.0% |
@@ -342,15 +338,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.6% | 100% |  |
-| 7.5–8.5% | 10% | 99.4% |  |
-| 8.5–9.5% | 44% | 89% | Median |
-| 9.5–10.5% | 36% | 45% |  |
-| 10.5–11.5% | 8% | 9% |  |
-| 11.5–12.5% | 0.9% | 0.9% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.2% | 100% |  |
+| 8.5–9.5% | 5% | 99.8% |  |
+| 9.5–10.5% | 24% | 95% |  |
+| 10.5–11.5% | 40% | 71% | Median |
+| 11.5–12.5% | 24% | 32% |  |
+| 12.5–13.5% | 6% | 7% |  |
+| 13.5–14.5% | 0.8% | 0.8% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
@@ -364,12 +359,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [29 January–5 February 2024](2024-02-05-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [24–31 January 2024](2024-01-31-Epinion.html) | Epinion | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [22–28 January 2024](2024-01-28-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| [14–21 January 2024](2024-01-21-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [8–14 January 2024](2024-01-14-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–2 |
+| [24–31 January 2024](2024-01-31-Epinion.html) | Epinion <br> Altinget and DR | 2 | 2 | 2 | 2 | 1–2 |
 | [18–22 December 2023](2023-12-22-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 1–2 | 1–2 |
 | [11–17 December 2023](2023-12-17-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–13 December 2023](2023-12-13-Epinion.html) | Epinion <br> DR | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -698,8 +689,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 18% | 100% |  |
-| 2 | 82% | 82% | Last Result, Median |
-| 3 | 0% | 0% |  |
+| 1 | 2% | 100% |  |
+| 2 | 98% | 98% | Last Result, Median |
+| 3 | 0.4% | 0.4% |  |
+| 4 | 0% | 0% |  |
 
 
