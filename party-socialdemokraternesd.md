@@ -368,7 +368,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [6–13 March 2024](2024-03-13-Epinion.html) | Epinion <br> Altinget and DR | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [24–31 January 2024](2024-01-31-Epinion.html) | Epinion <br> Altinget and DR | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| [18–22 December 2023](2023-12-22-Voxmeter.html) | Voxmeter | 4 | 4 | 4 | 3–4 | 3–5 |
+| [18–22 December 2023](2023-12-22-Voxmeter.html) | Voxmeter | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [11–17 December 2023](2023-12-17-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [6–13 December 2023](2023-12-13-Epinion.html) | Epinion <br> DR | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4–10 December 2023](2023-12-10-Voxmeter.html) | Voxmeter |  |  |  |  |  |
