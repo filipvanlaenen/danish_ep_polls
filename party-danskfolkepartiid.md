@@ -400,7 +400,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [1–7 April 2024](2024-04-07-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [25–31 March 2024](2024-03-31-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [18–25 March 2024](2024-03-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [24 March 2024](2024-03-24-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0–1 | 0–1 |
+| [24 March 2024](2024-03-24-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0–1 |
 | [11–17 March 2024](2024-03-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [6–13 March 2024](2024-03-13-Epinion.html) | Epinion <br> Altinget and DR | 1 | 1 | 1 | 0–1 | 0–1 |
 | [4–10 March 2024](2024-03-10-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -743,8 +743,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Median |
-| 1 | 1.3% | 1.3% |  |
+| 0 | 99.4% | 100% | Median |
+| 1 | 0.6% | 0.6% |  |
 | 2 | 0% | 0% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% | Last Result |

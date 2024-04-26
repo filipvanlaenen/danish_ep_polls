@@ -379,13 +379,13 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–5 | 3–5 |
 | [15–21 April 2024](2024-04-21-Voxmeter.html) | Voxmeter | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [8–14 April 2024](2024-04-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [1–7 April 2024](2024-04-07-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [25–31 March 2024](2024-03-31-Voxmeter.html) | Voxmeter | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [18–25 March 2024](2024-03-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [24 March 2024](2024-03-24-Verian.html) | Verian <br> Berlingske | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [24 March 2024](2024-03-24-Verian.html) | Verian <br> Berlingske | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [11–17 March 2024](2024-03-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [6–13 March 2024](2024-03-13-Epinion.html) | Epinion <br> Altinget and DR | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–10 March 2024](2024-03-10-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -728,9 +728,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 8% | 100% | Last Result |
-| 4 | 87% | 92% | Median |
-| 5 | 5% | 5% |  |
+| 3 | 5% | 100% | Last Result |
+| 4 | 91% | 95% | Median |
+| 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
 
 
