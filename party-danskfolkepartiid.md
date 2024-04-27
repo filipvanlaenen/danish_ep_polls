@@ -408,7 +408,7 @@ Last result: **4** seats (General Election of 26 May 2019)
 | [25 February–2 March 2024](2024-03-02-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [19–25 February 2024](2024-02-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [12–18 February 2024](2024-02-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [15 February 2024](2024-02-15-Kantar.html) | Kantar <br> Berlingske | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [15 February 2024](2024-02-15-Kantar.html) | Kantar <br> Berlingske | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–11 February 2024](2024-02-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [29 January–5 February 2024](2024-02-05-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-Epinion.html) | Epinion <br> Altinget and DR | 1 | 1 | 1 | 1 | 0–1 |
