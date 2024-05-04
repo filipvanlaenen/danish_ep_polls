@@ -10,19 +10,11 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.9% | 19.3–23.0% | 19.0–23.6% | 18.7–24.1% | 18.1–25.0% |
-| [15–21 April 2024](2024-04-21-Voxmeter.html) | Voxmeter | 21.8% | 20.2–23.6% | 19.8–24.1% | 19.4–24.5% | 18.6–25.4% |
-| [8–14 April 2024](2024-04-14-Voxmeter.html) | Voxmeter | 23.2% | N/A | N/A | N/A | N/A |
-| [1–7 April 2024](2024-04-07-Voxmeter.html) | Voxmeter | 22.1% | N/A | N/A | N/A | N/A |
-| [25–31 March 2024](2024-03-31-Voxmeter.html) | Voxmeter | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
-| [18–25 March 2024](2024-03-25-Voxmeter.html) | Voxmeter | 19.6% | N/A | N/A | N/A | N/A |
-| [24 March 2024](2024-03-24-Verian.html) | Verian <br> Berlingske | 20.2% | 19.0–21.4% | 18.7–21.7% | 18.4–22.0% | 17.9–22.6% |
-| [11–17 March 2024](2024-03-17-Voxmeter.html) | Voxmeter | 20.3% | N/A | N/A | N/A | N/A |
-| [6–13 March 2024](2024-03-13-Epinion.html) | Epinion <br> Altinget and DR | 24.0% | 22.4–25.7% | 21.9–26.2% | 21.5–26.7% | 20.8–27.5% |
-| [4–10 March 2024](2024-03-10-Voxmeter.html) | Voxmeter | 21.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 20.1% | 19.0–21.3% | 18.6–21.7% | 18.4–21.9% | 17.9–22.5% |
+| [23–29 April 2024](2024-04-29-Epinion.html) | Epinion <br> DR | 20.1% | 19.0–21.3% | 18.6–21.7% | 18.4–21.9% | 17.8–22.5% |
+| [6–13 March 2024](2024-03-13-Epinion.html) | Epinion <br> Altinget and DR | 24.0% | N/A | N/A | N/A | N/A |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
-| [25 February–2 March 2024](2024-03-02-Voxmeter.html) | Voxmeter | 21.4% | N/A | N/A | N/A | N/A |
-| [19–25 February 2024](2024-02-25-Voxmeter.html) | Voxmeter | 22.2% | N/A | N/A | N/A | N/A |
+| [19–25 February 2024](2024-02-25-Voxmeter.html) | Voxmeter | 22.2% | 20.6–23.9% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
 | [12–18 February 2024](2024-02-18-Voxmeter.html) | Voxmeter | 22.9% | N/A | N/A | N/A | N/A |
 | [15 February 2024](2024-02-15-Kantar.html) | Kantar <br> Berlingske | 21.7% | 20.5–22.9% | 20.2–23.2% | 19.9–23.5% | 19.3–24.1% |
 | [5–11 February 2024](2024-02-11-Voxmeter.html) | Voxmeter | 21.5% | N/A | N/A | N/A | N/A |
@@ -358,17 +350,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 2% | 99.9% |  |
-| 18.5–19.5% | 12% | 98% | Last Result |
-| 19.5–20.5% | 27% | 86% |  |
-| 20.5–21.5% | 26% | 60% | Median |
-| 21.5–22.5% | 18% | 33% |  |
-| 22.5–23.5% | 10% | 15% |  |
-| 23.5–24.5% | 4% | 5% |  |
-| 24.5–25.5% | 1.0% | 1.1% |  |
-| 25.5–26.5% | 0.2% | 0.2% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.2% | 100% |  |
+| 17.5–18.5% | 4% | 99.8% |  |
+| 18.5–19.5% | 23% | 96% | Last Result |
+| 19.5–20.5% | 41% | 74% | Median |
+| 20.5–21.5% | 26% | 32% |  |
+| 21.5–22.5% | 6% | 6% |  |
+| 22.5–23.5% | 0.4% | 0.5% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -379,19 +368,11 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–5 | 3–5 |
-| [15–21 April 2024](2024-04-21-Voxmeter.html) | Voxmeter | 4 | 4 | 4–5 | 3–5 | 3–5 |
-| [8–14 April 2024](2024-04-14-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [1–7 April 2024](2024-04-07-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [25–31 March 2024](2024-03-31-Voxmeter.html) | Voxmeter | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [18–25 March 2024](2024-03-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [24 March 2024](2024-03-24-Verian.html) | Verian <br> Berlingske | 4 | 4 | 3–4 | 3–4 | 3–4 |
-| [11–17 March 2024](2024-03-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [6–13 March 2024](2024-03-13-Epinion.html) | Epinion <br> Altinget and DR | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [4–10 March 2024](2024-03-10-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [23–29 April 2024](2024-04-29-Epinion.html) | Epinion <br> DR | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [6–13 March 2024](2024-03-13-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| [25 February–2 March 2024](2024-03-02-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [19–25 February 2024](2024-02-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [19–25 February 2024](2024-02-25-Voxmeter.html) | Voxmeter | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [12–18 February 2024](2024-02-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [15 February 2024](2024-02-15-Kantar.html) | Kantar <br> Berlingske | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [5–11 February 2024](2024-02-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -728,9 +709,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 5% | 100% | Last Result |
-| 4 | 91% | 95% | Median |
-| 5 | 4% | 4% |  |
-| 6 | 0% | 0% |  |
+| 3 | 12% | 100% | Last Result |
+| 4 | 88% | 88% | Median |
+| 5 | 0% | 0% |  |
 
 
