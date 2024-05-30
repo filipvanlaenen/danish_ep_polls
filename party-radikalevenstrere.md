@@ -370,7 +370,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–14 May 2024](2024-05-14-Verian.html) | Verian <br> Berlingske | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–14 May 2024](2024-05-14-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 0–1 | 0–1 |
+| [8–14 May 2024](2024-05-14-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 0–1 |
 | [23–29 April 2024](2024-04-29-Epinion.html) | Epinion <br> DR | 1 | 1 | 1 | 1 | 1 |
 | [6–13 March 2024](2024-03-13-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1 | 1 | 1 | 0–1 |
@@ -711,8 +711,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 86% | 86% | Last Result, Median |
+| 0 | 15% | 100% |  |
+| 1 | 85% | 85% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
