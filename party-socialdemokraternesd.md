@@ -10,7 +10,9 @@ Last result: **19.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.1% | 19.0–21.3% | 18.6–21.7% | 18.4–21.9% | 17.9–22.5% |
+| N/A | [Poll Average](average.html) | 20.1% | 17.8–22.2% | 17.4–22.6% | 17.0–22.9% | 16.4–23.6% |
+| [8–14 May 2024](2024-05-14-Verian.html) | Verian <br> Berlingske | 18.6% | 17.4–19.9% | 17.0–20.3% | 16.7–20.6% | 16.2–21.2% |
+| [8–14 May 2024](2024-05-14-Epinion.html) | Epinion <br> DR | 21.4% | 20.2–22.6% | 19.9–22.9% | 19.6–23.2% | 19.1–23.8% |
 | [23–29 April 2024](2024-04-29-Epinion.html) | Epinion <br> DR | 20.1% | 19.0–21.3% | 18.6–21.7% | 18.4–21.9% | 17.8–22.5% |
 | [6–13 March 2024](2024-03-13-Epinion.html) | Epinion <br> Altinget and DR | 24.0% | N/A | N/A | N/A | N/A |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
@@ -349,15 +351,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 4% | 99.8% |  |
-| 18.5–19.5% | 23% | 96% | Last Result |
-| 19.5–20.5% | 41% | 74% | Median |
-| 20.5–21.5% | 26% | 32% |  |
-| 21.5–22.5% | 6% | 6% |  |
-| 22.5–23.5% | 0.4% | 0.5% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.7% | 100% |  |
+| 16.5–17.5% | 6% | 99.2% |  |
+| 17.5–18.5% | 17% | 93% |  |
+| 18.5–19.5% | 19% | 76% | Last Result |
+| 19.5–20.5% | 15% | 58% | Median |
+| 20.5–21.5% | 21% | 43% |  |
+| 21.5–22.5% | 17% | 22% |  |
+| 22.5–23.5% | 5% | 5% |  |
+| 23.5–24.5% | 0.5% | 0.5% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -368,7 +372,9 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [8–14 May 2024](2024-05-14-Verian.html) | Verian <br> Berlingske | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [8–14 May 2024](2024-05-14-Epinion.html) | Epinion <br> DR | 4 | 4 | 4 | 4 | 3–5 |
 | [23–29 April 2024](2024-04-29-Epinion.html) | Epinion <br> DR | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–13 March 2024](2024-03-13-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4 | 4 | 3–4 | 3–4 | 3–5 |
@@ -709,8 +715,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 12% | 100% | Last Result |
-| 4 | 88% | 88% | Median |
-| 5 | 0% | 0% |  |
+| 3 | 23% | 100% | Last Result |
+| 4 | 76% | 77% | Median |
+| 5 | 0.9% | 0.9% |  |
+| 6 | 0% | 0% |  |
 
 
