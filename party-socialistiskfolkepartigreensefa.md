@@ -10,7 +10,8 @@ Last result: **10.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.5% | 12.4–14.8% | 12.1–15.2% | 11.9–15.5% | 11.4–16.1% |
+| N/A | [Poll Average](average.html) | 16.6% | 15.6–17.7% | 15.3–18.0% | 15.1–18.3% | 14.6–18.8% |
+| [28 May–3 June 2024](2024-06-03-Epinion.html) | Epinion <br> Altinget and DR | 16.6% | 15.6–17.7% | 15.3–18.0% | 15.1–18.3% | 14.6–18.8% |
 | [8–14 May 2024](2024-05-14-Verian.html) | Verian <br> Berlingske | 14.0% | 12.9–15.2% | 12.6–15.5% | 12.4–15.8% | 11.9–16.4% |
 | [8–14 May 2024](2024-05-14-Epinion.html) | Epinion <br> DR | 13.1% | 12.2–14.1% | 11.9–14.4% | 11.7–14.6% | 11.2–15.1% |
 | [23–29 April 2024](2024-04-29-Epinion.html) | Epinion <br> DR | 14.6% | 13.6–15.7% | 13.3–16.0% | 13.1–16.2% | 12.6–16.8% |
@@ -351,15 +352,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.8% | 100% | Last Result |
-| 11.5–12.5% | 12% | 99.1% |  |
-| 12.5–13.5% | 37% | 87% |  |
-| 13.5–14.5% | 34% | 49% | Median |
-| 14.5–15.5% | 13% | 15% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 100% | Last Result |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.4% | 100% |  |
+| 14.5–15.5% | 9% | 99.6% |  |
+| 15.5–16.5% | 38% | 91% |  |
+| 16.5–17.5% | 40% | 53% | Median |
+| 17.5–18.5% | 12% | 13% |  |
+| 18.5–19.5% | 1.0% | 1.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -370,7 +372,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3–4 | 3–4 |
+| [28 May–3 June 2024](2024-06-03-Epinion.html) | Epinion <br> Altinget and DR | 3 | 3 | 3 | 3–4 | 3–4 |
 | [8–14 May 2024](2024-05-14-Verian.html) | Verian <br> Berlingske | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–14 May 2024](2024-05-14-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2–3 |
 | [23–29 April 2024](2024-04-29-Epinion.html) | Epinion <br> DR | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -714,8 +717,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 91% | 100% | Median |
-| 3 | 9% | 9% |  |
-| 4 | 0% | 0% |  |
+| 2 | 0.3% | 100% |  |
+| 3 | 96% | 99.7% | Median |
+| 4 | 3% | 3% |  |
+| 5 | 0% | 0% |  |
 
 
