@@ -45,7 +45,7 @@ Last result: **1** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [17–23 June 2024](2024-06-23-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–16 June 2024](2024-06-16-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [9–14 June 2024](2024-06-14-Verian.html) | Verian <br> Berlingske | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -59,8 +59,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 0.4% | 100% |  |
-| 3 | 87% | 99.6% | Median |
+| 2 | 0.6% | 100% |  |
+| 3 | 88% | 99.4% | Median |
 | 4 | 12% | 12% |  |
 | 5 | 0% | 0% |  |
 

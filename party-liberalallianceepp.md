@@ -50,7 +50,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [17–23 June 2024](2024-06-23-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [10–16 June 2024](2024-06-16-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [9–14 June 2024](2024-06-14-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2 | 2 | 2–3 |
+| [9–14 June 2024](2024-06-14-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
 
@@ -61,9 +61,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 95% | 99.9% | Median |
-| 3 | 5% | 5% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 93% | 99.7% | Median |
+| 3 | 7% | 7% |  |
 | 4 | 0% | 0% |  |
 
 
