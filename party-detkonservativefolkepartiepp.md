@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **9.1%** (General Election of 9 June 2024)
+Last result: **0.0%** (General Election of 9 June 2024)
 
 ### Confidence Intervals
 
@@ -21,19 +21,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.9% | 100% |  |
 | 4.5–5.5% | 17% | 99.1% |  |
 | 5.5–6.5% | 49% | 82% | Median |
 | 6.5–7.5% | 29% | 33% |  |
 | 7.5–8.5% | 4% | 4% |  |
-| 8.5–9.5% | 0.2% | 0.2% | Last Result |
+| 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
 
-Last result: **1** seats (General Election of 9 June 2024)
+Last result: **0** seats (General Election of 9 June 2024)
 
 ### Confidence Intervals
 
@@ -52,8 +55,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 96% | 96% | Last Result, Median |
+| 0 | 4% | 100% | Last Result |
+| 1 | 96% | 96% | Median |
 | 2 | 0% | 0% |  |
 
 
