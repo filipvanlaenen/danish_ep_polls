@@ -30,7 +30,7 @@ Only polls for which at least the sample size has been published are included in
 + **K:** Kristendemokraterne (EPP)
 + **I:** Liberal Alliance (EPP)
 + **Æ:** Danmarksdemokraterne (ECR)
-+ **O:** Dansk Folkeparti (ID)
++ **O:** Dansk Folkeparti (PfE)
 + **D:** Nye Borgerlige (NI)
 + **E:** Borgerlisten (*)
 + **P:** Stram Kurs (*)
@@ -58,7 +58,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#liberal-alliance-(epp)">Liberal Alliance (EPP)</a> | 0.0% | 13.2% | 11.9–14.5% |11.6–14.9% | 11.3–15.2% | 10.7–15.9% |
 | <a href="#danmarksdemokraterne-(ecr)">Danmarksdemokraterne (ECR)</a> | 0.0% | 10.0% | 8.3–11.5% |8.0–11.9% | 7.7–12.2% | 7.1–12.9% |
-| <a href="#dansk-folkeparti-(id)">Dansk Folkeparti (ID)</a> | 0.0% | 4.5% | 3.8–5.4% |3.6–5.7% | 3.4–5.9% | 3.1–6.4% |
+| <a href="#dansk-folkeparti-(pfe)">Dansk Folkeparti (PfE)</a> | 0.0% | 4.5% | 3.8–5.4% |3.6–5.7% | 3.4–5.9% | 3.1–6.4% |
 | <a href="#nye-borgerlige-(ni)">Nye Borgerlige (NI)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#borgerlisten-(*)">Borgerlisten (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
@@ -250,9 +250,9 @@ Only polls for which at least the sample size has been published are included in
 | 7.5–8.5% | 0.2% | 0.2% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
-### Dansk Folkeparti (ID)
+### Dansk Folkeparti (PfE)
 
-*For a full overview of the results for this party, see the [Dansk Folkeparti (ID)](party-danskfolkepartiid.html) page.*
+*For a full overview of the results for this party, see the [Dansk Folkeparti (PfE)](party-danskfolkepartipfe.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -320,7 +320,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#liberal-alliance-(epp)">Liberal Alliance (EPP)</a> | 0 | 2 | 2 |2–3 | 2–3 | 2–3 |
 | <a href="#danmarksdemokraterne-(ecr)">Danmarksdemokraterne (ECR)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#dansk-folkeparti-(id)">Dansk Folkeparti (ID)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#dansk-folkeparti-(pfe)">Dansk Folkeparti (PfE)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#nye-borgerlige-(ni)">Nye Borgerlige (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#borgerlisten-(*)">Borgerlisten (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -461,11 +461,11 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 42% | 42% |  |
 | 3 | 0% | 0% |  |
 
-### Dansk Folkeparti (ID)
+### Dansk Folkeparti (PfE)
 
-*For a full overview of the results for this party, see the [Dansk Folkeparti (ID)](party-danskfolkepartiid.html) page.*
+*For a full overview of the results for this party, see the [Dansk Folkeparti (PfE)](party-danskfolkepartipfe.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-danskfolkepartiid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-danskfolkepartipfe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -517,7 +517,7 @@ Only polls for which at least the sample size has been published are included in
 | Moderaterne (RE) – Radikale Venstre (RE) – Venstre (RE) | 0 | 3 | 0% | 3–4 | 2–4 | 2–4 | 2–4 |
 | Socialdemokraterne (S&D) | 0 | 3 | 0% | 3 | 3–4 | 2–4 | 2–4 |
 | Danmarksdemokraterne (ECR) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Dansk Folkeparti (ID) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Dansk Folkeparti (PfE) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
 | Borgerlisten (*) – Frie Grønne (*) – Stram Kurs (*) – Veganerpartiet (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Nye Borgerlige (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -585,7 +585,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 42% | 42% |  |
 | 3 | 0% | 0% |  |
 
-### Dansk Folkeparti (ID)
+### Dansk Folkeparti (PfE)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-o.png "Seats Probability Mass Function")
 
