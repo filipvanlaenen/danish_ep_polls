@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 4.0–5.6% | 3.8–5.8% | 3.6–6.0% | 3.3–6.5% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.7–5.4% | 3.5–5.6% | 3.3–5.8% | 3.0–6.2% |
+| [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [12–18 August 2024](2024-08-18-Voxmeter.html) | Voxmeter | 3.9% | N/A | N/A | N/A | N/A |
 | [7–14 August 2024](2024-08-14-Epinion.html) | Epinion <br> DR | 4.9% | 4.3–5.6% | 4.2–5.8% | 4.0–6.0% | 3.8–6.3% |
 | [5–11 August 2024](2024-08-11-Voxmeter.html) | Voxmeter | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [17–23 June 2024](2024-06-23-Voxmeter.html) | Voxmeter | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.4–6.1% | 3.1–6.5% |
@@ -26,11 +28,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 34% | 98% |  |
-| 4.5–5.5% | 53% | 64% | Median |
-| 5.5–6.5% | 10% | 11% |  |
-| 6.5–7.5% | 0.4% | 0.5% |  |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 43% | 94% |  |
+| 4.5–5.5% | 45% | 52% | Median |
+| 5.5–6.5% | 6% | 6% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -43,6 +45,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–18 August 2024](2024-08-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [7–14 August 2024](2024-08-14-Epinion.html) | Epinion <br> DR | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–11 August 2024](2024-08-11-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–23 June 2024](2024-06-23-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -57,8 +61,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 60% | 100% | Last Result, Median |
-| 1 | 40% | 40% |  |
+| 0 | 67% | 100% | Last Result, Median |
+| 1 | 33% | 33% |  |
 | 2 | 0% | 0% |  |
 
 
