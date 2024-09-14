@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.7% | 11.4–14.0% | 11.0–14.4% | 10.6–14.7% | 9.9–15.4% |
+| [2–8 September 2024](2024-09-08-Voxmeter.html) | Voxmeter | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.1% | 9.6–14.8% |
 | [26 August–1 September 2024](2024-09-01-Voxmeter.html) | Voxmeter | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.1% | 9.6–14.8% |
 | [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter | 11.0% | 9.8–12.3% | 9.4–12.7% | 9.2–13.0% | 8.6–13.7% |
 | [12–18 August 2024](2024-08-18-Voxmeter.html) | Voxmeter | 10.0% | N/A | N/A | N/A | N/A |
@@ -54,7 +55,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 1–3 |
+| [2–8 September 2024](2024-09-08-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [26 August–1 September 2024](2024-09-01-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 1–2 | 1–3 |
 | [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–18 August 2024](2024-08-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -73,9 +75,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.2% | 100% |  |
-| 2 | 96% | 98.8% | Median |
-| 3 | 2% | 2% |  |
+| 1 | 0.9% | 100% |  |
+| 2 | 95% | 99.1% | Median |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 
