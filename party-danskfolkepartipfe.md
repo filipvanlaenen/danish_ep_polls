@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.8–5.4% | 3.6–5.7% | 3.4–5.9% | 3.1–6.3% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.5–5.4% | 3.3–5.6% | 3.1–5.8% | 2.8–6.2% |
+| [9–15 September 2024](2024-09-15-Voxmeter.html) | Voxmeter | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [2–8 September 2024](2024-09-08-Voxmeter.html) | Voxmeter | 4.4% | 3.6–5.3% | 3.4–5.6% | 3.3–5.8% | 2.9–6.3% |
 | [26 August–1 September 2024](2024-09-01-Voxmeter.html) | Voxmeter | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
@@ -19,7 +20,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [5–11 August 2024](2024-08-11-Voxmeter.html) | Voxmeter | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [17–23 June 2024](2024-06-23-Voxmeter.html) | Voxmeter | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.4–6.1% | 3.1–6.5% |
 | [10–16 June 2024](2024-06-16-Voxmeter.html) | Voxmeter | 3.5% | N/A | N/A | N/A | N/A |
-| [9–14 June 2024](2024-06-14-Verian.html) | Verian <br> Berlingske | 4.4% | 3.8–5.3% | 3.6–5.5% | 3.4–5.7% | 3.1–6.1% |
+| [10–12 June 2024](2024-06-12-Verian.html) | Verian <br> Berlingske | 4.4% | 3.8–5.3% | 3.6–5.5% | 3.4–5.7% | 3.1–6.1% |
 
 ### Probability Mass Function
 
@@ -29,10 +30,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 41% | 96% |  |
-| 4.5–5.5% | 48% | 55% | Median |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 10% | 99.9% |  |
+| 3.5–4.5% | 39% | 90% |  |
+| 4.5–5.5% | 44% | 51% | Median |
 | 5.5–6.5% | 7% | 7% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -47,6 +48,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–15 September 2024](2024-09-15-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–8 September 2024](2024-09-08-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26 August–1 September 2024](2024-09-01-Voxmeter.html) | Voxmeter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -55,7 +57,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–11 August 2024](2024-08-11-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–23 June 2024](2024-06-23-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–16 June 2024](2024-06-16-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [9–14 June 2024](2024-06-14-Verian.html) | Verian <br> Berlingske | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–12 June 2024](2024-06-12-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -65,8 +67,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 35% | 35% |  |
+| 0 | 59% | 100% | Last Result, Median |
+| 1 | 41% | 41% |  |
 | 2 | 0% | 0% |  |
 
 
