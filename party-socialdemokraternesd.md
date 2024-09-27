@@ -77,7 +77,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–11 August 2024](2024-08-11-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [17–23 June 2024](2024-06-23-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–16 June 2024](2024-06-16-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [10–12 June 2024](2024-06-12-Verian.html) | Verian <br> Berlingske | 3 | 3 | 3 | 3 | 2–4 |
+| [10–12 June 2024](2024-06-12-Verian.html) | Verian <br> Berlingske | 3 | 3 | 2–3 | 2–3 | 2–4 |
 
 ### Probability Mass Function
 
