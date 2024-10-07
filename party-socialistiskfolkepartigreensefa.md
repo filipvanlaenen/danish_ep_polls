@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.2% | 13.8–16.7% | 13.4–17.1% | 13.1–17.5% | 12.4–18.3% |
+| N/A | [Poll Average](average.html) | 15.3% | 14.0–16.8% | 13.6–17.2% | 13.3–17.5% | 12.7–18.2% |
 | [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 15.2% | 13.8–16.7% | 13.4–17.1% | 13.1–17.5% | 12.4–18.3% |
-| [20–27 September 2024](2024-09-27-Epinion.html) | Epinion <br> DR | 14.8% | N/A | N/A | N/A | N/A |
+| [20–27 September 2024](2024-09-27-Epinion.html) | Epinion <br> DR | 14.8% | 13.7–16.0% | 13.4–16.3% | 13.2–16.6% | 12.7–17.2% |
 | [16–22 September 2024](2024-09-22-Voxmeter.html) | Voxmeter | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
 | [9–15 September 2024](2024-09-15-Voxmeter.html) | Voxmeter | 16.9% | 15.5–18.5% | 15.1–19.0% | 14.8–19.4% | 14.1–20.2% |
-| [4–10 September 2024](2024-09-10-Verian.html) | Verian <br> Berlingske | 15.9% | N/A | N/A | N/A | N/A |
+| [4–10 September 2024](2024-09-10-Verian.html) | Verian <br> Berlingske | 15.9% | 14.7–17.2% | 14.4–17.5% | 14.1–17.8% | 13.5–18.5% |
 | [2–8 September 2024](2024-09-08-Voxmeter.html) | Voxmeter | 15.8% | 14.4–17.3% | 14.0–17.8% | 13.6–18.1% | 13.0–18.9% |
 | [26 August–1 September 2024](2024-09-01-Voxmeter.html) | Voxmeter | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter | 15.2% | 13.9–16.8% | 13.5–17.2% | 13.1–17.6% | 12.5–18.4% |
@@ -44,14 +44,14 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.6% | 100% |  |
-| 12.5–13.5% | 6% | 99.3% |  |
-| 13.5–14.5% | 22% | 93% |  |
-| 14.5–15.5% | 34% | 72% | Median |
-| 15.5–16.5% | 26% | 38% |  |
-| 16.5–17.5% | 10% | 12% |  |
+| 11.5–12.5% | 0.3% | 100% |  |
+| 12.5–13.5% | 4% | 99.7% |  |
+| 13.5–14.5% | 20% | 95% |  |
+| 14.5–15.5% | 34% | 76% | Median |
+| 15.5–16.5% | 28% | 42% |  |
+| 16.5–17.5% | 11% | 14% |  |
 | 17.5–18.5% | 2% | 2% |  |
-| 18.5–19.5% | 0.2% | 0.3% |  |
+| 18.5–19.5% | 0.2% | 0.2% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -65,10 +65,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [20–27 September 2024](2024-09-27-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [20–27 September 2024](2024-09-27-Epinion.html) | Epinion <br> DR | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–22 September 2024](2024-09-22-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–15 September 2024](2024-09-15-Voxmeter.html) | Voxmeter | 3 | 3 | 3–4 | 3–4 | 2–4 |
-| [4–10 September 2024](2024-09-10-Verian.html) | Verian <br> Berlingske |  |  |  |  |  |
+| [4–10 September 2024](2024-09-10-Verian.html) | Verian <br> Berlingske | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [2–8 September 2024](2024-09-08-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26 August–1 September 2024](2024-09-01-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -89,9 +89,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 34% | 100% |  |
-| 3 | 65% | 66% | Median |
-| 4 | 0.2% | 0.2% |  |
+| 2 | 27% | 100% |  |
+| 3 | 72% | 73% | Median |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 
