@@ -73,7 +73,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [7–13 October 2024](2024-10-13-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [20–27 September 2024](2024-09-27-Epinion.html) | Epinion <br> DR | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [16–22 September 2024](2024-09-22-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–15 September 2024](2024-09-15-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -99,8 +99,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 40% | 100% |  |
-| 4 | 60% | 60% | Median |
+| 3 | 38% | 100% |  |
+| 4 | 62% | 62% | Median |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
