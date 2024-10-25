@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 24 Oct 2024 21:17:44 +0200</pubDate>
+    <pubDate>Fri, 25 Oct 2024 20:58:03 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter, 14–21 October 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-10-21-Voxmeter.html#seats</link>
@@ -194,20 +194,20 @@
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-09-10-Verian.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (NI): 0 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-09-10-Verian-seats.png"
-        length="314534"
+        length="314232"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2024 19:08:36 +0200</pubDate>
-      <dc:date>2024-10-07T19:08:36.148914+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 20:58:03 +0200</pubDate>
+      <dc:date>2024-10-25T20:58:03.956879+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Berlingske, 4–10 September 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-09-10-Verian.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-09-10-Verian-coalitions-seats.png"
-        length="155463"
+        length="162745"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2024 19:08:36 +0200</pubDate>
-      <dc:date>2024-10-07T19:08:36.148914+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 20:58:03 +0200</pubDate>
+      <dc:date>2024-10-25T20:58:03.956879+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Berlingske, 4–10 September 2024 – Voting Intentions</title>
@@ -216,8 +216,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-09-10-Verian.png"
         length="376081"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2024 19:08:36 +0200</pubDate>
-      <dc:date>2024-10-07T19:08:36.148914+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 20:58:03 +0200</pubDate>
+      <dc:date>2024-10-25T20:58:03.956879+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter, 2–8 September 2024 – Seat Projections for the Parties</title>
@@ -429,6 +429,6 @@
       <pubDate>Thu, 26 Sep 2024 23:11:43 +0200</pubDate>
       <dc:date>2024-09-26T23:11:43.941268+02:00</dc:date>
     </item>
-    <dc:date>2024-10-24T21:17:44.469483+02:00</dc:date>
+    <dc:date>2024-10-25T20:58:03.956879+02:00</dc:date>
   </channel>
 </rss>
