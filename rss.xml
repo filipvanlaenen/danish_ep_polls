@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 22 Oct 2024 20:57:54 +0200</pubDate>
+    <pubDate>Thu, 24 Oct 2024 21:17:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter, 14–21 October 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-10-21-Voxmeter.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-09-30-Voxmeter-seats.png"
         length="323113"
         type="image/png"/>
-      <pubDate>Sun, 06 Oct 2024 21:33:15 +0200</pubDate>
-      <dc:date>2024-10-06T21:33:15.952267+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2024 18:27:05 +0200</pubDate>
+      <dc:date>2024-10-24T18:27:05.841954+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter, 23–30 September 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-09-30-Voxmeter-coalitions-seats.png"
         length="190945"
         type="image/png"/>
-      <pubDate>Sun, 06 Oct 2024 21:33:15 +0200</pubDate>
-      <dc:date>2024-10-06T21:33:15.952267+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2024 18:27:05 +0200</pubDate>
+      <dc:date>2024-10-24T18:27:05.841954+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter, 23–30 September 2024 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-09-30-Voxmeter.png"
         length="362533"
         type="image/png"/>
-      <pubDate>Sun, 06 Oct 2024 21:33:15 +0200</pubDate>
-      <dc:date>2024-10-06T21:33:15.952267+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2024 18:27:05 +0200</pubDate>
+      <dc:date>2024-10-24T18:27:05.841954+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 20–27 September 2024 – Seat Projections for the Parties</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-09-27-Epinion-seats.png"
         length="344048"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2024 17:32:03 +0200</pubDate>
-      <dc:date>2024-10-07T17:32:03.178195+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2024 21:17:44 +0200</pubDate>
+      <dc:date>2024-10-24T21:17:44.469483+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 20–27 September 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-09-27-Epinion-coalitions-seats.png"
         length="198629"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2024 17:32:03 +0200</pubDate>
-      <dc:date>2024-10-07T17:32:03.178195+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2024 21:17:44 +0200</pubDate>
+      <dc:date>2024-10-24T21:17:44.469483+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Epinion for DR, 20–27 September 2024 – Voting Intentions</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-09-27-Epinion.png"
         length="352814"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2024 17:32:03 +0200</pubDate>
-      <dc:date>2024-10-07T17:32:03.178195+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2024 21:17:44 +0200</pubDate>
+      <dc:date>2024-10-24T21:17:44.469483+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter, 16–22 September 2024 – Seat Projections for the Parties</title>
@@ -429,6 +429,6 @@
       <pubDate>Thu, 26 Sep 2024 23:11:43 +0200</pubDate>
       <dc:date>2024-09-26T23:11:43.941268+02:00</dc:date>
     </item>
-    <dc:date>2024-10-22T20:57:54.319245+02:00</dc:date>
+    <dc:date>2024-10-24T21:17:44.469483+02:00</dc:date>
   </channel>
 </rss>
