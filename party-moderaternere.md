@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.1–4.7% | 2.9–5.0% | 2.7–5.2% | 2.4–5.6% |
+| N/A | [Poll Average](average.html) | 3.9% | 3.1–4.7% | 2.9–5.0% | 2.7–5.2% | 2.4–5.6% |
+| [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter | 3.4% | 2.8–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.9% |
+| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter | 3.3% | N/A | N/A | N/A | N/A |
 | [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [7–13 October 2024](2024-10-13-Voxmeter.html) | Voxmeter | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -36,11 +38,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.4% | 100% |  |
-| 2.5–3.5% | 25% | 98.6% |  |
-| 3.5–4.5% | 57% | 74% | Median |
-| 4.5–5.5% | 16% | 17% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 1.1% | 100% |  |
+| 2.5–3.5% | 26% | 98.9% |  |
+| 3.5–4.5% | 57% | 73% | Median |
+| 4.5–5.5% | 16% | 16% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -53,6 +55,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
+| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
 | [7–13 October 2024](2024-10-13-Voxmeter.html) | Voxmeter | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
