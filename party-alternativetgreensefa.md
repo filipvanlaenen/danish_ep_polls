@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.2% | 1.4–3.1% | 1.3–3.3% | 1.2–3.5% | 1.0–3.9% |
 | [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.8% | 1.7–4.1% |
-| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter | 2.3% | N/A | N/A | N/A | N/A |
+| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [7–13 October 2024](2024-10-13-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
@@ -54,7 +54,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [7–13 October 2024](2024-10-13-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
