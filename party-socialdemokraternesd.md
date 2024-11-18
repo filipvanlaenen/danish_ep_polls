@@ -74,7 +74,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [7–13 October 2024](2024-10-13-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 4 | 4 | 3–5 | 3–5 | 3–5 |
