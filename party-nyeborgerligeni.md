@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [4–10 November 2024](2024-11-10-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [30 October–6 November 2024](2024-11-06-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
 | [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
@@ -54,6 +55,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [4–10 November 2024](2024-11-10-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [30 October–6 November 2024](2024-11-06-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter |  |  |  |  |  |
