@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
+| [18–24 November 2024](2024-11-24-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [4–10 November 2024](2024-11-10-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [30 October–6 November 2024](2024-11-06-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
@@ -53,6 +54,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–24 November 2024](2024-11-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [4–10 November 2024](2024-11-10-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [30 October–6 November 2024](2024-11-06-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
