@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.4–3.1% | 1.3–3.3% | 1.2–3.5% | 1.0–4.0% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [25 November–1 December 2024](2024-12-01-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.1% | 1.2–3.5% |
 | [18–24 November 2024](2024-11-24-Voxmeter.html) | Voxmeter | 2.7% | 2.1–3.4% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
 | [4–10 November 2024](2024-11-10-Voxmeter.html) | Voxmeter | 2.7% | N/A | N/A | N/A | N/A |
@@ -41,12 +42,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 15% | 100% |  |
-| 1.5–2.5% | 56% | 85% | Median |
-| 2.5–3.5% | 27% | 29% |  |
-| 3.5–4.5% | 2% | 2% |  |
+| 0.5–1.5% | 18% | 100% |  |
+| 1.5–2.5% | 69% | 82% | Median |
+| 2.5–3.5% | 14% | 14% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
-| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -58,6 +58,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [25 November–1 December 2024](2024-12-01-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [18–24 November 2024](2024-11-24-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [4–10 November 2024](2024-11-10-Voxmeter.html) | Voxmeter |  |  |  |  |  |
