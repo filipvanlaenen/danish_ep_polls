@@ -18,7 +18,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25 November–1 December 2024](2024-12-01-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.1% | 1.2–3.5% |
 | [18–24 November 2024](2024-11-24-Voxmeter.html) | Voxmeter | 2.7% | 2.1–3.4% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
-| [6–13 November 2024](2024-11-13-Verian.html) | Verian <br> Berlingske | 2.2% | N/A | N/A | N/A | N/A |
+| [6–13 November 2024](2024-11-13-Verian.html) | Verian <br> Berlingske | 2.2% | 1.8–2.7% | 1.7–2.8% | 1.6–3.0% | 1.5–3.2% |
 | [4–10 November 2024](2024-11-10-Voxmeter.html) | Voxmeter | 2.7% | N/A | N/A | N/A | N/A |
 | [30 October–6 November 2024](2024-11-06-Epinion.html) | Epinion <br> DR | 2.2% | 1.8–2.8% | 1.7–2.9% | 1.6–3.0% | 1.4–3.3% |
 | [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.8% | 1.7–4.1% |
@@ -70,7 +70,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25 November–1 December 2024](2024-12-01-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [18–24 November 2024](2024-11-24-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
-| [6–13 November 2024](2024-11-13-Verian.html) | Verian <br> Berlingske |  |  |  |  |  |
+| [6–13 November 2024](2024-11-13-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [4–10 November 2024](2024-11-10-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [30 October–6 November 2024](2024-11-06-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
 | [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
