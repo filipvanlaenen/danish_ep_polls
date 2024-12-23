@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2024-12-22T15:55:38.227941+01:00</updated>
+  <updated>2024-12-23T11:07:49.288676+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liberal Alliance (EPP): 10.3–14.4%, 2 seats</li><li>Radikale Venstre (RE): 3.9–6.6%, 0–1 seats</li><li>Det Konservative Folkeparti (EPP): 4.9–7.8%, 1 seats</li><li>Alternativet (Greens/EFA): 1.6–3.6%, 0 seats</li><li>Venstre (RE): 8.6–12.3%, 1–2 seats</li><li>Dansk Folkeparti (PfE): 2.9–5.3%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 14.0–18.5%, 2–3 seats</li><li>Socialdemokraterne (S&amp;D): 18.1–23.0%, 3–4 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 6.1–9.3%, 1 seats</li><li>Moderaterne (RE): 2.4–4.7%, 0 seats</li><li>Danmarksdemokraterne (ECR): 8.7–12.5%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2024-12-15-Voxmeter.html</id>
@@ -54,6 +54,14 @@
     <title>Opinion Poll by Voxmeter, 11–17 November 2024</title>
     <updated>2024-11-23T11:06:29.940448+01:00</updated>
     <dc:date>2024-11-23T11:06:29.940448+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Radikale Venstre (RE): 2.9–4.5%, 0 seats</li><li>Venstre (RE): 10.3–13.1%, 2 seats</li><li>Dansk Folkeparti (PfE): 4.2–6.2%, 1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 12.6–15.6%, 2–3 seats</li><li>Socialdemokraterne (S&amp;D): 19.2–22.7%, 4 seats</li><li>Moderaterne (RE): 3.4–5.1%, 0 seats</li><li>Danmarksdemokraterne (ECR): 8.2–10.7%, 1–2 seats</li><li>Kristendemokraterne (EPP): 0.3–0.9%, 0 seats</li><li>Nye Borgerlige (NI): 0.4–1.2%, 0 seats</li><li>Liberal Alliance (EPP): 10.5–13.4%, 2 seats</li><li>Det Konservative Folkeparti (EPP): 6.2–8.4%, 1 seats</li><li>Alternativet (Greens/EFA): 1.6–3.0%, 0 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 6.8–9.2%, 1 seats</li><li>Frie Grønne (*): 0.0–0.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2024-11-13-Verian.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2024-11-13-Verian.html"/>
+    <title>Opinion Poll by Verian for Berlingske, 6–13 November 2024</title>
+    <updated>2024-12-23T11:07:49.288676+01:00</updated>
+    <dc:date>2024-12-23T11:07:49.288676+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liberal Alliance (EPP): 11.2–14.6%, 2 seats</li><li>Radikale Venstre (RE): 4.2–6.4%, 0–1 seats</li><li>Det Konservative Folkeparti (EPP): 5.6–8.1%, 1 seats</li><li>Alternativet (Greens/EFA): 1.6–3.0%, 0 seats</li><li>Venstre (RE): 8.1–11.0%, 1–2 seats</li><li>Dansk Folkeparti (PfE): 4.2–6.4%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 14.3–17.9%, 2–3 seats</li><li>Socialdemokraterne (S&amp;D): 17.4–21.3%, 3–4 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 5.9–8.5%, 1 seats</li><li>Moderaterne (RE): 2.6–4.4%, 0 seats</li><li>Danmarksdemokraterne (ECR): 9.7–12.8%, 2 seats</li></ul></div></content>
@@ -191,5 +199,5 @@
     <updated>2024-09-26T23:11:43.941268+02:00</updated>
     <dc:date>2024-09-26T23:11:43.941268+02:00</dc:date>
   </entry>
-  <dc:date>2024-12-22T15:55:38.227941+01:00</dc:date>
+  <dc:date>2024-12-23T11:07:49.288676+01:00</dc:date>
 </feed>
