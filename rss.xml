@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Dec 2024 13:22:58 +0100</pubDate>
+    <pubDate>Tue, 24 Dec 2024 17:56:08 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter, 16–23 December 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberal Alliance (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter-seats.png"
+        length="345359"
+        type="image/png"/>
+      <pubDate>Tue, 24 Dec 2024 17:56:08 +0100</pubDate>
+      <dc:date>2024-12-24T17:56:08.807569+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 16–23 December 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter-coalitions-seats.png"
+        length="198721"
+        type="image/png"/>
+      <pubDate>Tue, 24 Dec 2024 17:56:08 +0100</pubDate>
+      <dc:date>2024-12-24T17:56:08.807569+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 16–23 December 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liberal Alliance (EPP): 11.2–15.4%&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 4.2–7.1%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Venstre (RE): 7.8–11.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 3.7–6.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 13.7–18.3%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 17.6–22.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 8.6–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter.png"
+        length="362994"
+        type="image/png"/>
+      <pubDate>Tue, 24 Dec 2024 17:56:08 +0100</pubDate>
+      <dc:date>2024-12-24T17:56:08.807569+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter, 9–15 December 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-12-15-Voxmeter.html#seats</link>
@@ -729,6 +759,6 @@
       <pubDate>Thu, 26 Sep 2024 23:11:43 +0200</pubDate>
       <dc:date>2024-09-26T23:11:43.941268+02:00</dc:date>
     </item>
-    <dc:date>2024-12-23T13:22:58.347085+01:00</dc:date>
+    <dc:date>2024-12-24T17:56:08.807569+01:00</dc:date>
   </channel>
 </rss>
