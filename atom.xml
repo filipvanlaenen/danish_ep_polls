@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2024-12-23T13:22:58.347085+01:00</updated>
+  <updated>2024-12-24T17:56:08.807569+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liberal Alliance (EPP): 11.2–15.4%, 2–3 seats</li><li>Radikale Venstre (RE): 2.9–5.4%, 0–1 seats</li><li>Det Konservative Folkeparti (EPP): 4.2–7.1%, 0–1 seats</li><li>Alternativet (Greens/EFA): 1.2–3.0%, 0 seats</li><li>Venstre (RE): 7.8–11.5%, 1–2 seats</li><li>Dansk Folkeparti (PfE): 3.7–6.4%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 13.7–18.3%, 2–3 seats</li><li>Socialdemokraterne (S&amp;D): 17.6–22.6%, 3–4 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 5.6–8.7%, 1 seats</li><li>Moderaterne (RE): 2.9–5.3%, 0–1 seats</li><li>Danmarksdemokraterne (ECR): 8.6–12.3%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter, 16–23 December 2024</title>
+    <updated>2024-12-24T17:56:08.807569+01:00</updated>
+    <dc:date>2024-12-24T17:56:08.807569+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liberal Alliance (EPP): 10.3–14.4%, 2 seats</li><li>Radikale Venstre (RE): 3.9–6.6%, 0–1 seats</li><li>Det Konservative Folkeparti (EPP): 4.9–7.8%, 1 seats</li><li>Alternativet (Greens/EFA): 1.6–3.6%, 0 seats</li><li>Venstre (RE): 8.6–12.3%, 1–2 seats</li><li>Dansk Folkeparti (PfE): 2.9–5.3%, 0–1 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 14.0–18.5%, 2–3 seats</li><li>Socialdemokraterne (S&amp;D): 18.1–23.0%, 3–4 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 6.1–9.3%, 1 seats</li><li>Moderaterne (RE): 2.4–4.7%, 0 seats</li><li>Danmarksdemokraterne (ECR): 8.7–12.5%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2024-12-15-Voxmeter.html</id>
@@ -199,5 +207,5 @@
     <updated>2024-09-26T23:11:43.941268+02:00</updated>
     <dc:date>2024-09-26T23:11:43.941268+02:00</dc:date>
   </entry>
-  <dc:date>2024-12-23T13:22:58.347085+01:00</dc:date>
+  <dc:date>2024-12-24T17:56:08.807569+01:00</dc:date>
 </feed>
