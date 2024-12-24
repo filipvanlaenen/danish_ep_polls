@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.9% | 18.5–21.4% | 18.1–21.9% | 17.8–22.4% | 17.2–23.3% |
+| N/A | [Poll Average](average.html) | 19.7% | 18.4–21.2% | 18.0–21.6% | 17.7–22.0% | 17.1–22.9% |
+| [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter | 20.0% | 18.4–21.7% | 18.0–22.1% | 17.6–22.6% | 16.9–23.4% |
 | [9–15 December 2024](2024-12-15-Voxmeter.html) | Voxmeter | 20.4% | 18.9–22.1% | 18.5–22.6% | 18.1–23.0% | 17.4–23.9% |
 | [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske | 19.6% | 18.4–20.9% | 18.1–21.2% | 17.8–21.5% | 17.2–22.1% |
 | [4 November–10 December 2024](2024-12-10-Epinion.html) | Epinion <br> DR | 19.6% | 18.4–21.0% | 18.0–21.3% | 17.7–21.7% | 17.2–22.3% |
@@ -62,15 +63,15 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 1.1% | 100% |  |
-| 17.5–18.5% | 9% | 98.8% |  |
-| 18.5–19.5% | 28% | 89% |  |
-| 19.5–20.5% | 33% | 61% | Median |
-| 20.5–21.5% | 19% | 28% |  |
-| 21.5–22.5% | 7% | 8% |  |
-| 22.5–23.5% | 2% | 2% |  |
-| 23.5–24.5% | 0.3% | 0.3% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 2% | 99.9% |  |
+| 17.5–18.5% | 11% | 98% |  |
+| 18.5–19.5% | 31% | 87% |  |
+| 19.5–20.5% | 34% | 56% | Median |
+| 20.5–21.5% | 17% | 23% |  |
+| 21.5–22.5% | 5% | 6% |  |
+| 22.5–23.5% | 0.8% | 0.9% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
 
@@ -83,6 +84,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–15 December 2024](2024-12-15-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4 November–10 December 2024](2024-12-10-Epinion.html) | Epinion <br> DR | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -125,7 +127,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 27% | 100% |  |
 | 4 | 73% | 73% | Median |
-| 5 | 0.2% | 0.2% |  |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
 

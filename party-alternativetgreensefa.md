@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.6–2.9% | 1.4–3.1% | 1.3–3.3% | 1.2–3.7% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–2.9% | 1.1–3.2% |
+| [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [9–15 December 2024](2024-12-15-Voxmeter.html) | Voxmeter | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske | 1.7% | 1.4–2.2% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% |
 | [4 November–10 December 2024](2024-12-10-Epinion.html) | Epinion <br> DR | 2.2% | 1.8–2.8% | 1.7–2.9% | 1.6–3.0% | 1.4–3.3% |
@@ -47,10 +48,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 9% | 100% |  |
-| 1.5–2.5% | 68% | 91% | Median |
-| 2.5–3.5% | 22% | 23% |  |
-| 3.5–4.5% | 0.9% | 0.9% |  |
+| 0.5–1.5% | 14% | 100% |  |
+| 1.5–2.5% | 75% | 86% | Median |
+| 2.5–3.5% | 11% | 11% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -63,6 +64,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [9–15 December 2024](2024-12-15-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [4 November–10 December 2024](2024-12-10-Epinion.html) | Epinion <br> DR | 0 | 0 | 0 | 0 | 0 |
