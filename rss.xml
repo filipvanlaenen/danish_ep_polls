@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Dec 2024 17:56:08 +0100</pubDate>
+    <pubDate>Tue, 24 Dec 2024 22:22:52 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter, 16–23 December 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter-seats.png"
         length="345359"
         type="image/png"/>
-      <pubDate>Tue, 24 Dec 2024 17:56:08 +0100</pubDate>
-      <dc:date>2024-12-24T17:56:08.807569+01:00</dc:date>
+      <pubDate>Tue, 24 Dec 2024 22:22:52 +0100</pubDate>
+      <dc:date>2024-12-24T22:22:52.45735+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter, 16–23 December 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter-coalitions-seats.png"
         length="198721"
         type="image/png"/>
-      <pubDate>Tue, 24 Dec 2024 17:56:08 +0100</pubDate>
-      <dc:date>2024-12-24T17:56:08.807569+01:00</dc:date>
+      <pubDate>Tue, 24 Dec 2024 22:22:52 +0100</pubDate>
+      <dc:date>2024-12-24T22:22:52.45735+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter, 16–23 December 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-12-23-Voxmeter.png"
         length="362994"
         type="image/png"/>
-      <pubDate>Tue, 24 Dec 2024 17:56:08 +0100</pubDate>
-      <dc:date>2024-12-24T17:56:08.807569+01:00</dc:date>
+      <pubDate>Tue, 24 Dec 2024 22:22:52 +0100</pubDate>
+      <dc:date>2024-12-24T22:22:52.45735+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter, 9–15 December 2024 – Seat Projections for the Parties</title>
@@ -759,6 +759,6 @@
       <pubDate>Thu, 26 Sep 2024 23:11:43 +0200</pubDate>
       <dc:date>2024-09-26T23:11:43.941268+02:00</dc:date>
     </item>
-    <dc:date>2024-12-24T17:56:08.807569+01:00</dc:date>
+    <dc:date>2024-12-24T22:22:52.45735+01:00</dc:date>
   </channel>
 </rss>
