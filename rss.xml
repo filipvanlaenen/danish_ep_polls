@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 Jan 2025 21:27:06 +0100</pubDate>
+    <pubDate>Sun, 19 Jan 2025 17:58:14 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter, 6–12 January 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-01-12-Voxmeter.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Liberal Alliance (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Liberal Alliance (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-01-12-Voxmeter-seats.png"
-        length="345217"
+        length="293844"
         type="image/png"/>
-      <pubDate>Sat, 18 Jan 2025 21:27:06 +0100</pubDate>
-      <dc:date>2025-01-18T21:27:06.956766+01:00</dc:date>
+      <pubDate>Sun, 19 Jan 2025 17:58:14 +0100</pubDate>
+      <dc:date>2025-01-19T17:58:14.042146+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter, 6–12 January 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-01-12-Voxmeter.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-01-12-Voxmeter-coalitions-seats.png"
-        length="209240"
+        length="171593"
         type="image/png"/>
-      <pubDate>Sat, 18 Jan 2025 21:27:06 +0100</pubDate>
-      <dc:date>2025-01-18T21:27:06.956766+01:00</dc:date>
+      <pubDate>Sun, 19 Jan 2025 17:58:14 +0100</pubDate>
+      <dc:date>2025-01-19T17:58:14.042146+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter, 6–12 January 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-01-12-Voxmeter.png"
         length="363244"
         type="image/png"/>
-      <pubDate>Sat, 18 Jan 2025 21:27:06 +0100</pubDate>
-      <dc:date>2025-01-18T21:27:06.956766+01:00</dc:date>
+      <pubDate>Sun, 19 Jan 2025 17:58:14 +0100</pubDate>
+      <dc:date>2025-01-19T17:58:14.042146+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter, 16–23 December 2024 – Seat Projections for the Parties</title>
@@ -789,6 +789,6 @@
       <pubDate>Thu, 26 Sep 2024 23:11:43 +0200</pubDate>
       <dc:date>2024-09-26T23:11:43.941268+02:00</dc:date>
     </item>
-    <dc:date>2025-01-18T21:27:06.956766+01:00</dc:date>
+    <dc:date>2025-01-19T17:58:14.042146+01:00</dc:date>
   </channel>
 </rss>
