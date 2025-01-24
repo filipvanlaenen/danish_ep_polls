@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 13.9–17.6% | 13.5–18.0% | 13.2–18.3% | 12.6–19.0% |
+| N/A | [Poll Average](average.html) | 16.2% | 14.9–17.6% | 14.5–18.0% | 14.1–18.4% | 13.5–19.0% |
+| [15–22 January 2025](2025-01-22-Epinion.html) | Epinion <br> DR | 15.8% | 14.7–17.0% | 14.4–17.3% | 14.1–17.6% | 13.6–18.2% |
 | [13–19 January 2025](2025-01-19-Voxmeter.html) | Voxmeter | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
 | [6–12 January 2025](2025-01-12-Voxmeter.html) | Voxmeter | 17.3% | 15.9–18.9% | 15.5–19.4% | 15.1–19.8% | 14.5–20.5% |
 | [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter | 15.9% | 14.5–17.4% | 14.1–17.9% | 13.7–18.3% | 13.1–19.0% |
@@ -61,13 +62,13 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.4% | 100% |  |
-| 12.5–13.5% | 5% | 99.5% |  |
-| 13.5–14.5% | 16% | 94% |  |
-| 14.5–15.5% | 22% | 78% |  |
-| 15.5–16.5% | 25% | 57% | Median |
-| 16.5–17.5% | 21% | 32% |  |
-| 17.5–18.5% | 9% | 11% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.5% | 100% |  |
+| 13.5–14.5% | 5% | 99.4% |  |
+| 14.5–15.5% | 21% | 94% |  |
+| 15.5–16.5% | 35% | 73% | Median |
+| 16.5–17.5% | 27% | 39% |  |
+| 17.5–18.5% | 10% | 12% |  |
 | 18.5–19.5% | 2% | 2% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
@@ -81,7 +82,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| [15–22 January 2025](2025-01-22-Epinion.html) | Epinion <br> DR | 3 | 3 | 3 | 3 | 2–4 |
 | [13–19 January 2025](2025-01-19-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [6–12 January 2025](2025-01-12-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -124,9 +126,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 27% | 100% |  |
-| 3 | 69% | 73% | Median |
-| 4 | 3% | 3% |  |
+| 2 | 5% | 100% |  |
+| 3 | 91% | 95% | Median |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 
