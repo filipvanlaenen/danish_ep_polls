@@ -83,7 +83,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–4 | 2–4 |
-| [15–22 January 2025](2025-01-22-Epinion.html) | Epinion <br> DR | 3 | 3 | 3 | 3 | 2–4 |
+| [15–22 January 2025](2025-01-22-Epinion.html) | Epinion <br> DR | 3 | 3 | 3 | 2–3 | 2–4 |
 | [13–19 January 2025](2025-01-19-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [6–12 January 2025](2025-01-12-Voxmeter.html) | Voxmeter | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
