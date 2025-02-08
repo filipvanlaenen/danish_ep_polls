@@ -10,39 +10,41 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.2% | 11.0–13.8% | 10.7–14.3% | 10.4–14.7% | 9.9–15.6% |
-| [15–22 January 2025](2025-01-22-Epinion.html) | Epinion <br> DR | 11.6% | 10.7–12.7% | 10.4–13.0% | 10.2–13.3% | 9.7–13.8% |
-| [13–19 January 2025](2025-01-19-Voxmeter.html) | Voxmeter | 13.1% | 11.8–14.6% | 11.5–15.0% | 11.2–15.3% | 10.6–16.1% |
-| [6–12 January 2025](2025-01-12-Voxmeter.html) | Voxmeter | 12.1% | 10.9–13.5% | 10.6–13.9% | 10.3–14.3% | 9.7–15.0% |
-| [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter | 13.2% | 11.9–14.6% | 11.5–15.1% | 11.2–15.4% | 10.6–16.1% |
-| [9–15 December 2024](2024-12-15-Voxmeter.html) | Voxmeter | 12.2% | 11.0–13.6% | 10.6–14.0% | 10.3–14.4% | 9.8–15.1% |
-| [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske | 11.9% | 11.0–13.0% | 10.7–13.3% | 10.5–13.5% | 10.0–14.1% |
-| [4 November–10 December 2024](2024-12-10-Epinion.html) | Epinion <br> DR | 13.4% | 12.3–14.6% | 12.1–14.9% | 11.8–15.2% | 11.3–15.7% |
+| N/A | [Poll Average](average.html) | 12.3% | 11.0–13.7% | 10.7–14.1% | 10.4–14.4% | 9.8–15.2% |
+| [27 January–2 February 2025](2025-02-02-Voxmeter.html) | Voxmeter | 12.3% | 11.0–13.7% | 10.7–14.1% | 10.4–14.4% | 9.8–15.2% |
+| [20–26 January 2025](2025-01-26-Voxmeter.html) | Voxmeter | 11.8% | N/A | N/A | N/A | N/A |
+| [15–22 January 2025](2025-01-22-Epinion.html) | Epinion <br> DR | 11.6% | N/A | N/A | N/A | N/A |
+| [13–19 January 2025](2025-01-19-Voxmeter.html) | Voxmeter | 13.1% | N/A | N/A | N/A | N/A |
+| [6–12 January 2025](2025-01-12-Voxmeter.html) | Voxmeter | 12.1% | N/A | N/A | N/A | N/A |
+| [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter | 13.2% | N/A | N/A | N/A | N/A |
+| [9–15 December 2024](2024-12-15-Voxmeter.html) | Voxmeter | 12.2% | N/A | N/A | N/A | N/A |
+| [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske | 11.9% | N/A | N/A | N/A | N/A |
+| [4 November–10 December 2024](2024-12-10-Epinion.html) | Epinion <br> DR | 13.4% | N/A | N/A | N/A | N/A |
 | [2–8 December 2024](2024-12-08-Voxmeter.html) | Voxmeter | 12.4% | N/A | N/A | N/A | N/A |
-| [25 November–1 December 2024](2024-12-01-Voxmeter.html) | Voxmeter | 12.6% | 11.3–14.0% | 11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
-| [18–24 November 2024](2024-11-24-Voxmeter.html) | Voxmeter | 11.9% | 10.7–13.3% | 10.3–13.7% | 10.0–14.0% | 9.5–14.7% |
-| [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter | 12.7% | 11.5–14.1% | 11.1–14.5% | 10.8–14.9% | 10.3–15.6% |
-| [6–13 November 2024](2024-11-13-Verian.html) | Verian <br> Berlingske | 11.9% | 11.0–12.9% | 10.8–13.1% | 10.5–13.4% | 10.2–13.9% |
+| [25 November–1 December 2024](2024-12-01-Voxmeter.html) | Voxmeter | 12.6% | N/A | N/A | N/A | N/A |
+| [18–24 November 2024](2024-11-24-Voxmeter.html) | Voxmeter | 11.9% | N/A | N/A | N/A | N/A |
+| [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter | 12.7% | N/A | N/A | N/A | N/A |
+| [6–13 November 2024](2024-11-13-Verian.html) | Verian <br> Berlingske | 11.9% | N/A | N/A | N/A | N/A |
 | [4–10 November 2024](2024-11-10-Voxmeter.html) | Voxmeter | 13.9% | N/A | N/A | N/A | N/A |
-| [30 October–6 November 2024](2024-11-06-Epinion.html) | Epinion <br> DR | 12.8% | 11.8–13.9% | 11.5–14.3% | 11.2–14.6% | 10.8–15.1% |
-| [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter | 12.9% | 11.7–14.2% | 11.4–14.6% | 11.1–14.9% | 10.6–15.5% |
-| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.5% | 10.7–16.3% |
-| [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
-| [7–13 October 2024](2024-10-13-Voxmeter.html) | Voxmeter | 13.4% | 12.1–14.9% | 11.8–15.3% | 11.5–15.7% | 10.9–16.4% |
-| [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 11.6% | 10.3–13.0% | 10.0–13.4% | 9.7–13.7% | 9.2–14.4% |
-| [20–27 September 2024](2024-09-27-Epinion.html) | Epinion <br> DR | 13.0% | 12.0–14.1% | 11.7–14.5% | 11.4–14.8% | 11.0–15.3% |
-| [16–22 September 2024](2024-09-22-Voxmeter.html) | Voxmeter | 12.1% | 10.9–13.6% | 10.5–14.0% | 10.3–14.3% | 9.7–15.0% |
-| [9–15 September 2024](2024-09-15-Voxmeter.html) | Voxmeter | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.4–15.9% |
-| [4–10 September 2024](2024-09-10-Verian.html) | Verian <br> Berlingske | 13.2% | 12.1–14.4% | 11.8–14.8% | 11.6–15.1% | 11.1–15.7% |
-| [2–8 September 2024](2024-09-08-Voxmeter.html) | Voxmeter | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.1% | 9.6–14.8% |
-| [26 August–1 September 2024](2024-09-01-Voxmeter.html) | Voxmeter | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.1% | 9.6–14.8% |
-| [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter | 11.0% | 9.8–12.3% | 9.4–12.7% | 9.2–13.0% | 8.6–13.7% |
+| [30 October–6 November 2024](2024-11-06-Epinion.html) | Epinion <br> DR | 12.8% | N/A | N/A | N/A | N/A |
+| [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter | 12.9% | N/A | N/A | N/A | N/A |
+| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter | 13.3% | N/A | N/A | N/A | N/A |
+| [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter | 12.5% | N/A | N/A | N/A | N/A |
+| [7–13 October 2024](2024-10-13-Voxmeter.html) | Voxmeter | 13.4% | N/A | N/A | N/A | N/A |
+| [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 11.6% | N/A | N/A | N/A | N/A |
+| [20–27 September 2024](2024-09-27-Epinion.html) | Epinion <br> DR | 13.0% | N/A | N/A | N/A | N/A |
+| [16–22 September 2024](2024-09-22-Voxmeter.html) | Voxmeter | 12.1% | N/A | N/A | N/A | N/A |
+| [9–15 September 2024](2024-09-15-Voxmeter.html) | Voxmeter | 13.0% | N/A | N/A | N/A | N/A |
+| [4–10 September 2024](2024-09-10-Verian.html) | Verian <br> Berlingske | 13.2% | N/A | N/A | N/A | N/A |
+| [2–8 September 2024](2024-09-08-Voxmeter.html) | Voxmeter | 12.0% | N/A | N/A | N/A | N/A |
+| [26 August–1 September 2024](2024-09-01-Voxmeter.html) | Voxmeter | 12.0% | N/A | N/A | N/A | N/A |
+| [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter | 11.0% | N/A | N/A | N/A | N/A |
 | [12–18 August 2024](2024-08-18-Voxmeter.html) | Voxmeter | 10.0% | N/A | N/A | N/A | N/A |
-| [7–14 August 2024](2024-08-14-Epinion.html) | Epinion <br> DR | 12.8% | 11.9–13.8% | 11.6–14.1% | 11.4–14.3% | 10.9–14.8% |
-| [5–11 August 2024](2024-08-11-Voxmeter.html) | Voxmeter | 11.0% | 9.8–12.4% | 9.5–12.7% | 9.2–13.1% | 8.7–13.8% |
-| [17–23 June 2024](2024-06-23-Voxmeter.html) | Voxmeter | 13.1% | 11.8–14.6% | 11.5–15.0% | 11.2–15.3% | 10.6–16.1% |
+| [7–14 August 2024](2024-08-14-Epinion.html) | Epinion <br> DR | 12.8% | N/A | N/A | N/A | N/A |
+| [5–11 August 2024](2024-08-11-Voxmeter.html) | Voxmeter | 11.0% | N/A | N/A | N/A | N/A |
+| [17–23 June 2024](2024-06-23-Voxmeter.html) | Voxmeter | 13.1% | N/A | N/A | N/A | N/A |
 | [10–16 June 2024](2024-06-16-Voxmeter.html) | Voxmeter | 13.5% | N/A | N/A | N/A | N/A |
-| [10–12 June 2024](2024-06-12-Verian.html) | Verian <br> Berlingske | 13.2% | 12.1–14.5% | 11.7–14.8% | 11.4–15.2% | 10.9–15.8% |
+| [10–12 June 2024](2024-06-12-Verian.html) | Verian <br> Berlingske | 13.2% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -59,16 +61,15 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 4% | 99.9% |  |
-| 10.5–11.5% | 23% | 96% |  |
-| 11.5–12.5% | 37% | 73% | Median |
-| 12.5–13.5% | 23% | 36% |  |
-| 13.5–14.5% | 10% | 13% |  |
-| 14.5–15.5% | 3% | 3% |  |
-| 15.5–16.5% | 0.5% | 0.5% |  |
+| 8.5–9.5% | 0.2% | 100% |  |
+| 9.5–10.5% | 3% | 99.8% |  |
+| 10.5–11.5% | 19% | 96% |  |
+| 11.5–12.5% | 36% | 78% | Median |
+| 12.5–13.5% | 29% | 42% |  |
+| 13.5–14.5% | 10% | 12% |  |
+| 14.5–15.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
-| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -79,39 +80,41 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 2–3 |
-| [15–22 January 2025](2025-01-22-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 1–2 |
-| [13–19 January 2025](2025-01-19-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [6–12 January 2025](2025-01-12-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–3 |
-| [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [9–15 December 2024](2024-12-15-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–3 |
-| [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2 | 2 | 2–3 |
-| [4 November–10 December 2024](2024-12-10-Epinion.html) | Epinion <br> DR | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [27 January–2 February 2025](2025-02-02-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [20–26 January 2025](2025-01-26-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [15–22 January 2025](2025-01-22-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [13–19 January 2025](2025-01-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [6–12 January 2025](2025-01-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [9–15 December 2024](2024-12-15-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske |  |  |  |  |  |
+| [4 November–10 December 2024](2024-12-10-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [2–8 December 2024](2024-12-08-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [25 November–1 December 2024](2024-12-01-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [18–24 November 2024](2024-11-24-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2–3 | 1–3 |
-| [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2–3 | 2–3 |
-| [6–13 November 2024](2024-11-13-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2 | 2 | 2 |
+| [25 November–1 December 2024](2024-12-01-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [18–24 November 2024](2024-11-24-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [11–17 November 2024](2024-11-17-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [6–13 November 2024](2024-11-13-Verian.html) | Verian <br> Berlingske |  |  |  |  |  |
 | [4–10 November 2024](2024-11-10-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [30 October–6 November 2024](2024-11-06-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2–3 |
-| [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2–3 | 2–3 |
-| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [7–13 October 2024](2024-10-13-Voxmeter.html) | Voxmeter | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–3 |
-| [20–27 September 2024](2024-09-27-Epinion.html) | Epinion <br> DR | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [16–22 September 2024](2024-09-22-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 1–3 |
-| [9–15 September 2024](2024-09-15-Voxmeter.html) | Voxmeter | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [4–10 September 2024](2024-09-10-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [2–8 September 2024](2024-09-08-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 1–2 | 1–3 |
-| [26 August–1 September 2024](2024-09-01-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 1–2 | 1–3 |
-| [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [30 October–6 November 2024](2024-11-06-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [28 October–3 November 2024](2024-11-03-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [21–27 October 2024](2024-10-27-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [14–21 October 2024](2024-10-21-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [7–13 October 2024](2024-10-13-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [23–30 September 2024](2024-09-30-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [20–27 September 2024](2024-09-27-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [16–22 September 2024](2024-09-22-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [9–15 September 2024](2024-09-15-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [4–10 September 2024](2024-09-10-Verian.html) | Verian <br> Berlingske |  |  |  |  |  |
+| [2–8 September 2024](2024-09-08-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [26 August–1 September 2024](2024-09-01-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [19–25 August 2024](2024-08-25-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [12–18 August 2024](2024-08-18-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [7–14 August 2024](2024-08-14-Epinion.html) | Epinion <br> DR | 2 | 2 | 2 | 2 | 2–3 |
-| [5–11 August 2024](2024-08-11-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [17–23 June 2024](2024-06-23-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [7–14 August 2024](2024-08-14-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
+| [5–11 August 2024](2024-08-11-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [17–23 June 2024](2024-06-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [10–16 June 2024](2024-06-16-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [10–12 June 2024](2024-06-12-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [10–12 June 2024](2024-06-12-Verian.html) | Verian <br> Berlingske |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -123,8 +126,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.2% | 100% |  |
-| 2 | 96% | 99.8% | Median |
-| 3 | 4% | 4% |  |
+| 2 | 78% | 99.8% | Median |
+| 3 | 22% | 22% |  |
 | 4 | 0% | 0% |  |
 
 
