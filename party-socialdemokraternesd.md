@@ -89,7 +89,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [27 January–2 February 2025](2025-02-02-Voxmeter.html) | Voxmeter | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| [27 January–2 February 2025](2025-02-02-Voxmeter.html) | Voxmeter | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [20–26 January 2025](2025-01-26-Voxmeter.html) | Voxmeter | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [15–22 January 2025](2025-01-22-Epinion.html) | Epinion <br> DR | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–19 January 2025](2025-01-19-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -136,8 +136,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 11% | 100% |  |
-| 4 | 89% | 89% | Median |
-| 5 | 0.6% | 0.6% |  |
+| 4 | 88% | 89% | Median |
+| 5 | 1.0% | 1.0% |  |
 | 6 | 0% | 0% |  |
 
 
