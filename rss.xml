@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 08 Feb 2025 21:33:49 +0100</pubDate>
+    <pubDate>Sun, 09 Feb 2025 10:29:31 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter, 27 January–2 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-02-02-Voxmeter.html#seats</link>
@@ -39,6 +39,96 @@
       <pubDate>Sat, 08 Feb 2025 21:33:49 +0100</pubDate>
       <dc:date>2025-02-08T21:33:49.588418+01:00</dc:date>
     </item>
-    <dc:date>2025-02-08T21:33:49.588418+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Voxmeter, 20–26 January 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-01-26-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-01-26-Voxmeter-seats.png"
+        length="304692"
+        type="image/png"/>
+      <pubDate>Sun, 09 Feb 2025 09:08:45 +0100</pubDate>
+      <dc:date>2025-02-09T09:08:45.400776+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 20–26 January 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-01-26-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-01-26-Voxmeter-coalitions-seats.png"
+        length="171797"
+        type="image/png"/>
+      <pubDate>Sun, 09 Feb 2025 09:08:45 +0100</pubDate>
+      <dc:date>2025-02-09T09:08:45.400776+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter, 20–26 January 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-01-26-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Venstre (RE): 8.4–12.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 13.0–17.5%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 18.0–23.0%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 9.8–13.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 9.9–13.9%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 5.6–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-01-26-Voxmeter.png"
+        length="380529"
+        type="image/png"/>
+      <pubDate>Sun, 09 Feb 2025 09:08:45 +0100</pubDate>
+      <dc:date>2025-02-09T09:08:45.400776+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 15–22 January 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-01-22-Epinion.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-01-22-Epinion-seats.png"
+        length="308426"
+        type="image/png"/>
+      <pubDate>Sun, 09 Feb 2025 10:05:45 +0100</pubDate>
+      <dc:date>2025-02-09T10:05:45.94223+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 15–22 January 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-01-22-Epinion.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-01-22-Epinion-coalitions-seats.png"
+        length="171265"
+        type="image/png"/>
+      <pubDate>Sun, 09 Feb 2025 10:05:45 +0100</pubDate>
+      <dc:date>2025-02-09T10:05:45.94223+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for DR, 15–22 January 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-01-22-Epinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 3.2–5.2%&lt;/li&gt;&lt;li&gt;Venstre (RE): 7.3–10.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 3.9–6.1%&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 1.2–2.5%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 14.1–17.6%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 17.8–21.7%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 3.5–5.5%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 10.0–13.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 10.2–13.3%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.7–3.2%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 5.7–8.1%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 5.7–8.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-01-22-Epinion.png"
+        length="374592"
+        type="image/png"/>
+      <pubDate>Sun, 09 Feb 2025 10:05:45 +0100</pubDate>
+      <dc:date>2025-02-09T10:05:45.94223+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 4–10 December 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-12-10-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0 seats&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Nye Borgerlige (NI): 0 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Frie Grønne (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-12-10-Verian-seats.png"
+        length="302444"
+        type="image/png"/>
+      <pubDate>Sun, 09 Feb 2025 10:29:31 +0100</pubDate>
+      <dc:date>2025-02-09T10:29:31.649533+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 4–10 December 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-12-10-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-12-10-Verian-coalitions-seats.png"
+        length="159008"
+        type="image/png"/>
+      <pubDate>Sun, 09 Feb 2025 10:29:31 +0100</pubDate>
+      <dc:date>2025-02-09T10:29:31.649533+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 4–10 December 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2024-12-10-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 3.0–4.8%&lt;/li&gt;&lt;li&gt;Venstre (RE): 10.4–13.4%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 5.7–8.1%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 15.1–18.7%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 17.8–21.5%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 2.9–4.7%&lt;/li&gt;&lt;li&gt;Kristendemokraterne (EPP): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 8.4–11.2%&lt;/li&gt;&lt;li&gt;Nye Borgerlige (NI): 0.1–0.5%&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 10.5–13.5%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.2–2.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 4.2–6.3%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.4–8.9%&lt;/li&gt;&lt;li&gt;Frie Grønne (*): 0.1–0.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2024-12-10-Verian.png"
+        length="405887"
+        type="image/png"/>
+      <pubDate>Sun, 09 Feb 2025 10:29:31 +0100</pubDate>
+      <dc:date>2025-02-09T10:29:31.649533+01:00</dc:date>
+    </item>
+    <dc:date>2025-02-09T10:29:31.649533+01:00</dc:date>
   </channel>
 </rss>
