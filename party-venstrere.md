@@ -86,7 +86,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–12 January 2025](2025-01-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [9–15 December 2024](2024-12-15-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2 | 2 | 2 |
+| [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2 | 2 | 1–2 |
 | [4 November–10 December 2024](2024-12-10-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [2–8 December 2024](2024-12-08-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [25 November–1 December 2024](2024-12-01-Voxmeter.html) | Voxmeter |  |  |  |  |  |

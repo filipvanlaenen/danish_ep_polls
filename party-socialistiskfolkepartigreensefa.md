@@ -92,7 +92,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–12 January 2025](2025-01-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [16–23 December 2024](2024-12-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [9–15 December 2024](2024-12-15-Voxmeter.html) | Voxmeter |  |  |  |  |  |
-| [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [4–10 December 2024](2024-12-10-Verian.html) | Verian <br> Berlingske | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [4 November–10 December 2024](2024-12-10-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
 | [2–8 December 2024](2024-12-08-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [25 November–1 December 2024](2024-12-01-Voxmeter.html) | Voxmeter |  |  |  |  |  |
@@ -130,9 +130,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 12% | 100% |  |
-| 3 | 84% | 88% | Median |
-| 4 | 4% | 4% |  |
+| 2 | 10% | 100% |  |
+| 3 | 87% | 90% | Median |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 
