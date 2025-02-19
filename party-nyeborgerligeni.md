@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.2% | 0.1–0.4% | 0.1–0.4% | 0.1–0.5% | 0.0–0.6% |
+| N/A | [Poll Average](average.html) | 0.4% | 0.3–0.7% | 0.3–0.8% | 0.2–0.8% | 0.2–1.0% |
+| [10–16 February 2025](2025-02-16-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [3–9 February 2025](2025-02-09-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [29 January–4 February 2025](2025-02-04-Verian.html) | Verian <br> Berlingske | 0.4% | 0.3–0.7% | 0.2–0.8% | 0.2–0.8% | 0.2–1.0% |
 | [27 January–2 February 2025](2025-02-02-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [20–26 January 2025](2025-01-26-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [15–22 January 2025](2025-01-22-Epinion.html) | Epinion <br> DR | 0.0% | N/A | N/A | N/A | N/A |
@@ -53,8 +55,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 98.6% | 100% | Last Result, Median |
-| 0.5–1.5% | 1.4% | 1.4% |  |
+| 0.0–0.5% | 71% | 100% | Last Result, Median |
+| 0.5–1.5% | 29% | 29% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -67,7 +69,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–16 February 2025](2025-02-16-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [3–9 February 2025](2025-02-09-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [29 January–4 February 2025](2025-02-04-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [27 January–2 February 2025](2025-02-02-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [20–26 January 2025](2025-01-26-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [15–22 January 2025](2025-01-22-Epinion.html) | Epinion <br> DR |  |  |  |  |  |
