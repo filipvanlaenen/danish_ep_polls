@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.9–3.0% | 1.8–3.2% | 1.7–3.4% | 1.5–3.8% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
+| [17–23 March 2025](2025-03-23-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [10–16 March 2025](2025-03-16-Voxmeter.html) | Voxmeter | 2.5% | 2.0–3.2% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [3–9 March 2025](2025-03-09-Voxmeter.html) | Voxmeter | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [26 February–4 March 2025](2025-03-04-Verian.html) | Verian <br> Berlingske | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.5–3.3% |
@@ -61,10 +62,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.8% | 100% |  |
-| 1.5–2.5% | 63% | 99.2% | Median |
-| 2.5–3.5% | 35% | 37% |  |
-| 3.5–4.5% | 1.3% | 1.4% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 69% | 98% | Median |
+| 2.5–3.5% | 29% | 29% |  |
+| 3.5–4.5% | 0.5% | 0.5% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -77,6 +78,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–23 March 2025](2025-03-23-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [10–16 March 2025](2025-03-16-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [3–9 March 2025](2025-03-09-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [26 February–4 March 2025](2025-03-04-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
