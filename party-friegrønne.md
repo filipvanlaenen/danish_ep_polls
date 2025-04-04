@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.1% | 0.1–0.3% | 0.1–0.3% | 0.0–0.4% | 0.0–0.5% |
+| [24–30 March 2025](2025-03-30-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [19–26 March 2025](2025-03-26-Epinion.html) | Epinion <br> Altinget and DR | 0.0% | N/A | N/A | N/A | N/A |
 | [17–23 March 2025](2025-03-23-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [10–16 March 2025](2025-03-16-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [3–9 March 2025](2025-03-09-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
@@ -75,6 +77,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–30 March 2025](2025-03-30-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [19–26 March 2025](2025-03-26-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
 | [17–23 March 2025](2025-03-23-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [10–16 March 2025](2025-03-16-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [3–9 March 2025](2025-03-09-Voxmeter.html) | Voxmeter |  |  |  |  |  |
