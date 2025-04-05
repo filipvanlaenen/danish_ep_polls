@@ -103,9 +103,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [3 April 2025](2025-04-03-Verian.html) | Verian <br> Berlingske | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [24–30 March 2025](2025-03-30-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [3 April 2025](2025-04-03-Verian.html) | Verian <br> Berlingske | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [24–30 March 2025](2025-03-30-Voxmeter.html) | Voxmeter | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [19–26 March 2025](2025-03-26-Epinion.html) | Epinion <br> Altinget and DR | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17–23 March 2025](2025-03-23-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [10–16 March 2025](2025-03-16-Voxmeter.html) | Voxmeter | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -162,9 +162,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.8% | 100% |  |
-| 4 | 74% | 99.2% | Median |
-| 5 | 25% | 25% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 71% | 99.5% | Median |
+| 5 | 28% | 28% |  |
 | 6 | 0% | 0% |  |
 
 
