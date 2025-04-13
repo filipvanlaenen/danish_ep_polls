@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.3% | 1.0–2.4% | 0.9–2.6% | 0.8–2.9% |
-| [3 April 2025](2025-04-03-Verian.html) | Verian <br> Berlingske | 1.8% | 1.5–2.3% | 1.4–2.5% | 1.3–2.6% | 1.1–2.9% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [31 March–6 April 2025](2025-04-06-Voxmeter.html) | Voxmeter | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.8% |
+| [26 March–1 April 2025](2025-04-01-Verian.html) | Verian <br> Berlingske | 1.8% | 1.5–2.3% | 1.4–2.5% | 1.3–2.6% | 1.1–2.9% |
 | [24–30 March 2025](2025-03-30-Voxmeter.html) | Voxmeter | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.7% | 1.0–3.1% |
 | [19–26 March 2025](2025-03-26-Epinion.html) | Epinion <br> Altinget and DR | 1.2% | 0.9–1.6% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% |
 | [17–23 March 2025](2025-03-23-Voxmeter.html) | Voxmeter | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
@@ -65,9 +66,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 41% | 100% |  |
-| 1.5–2.5% | 56% | 59% | Median |
-| 2.5–3.5% | 3% | 3% |  |
+| 0.5–1.5% | 51% | 100% |  |
+| 1.5–2.5% | 48% | 49% | Median |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -80,7 +81,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [3 April 2025](2025-04-03-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
+| [31 March–6 April 2025](2025-04-06-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
+| [26 March–1 April 2025](2025-04-01-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [24–30 March 2025](2025-03-30-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [19–26 March 2025](2025-03-26-Epinion.html) | Epinion <br> Altinget and DR | 0 | 0 | 0 | 0 | 0 |
 | [17–23 March 2025](2025-03-23-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
