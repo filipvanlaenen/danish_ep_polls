@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% |
+| [14–20 April 2025](2025-04-20-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [7–13 April 2025](2025-04-13-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [31 March–6 April 2025](2025-04-06-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
 | [26 March–1 April 2025](2025-04-01-Verian.html) | Verian <br> Berlingske | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% |
@@ -81,6 +82,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–20 April 2025](2025-04-20-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [7–13 April 2025](2025-04-13-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [31 March–6 April 2025](2025-04-06-Voxmeter.html) | Voxmeter |  |  |  |  |  |
 | [26 March–1 April 2025](2025-04-01-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
