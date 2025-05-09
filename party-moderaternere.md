@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 3.0–4.4% | 2.9–4.6% | 2.7–4.7% | 2.4–5.1% |
+| N/A | [Poll Average](average.html) | 3.9% | 3.2–4.6% | 3.1–4.8% | 2.9–5.0% | 2.6–5.4% |
+| [28 April–4 May 2025](2025-05-04-Voxmeter.html) | Voxmeter | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
+| [22–29 April 2025](2025-04-29-Epinion.html) | Epinion <br> Altinget and DR | 3.9% | 3.3–4.6% | 3.2–4.8% | 3.0–5.0% | 2.8–5.4% |
 | [21–27 April 2025](2025-04-27-Voxmeter.html) | Voxmeter | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [14–20 April 2025](2025-04-20-Voxmeter.html) | Voxmeter | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [7–13 April 2025](2025-04-13-Voxmeter.html) | Voxmeter | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.2% |
@@ -70,11 +72,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.1% | 100% |  |
-| 2.5–3.5% | 39% | 98.9% |  |
-| 3.5–4.5% | 54% | 59% | Median |
-| 4.5–5.5% | 5% | 5% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 0.3% | 100% |  |
+| 2.5–3.5% | 26% | 99.7% |  |
+| 3.5–4.5% | 62% | 73% | Median |
+| 4.5–5.5% | 11% | 11% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -86,7 +88,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [28 April–4 May 2025](2025-05-04-Voxmeter.html) | Voxmeter | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [22–29 April 2025](2025-04-29-Epinion.html) | Epinion <br> Altinget and DR | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [21–27 April 2025](2025-04-27-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
 | [14–20 April 2025](2025-04-20-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
 | [7–13 April 2025](2025-04-13-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -146,8 +150,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Last Result, Median |
-| 1 | 1.4% | 1.4% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 5% | 5% |  |
 | 2 | 0% | 0% |  |
 
 
