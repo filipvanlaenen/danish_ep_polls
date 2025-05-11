@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 09 May 2025 18:28:00 +0200</pubDate>
+    <pubDate>Sun, 11 May 2025 19:22:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 9 May 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian-seats.png"
+        length="306139"
+        type="image/png"/>
+      <pubDate>Sun, 11 May 2025 19:22:57 +0200</pubDate>
+      <dc:date>2025-05-11T19:22:57.727557+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 9 May 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian-coalitions-seats.png"
+        length="148924"
+        type="image/png"/>
+      <pubDate>Sun, 11 May 2025 19:22:57 +0200</pubDate>
+      <dc:date>2025-05-11T19:22:57.727557+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 9 May 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 4.1–6.2%&lt;/li&gt;&lt;li&gt;Venstre (RE): 10.3–13.3%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 5.3–7.7%&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 1.2–2.5%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 13.3–16.7%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 21.0–24.9%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 2.8–4.6%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 6.6–9.1%&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 8.7–11.6%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.0–2.2%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 4.7–6.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 6.0–8.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.png"
+        length="361418"
+        type="image/png"/>
+      <pubDate>Sun, 11 May 2025 19:22:57 +0200</pubDate>
+      <dc:date>2025-05-11T19:22:57.727557+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter, 28 April–4 May 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-05-04-Voxmeter.html#seats</link>
@@ -669,6 +699,6 @@
       <pubDate>Sun, 09 Feb 2025 16:33:15 +0100</pubDate>
       <dc:date>2025-02-09T16:33:15.879863+01:00</dc:date>
     </item>
-    <dc:date>2025-05-09T18:28:00.677787+02:00</dc:date>
+    <dc:date>2025-05-11T19:22:57.727557+02:00</dc:date>
   </channel>
 </rss>
