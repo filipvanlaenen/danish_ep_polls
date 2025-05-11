@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 13 Jul 2024 21:27:48 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Verian for Berlingske, 9 May 2025 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Verian for Berlingske, 9 May 2025<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian-seating-plan.png" length="269679" type="image/png"/>
+      <pubDate>Sun, 11 May 2025 19:22:57 +0200</pubDate>
+      <dc:date>2025-05-11T19:22:57.727557045+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 9 May 2025 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Verian for Berlingske, 9 May 2025<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian-seats.png" length="306139" type="image/png"/>
+      <pubDate>Sun, 11 May 2025 19:22:57 +0200</pubDate>
+      <dc:date>2025-05-11T19:22:57.727557045+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 9 May 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Verian for Berlingske, 9 May 2025<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-05-09-Verian.png" length="361418" type="image/png"/>
+      <pubDate>Sun, 11 May 2025 19:22:57 +0200</pubDate>
+      <dc:date>2025-05-11T19:22:57.727557045+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter, 28 April–4 May 2025 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-05-04-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 28 April–4 May 2025<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2025-05-04-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2025-05-04-Voxmeter-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-03-26-Epinion.png" length="364345" type="image/png"/>
       <pubDate>Sat, 5 Apr 2025 11:56:43 +0200</pubDate>
       <dc:date>2025-04-05T11:56:43.948617855+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 17–23 March 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 17–23 March 2025<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter-seating-plan.png" length="271098" type="image/png"/>
-      <pubDate>Thu, 27 Mar 2025 12:59:44 +0100</pubDate>
-      <dc:date>2025-03-27T12:59:44.138344756+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 17–23 March 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter, 17–23 March 2025<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter-seats.png" length="280644" type="image/png"/>
-      <pubDate>Thu, 27 Mar 2025 12:59:44 +0100</pubDate>
-      <dc:date>2025-03-27T12:59:44.138344756+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter, 17–23 March 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter, 17–23 March 2025<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-03-23-Voxmeter.png" length="372765" type="image/png"/>
-      <pubDate>Thu, 27 Mar 2025 12:59:44 +0100</pubDate>
-      <dc:date>2025-03-27T12:59:44.138344756+01:00</dc:date>
     </item>
   </channel>
 </rss>
