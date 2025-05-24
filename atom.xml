@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2025-05-13T22:31:36.737023+02:00</updated>
+  <updated>2025-05-20T21:58:03.045282+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Radikale Venstre (RE): 3.7–6.4%, 0–1 seats</li><li>Venstre (RE): 8.3–12.0%, 1–2 seats</li><li>Dansk Folkeparti (PfE): 3.3–5.9%, 0–1 seats</li><li>Borgernes Parti (NI): 1.1–2.7%, 0 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 11.9–16.2%, 2–3 seats</li><li>Socialdemokraterne (S&amp;D): 21.4–26.7%, 4–5 seats</li><li>Moderaterne (RE): 2.3–4.6%, 0 seats</li><li>Danmarksdemokraterne (ECR): 7.9–11.6%, 1–2 seats</li><li>Liberal Alliance (EPP): 11.3–15.5%, 2–3 seats</li><li>Det Konservative Folkeparti (EPP): 4.4–7.3%, 0–1 seats</li><li>Alternativet (Greens/EFA): 1.4–3.2%, 0 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 5.3–8.4%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2025-05-18-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2025-05-18-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter, 12–18 May 2025</title>
+    <updated>2025-05-20T21:58:03.045282+02:00</updated>
+    <dc:date>2025-05-20T21:58:03.045282+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Radikale Venstre (RE): 3.1–5.6%, 0–1 seats</li><li>Venstre (RE): 8.9–12.7%, 1–2 seats</li><li>Dansk Folkeparti (PfE): 4.0–6.7%, 0–1 seats</li><li>Borgernes Parti (NI): 0.5–1.7%, 0 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 10.9–15.0%, 2–3 seats</li><li>Socialdemokraterne (S&amp;D): 20.9–26.2%, 4–5 seats</li><li>Moderaterne (RE): 2.4–4.7%, 0 seats</li><li>Danmarksdemokraterne (ECR): 7.7–11.3%, 1–2 seats</li><li>Liberal Alliance (EPP): 10.4–14.5%, 2–3 seats</li><li>Alternativet (Greens/EFA): 2.1–4.2%, 0 seats</li><li>Det Konservative Folkeparti (EPP): 4.8–7.8%, 1 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 5.9–9.1%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2025-05-11-Voxmeter.html</id>
@@ -199,5 +207,5 @@
     <updated>2025-02-09T16:33:15.879863+01:00</updated>
     <dc:date>2025-02-09T16:33:15.879863+01:00</dc:date>
   </entry>
-  <dc:date>2025-05-13T22:31:36.737023+02:00</dc:date>
+  <dc:date>2025-05-20T21:58:03.045282+02:00</dc:date>
 </feed>
