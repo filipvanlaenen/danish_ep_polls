@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.1% | 9.7–12.4% | 9.4–12.7% | 9.1–13.0% | 8.6–13.6% |
-| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter | 10.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 10.8% | 9.5–12.2% | 9.2–12.6% | 8.9–12.9% | 8.4–13.5% |
+| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter | 10.4% | 9.2–11.7% | 8.9–12.1% | 8.6–12.4% | 8.1–13.1% |
 | [19–25 May 2025](2025-05-25-Voxmeter.html) | Voxmeter | 10.9% | 9.7–12.2% | 9.4–12.6% | 9.1–13.0% | 8.6–13.6% |
 | [12–18 May 2025](2025-05-18-Voxmeter.html) | Voxmeter | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [5–11 May 2025](2025-05-11-Voxmeter.html) | Voxmeter | 10.6% | 9.5–12.0% | 9.1–12.4% | 8.9–12.7% | 8.3–13.4% |
@@ -83,13 +83,13 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 7% | 99.6% |  |
-| 9.5–10.5% | 25% | 92% |  |
-| 10.5–11.5% | 34% | 67% | Median |
-| 11.5–12.5% | 25% | 33% |  |
-| 12.5–13.5% | 7% | 8% |  |
-| 13.5–14.5% | 0.6% | 0.6% |  |
+| 7.5–8.5% | 0.9% | 100% |  |
+| 8.5–9.5% | 10% | 99.1% |  |
+| 9.5–10.5% | 29% | 89% |  |
+| 10.5–11.5% | 34% | 60% | Median |
+| 11.5–12.5% | 20% | 26% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 0.4% | 0.4% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -101,8 +101,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
-| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–25 May 2025](2025-05-25-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [12–18 May 2025](2025-05-18-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–11 May 2025](2025-05-11-Voxmeter.html) | Voxmeter | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -169,8 +169,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 4% | 100% |  |
-| 2 | 96% | 96% | Median |
+| 1 | 9% | 100% |  |
+| 2 | 91% | 91% | Median |
 | 3 | 0% | 0% |  |
 
 
