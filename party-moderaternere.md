@@ -94,7 +94,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
-| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
+| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [19–25 May 2025](2025-05-25-Voxmeter.html) | Voxmeter | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–18 May 2025](2025-05-18-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
 | [5–11 May 2025](2025-05-11-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0–1 |
