@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [9–15 June 2025](2025-06-15-Voxmeter.html) | Voxmeter | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [2–8 June 2025](2025-06-08-Voxmeter.html) | Voxmeter | 1.7% | N/A | N/A | N/A | N/A |
 | [26 May–2 June 2025](2025-06-02-Epinion.html) | Epinion <br> Altinget and DR | 1.8% | 1.4–2.3% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% |
-| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
+| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter | 1.7% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
 | [19–25 May 2025](2025-05-25-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [12–18 May 2025](2025-05-18-Voxmeter.html) | Voxmeter | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [5–11 May 2025](2025-05-11-Voxmeter.html) | Voxmeter | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
