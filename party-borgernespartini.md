@@ -10,13 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.8% | 1.4–3.1% | 1.3–3.3% | 1.1–3.8% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.2% | 0.7–2.4% | 0.6–2.6% | 0.5–3.0% |
+| [13–20 August 2025](2025-08-20-Epinion.html) | Epinion <br> Altinget and DR | 1.0% | 0.7–1.4% | 0.6–1.5% | 0.6–1.6% | 0.5–1.8% |
+| [11–17 August 2025](2025-08-17-Voxmeter.html) | Voxmeter <br> Ritzau | 1.8% | 1.4–2.4% | 1.2–2.6% | 1.1–2.8% | 1.0–3.1% |
 | [23–29 June 2025](2025-06-29-Voxmeter.html) | Voxmeter | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [16–22 June 2025](2025-06-22-Voxmeter.html) | Voxmeter | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
 | [9–15 June 2025](2025-06-15-Voxmeter.html) | Voxmeter | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [2–8 June 2025](2025-06-08-Voxmeter.html) | Voxmeter | 1.7% | N/A | N/A | N/A | N/A |
 | [26 May–2 June 2025](2025-06-02-Epinion.html) | Epinion <br> Altinget and DR | 1.8% | 1.4–2.3% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% |
-| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter | 1.7% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
+| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
 | [19–25 May 2025](2025-05-25-Voxmeter.html) | Voxmeter | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [12–18 May 2025](2025-05-18-Voxmeter.html) | Voxmeter | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [5–11 May 2025](2025-05-11-Voxmeter.html) | Voxmeter | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
@@ -80,12 +82,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 14% | 100% |  |
-| 1.5–2.5% | 68% | 86% | Median |
-| 2.5–3.5% | 17% | 19% |  |
-| 3.5–4.5% | 1.2% | 1.2% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.6% | 100% | Last Result |
+| 0.5–1.5% | 59% | 99.4% | Median |
+| 1.5–2.5% | 37% | 40% |  |
+| 2.5–3.5% | 3% | 3% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -97,6 +98,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–20 August 2025](2025-08-20-Epinion.html) | Epinion <br> Altinget and DR | 0 | 0 | 0 | 0 | 0 |
+| [11–17 August 2025](2025-08-17-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [23–29 June 2025](2025-06-29-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [16–22 June 2025](2025-06-22-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |
 | [9–15 June 2025](2025-06-15-Voxmeter.html) | Voxmeter | 0 | 0 | 0 | 0 | 0 |

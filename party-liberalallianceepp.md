@@ -10,13 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.6% | 9.7–13.7% | 9.4–14.3% | 9.1–14.7% | 8.6–15.6% |
+| N/A | [Poll Average](average.html) | 12.7% | 11.5–13.9% | 11.2–14.3% | 10.9–14.7% | 10.4–15.4% |
+| [13–20 August 2025](2025-08-20-Epinion.html) | Epinion <br> Altinget and DR | 12.5% | 11.5–13.6% | 11.2–14.0% | 10.9–14.3% | 10.5–14.8% |
+| [11–17 August 2025](2025-08-17-Voxmeter.html) | Voxmeter <br> Ritzau | 12.8% | 11.5–14.2% | 11.2–14.6% | 10.9–14.9% | 10.3–15.6% |
 | [23–29 June 2025](2025-06-29-Voxmeter.html) | Voxmeter | 13.1% | 11.8–14.5% | 11.4–15.0% | 11.1–15.3% | 10.5–16.0% |
 | [16–22 June 2025](2025-06-22-Voxmeter.html) | Voxmeter | 12.2% | 11.0–13.5% | 10.6–13.9% | 10.3–14.3% | 9.8–15.0% |
 | [9–15 June 2025](2025-06-15-Voxmeter.html) | Voxmeter | 12.5% | 11.3–13.9% | 10.9–14.4% | 10.6–14.7% | 10.0–15.4% |
 | [2–8 June 2025](2025-06-08-Voxmeter.html) | Voxmeter | 10.8% | N/A | N/A | N/A | N/A |
 | [26 May–2 June 2025](2025-06-02-Epinion.html) | Epinion <br> Altinget and DR | 11.7% | 10.7–12.8% | 10.4–13.1% | 10.2–13.4% | 9.7–13.9% |
-| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter | 10.8% | 10.5–13.1% | 10.2–13.5% | 9.9–13.9% | 9.3–14.6% |
+| [25 May–1 June 2025](2025-06-01-Voxmeter.html) | Voxmeter | 11.7% | 10.5–13.1% | 10.2–13.5% | 9.9–13.9% | 9.3–14.6% |
 | [19–25 May 2025](2025-05-25-Voxmeter.html) | Voxmeter | 13.1% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
 | [12–18 May 2025](2025-05-18-Voxmeter.html) | Voxmeter | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.5% | 10.7–16.3% |
 | [5–11 May 2025](2025-05-11-Voxmeter.html) | Voxmeter | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
@@ -88,15 +90,15 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 7% | 99.6% |  |
-| 9.5–10.5% | 19% | 93% |  |
-| 10.5–11.5% | 22% | 74% |  |
-| 11.5–12.5% | 23% | 52% | Median |
-| 12.5–13.5% | 17% | 29% |  |
-| 13.5–14.5% | 9% | 12% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.8% | 100% |  |
+| 10.5–11.5% | 10% | 99.2% |  |
+| 11.5–12.5% | 34% | 89% |  |
+| 12.5–13.5% | 37% | 55% | Median |
+| 13.5–14.5% | 15% | 18% |  |
 | 14.5–15.5% | 3% | 3% |  |
-| 15.5–16.5% | 0.5% | 0.5% |  |
+| 15.5–16.5% | 0.3% | 0.3% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -108,7 +110,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [13–20 August 2025](2025-08-20-Epinion.html) | Epinion <br> Altinget and DR | 2 | 2 | 2 | 2 | 2–3 |
+| [11–17 August 2025](2025-08-17-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–29 June 2025](2025-06-29-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [16–22 June 2025](2025-06-22-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 2–3 |
 | [9–15 June 2025](2025-06-15-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -181,9 +185,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 14% | 100% |  |
-| 2 | 83% | 86% | Median |
-| 3 | 3% | 3% |  |
+| 1 | 0% | 100% |  |
+| 2 | 94% | 100% | Median |
+| 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
 
