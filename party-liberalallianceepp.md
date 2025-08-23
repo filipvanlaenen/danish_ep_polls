@@ -112,7 +112,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [13–20 August 2025](2025-08-20-Epinion.html) | Epinion <br> Altinget and DR | 2 | 2 | 2 | 2 | 2–3 |
-| [11–17 August 2025](2025-08-17-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [11–17 August 2025](2025-08-17-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [23–29 June 2025](2025-06-29-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [16–22 June 2025](2025-06-22-Voxmeter.html) | Voxmeter | 2 | 2 | 2 | 2 | 2–3 |
 | [9–15 June 2025](2025-06-15-Voxmeter.html) | Voxmeter | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -186,8 +186,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 94% | 100% | Median |
-| 3 | 6% | 6% |  |
+| 2 | 95% | 100% | Median |
+| 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
 
