@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 05 Sep 2025 17:14:45 +0200</pubDate>
+    <pubDate>Fri, 12 Sep 2025 16:46:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 1–7 September 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-09-07-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-09-07-Voxmeter-seats.png"
+        length="290509"
+        type="image/png"/>
+      <pubDate>Fri, 12 Sep 2025 16:46:00 +0200</pubDate>
+      <dc:date>2025-09-12T16:46:00.844008+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 1–7 September 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-09-07-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-09-07-Voxmeter-coalitions-seats.png"
+        length="162649"
+        type="image/png"/>
+      <pubDate>Fri, 12 Sep 2025 16:46:00 +0200</pubDate>
+      <dc:date>2025-09-12T16:46:00.844008+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 1–7 September 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-09-07-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Venstre (RE): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 11.3–15.6%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 19.0–24.1%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 8.5–12.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 9.9–14.0%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 4.9–7.9%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 5.9–9.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-09-07-Voxmeter.png"
+        length="385097"
+        type="image/png"/>
+      <pubDate>Fri, 12 Sep 2025 16:46:00 +0200</pubDate>
+      <dc:date>2025-09-12T16:46:00.844008+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 25–31 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-08-31-Voxmeter.html#seats</link>
@@ -1059,6 +1089,6 @@
       <pubDate>Sun, 09 Feb 2025 16:33:15 +0100</pubDate>
       <dc:date>2025-02-09T16:33:15.879863+01:00</dc:date>
     </item>
-    <dc:date>2025-09-05T17:14:45.667323+02:00</dc:date>
+    <dc:date>2025-09-12T16:46:00.844008+02:00</dc:date>
   </channel>
 </rss>
