@@ -11,7 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.2–0.6% | 0.2–0.6% | 0.1–0.7% | 0.1–0.9% |
-| [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter | 0.0% | N/A | N/A | N/A | N/A |
+| [13–19 October 2025](2025-10-19-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
+| [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [23 September–5 October 2025](2025-10-05-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [26 September–2 October 2025](2025-10-02-Epinion.html) | Epinion <br> Altinget and DR | 0.0% | N/A | N/A | N/A | N/A |
 | [24–30 September 2025](2025-09-30-Verian.html) | Verian <br> Berlingske | 0.3% | 0.2–0.6% | 0.2–0.6% | 0.1–0.7% | 0.1–0.9% |
@@ -106,7 +107,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter |  |  |  |  |  |
+| [13–19 October 2025](2025-10-19-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [23 September–5 October 2025](2025-10-05-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [26 September–2 October 2025](2025-10-02-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
 | [24–30 September 2025](2025-09-30-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |

@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.1% | 8.7–11.5% | 8.4–11.9% | 8.1–12.2% | 7.7–13.0% |
-| [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.7% | 8.4–13.4% |
+| N/A | [Poll Average](average.html) | 10.3% | 8.7–12.4% | 8.4–12.9% | 8.1–13.3% | 7.7–14.1% |
+| [13–19 October 2025](2025-10-19-Voxmeter.html) | Voxmeter <br> Ritzau | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–13.9% | 9.4–14.6% |
+| [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.7% | 8.4–13.4% |
 | [23 September–5 October 2025](2025-10-05-Voxmeter.html) | Voxmeter <br> Ritzau | 9.5% | 8.4–10.8% | 8.1–11.1% | 7.9–11.5% | 7.4–12.1% |
 | [26 September–2 October 2025](2025-10-02-Epinion.html) | Epinion <br> Altinget and DR | 9.1% | 8.2–10.1% | 8.0–10.4% | 7.8–10.6% | 7.4–11.1% |
 | [24–30 September 2025](2025-09-30-Verian.html) | Verian <br> Berlingske | 10.3% | 9.4–11.4% | 9.1–11.6% | 8.9–11.9% | 8.5–12.4% |
@@ -101,13 +102,14 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.3% | 100% |  |
 | 7.5–8.5% | 7% | 99.7% |  |
-| 8.5–9.5% | 25% | 93% |  |
-| 9.5–10.5% | 35% | 68% | Median |
-| 10.5–11.5% | 24% | 33% |  |
-| 11.5–12.5% | 7% | 9% |  |
-| 12.5–13.5% | 1.2% | 1.3% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 8.5–9.5% | 22% | 93% |  |
+| 9.5–10.5% | 27% | 71% | Median |
+| 10.5–11.5% | 22% | 44% |  |
+| 11.5–12.5% | 14% | 22% |  |
+| 12.5–13.5% | 6% | 8% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -119,7 +121,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13–19 October 2025](2025-10-19-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 1–2 | 1–3 |
+| [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 September–5 October 2025](2025-10-05-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 September–2 October 2025](2025-10-02-Epinion.html) | Epinion <br> Altinget and DR | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–30 September 2025](2025-09-30-Verian.html) | Verian <br> Berlingske | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -203,8 +206,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 30% | 100% |  |
-| 2 | 70% | 70% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 26% | 100% |  |
+| 2 | 74% | 74% | Median |
+| 3 | 0.3% | 0.3% |  |
+| 4 | 0% | 0% |  |
 
 
