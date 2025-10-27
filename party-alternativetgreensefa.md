@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.1–2.9% | 1.0–3.1% | 0.9–3.2% | 0.8–3.6% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.1–2.7% | 1.0–2.9% | 0.9–3.1% | 0.8–3.4% |
+| [20–26 October 2025](2025-10-26-Voxmeter.html) | Voxmeter <br> Ritzau | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [13–19 October 2025](2025-10-19-Voxmeter.html) | Voxmeter <br> Ritzau | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
 | [23 September–5 October 2025](2025-10-05-Voxmeter.html) | Voxmeter <br> Ritzau | 2.2% | 1.7–2.9% | 1.6–3.2% | 1.5–3.3% | 1.3–3.7% |
@@ -94,10 +95,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 29% | 100% |  |
-| 1.5–2.5% | 46% | 71% | Median |
-| 2.5–3.5% | 24% | 25% |  |
-| 3.5–4.5% | 0.6% | 0.6% |  |
+| 0.5–1.5% | 36% | 100% |  |
+| 1.5–2.5% | 48% | 64% | Median |
+| 2.5–3.5% | 16% | 16% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -110,6 +111,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–26 October 2025](2025-10-26-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [13–19 October 2025](2025-10-19-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [23 September–5 October 2025](2025-10-05-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |

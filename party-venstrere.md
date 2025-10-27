@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.3% | 8.7–12.4% | 8.4–12.9% | 8.1–13.3% | 7.7–14.1% |
+| N/A | [Poll Average](average.html) | 10.0% | 8.7–11.3% | 8.4–11.7% | 8.1–12.0% | 7.6–12.7% |
+| [20–26 October 2025](2025-10-26-Voxmeter.html) | Voxmeter <br> Ritzau | 10.4% | 9.2–11.7% | 8.9–12.1% | 8.6–12.4% | 8.1–13.1% |
 | [13–19 October 2025](2025-10-19-Voxmeter.html) | Voxmeter <br> Ritzau | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–13.9% | 9.4–14.6% |
 | [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.7% | 8.4–13.4% |
 | [23 September–5 October 2025](2025-10-05-Voxmeter.html) | Voxmeter <br> Ritzau | 9.5% | 8.4–10.8% | 8.1–11.1% | 7.9–11.5% | 7.4–12.1% |
@@ -102,14 +103,13 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.3% | 100% |  |
 | 7.5–8.5% | 7% | 99.7% |  |
-| 8.5–9.5% | 22% | 93% |  |
-| 9.5–10.5% | 27% | 71% | Median |
-| 10.5–11.5% | 22% | 44% |  |
-| 11.5–12.5% | 14% | 22% |  |
-| 12.5–13.5% | 6% | 8% |  |
-| 13.5–14.5% | 2% | 2% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 8.5–9.5% | 27% | 92% |  |
+| 9.5–10.5% | 36% | 66% | Median |
+| 10.5–11.5% | 23% | 29% |  |
+| 11.5–12.5% | 6% | 6% |  |
+| 12.5–13.5% | 0.7% | 0.7% |  |
+| 13.5–14.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -121,6 +121,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–26 October 2025](2025-10-26-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–19 October 2025](2025-10-19-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 1–2 | 1–3 |
 | [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 September–5 October 2025](2025-10-05-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -206,9 +207,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 26% | 100% |  |
-| 2 | 74% | 74% | Median |
-| 3 | 0.3% | 0.3% |  |
+| 1 | 33% | 100% |  |
+| 2 | 67% | 67% | Median |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 
