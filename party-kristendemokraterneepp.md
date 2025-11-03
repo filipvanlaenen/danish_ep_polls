@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.2–0.6% | 0.2–0.6% | 0.1–0.7% | 0.1–0.9% |
+| [27 October–2 November 2025](2025-11-02-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [20–26 October 2025](2025-10-26-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [13–19 October 2025](2025-10-19-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
 | [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter <br> Ritzau | 0.0% | N/A | N/A | N/A | N/A |
@@ -108,6 +109,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27 October–2 November 2025](2025-11-02-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [20–26 October 2025](2025-10-26-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [13–19 October 2025](2025-10-19-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [6–12 October 2025](2025-10-12-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
