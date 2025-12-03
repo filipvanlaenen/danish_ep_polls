@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.7% | 11.6–13.9% | 11.3–14.3% | 11.0–14.7% | 10.5–15.4% |
+| N/A | [Poll Average](average.html) | 13.8% | 12.1–15.5% | 11.7–16.0% | 11.4–16.4% | 10.9–17.3% |
+| [24–30 November 2025](2025-11-30-Voxmeter.html) | Voxmeter <br> Ritzau | 14.7% | 13.3–16.2% | 12.9–16.6% | 12.6–17.0% | 12.0–17.8% |
+| [19–25 November 2025](2025-11-25-Epinion.html) | Epinion <br> Altinget and DR | 14.1% | 13.1–15.2% | 12.8–15.6% | 12.5–15.8% | 12.1–16.4% |
 | [17–23 November 2025](2025-11-23-Voxmeter.html) | Voxmeter <br> Ritzau | 13.0% | 11.7–14.4% | 11.4–14.8% | 11.1–15.2% | 10.5–15.9% |
 | [10–16 November 2025](2025-11-16-Voxmeter.html) | Voxmeter <br> Ritzau | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [3–9 November 2025](2025-11-09-Voxmeter.html) | Voxmeter <br> Ritzau | 12.2% | 11.0–13.7% | 10.7–14.1% | 10.3–14.4% | 9.8–15.1% |
@@ -109,14 +111,16 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.5% | 100% |  |
-| 10.5–11.5% | 9% | 99.5% |  |
-| 11.5–12.5% | 35% | 91% |  |
-| 12.5–13.5% | 38% | 56% | Median |
-| 13.5–14.5% | 15% | 18% |  |
-| 14.5–15.5% | 3% | 3% |  |
-| 15.5–16.5% | 0.4% | 0.4% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 9.5–10.5% | 0.1% | 100% |  |
+| 10.5–11.5% | 3% | 99.9% |  |
+| 11.5–12.5% | 15% | 97% |  |
+| 12.5–13.5% | 24% | 82% |  |
+| 13.5–14.5% | 28% | 57% | Median |
+| 14.5–15.5% | 20% | 29% |  |
+| 15.5–16.5% | 7% | 9% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.2% | 0.3% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -127,7 +131,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [24–30 November 2025](2025-11-30-Voxmeter.html) | Voxmeter <br> Ritzau | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [19–25 November 2025](2025-11-25-Epinion.html) | Epinion <br> Altinget and DR | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–23 November 2025](2025-11-23-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [10–16 November 2025](2025-11-16-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 2 | 2–3 |
 | [3–9 November 2025](2025-11-09-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -220,8 +226,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 95% | 100% | Median |
-| 3 | 5% | 5% |  |
+| 2 | 57% | 100% | Median |
+| 3 | 43% | 43% |  |
 | 4 | 0% | 0% |  |
 
 
