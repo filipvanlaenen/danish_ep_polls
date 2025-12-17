@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 15 Dec 2025 22:45:44 +0100</pubDate>
+    <pubDate>Wed, 17 Dec 2025 19:27:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 8–14 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-12-14-Voxmeter.html#seats</link>
@@ -98,6 +98,36 @@
         type="image/png"/>
       <pubDate>Tue, 09 Dec 2025 19:20:30 +0100</pubDate>
       <dc:date>2025-12-09T19:20:30.52357+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 26 November–2 December 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-12-02-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-12-02-Verian-seats.png"
+        length="284106"
+        type="image/png"/>
+      <pubDate>Wed, 17 Dec 2025 19:27:49 +0100</pubDate>
+      <dc:date>2025-12-17T19:27:49.310997+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 26 November–2 December 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-12-02-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-12-02-Verian-coalitions-seats.png"
+        length="151532"
+        type="image/png"/>
+      <pubDate>Wed, 17 Dec 2025 19:27:49 +0100</pubDate>
+      <dc:date>2025-12-17T19:27:49.310997+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 26 November–2 December 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2025-12-02-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 3.8–5.9%&lt;/li&gt;&lt;li&gt;Venstre (RE): 9.8–12.8%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 7.4–10.1%&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 13.9–17.4%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 17.5–21.3%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 2.5–4.3%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 8.2–11.0%&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 9.5–12.5%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 6.1–8.6%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.2–2.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 4.6–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2025-12-02-Verian.png"
+        length="375093"
+        type="image/png"/>
+      <pubDate>Wed, 17 Dec 2025 19:27:49 +0100</pubDate>
+      <dc:date>2025-12-17T19:27:49.310997+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 24–30 November 2025 – Seat Projections for the Parties</title>
@@ -1659,6 +1689,6 @@
       <pubDate>Sun, 09 Feb 2025 16:33:15 +0100</pubDate>
       <dc:date>2025-02-09T16:33:15.879863+01:00</dc:date>
     </item>
-    <dc:date>2025-12-15T22:45:44.745849+01:00</dc:date>
+    <dc:date>2025-12-17T19:27:49.310997+01:00</dc:date>
   </channel>
 </rss>
