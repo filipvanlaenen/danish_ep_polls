@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | Ø | F | Å | A | V | B | M | C | K | I | Æ | O | H | D | E | P | G | Q |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 5–8% <br> 1 | 12–18% <br> 2–3 | 1–3% <br> 0 | 15–21% <br> 2–4 | 10–14% <br> 2 | 4–7% <br> 0–1 | 1–4% <br> 0 | 6–10% <br> 1 | N/A <br> N/A | 9–13% <br> 1–2 | 8–12% <br> 1–2 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [15–21 December 2025](2025-12-21-Voxmeter.html) | Voxmeter <br> Ritzau | 5–8% <br> 0–1 | 12–16% <br> 2–3 | 1–3% <br> 0 | 17–21% <br> 3–4 | 10–14% <br> 2 | 4–7% <br> 0–1 | 2–4% <br> 0 | 6–10% <br> 1 | N/A <br> N/A | 9–13% <br> 1–2 | 8–12% <br> 1–2 | 5–9% <br> 1 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 5–9% <br> 1 | 13–18% <br> 2–3 | 1–3% <br> 0 | 15–22% <br> 2–4 | 10–13% <br> 1–2 | 4–7% <br> 0–1 | 1–4% <br> 0 | 6–10% <br> 1 | N/A <br> N/A | 9–12% <br> 1–2 | 8–12% <br> 1–2 | 6–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–11 January 2026](2026-01-11-Voxmeter.html) | Voxmeter <br> Ritzau | 6–9% <br> 1 | 13–17% <br> 2–3 | 2–4% <br> 0 | 17–22% <br> 3–4 | 9–13% <br> 1–2 | 4–7% <br> 0–1 | 2–5% <br> 0 | 5–8% <br> 1 | N/A <br> N/A | 9–13% <br> 1–2 | 9–12% <br> 1–2 | 5–8% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–11 December 2025](2025-12-11-Epinion.html) | Epinion <br> Altinget and DR | 6–8% <br> 1 | 14–18% <br> 2–3 | 1–2% <br> 0 | 15–18% <br> 2–3 | 10–13% <br> 2 | 4–6% <br> 0–1 | 1–2% <br> 0 | 7–10% <br> 1–2 | N/A <br> N/A | 9–12% <br> 1–2 | 9–11% <br> 1–2 | 8–11% <br> 1–2 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [26 November–2 December 2025](2025-12-02-Verian.html) | Verian <br> Berlingske | 5–7% <br> 1 | 14–17% <br> 2–3 | 1–2% <br> 0 | 17–21% <br> 3–4 | 10–13% <br> 2 | 4–6% <br> 0–1 | 3–4% <br> 0 | 6–9% <br> 1 | N/A <br> N/A | 9–12% <br> 2 | 8–11% <br> 1–2 | 7–10% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -49,19 +49,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#enhedslisten–de-rød-grønne-(gue/ngl)">Enhedslisten–De Rød-Grønne (GUE/NGL)</a> | 0.0% | 6.2% | 5.2–7.3% |5.0–7.6% | 4.8–7.8% | 4.4–8.3% |
-| <a href="#socialistisk-folkeparti-(greens/efa)">Socialistisk Folkeparti (Greens/EFA)</a> | 0.0% | 15.4% | 13.4–16.8% |12.9–17.2% | 12.5–17.5% | 11.7–18.1% |
-| <a href="#alternativet-(greens/efa)">Alternativet (Greens/EFA)</a> | 0.0% | 1.9% | 1.4–2.5% |1.3–2.7% | 1.2–2.9% | 1.1–3.3% |
-| <a href="#socialdemokraterne-(s&d)">Socialdemokraterne (S&D)</a> | 0.0% | 18.4% | 16.0–20.3% |15.6–20.8% | 15.2–21.1% | 14.6–21.9% |
-| <a href="#venstre-(re)">Venstre (RE)</a> | 0.0% | 11.7% | 10.5–13.0% |10.2–13.5% | 10.0–13.9% | 9.5–14.7% |
+| <a href="#enhedslisten–de-rød-grønne-(gue/ngl)">Enhedslisten–De Rød-Grønne (GUE/NGL)</a> | 0.0% | 6.7% | 5.4–8.0% |5.1–8.4% | 4.9–8.8% | 4.5–9.5% |
+| <a href="#socialistisk-folkeparti-(greens/efa)">Socialistisk Folkeparti (Greens/EFA)</a> | 0.0% | 15.6% | 14.2–16.9% |13.7–17.2% | 13.4–17.6% | 12.6–18.2% |
+| <a href="#alternativet-(greens/efa)">Alternativet (Greens/EFA)</a> | 0.0% | 1.9% | 1.4–2.7% |1.3–3.0% | 1.2–3.2% | 1.1–3.7% |
+| <a href="#socialdemokraterne-(s&d)">Socialdemokraterne (S&D)</a> | 0.0% | 18.8% | 16.0–20.8% |15.6–21.3% | 15.2–21.8% | 14.6–22.7% |
+| <a href="#venstre-(re)">Venstre (RE)</a> | 0.0% | 11.3% | 10.1–12.4% |9.8–12.7% | 9.5–13.0% | 8.9–13.6% |
 | <a href="#radikale-venstre-(re)">Radikale Venstre (RE)</a> | 0.0% | 5.1% | 4.3–6.0% |4.1–6.3% | 4.0–6.6% | 3.7–7.1% |
-| <a href="#moderaterne-(re)">Moderaterne (RE)</a> | 0.0% | 2.8% | 1.4–3.7% |1.2–3.9% | 1.2–4.1% | 1.0–4.4% |
-| <a href="#det-konservative-folkeparti-(epp)">Det Konservative Folkeparti (EPP)</a> | 0.0% | 7.9% | 6.8–9.1% |6.5–9.4% | 6.3–9.7% | 5.9–10.2% |
+| <a href="#moderaterne-(re)">Moderaterne (RE)</a> | 0.0% | 3.0% | 1.4–3.9% |1.2–4.1% | 1.2–4.3% | 1.0–4.8% |
+| <a href="#det-konservative-folkeparti-(epp)">Det Konservative Folkeparti (EPP)</a> | 0.0% | 7.4% | 6.1–8.9% |5.8–9.3% | 5.6–9.6% | 5.1–10.1% |
 | <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#liberal-alliance-(epp)">Liberal Alliance (EPP)</a> | 0.0% | 10.9% | 9.8–12.1% |9.5–12.5% | 9.3–12.9% | 8.8–13.6% |
-| <a href="#danmarksdemokraterne-(ecr)">Danmarksdemokraterne (ECR)</a> | 0.0% | 9.8% | 8.8–11.0% |8.6–11.3% | 8.3–11.6% | 7.9–12.3% |
-| <a href="#dansk-folkeparti-(pfe)">Dansk Folkeparti (PfE)</a> | 0.0% | 8.5% | 6.4–9.8% |6.0–10.1% | 5.7–10.4% | 5.2–10.9% |
-| <a href="#borgernes-parti-(ni)">Borgernes Parti (NI)</a> | 0.0% | 2.0% | 0.9–2.8% |0.8–2.9% | 0.7–3.1% | 0.6–3.5% |
+| <a href="#liberal-alliance-(epp)">Liberal Alliance (EPP)</a> | 0.0% | 10.7% | 9.6–11.8% |9.3–12.1% | 9.0–12.4% | 8.5–13.0% |
+| <a href="#danmarksdemokraterne-(ecr)">Danmarksdemokraterne (ECR)</a> | 0.0% | 9.9% | 8.9–11.1% |8.6–11.5% | 8.4–11.9% | 8.0–12.6% |
+| <a href="#dansk-folkeparti-(pfe)">Dansk Folkeparti (PfE)</a> | 0.0% | 8.5% | 6.1–9.8% |5.8–10.1% | 5.5–10.4% | 5.0–10.9% |
+| <a href="#borgernes-parti-(ni)">Borgernes Parti (NI)</a> | 0.0% | 1.6% | 0.9–2.4% |0.8–2.6% | 0.7–2.8% | 0.6–3.1% |
 | <a href="#nye-borgerlige-(ni)">Nye Borgerlige (NI)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#borgerlisten-(*)">Borgerlisten (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#stram-kurs-(*)">Stram Kurs (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
@@ -99,16 +99,14 @@ Only polls for which at least the sample size has been published are included in
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.6% | 100% |  |
-| 9.5–10.5% | 10% | 99.4% |  |
-| 10.5–11.5% | 36% | 90% |  |
-| 11.5–12.5% | 35% | 54% | Median |
-| 12.5–13.5% | 15% | 19% |  |
-| 13.5–14.5% | 4% | 4% |  |
-| 14.5–15.5% | 0.6% | 0.6% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.2% | 100% |  |
+| 8.5–9.5% | 3% | 99.8% |  |
+| 9.5–10.5% | 18% | 97% |  |
+| 10.5–11.5% | 42% | 79% | Median |
+| 11.5–12.5% | 30% | 37% |  |
+| 12.5–13.5% | 7% | 7% |  |
+| 13.5–14.5% | 0.5% | 0.5% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 ### Dansk Folkeparti (PfE)
 
@@ -120,12 +118,12 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.4% | 100% |  |
-| 5.5–6.5% | 11% | 98.5% |  |
-| 6.5–7.5% | 17% | 88% |  |
-| 7.5–8.5% | 23% | 71% | Median |
-| 8.5–9.5% | 33% | 48% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 3% | 99.9% |  |
+| 5.5–6.5% | 14% | 97% |  |
+| 6.5–7.5% | 14% | 83% |  |
+| 7.5–8.5% | 21% | 68% | Median |
+| 8.5–9.5% | 32% | 48% |  |
 | 9.5–10.5% | 14% | 15% |  |
 | 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -138,11 +136,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 33% | 99.8% |  |
-| 1.5–2.5% | 48% | 66% | Median |
-| 2.5–3.5% | 17% | 18% |  |
-| 3.5–4.5% | 0.5% | 0.5% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 49% | 99.8% |  |
+| 1.5–2.5% | 44% | 51% | Median |
+| 2.5–3.5% | 7% | 7% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 ### Socialistisk Folkeparti (Greens/EFA)
 
@@ -161,15 +158,15 @@ Only polls for which at least the sample size has been published are included in
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.3% | 100% |  |
-| 11.5–12.5% | 3% | 99.7% |  |
-| 12.5–13.5% | 9% | 97% |  |
-| 13.5–14.5% | 17% | 88% |  |
-| 14.5–15.5% | 28% | 71% | Median |
-| 15.5–16.5% | 29% | 44% |  |
-| 16.5–17.5% | 12% | 14% |  |
-| 17.5–18.5% | 2% | 2% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.4% | 100% |  |
+| 12.5–13.5% | 3% | 99.6% |  |
+| 13.5–14.5% | 14% | 96% |  |
+| 14.5–15.5% | 32% | 83% |  |
+| 15.5–16.5% | 34% | 51% | Median |
+| 16.5–17.5% | 14% | 17% |  |
+| 17.5–18.5% | 2% | 3% |  |
+| 18.5–19.5% | 0.2% | 0.2% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 ### Socialdemokraterne (S&D)
@@ -194,15 +191,16 @@ Only polls for which at least the sample size has been published are included in
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.4% | 100% |  |
 | 14.5–15.5% | 4% | 99.6% |  |
-| 15.5–16.5% | 14% | 95% |  |
-| 16.5–17.5% | 16% | 82% |  |
-| 17.5–18.5% | 18% | 66% | Median |
-| 18.5–19.5% | 24% | 48% |  |
-| 19.5–20.5% | 17% | 24% |  |
-| 20.5–21.5% | 6% | 7% |  |
-| 21.5–22.5% | 1.0% | 1.1% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 15.5–16.5% | 13% | 95% |  |
+| 16.5–17.5% | 14% | 82% |  |
+| 17.5–18.5% | 13% | 69% |  |
+| 18.5–19.5% | 22% | 55% | Median |
+| 19.5–20.5% | 20% | 33% |  |
+| 20.5–21.5% | 10% | 13% |  |
+| 21.5–22.5% | 3% | 3% |  |
+| 22.5–23.5% | 0.5% | 0.6% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 ### Moderaterne (RE)
 
@@ -212,10 +210,10 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 18% | 100% |  |
-| 1.5–2.5% | 26% | 82% |  |
-| 2.5–3.5% | 43% | 57% | Median |
-| 3.5–4.5% | 14% | 14% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 19% | 82% |  |
+| 2.5–3.5% | 42% | 64% | Median |
+| 3.5–4.5% | 21% | 22% |  |
+| 4.5–5.5% | 1.1% | 1.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 ### Danmarksdemokraterne (ECR)
@@ -232,12 +230,12 @@ Only polls for which at least the sample size has been published are included in
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 5% | 99.9% |  |
-| 8.5–9.5% | 31% | 95% |  |
-| 9.5–10.5% | 44% | 64% | Median |
-| 10.5–11.5% | 17% | 20% |  |
-| 11.5–12.5% | 3% | 3% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
+| 7.5–8.5% | 4% | 99.9% |  |
+| 8.5–9.5% | 29% | 96% |  |
+| 9.5–10.5% | 43% | 67% | Median |
+| 10.5–11.5% | 20% | 24% |  |
+| 11.5–12.5% | 4% | 5% |  |
+| 12.5–13.5% | 0.6% | 0.6% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 ### Liberal Alliance (EPP)
@@ -254,13 +252,13 @@ Only polls for which at least the sample size has been published are included in
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 5% | 99.8% |  |
-| 9.5–10.5% | 30% | 94% |  |
-| 10.5–11.5% | 41% | 64% | Median |
-| 11.5–12.5% | 18% | 23% |  |
-| 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 0.5% | 0.6% |  |
+| 7.5–8.5% | 0.5% | 100% |  |
+| 8.5–9.5% | 8% | 99.5% |  |
+| 9.5–10.5% | 36% | 91% |  |
+| 10.5–11.5% | 40% | 55% | Median |
+| 11.5–12.5% | 13% | 15% |  |
+| 12.5–13.5% | 2% | 2% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 ### Det Konservative Folkeparti (EPP)
@@ -273,14 +271,14 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 5% | 99.9% |  |
-| 6.5–7.5% | 29% | 94% |  |
-| 7.5–8.5% | 39% | 65% | Median |
-| 8.5–9.5% | 22% | 25% |  |
-| 9.5–10.5% | 3% | 4% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 2% | 99.9% |  |
+| 5.5–6.5% | 17% | 98% |  |
+| 6.5–7.5% | 34% | 80% | Median |
+| 7.5–8.5% | 29% | 47% |  |
+| 8.5–9.5% | 16% | 18% |  |
+| 9.5–10.5% | 2% | 3% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 ### Alternativet (Greens/EFA)
@@ -290,10 +288,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 21% | 100% |  |
-| 1.5–2.5% | 72% | 79% | Median |
-| 2.5–3.5% | 8% | 8% |  |
-| 3.5–4.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 19% | 100% |  |
+| 1.5–2.5% | 66% | 81% | Median |
+| 2.5–3.5% | 14% | 15% |  |
+| 3.5–4.5% | 0.8% | 0.8% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 ### Enhedslisten–De Rød-Grønne (GUE/NGL)
@@ -306,13 +304,14 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.0% | 100% |  |
-| 4.5–5.5% | 21% | 99.0% |  |
-| 5.5–6.5% | 44% | 78% | Median |
-| 6.5–7.5% | 29% | 34% |  |
-| 7.5–8.5% | 5% | 6% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 14% | 99.4% |  |
+| 5.5–6.5% | 31% | 85% |  |
+| 6.5–7.5% | 34% | 54% | Median |
+| 7.5–8.5% | 16% | 21% |  |
+| 8.5–9.5% | 4% | 4% |  |
+| 9.5–10.5% | 0.4% | 0.4% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -329,12 +328,12 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#socialistisk-folkeparti-(greens/efa)">Socialistisk Folkeparti (Greens/EFA)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–3 |
 | <a href="#alternativet-(greens/efa)">Alternativet (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#socialdemokraterne-(s&d)">Socialdemokraterne (S&D)</a> | 0 | 3 | 3–4 |3–4 | 2–4 | 2–4 |
-| <a href="#venstre-(re)">Venstre (RE)</a> | 0 | 2 | 2 |2 | 2 | 1–2 |
+| <a href="#venstre-(re)">Venstre (RE)</a> | 0 | 2 | 2 |1–2 | 1–2 | 1–2 |
 | <a href="#radikale-venstre-(re)">Radikale Venstre (RE)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#moderaterne-(re)">Moderaterne (RE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#det-konservative-folkeparti-(epp)">Det Konservative Folkeparti (EPP)</a> | 0 | 1 | 1 |1 | 1 | 1–2 |
 | <a href="#kristendemokraterne-(epp)">Kristendemokraterne (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#liberal-alliance-(epp)">Liberal Alliance (EPP)</a> | 0 | 2 | 2 |2 | 1–2 | 1–2 |
+| <a href="#liberal-alliance-(epp)">Liberal Alliance (EPP)</a> | 0 | 2 | 2 |1–2 | 1–2 | 1–2 |
 | <a href="#danmarksdemokraterne-(ecr)">Danmarksdemokraterne (ECR)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#dansk-folkeparti-(pfe)">Dansk Folkeparti (PfE)</a> | 0 | 1 | 1 |1–2 | 1–2 | 1–2 |
 | <a href="#borgernes-parti-(ni)">Borgernes Parti (NI)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -352,9 +351,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 98% | 98% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 99.2% | 99.3% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Socialistisk Folkeparti (Greens/EFA)
 
@@ -366,8 +366,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 31% | 100% |  |
-| 3 | 69% | 69% | Median |
+| 2 | 27% | 100% |  |
+| 3 | 73% | 73% | Median |
 | 4 | 0% | 0% |  |
 
 ### Alternativet (Greens/EFA)
@@ -391,8 +391,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 4% | 100% |  |
-| 3 | 79% | 96% | Median |
-| 4 | 17% | 17% |  |
+| 3 | 71% | 96% | Median |
+| 4 | 24% | 24% |  |
 | 5 | 0% | 0% |  |
 
 ### Venstre (RE)
@@ -404,10 +404,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.2% | 100% |  |
-| 2 | 98.5% | 98.8% | Median |
-| 3 | 0.3% | 0.3% |  |
-| 4 | 0% | 0% |  |
+| 1 | 7% | 100% |  |
+| 2 | 93% | 93% | Median |
+| 3 | 0% | 0% |  |
 
 ### Radikale Venstre (RE)
 
@@ -417,8 +416,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% | Last Result |
-| 1 | 72% | 72% | Median |
+| 0 | 29% | 100% | Last Result |
+| 1 | 71% | 71% | Median |
 | 2 | 0% | 0% |  |
 
 ### Moderaterne (RE)
@@ -441,9 +440,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 98% | 100% | Median |
-| 2 | 2% | 2% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 98.7% | 99.9% | Median |
+| 2 | 1.2% | 1.2% |  |
 | 3 | 0% | 0% |  |
 
 ### Kristendemokraterne (EPP)
@@ -461,8 +460,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 95% | 95% | Median |
+| 1 | 8% | 100% |  |
+| 2 | 92% | 92% | Median |
 | 3 | 0% | 0% |  |
 
 ### Danmarksdemokraterne (ECR)
@@ -474,8 +473,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 55% | 100% | Median |
-| 2 | 45% | 45% |  |
+| 1 | 56% | 100% | Median |
+| 2 | 44% | 44% |  |
 | 3 | 0% | 0% |  |
 
 ### Dansk Folkeparti (PfE)
@@ -542,8 +541,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Socialdemokraterne (S&D) | 0 | 3 | 0% | 3–4 | 3–4 | 2–4 | 2–4 |
 | Alternativet (Greens/EFA) – Socialistisk Folkeparti (Greens/EFA) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP) – Liberal Alliance (EPP) | 0 | 3 | 0% | 3 | 3 | 2–3 | 2–4 |
-| Moderaterne (RE) – Radikale Venstre (RE) – Venstre (RE) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP) – Liberal Alliance (EPP) | 0 | 3 | 0% | 3 | 2–3 | 2–3 | 2–4 |
+| Moderaterne (RE) – Radikale Venstre (RE) – Venstre (RE) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 1–3 |
 | Danmarksdemokraterne (ECR) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Dansk Folkeparti (PfE) | 0 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
 | Enhedslisten–De Rød-Grønne (GUE/NGL) | 0 | 1 | 0% | 1 | 1 | 1 | 0–1 |
@@ -559,8 +558,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 4% | 100% |  |
-| 3 | 79% | 96% | Median |
-| 4 | 17% | 17% |  |
+| 3 | 71% | 96% | Median |
+| 4 | 24% | 24% |  |
 | 5 | 0% | 0% |  |
 
 ### Alternativet (Greens/EFA) – Socialistisk Folkeparti (Greens/EFA)
@@ -571,8 +570,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 31% | 100% |  |
-| 3 | 69% | 69% | Median |
+| 2 | 27% | 100% |  |
+| 3 | 73% | 73% | Median |
 | 4 | 0% | 0% |  |
 
 ### Det Konservative Folkeparti (EPP) – Kristendemokraterne (EPP) – Liberal Alliance (EPP)
@@ -583,9 +582,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 4% | 100% |  |
-| 3 | 95% | 96% | Median |
-| 4 | 1.4% | 1.4% |  |
+| 2 | 8% | 100% |  |
+| 3 | 91% | 92% | Median |
+| 4 | 0.9% | 0.9% |  |
 | 5 | 0% | 0% |  |
 
 ### Moderaterne (RE) – Radikale Venstre (RE) – Venstre (RE)
@@ -595,9 +594,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.5% | 100% |  |
-| 2 | 28% | 99.5% |  |
-| 3 | 72% | 72% | Median |
+| 1 | 0.6% | 100% |  |
+| 2 | 35% | 99.4% |  |
+| 3 | 65% | 65% | Median |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -608,8 +607,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 55% | 100% | Median |
-| 2 | 45% | 45% |  |
+| 1 | 56% | 100% | Median |
+| 2 | 44% | 44% |  |
 | 3 | 0% | 0% |  |
 
 ### Dansk Folkeparti (PfE)
@@ -629,9 +628,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 98% | 98% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 99.2% | 99.3% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Borgerlisten (*) – Frie Grønne (*) – Stram Kurs (*) – Veganerpartiet (*)
 
@@ -655,4 +655,4 @@ Only polls for which at least the sample size has been published are included in
 + **Number of polls included in this average:** 3
 + **Lowest number of simulations done in a poll included in this average:** 2,097,152
 + **Total number of simulations done in the polls included in this average:** 6,291,456
-+ **Error estimate:** 1.46%
++ **Error estimate:** 1.59%
