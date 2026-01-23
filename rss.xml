@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 12 Jan 2026 21:59:00 +0100</pubDate>
+    <pubDate>Thu, 22 Jan 2026 21:22:58 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 12–18 January 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-01-18-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-01-18-Voxmeter-seats.png"
+        length="333813"
+        type="image/png"/>
+      <pubDate>Thu, 22 Jan 2026 21:22:58 +0100</pubDate>
+      <dc:date>2026-01-22T21:22:58.138946+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 12–18 January 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-01-18-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-01-18-Voxmeter-coalitions-seats.png"
+        length="181157"
+        type="image/png"/>
+      <pubDate>Thu, 22 Jan 2026 21:22:58 +0100</pubDate>
+      <dc:date>2026-01-22T21:22:58.138946+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 12–18 January 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-01-18-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Venstre (RE): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 5.2–8.3%&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 18.7–23.8%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 8.2–11.9%&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 9.1–13.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 5.4–8.6%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 4.6–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-01-18-Voxmeter.png"
+        length="384234"
+        type="image/png"/>
+      <pubDate>Thu, 22 Jan 2026 21:22:58 +0100</pubDate>
+      <dc:date>2026-01-22T21:22:58.138946+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 5–11 January 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-01-11-Voxmeter.html#seats</link>
@@ -1749,6 +1779,6 @@
       <pubDate>Sun, 09 Feb 2025 16:33:15 +0100</pubDate>
       <dc:date>2025-02-09T16:33:15.879863+01:00</dc:date>
     </item>
-    <dc:date>2026-01-12T21:59:00.981653+01:00</dc:date>
+    <dc:date>2026-01-22T21:22:58.138946+01:00</dc:date>
   </channel>
 </rss>
