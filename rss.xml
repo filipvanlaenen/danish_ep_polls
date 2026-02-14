@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 13 Feb 2026 19:16:04 +0100</pubDate>
+    <pubDate>Sat, 14 Feb 2026 10:31:55 +0100</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 2–8 February 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-02-08-Voxmeter.html#seats</link>
@@ -42,22 +42,22 @@
     <item>
       <title>Opinion Poll by Verian for Berlingske, 6 February 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-02-06-Verian.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-02-06-Verian-seats.png"
-        length="268493"
+        length="275885"
         type="image/png"/>
-      <pubDate>Fri, 13 Feb 2026 19:16:04 +0100</pubDate>
-      <dc:date>2026-02-13T19:16:04.706925+01:00</dc:date>
+      <pubDate>Sat, 14 Feb 2026 10:31:55 +0100</pubDate>
+      <dc:date>2026-02-14T10:31:55.584303+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Berlingske, 6 February 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-02-06-Verian.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-02-06-Verian-coalitions-seats.png"
-        length="131584"
+        length="153627"
         type="image/png"/>
-      <pubDate>Fri, 13 Feb 2026 19:16:04 +0100</pubDate>
-      <dc:date>2026-02-13T19:16:04.706925+01:00</dc:date>
+      <pubDate>Sat, 14 Feb 2026 10:31:55 +0100</pubDate>
+      <dc:date>2026-02-14T10:31:55.584303+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Berlingske, 6 February 2026 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-02-06-Verian.png"
         length="365040"
         type="image/png"/>
-      <pubDate>Fri, 13 Feb 2026 19:16:04 +0100</pubDate>
-      <dc:date>2026-02-13T19:16:04.706925+01:00</dc:date>
+      <pubDate>Sat, 14 Feb 2026 10:31:55 +0100</pubDate>
+      <dc:date>2026-02-14T10:31:55.584303+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 26 January–1 February 2026 – Seat Projections for the Parties</title>
@@ -1929,6 +1929,6 @@
       <pubDate>Sun, 09 Feb 2025 16:33:15 +0100</pubDate>
       <dc:date>2025-02-09T16:33:15.879863+01:00</dc:date>
     </item>
-    <dc:date>2026-02-13T19:16:04.706925+01:00</dc:date>
+    <dc:date>2026-02-14T10:31:55.584303+01:00</dc:date>
   </channel>
 </rss>
