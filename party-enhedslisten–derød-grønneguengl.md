@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 6.9% | 5.7–8.1% | 5.4–8.3% | 5.1–8.6% | 4.6–9.1% |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.7% | 4.4–8.3% |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 6.3% | 5.5–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
-| [6 February 2026](2026-02-06-Verian.html) | Verian <br> Berlingske | 7.6% | 6.8–8.5% | 6.6–8.7% | 6.4–8.9% | 6.1–9.4% |
+| [28 January–3 February 2026](2026-02-03-Verian.html) | Verian <br> Berlingske | 7.6% | 6.8–8.5% | 6.6–8.7% | 6.4–8.9% | 6.1–9.4% |
 | [26 January–1 February 2026](2026-02-01-Voxmeter.html) | Voxmeter <br> Ritzau | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [21–28 January 2026](2026-01-28-Epinion.html) | Epinion <br> Altinget and DR | 6.9% | 6.2–7.8% | 6.0–8.0% | 5.8–8.2% | 5.5–8.6% |
 | [19–25 January 2026](2026-01-25-Voxmeter.html) | Voxmeter <br> Ritzau | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
@@ -139,7 +139,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
-| [6 February 2026](2026-02-06-Verian.html) | Verian <br> Berlingske | 1 | 1 | 1 | 1 | 1 |
+| [28 January–3 February 2026](2026-02-03-Verian.html) | Verian <br> Berlingske | 1 | 1 | 1 | 1 | 1–2 |
 | [26 January–1 February 2026](2026-02-01-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 0–1 |
 | [21–28 January 2026](2026-01-28-Epinion.html) | Epinion <br> Altinget and DR | 1 | 1 | 1 | 1 | 1 |
 | [19–25 January 2026](2026-01-25-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
@@ -244,7 +244,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
 | 1 | 98% | 98% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 

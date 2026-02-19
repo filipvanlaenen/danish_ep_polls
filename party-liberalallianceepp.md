@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 10.4% | 9.0–11.9% | 8.6–12.3% | 8.3–12.6% | 7.7–13.2% |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.4–12.2% |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 9.7% | 8.6–10.9% | 8.3–11.3% | 8.0–11.6% | 7.5–12.3% |
-| [6 February 2026](2026-02-06-Verian.html) | Verian <br> Berlingske | 10.1% | 9.2–11.1% | 9.0–11.4% | 8.7–11.6% | 8.4–12.1% |
+| [28 January–3 February 2026](2026-02-03-Verian.html) | Verian <br> Berlingske | 10.1% | 9.2–11.1% | 9.0–11.4% | 8.7–11.6% | 8.4–12.1% |
 | [26 January–1 February 2026](2026-02-01-Voxmeter.html) | Voxmeter <br> Ritzau | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [21–28 January 2026](2026-01-28-Epinion.html) | Epinion <br> Altinget and DR | 11.4% | 10.5–12.4% | 10.2–12.7% | 10.0–13.0% | 9.5–13.5% |
 | [19–25 January 2026](2026-01-25-Voxmeter.html) | Voxmeter <br> Ritzau | 10.5% | 9.4–11.9% | 9.1–12.2% | 8.8–12.6% | 8.3–13.2% |
@@ -143,7 +143,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [6 February 2026](2026-02-06-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2 | 1–2 | 1–2 |
+| [28 January–3 February 2026](2026-02-03-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2 | 1–2 | 1–2 |
 | [26 January–1 February 2026](2026-02-01-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–28 January 2026](2026-01-28-Epinion.html) | Epinion <br> Altinget and DR | 2 | 2 | 2 | 2 | 1–2 |
 | [19–25 January 2026](2026-01-25-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -248,7 +248,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 18% | 100% |  |
-| 2 | 81% | 82% | Median |
+| 2 | 82% | 82% | Median |
 | 3 | 0% | 0% |  |
 
 

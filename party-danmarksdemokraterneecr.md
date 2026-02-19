@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 9.0% | 8.1–10.3% | 7.8–10.8% | 7.6–11.1% | 7.2–11.9% |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 9.7% | 8.6–11.0% | 8.2–11.3% | 8.0–11.7% | 7.5–12.3% |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.5% |
-| [6 February 2026](2026-02-06-Verian.html) | Verian <br> Berlingske | 8.7% | 7.9–9.6% | 7.6–9.9% | 7.4–10.1% | 7.1–10.6% |
+| [28 January–3 February 2026](2026-02-03-Verian.html) | Verian <br> Berlingske | 8.7% | 7.9–9.6% | 7.6–9.9% | 7.4–10.1% | 7.1–10.6% |
 | [26 January–1 February 2026](2026-02-01-Voxmeter.html) | Voxmeter <br> Ritzau | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.5–11.1% | 7.1–11.8% |
 | [21–28 January 2026](2026-01-28-Epinion.html) | Epinion <br> Altinget and DR | 8.8% | 8.0–9.8% | 7.8–10.0% | 7.6–10.3% | 7.2–10.7% |
 | [19–25 January 2026](2026-01-25-Voxmeter.html) | Voxmeter <br> Ritzau | 8.9% | 7.8–10.1% | 7.5–10.5% | 7.3–10.8% | 6.8–11.4% |
@@ -142,7 +142,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [6 February 2026](2026-02-06-Verian.html) | Verian <br> Berlingske | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [28 January–3 February 2026](2026-02-03-Verian.html) | Verian <br> Berlingske | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 January–1 February 2026](2026-02-01-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–28 January 2026](2026-01-28-Epinion.html) | Epinion <br> Altinget and DR | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [19–25 January 2026](2026-01-25-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -246,8 +246,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 76% | 100% | Median |
-| 2 | 24% | 24% |  |
+| 1 | 75% | 100% | Median |
+| 2 | 25% | 25% |  |
 | 3 | 0% | 0% |  |
 
 

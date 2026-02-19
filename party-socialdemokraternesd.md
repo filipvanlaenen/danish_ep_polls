@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 22.0% | 20.3–23.9% | 19.8–24.3% | 19.4–24.8% | 18.5–25.5% |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 21.2% | 19.6–23.0% | 19.2–23.5% | 18.8–23.9% | 18.1–24.7% |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 22.5% | 20.9–24.3% | 20.5–24.8% | 20.1–25.2% | 19.3–26.0% |
-| [6 February 2026](2026-02-06-Verian.html) | Verian <br> Berlingske | 23.2% | 21.9–24.6% | 21.6–24.9% | 21.2–25.3% | 20.7–25.9% |
+| [28 January–3 February 2026](2026-02-03-Verian.html) | Verian <br> Berlingske | 23.2% | 21.9–24.6% | 21.6–24.9% | 21.2–25.3% | 20.7–25.9% |
 | [26 January–1 February 2026](2026-02-01-Voxmeter.html) | Voxmeter <br> Ritzau | 22.3% | 20.7–24.0% | 20.2–24.5% | 19.8–25.0% | 19.1–25.8% |
 | [21–28 January 2026](2026-01-28-Epinion.html) | Epinion <br> Altinget and DR | 21.6% | 20.4–23.0% | 20.0–23.3% | 19.7–23.6% | 19.2–24.3% |
 | [19–25 January 2026](2026-01-25-Voxmeter.html) | Voxmeter <br> Ritzau | 23.1% | 21.5–24.8% | 21.0–25.3% | 20.6–25.8% | 19.9–26.6% |
@@ -155,7 +155,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [6 February 2026](2026-02-06-Verian.html) | Verian <br> Berlingske | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [28 January–3 February 2026](2026-02-03-Verian.html) | Verian <br> Berlingske | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [26 January–1 February 2026](2026-02-01-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [21–28 January 2026](2026-01-28-Epinion.html) | Epinion <br> Altinget and DR | 4 | 4 | 4 | 4–5 | 3–5 |
 | [19–25 January 2026](2026-01-25-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -262,8 +262,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 4% | 100% |  |
-| 4 | 74% | 96% | Median |
-| 5 | 22% | 22% |  |
+| 4 | 69% | 96% | Median |
+| 5 | 27% | 27% |  |
 | 6 | 0% | 0% |  |
 
 

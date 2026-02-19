@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1.9% | 1.1–2.7% | 1.0–2.9% | 0.9–3.1% | 0.7–3.5% |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 2.3% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
-| [6 February 2026](2026-02-06-Verian.html) | Verian <br> Berlingske | 1.2% | 0.9–1.6% | 0.8–1.7% | 0.8–1.8% | 0.6–2.0% |
+| [28 January–3 February 2026](2026-02-03-Verian.html) | Verian <br> Berlingske | 1.2% | 0.9–1.6% | 0.8–1.7% | 0.8–1.8% | 0.6–2.0% |
 | [26 January–1 February 2026](2026-02-01-Voxmeter.html) | Voxmeter <br> Ritzau | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [21–28 January 2026](2026-01-28-Epinion.html) | Epinion <br> Altinget and DR | 1.9% | 1.6–2.4% | 1.5–2.6% | 1.4–2.7% | 1.2–3.0% |
 | [19–25 January 2026](2026-01-25-Voxmeter.html) | Voxmeter <br> Ritzau | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -133,7 +133,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
-| [6 February 2026](2026-02-06-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
+| [28 January–3 February 2026](2026-02-03-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
 | [26 January–1 February 2026](2026-02-01-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [21–28 January 2026](2026-01-28-Epinion.html) | Epinion <br> Altinget and DR | 0 | 0 | 0 | 0 | 0 |
 | [19–25 January 2026](2026-01-25-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
