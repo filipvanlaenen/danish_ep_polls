@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 4.2–8.7% | 4.0–9.1% | 3.8–9.5% | 3.5–10.2% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.2–6.9% | 3.9–7.4% |
+| [2–4 March 2026](2026-03-04-Voxmeter.html) | Voxmeter <br> Ritzau | 5.7% | 4.9–6.7% | 4.6–7.0% | 4.5–7.3% | 4.1–7.8% |
+| [2–4 March 2026](2026-03-04-Epinion.html) | Epinion <br> Altinget and DR | 4.9% | 4.3–5.7% | 4.1–5.9% | 4.0–6.1% | 3.7–6.4% |
+| [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 5.3% | 4.6–6.1% | 4.5–6.3% | 4.3–6.5% | 4.0–6.9% |
+| [23 February–1 March 2026](2026-03-01-Voxmeter.html) | Voxmeter <br> Ritzau | 7.0% | N/A | N/A | N/A | N/A |
+| [27 February–1 March 2026](2026-03-01-Epinion.html) | Epinion <br> Altinget and DR | 5.6% | N/A | N/A | N/A | N/A |
+| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske | 6.6% | N/A | N/A | N/A | N/A |
+| [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR | 5.7% | N/A | N/A | N/A | N/A |
 | [16–22 February 2026](2026-02-22-Voxmeter.html) | Voxmeter <br> Ritzau | 8.1% | 7.1–9.4% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–9.0% |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 6.3% | 5.5–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
@@ -118,16 +125,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.5% | 100% |  |
-| 3.5–4.5% | 26% | 99.5% |  |
-| 4.5–5.5% | 37% | 74% | Median |
-| 5.5–6.5% | 4% | 37% |  |
-| 6.5–7.5% | 7% | 33% |  |
-| 7.5–8.5% | 15% | 26% |  |
-| 8.5–9.5% | 9% | 11% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 11% | 99.9% |  |
+| 4.5–5.5% | 52% | 89% | Median |
+| 5.5–6.5% | 32% | 37% |  |
+| 6.5–7.5% | 5% | 6% |  |
+| 7.5–8.5% | 0.4% | 0.4% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -138,7 +142,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–4 March 2026](2026-03-04-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [2–4 March 2026](2026-03-04-Epinion.html) | Epinion <br> Altinget and DR | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23 February–1 March 2026](2026-03-01-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
+| [27 February–1 March 2026](2026-03-01-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
+| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske |  |  |  |  |  |
+| [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
 | [16–22 February 2026](2026-02-22-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1–2 | 1–2 |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 0–1 |
@@ -245,9 +256,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% | Last Result |
-| 1 | 57% | 58% | Median |
-| 2 | 1.1% | 1.1% |  |
-| 3 | 0% | 0% |  |
+| 0 | 22% | 100% | Last Result |
+| 1 | 78% | 78% | Median |
+| 2 | 0% | 0% |  |
 
 
