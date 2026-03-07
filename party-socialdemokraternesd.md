@@ -162,13 +162,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [2–4 March 2026](2026-03-04-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [2–4 March 2026](2026-03-04-Epinion.html) | Epinion <br> Altinget and DR | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [2–4 March 2026](2026-03-04-Epinion.html) | Epinion <br> Altinget and DR | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 4 | 4 | 4 | 4 | 4–5 |
 | [23 February–1 March 2026](2026-03-01-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [27 February–1 March 2026](2026-03-01-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
-| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske | 4 | 4 | 4 | 4 | 3–4 |
+| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske | 4 | 4 | 4 | 3–4 | 3–4 |
 | [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR | 4 | 4 | 4 | 3–4 | 3–4 |
 | [16–22 February 2026](2026-02-22-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -279,9 +279,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 7% | 100% |  |
-| 4 | 82% | 93% | Median |
-| 5 | 11% | 11% |  |
+| 3 | 4% | 100% |  |
+| 4 | 88% | 96% | Median |
+| 5 | 7% | 7% |  |
 | 6 | 0% | 0% |  |
 
 

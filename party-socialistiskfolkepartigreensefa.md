@@ -153,11 +153,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–4 March 2026](2026-03-04-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [2–4 March 2026](2026-03-04-Epinion.html) | Epinion <br> Altinget and DR | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [2–4 March 2026](2026-03-04-Epinion.html) | Epinion <br> Altinget and DR | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23 February–1 March 2026](2026-03-01-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [27 February–1 March 2026](2026-03-01-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
-| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [16–22 February 2026](2026-02-22-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 1–2 | 1–3 |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -267,8 +267,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 69% | 100% | Median |
-| 3 | 31% | 31% |  |
+| 2 | 74% | 100% | Median |
+| 3 | 26% | 26% |  |
 | 4 | 0% | 0% |  |
 
 
