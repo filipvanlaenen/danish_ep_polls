@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.7–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.7% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.7–3.1% | 1.6–3.3% | 1.5–3.4% | 1.3–3.8% |
+| [3–5 March 2026](2026-03-05-Epinion.html) | Epinion <br> Altinget and DR | 2.7% | 2.3–3.3% | 2.1–3.4% | 2.1–3.6% | 1.9–3.9% |
 | [2–4 March 2026](2026-03-04-Voxmeter.html) | Voxmeter <br> Ritzau | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [2–4 March 2026](2026-03-04-Epinion.html) | Epinion <br> Altinget and DR | 2.6% | 2.2–3.2% | 2.0–3.4% | 2.0–3.5% | 1.8–3.8% |
 | [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 1.9% | 1.5–2.4% | 1.4–2.6% | 1.3–2.7% | 1.2–3.0% |
@@ -124,9 +125,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 60% | 96% | Median |
-| 2.5–3.5% | 34% | 36% |  |
-| 3.5–4.5% | 1.2% | 1.2% |  |
+| 1.5–2.5% | 57% | 96% | Median |
+| 2.5–3.5% | 37% | 39% |  |
+| 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -139,6 +140,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–5 March 2026](2026-03-05-Epinion.html) | Epinion <br> Altinget and DR | 0 | 0 | 0 | 0 | 0 |
 | [2–4 March 2026](2026-03-04-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [2–4 March 2026](2026-03-04-Epinion.html) | Epinion <br> Altinget and DR | 0 | 0 | 0 | 0 | 0 |
 | [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |

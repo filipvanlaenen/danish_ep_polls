@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.9% | 1.4–3.1% | 1.3–3.3% | 1.1–3.6% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.9% | 1.4–3.1% | 1.3–3.2% | 1.1–3.5% |
+| [3–5 March 2026](2026-03-05-Epinion.html) | Epinion <br> Altinget and DR | 2.6% | 2.2–3.2% | 2.1–3.3% | 2.0–3.4% | 1.8–3.7% |
 | [2–4 March 2026](2026-03-04-Voxmeter.html) | Voxmeter <br> Ritzau | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.1–3.3% |
 | [2–4 March 2026](2026-03-04-Epinion.html) | Epinion <br> Altinget and DR | 2.6% | 2.2–3.2% | 2.0–3.4% | 2.0–3.5% | 1.8–3.8% |
 | [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 1.8% | 1.4–2.3% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% |
@@ -125,8 +126,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 11% | 100% |  |
 | 1.5–2.5% | 64% | 89% | Median |
-| 2.5–3.5% | 24% | 25% |  |
-| 3.5–4.5% | 0.6% | 0.6% |  |
+| 2.5–3.5% | 24% | 24% |  |
+| 3.5–4.5% | 0.5% | 0.5% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -139,6 +140,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–5 March 2026](2026-03-05-Epinion.html) | Epinion <br> Altinget and DR | 0 | 0 | 0 | 0 | 0 |
 | [2–4 March 2026](2026-03-04-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [2–4 March 2026](2026-03-04-Epinion.html) | Epinion <br> Altinget and DR | 0 | 0 | 0 | 0 | 0 |
 | [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 0 | 0 | 0 | 0 | 0 |
