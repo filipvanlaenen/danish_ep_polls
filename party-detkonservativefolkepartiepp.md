@@ -16,8 +16,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 7.0% | 6.2–7.9% | 6.0–8.1% | 5.8–8.3% | 5.5–8.8% |
 | [23 February–1 March 2026](2026-03-01-Voxmeter.html) | Voxmeter <br> Ritzau | 5.6% | N/A | N/A | N/A | N/A |
 | [27 February–1 March 2026](2026-03-01-Epinion.html) | Epinion <br> Altinget and DR | 6.6% | N/A | N/A | N/A | N/A |
-| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske | 6.8% | N/A | N/A | N/A | N/A |
-| [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR | 5.8% | N/A | N/A | N/A | N/A |
+| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske | 6.8% | 6.1–7.6% | 5.9–7.8% | 5.7–8.0% | 5.4–8.4% |
+| [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR | 5.8% | 5.1–6.6% | 4.9–6.8% | 4.7–7.0% | 4.4–7.5% |
 | [16–22 February 2026](2026-02-22-Voxmeter.html) | Voxmeter <br> Ritzau | 6.8% | 5.8–7.9% | 5.6–8.2% | 5.3–8.5% | 5.0–9.1% |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 7.7% | 6.7–8.9% | 6.5–9.2% | 6.2–9.5% | 5.8–10.1% |
@@ -150,8 +150,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 1 | 1 | 1 | 1 | 1 |
 | [23 February–1 March 2026](2026-03-01-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [27 February–1 March 2026](2026-03-01-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
-| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske |  |  |  |  |  |
-| [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
+| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske | 1 | 1 | 1 | 1 | 1 |
+| [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR | 1 | 1 | 1 | 1 | 0–1 |
 | [16–22 February 2026](2026-02-22-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 0–1 |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 0–1 |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1–2 |

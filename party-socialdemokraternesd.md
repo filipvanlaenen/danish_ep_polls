@@ -16,8 +16,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 21.9% | 20.6–23.3% | 20.3–23.7% | 20.0–24.0% | 19.4–24.7% |
 | [23 February–1 March 2026](2026-03-01-Voxmeter.html) | Voxmeter <br> Ritzau | 22.1% | N/A | N/A | N/A | N/A |
 | [27 February–1 March 2026](2026-03-01-Epinion.html) | Epinion <br> Altinget and DR | 21.6% | N/A | N/A | N/A | N/A |
-| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske | 21.5% | N/A | N/A | N/A | N/A |
-| [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR | 20.8% | N/A | N/A | N/A | N/A |
+| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske | 21.5% | 20.3–22.8% | 20.0–23.1% | 19.7–23.4% | 19.1–24.1% |
+| [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR | 20.8% | 19.5–22.2% | 19.2–22.6% | 18.9–22.9% | 18.3–23.6% |
 | [16–22 February 2026](2026-02-22-Voxmeter.html) | Voxmeter <br> Ritzau | 22.1% | 20.5–23.9% | 20.1–24.4% | 19.7–24.8% | 18.9–25.7% |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 21.2% | 19.6–23.0% | 19.2–23.5% | 18.8–23.9% | 18.1–24.7% |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 22.5% | 20.9–24.3% | 20.5–24.8% | 20.1–25.2% | 19.3–26.0% |
@@ -168,8 +168,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25 February–3 March 2026](2026-03-03-Verian.html) | Verian <br> Berlingske | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [23 February–1 March 2026](2026-03-01-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
 | [27 February–1 March 2026](2026-03-01-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
-| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske |  |  |  |  |  |
-| [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
+| [26–27 February 2026](2026-02-27-Verian.html) | Verian <br> Berlingske | 4 | 4 | 4 | 4 | 3–4 |
+| [26 February 2026](2026-02-26-Epinion.html) | Epinion <br> Altinget and DR | 4 | 4 | 4 | 3–4 | 3–4 |
 | [16–22 February 2026](2026-02-22-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [9–15 February 2026](2026-02-15-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [2–8 February 2026](2026-02-08-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
