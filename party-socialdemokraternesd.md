@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.7% | 20.2–23.4% | 19.8–23.9% | 19.5–24.4% | 18.9–25.3% |
+| N/A | [Poll Average](average.html) | 21.8% | 19.8–24.3% | 19.4–24.8% | 19.1–25.2% | 18.4–25.9% |
+| [11–13 March 2026](2026-03-13-Voxmeter.html) | Voxmeter <br> Ritzau | 21.5% | 19.9–23.2% | 19.5–23.7% | 19.1–24.1% | 18.4–25.0% |
+| [10–12 March 2026](2026-03-12-Epinion.html) | Epinion <br> Altinget and DR | 20.6% | 19.4–21.9% | 19.0–22.2% | 18.7–22.5% | 18.2–23.2% |
+| [8–10 March 2026](2026-03-10-Voxmeter.html) | Voxmeter <br> Ritzau | 21.7% | 20.2–23.4% | 19.7–23.9% | 19.3–24.3% | 18.6–25.2% |
+| [6–10 March 2026](2026-03-10-Verian.html) | Verian <br> Berlingske | 23.7% | 22.4–25.0% | 22.1–25.4% | 21.7–25.7% | 21.2–26.4% |
+| [7–9 March 2026](2026-03-09-Epinion.html) | Epinion <br> Altinget and DR | 19.1% | N/A | N/A | N/A | N/A |
 | [5–7 March 2026](2026-03-07-Voxmeter.html) | Voxmeter <br> Ritzau | 22.3% | 20.7–24.1% | 20.3–24.6% | 19.9–25.0% | 19.1–25.8% |
 | [3–5 March 2026](2026-03-05-Epinion.html) | Epinion <br> Altinget and DR | 21.0% | 19.8–22.3% | 19.4–22.6% | 19.2–22.9% | 18.6–23.5% |
 | [2–4 March 2026](2026-03-04-Voxmeter.html) | Voxmeter <br> Ritzau | 23.5% | 21.8–25.2% | 21.4–25.7% | 21.0–26.1% | 20.2–27.0% |
@@ -142,16 +147,17 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 3% | 99.8% |  |
-| 19.5–20.5% | 13% | 97% |  |
-| 20.5–21.5% | 29% | 84% |  |
-| 21.5–22.5% | 30% | 56% | Median |
-| 22.5–23.5% | 17% | 26% |  |
-| 23.5–24.5% | 6% | 8% |  |
-| 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.3% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 17.5–18.5% | 0.7% | 100% |  |
+| 18.5–19.5% | 6% | 99.3% |  |
+| 19.5–20.5% | 17% | 94% |  |
+| 20.5–21.5% | 22% | 77% |  |
+| 21.5–22.5% | 18% | 55% | Median |
+| 22.5–23.5% | 16% | 37% |  |
+| 23.5–24.5% | 14% | 21% |  |
+| 24.5–25.5% | 6% | 7% |  |
+| 25.5–26.5% | 1.1% | 1.2% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -163,6 +169,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–5 | 3–5 |
+| [11–13 March 2026](2026-03-13-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 3–4 | 3–4 |
+| [10–12 March 2026](2026-03-12-Epinion.html) | Epinion <br> Altinget and DR | 4 | 4 | 3–4 | 3–4 | 3–5 |
+| [8–10 March 2026](2026-03-10-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 3–4 | 3–5 |
+| [6–10 March 2026](2026-03-10-Verian.html) | Verian <br> Berlingske | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [7–9 March 2026](2026-03-09-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
 | [5–7 March 2026](2026-03-07-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [3–5 March 2026](2026-03-05-Epinion.html) | Epinion <br> Altinget and DR | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [2–4 March 2026](2026-03-04-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -281,9 +292,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 94% | 97% | Median |
-| 5 | 4% | 4% |  |
+| 3 | 4% | 100% |  |
+| 4 | 91% | 96% | Median |
+| 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
 
 
