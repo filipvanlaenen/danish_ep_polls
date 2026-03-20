@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.4% | 8.3–10.4% | 8.0–10.7% | 7.7–10.9% | 7.2–11.4% |
-| [15–17 March 2026](2026-03-17-Epinion.html) | Epinion <br> Altinget and DR | 9.3% | 8.5–10.2% | 8.3–10.5% | 8.0–10.7% | 7.7–11.1% |
+| N/A | [Poll Average](average.html) | 9.5% | 8.5–12.2% | 8.1–12.7% | 7.8–13.1% | 7.3–13.8% |
+| [1–18 March 2026](2026-03-18-YouGov.html) | YouGov | 9.3% | 8.8–9.9% | 8.6–10.0% | 8.5–10.2% | 8.3–10.4% |
+| [13–17 March 2026](2026-03-17-Verian.html) | Verian <br> Berlingske | 12.0% | 11.0–13.1% | 10.7–13.4% | 10.5–13.7% | 10.0–14.2% |
+| [15–17 March 2026](2026-03-17-Epinion.html) | Epinion <br> Altinget and DR | 9.3% | 8.5–10.2% | 8.3–10.4% | 8.1–10.7% | 7.7–11.1% |
 | [14–16 March 2026](2026-03-16-Voxmeter.html) | Voxmeter <br> Ritzau | 8.9% | 7.9–10.2% | 7.6–10.5% | 7.3–10.8% | 6.9–11.4% |
 | [12–14 March 2026](2026-03-14-Epinion.html) | Epinion <br> Altinget and DR | 10.3% | 9.4–11.3% | 9.2–11.6% | 8.9–11.8% | 8.6–12.3% |
 | [11–13 March 2026](2026-03-13-Voxmeter.html) | Voxmeter <br> Ritzau | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.3–12.0% | 7.8–12.6% |
@@ -139,13 +141,16 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 2% | 100% |  |
-| 7.5–8.5% | 14% | 98% |  |
-| 8.5–9.5% | 44% | 84% | Median |
-| 9.5–10.5% | 34% | 40% |  |
-| 10.5–11.5% | 6% | 7% |  |
-| 11.5–12.5% | 0.3% | 0.3% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 6.5–7.5% | 1.1% | 100% |  |
+| 7.5–8.5% | 10% | 98.8% |  |
+| 8.5–9.5% | 41% | 89% |  |
+| 9.5–10.5% | 21% | 47% | Median |
+| 10.5–11.5% | 8% | 26% |  |
+| 11.5–12.5% | 12% | 18% |  |
+| 12.5–13.5% | 6% | 7% |  |
+| 13.5–14.5% | 0.8% | 0.9% |  |
+| 14.5–15.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -157,7 +162,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–17 March 2026](2026-03-17-Epinion.html) | Epinion <br> Altinget and DR |  |  |  |  |  |
+| [1–18 March 2026](2026-03-18-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [13–17 March 2026](2026-03-17-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2 | 2 | 1–2 |
+| [15–17 March 2026](2026-03-17-Epinion.html) | Epinion <br> Altinget and DR | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–16 March 2026](2026-03-16-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–14 March 2026](2026-03-14-Epinion.html) | Epinion <br> Altinget and DR | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–13 March 2026](2026-03-13-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -281,8 +288,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 75% | 100% | Median |
-| 2 | 25% | 25% |  |
+| 1 | 64% | 100% | Median |
+| 2 | 36% | 36% |  |
 | 3 | 0% | 0% |  |
 
 
