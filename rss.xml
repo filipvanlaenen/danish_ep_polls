@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 25 Mar 2026 19:02:39 +0100</pubDate>
+    <pubDate>Wed, 25 Mar 2026 22:21:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by YouGov, 5–23 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-YouGov.html#seats</link>
@@ -40,6 +40,66 @@
       <dc:date>2026-03-25T19:02:39.378834+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 23 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Voxmeter.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Voxmeter-seats.png"
+        length="248183"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2026 19:26:32 +0100</pubDate>
+      <dc:date>2026-03-25T19:26:32.247371+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 23 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Voxmeter.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Voxmeter-coalitions-seats.png"
+        length="108879"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2026 19:26:32 +0100</pubDate>
+      <dc:date>2026-03-25T19:26:32.247371+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Voxmeter for Ritzau, 23 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Voxmeter.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 4.6–5.9%&lt;/li&gt;&lt;li&gt;Venstre (RE): 8.8–10.6%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 6.8–8.4%&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 2.3–3.4%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 10.8–12.8%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 21.2–23.7%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 6.4–7.9%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 6.2–7.7%&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 9.9–11.8%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 6.1–7.6%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.3–3.4%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 5.4–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Voxmeter.png"
+        length="346072"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2026 19:26:32 +0100</pubDate>
+      <dc:date>2026-03-25T19:26:32.247371+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 21–23 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Verian-seats.png"
+        length="222353"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2026 19:46:21 +0100</pubDate>
+      <dc:date>2026-03-25T19:46:21.016879+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 21–23 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Verian-coalitions-seats.png"
+        length="108549"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2026 19:46:21 +0100</pubDate>
+      <dc:date>2026-03-25T19:46:21.016879+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 21–23 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 5.1–6.5%&lt;/li&gt;&lt;li&gt;Venstre (RE): 9.6–11.5%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 6.7–8.3%&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 2.0–2.9%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 11.6–13.6%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 20.8–23.3%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 6.1–7.6%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 5.8–7.3%&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 8.0–9.7%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 7.7–9.4%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 2.5–3.6%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 4.8–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-03-23-Verian.png"
+        length="347608"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2026 19:46:21 +0100</pubDate>
+      <dc:date>2026-03-25T19:46:21.016879+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Epinion for Altinget and DR, 21 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-03-21-Epinion.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -68,6 +128,36 @@
         type="image/png"/>
       <pubDate>Sun, 22 Mar 2026 12:58:10 +0100</pubDate>
       <dc:date>2026-03-22T12:58:10.527159+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Wilke for Jyllands-Posten, 17–20 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-03-20-Wilke.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-03-20-Wilke-seats.png"
+        length="329992"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2026 22:21:37 +0100</pubDate>
+      <dc:date>2026-03-25T22:21:37.723879+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Wilke for Jyllands-Posten, 17–20 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-03-20-Wilke.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-03-20-Wilke-coalitions-seats.png"
+        length="170396"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2026 22:21:37 +0100</pubDate>
+      <dc:date>2026-03-25T22:21:37.723879+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Wilke for Jyllands-Posten, 17–20 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-03-20-Wilke.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 2.7–5.1%&lt;/li&gt;&lt;li&gt;Venstre (RE): 8.4–12.1%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 5.9–9.2%&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 18.6–23.7%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 4.2–7.0%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 8.4–12.1%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 3.2–5.8%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 5.2–8.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-03-20-Wilke.png"
+        length="386073"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2026 22:21:37 +0100</pubDate>
+      <dc:date>2026-03-25T22:21:37.723879+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 17–19 March 2026 – Seat Projections for the Parties</title>
@@ -2529,6 +2619,6 @@
       <pubDate>Sun, 09 Feb 2025 16:33:15 +0100</pubDate>
       <dc:date>2025-02-09T16:33:15.879863+01:00</dc:date>
     </item>
-    <dc:date>2026-03-25T19:02:39.378834+01:00</dc:date>
+    <dc:date>2026-03-25T22:21:37.723879+01:00</dc:date>
   </channel>
 </rss>
