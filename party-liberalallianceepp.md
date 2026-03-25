@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.5% | 9.3–11.6% | 9.1–11.9% | 9.0–12.2% | 8.6–12.8% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.7–11.4% | 8.5–11.8% | 8.3–12.1% | 7.9–12.7% |
 | [5–23 March 2026](2026-03-23-YouGov.html) | YouGov | 9.6% | 9.0–10.2% | 8.9–10.3% | 8.7–10.5% | 8.5–10.8% |
 | [23 March 2026](2026-03-23-Voxmeter.html) | Voxmeter <br> Ritzau | 10.8% | 10.2–11.4% | 10.0–11.6% | 9.9–11.8% | 9.6–12.1% |
-| [21–23 March 2026](2026-03-23-Verian.html) | Verian <br> Berlingske | 8.8% | N/A | N/A | N/A | N/A |
+| [21–23 March 2026](2026-03-23-Verian.html) | Verian <br> Berlingske | 8.8% | 8.2–9.4% | 8.1–9.5% | 8.0–9.7% | 7.7–10.0% |
 | [21 March 2026](2026-03-21-Epinion.html) | Epinion <br> Altinget and DR | 11.0% | 10.1–12.1% | 9.8–12.4% | 9.6–12.6% | 9.2–13.1% |
-| [17–20 March 2026](2026-03-20-Wilke.html) | Wilke <br> Jyllands-Posten | 10.1% | N/A | N/A | N/A | N/A |
+| [17–20 March 2026](2026-03-20-Wilke.html) | Wilke <br> Jyllands-Posten | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.4–12.1% | 7.8–12.7% |
 | [17–19 March 2026](2026-03-19-Voxmeter.html) | Voxmeter <br> Ritzau | 9.4% | 8.3–10.7% | 8.0–11.0% | 7.7–11.3% | 7.3–12.0% |
 | [1–18 March 2026](2026-03-18-YouGov.html) | YouGov | 9.8% | 9.3–10.4% | 9.1–10.5% | 9.0–10.7% | 8.8–10.9% |
 | [13–17 March 2026](2026-03-17-Verian.html) | Verian <br> Berlingske | 9.4% | 8.5–10.4% | 8.3–10.7% | 8.0–10.9% | 7.7–11.4% |
@@ -147,13 +147,13 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.3% | 100% |  |
-| 8.5–9.5% | 17% | 99.7% |  |
-| 9.5–10.5% | 35% | 83% |  |
-| 10.5–11.5% | 38% | 48% | Median |
-| 11.5–12.5% | 9% | 10% |  |
-| 12.5–13.5% | 1.0% | 1.0% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 6% | 99.9% |  |
+| 8.5–9.5% | 28% | 93% |  |
+| 9.5–10.5% | 30% | 65% | Median |
+| 10.5–11.5% | 28% | 36% |  |
+| 11.5–12.5% | 7% | 8% |  |
+| 12.5–13.5% | 0.7% | 0.8% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -167,10 +167,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–23 March 2026](2026-03-23-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [23 March 2026](2026-03-23-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [21–23 March 2026](2026-03-23-Verian.html) | Verian <br> Berlingske |  |  |  |  |  |
+| [23 March 2026](2026-03-23-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 2 | 2 |
+| [21–23 March 2026](2026-03-23-Verian.html) | Verian <br> Berlingske | 1 | 1 | 1 | 1 | 1 |
 | [21 March 2026](2026-03-21-Epinion.html) | Epinion <br> Altinget and DR | 2 | 2 | 2 | 2 | 1–2 |
-| [17–20 March 2026](2026-03-20-Wilke.html) | Wilke <br> Jyllands-Posten |  |  |  |  |  |
+| [17–20 March 2026](2026-03-20-Wilke.html) | Wilke <br> Jyllands-Posten | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–19 March 2026](2026-03-19-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–18 March 2026](2026-03-18-YouGov.html) | YouGov | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–17 March 2026](2026-03-17-Verian.html) | Verian <br> Berlingske | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -298,8 +298,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 37% | 100% |  |
-| 2 | 63% | 63% | Median |
+| 1 | 43% | 100% |  |
+| 2 | 57% | 57% | Median |
 | 3 | 0% | 0% |  |
 
 

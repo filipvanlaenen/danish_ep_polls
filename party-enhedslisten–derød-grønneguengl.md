@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 5.9–8.3% | 5.7–8.6% | 5.6–8.9% | 5.3–9.4% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.4–8.0% | 5.3–8.4% | 5.1–8.7% | 4.8–9.3% |
 | [5–23 March 2026](2026-03-23-YouGov.html) | YouGov | 7.2% | 6.7–7.7% | 6.5–7.8% | 6.4–8.0% | 6.2–8.2% |
 | [23 March 2026](2026-03-23-Voxmeter.html) | Voxmeter <br> Ritzau | 6.1% | 5.6–6.6% | 5.5–6.7% | 5.4–6.9% | 5.2–7.1% |
-| [21–23 March 2026](2026-03-23-Verian.html) | Verian <br> Berlingske | 5.5% | N/A | N/A | N/A | N/A |
+| [21–23 March 2026](2026-03-23-Verian.html) | Verian <br> Berlingske | 5.5% | 5.1–6.0% | 5.0–6.1% | 4.8–6.2% | 4.6–6.5% |
 | [21 March 2026](2026-03-21-Epinion.html) | Epinion <br> Altinget and DR | 7.9% | 7.1–8.8% | 6.9–9.1% | 6.7–9.3% | 6.3–9.7% |
-| [17–20 March 2026](2026-03-20-Wilke.html) | Wilke <br> Jyllands-Posten | 6.6% | N/A | N/A | N/A | N/A |
+| [17–20 March 2026](2026-03-20-Wilke.html) | Wilke <br> Jyllands-Posten | 6.6% | 5.7–7.7% | 5.5–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [17–19 March 2026](2026-03-19-Voxmeter.html) | Voxmeter <br> Ritzau | 6.8% | 5.8–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.0% |
 | [1–18 March 2026](2026-03-18-YouGov.html) | YouGov | 6.3% | 5.9–6.8% | 5.8–6.9% | 5.7–7.0% | 5.5–7.3% |
 | [13–17 March 2026](2026-03-17-Verian.html) | Verian <br> Berlingske | 5.6% | 4.9–6.4% | 4.7–6.6% | 4.6–6.8% | 4.3–7.2% |
@@ -144,13 +144,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 29% | 98% |  |
-| 6.5–7.5% | 39% | 69% | Median |
-| 7.5–8.5% | 24% | 29% |  |
-| 8.5–9.5% | 6% | 6% |  |
-| 9.5–10.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 13% | 99.9% |  |
+| 5.5–6.5% | 35% | 87% |  |
+| 6.5–7.5% | 32% | 52% | Median |
+| 7.5–8.5% | 17% | 21% |  |
+| 8.5–9.5% | 4% | 4% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -164,10 +164,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
 | [5–23 March 2026](2026-03-23-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
-| [23 March 2026](2026-03-23-Voxmeter.html) | Voxmeter <br> Ritzau |  |  |  |  |  |
-| [21–23 March 2026](2026-03-23-Verian.html) | Verian <br> Berlingske |  |  |  |  |  |
+| [23 March 2026](2026-03-23-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
+| [21–23 March 2026](2026-03-23-Verian.html) | Verian <br> Berlingske | 1 | 1 | 1 | 1 | 1 |
 | [21 March 2026](2026-03-21-Epinion.html) | Epinion <br> Altinget and DR | 1 | 1 | 1 | 1 | 1 |
-| [17–20 March 2026](2026-03-20-Wilke.html) | Wilke <br> Jyllands-Posten |  |  |  |  |  |
+| [17–20 March 2026](2026-03-20-Wilke.html) | Wilke <br> Jyllands-Posten | 1 | 1 | 1 | 1 | 1 |
 | [17–19 March 2026](2026-03-19-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
 | [1–18 March 2026](2026-03-18-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
 | [13–17 March 2026](2026-03-17-Verian.html) | Verian <br> Berlingske | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -294,8 +294,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 99.9% | 100% | Median |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 99.8% | 99.8% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
