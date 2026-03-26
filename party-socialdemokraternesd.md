@@ -177,12 +177,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| [5–23 March 2026](2026-03-23-YouGov.html) | YouGov | 4 | 4 | 4 | 4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [5–23 March 2026](2026-03-23-YouGov.html) | YouGov | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [23 March 2026](2026-03-23-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4 | 4 | 4 |
 | [21–23 March 2026](2026-03-23-Verian.html) | Verian <br> Berlingske | 4 | 4 | 4 | 4 | 4 |
 | [21 March 2026](2026-03-21-Epinion.html) | Epinion <br> Altinget and DR | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [17–20 March 2026](2026-03-20-Wilke.html) | Wilke <br> Jyllands-Posten | 4 | 4 | 4 | 3–4 | 3–5 |
+| [17–20 March 2026](2026-03-20-Wilke.html) | Wilke <br> Jyllands-Posten | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [17–19 March 2026](2026-03-19-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [1–18 March 2026](2026-03-18-YouGov.html) | YouGov | 4 | 4 | 4 | 4 | 4 |
 | [13–17 March 2026](2026-03-17-Verian.html) | Verian <br> Berlingske | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -312,9 +312,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 9% | 100% |  |
-| 4 | 91% | 91% | Median |
-| 5 | 0.5% | 0.5% |  |
+| 3 | 12% | 100% |  |
+| 4 | 87% | 88% | Median |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 

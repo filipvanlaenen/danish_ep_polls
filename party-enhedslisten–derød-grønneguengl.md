@@ -165,7 +165,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
 | [5–23 March 2026](2026-03-23-YouGov.html) | YouGov | 1 | 1 | 1 | 1 | 1 |
 | [23 March 2026](2026-03-23-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
-| [21–23 March 2026](2026-03-23-Verian.html) | Verian <br> Berlingske | 1 | 1 | 1 | 1 | 1 |
+| [21–23 March 2026](2026-03-23-Verian.html) | Verian <br> Berlingske | 1 | 1 | 1 | 1 | 0–1 |
 | [21 March 2026](2026-03-21-Epinion.html) | Epinion <br> Altinget and DR | 1 | 1 | 1 | 1 | 1 |
 | [17–20 March 2026](2026-03-20-Wilke.html) | Wilke <br> Jyllands-Posten | 1 | 1 | 1 | 1 | 1 |
 | [17–19 March 2026](2026-03-19-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1 | 1 | 1 | 1 |
@@ -294,8 +294,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 99.8% | 99.8% | Median |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 99.6% | 99.7% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
