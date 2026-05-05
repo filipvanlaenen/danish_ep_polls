@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.5% | 8.3–10.7% | 8.0–11.0% | 7.8–11.4% | 7.3–12.0% |
+| [27 April–3 May 2026](2026-05-03-Voxmeter.html) | Voxmeter <br> Ritzau | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.4–12.1% |
 | [20–26 April 2026](2026-04-26-Voxmeter.html) | Voxmeter <br> Ritzau | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.8–11.4% | 7.3–12.0% |
 | [13–19 April 2026](2026-04-19-Voxmeter.html) | Voxmeter <br> Ritzau | 8.8% | 7.8–10.1% | 7.5–10.4% | 7.2–10.8% | 6.8–11.4% |
 | [6–12 April 2026](2026-04-12-Voxmeter.html) | Voxmeter <br> Ritzau | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.5% |
@@ -170,6 +171,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27 April–3 May 2026](2026-05-03-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–26 April 2026](2026-04-26-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–19 April 2026](2026-04-19-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–12 April 2026](2026-04-12-Voxmeter.html) | Voxmeter <br> Ritzau | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
