@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 05 May 2026 22:03:08 +0200</pubDate>
+    <pubDate>Fri, 08 May 2026 20:51:04 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 29 April–5 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-05-05-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Venstre (RE): 1 seats&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 2–3 seats&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0 seats&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 1 seats&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-05-05-Verian-seats.png"
+        length="299129"
+        type="image/png"/>
+      <pubDate>Fri, 08 May 2026 20:51:04 +0200</pubDate>
+      <dc:date>2026-05-08T20:51:04.490435+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 29 April–5 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-05-05-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-05-05-Verian-coalitions-seats.png"
+        length="180368"
+        type="image/png"/>
+      <pubDate>Fri, 08 May 2026 20:51:04 +0200</pubDate>
+      <dc:date>2026-05-08T20:51:04.490435+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Berlingske, 29 April–5 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-05-05-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Radikale Venstre (RE): 4.3–6.5%&lt;/li&gt;&lt;li&gt;Venstre (RE): 7.1–9.8%&lt;/li&gt;&lt;li&gt;Dansk Folkeparti (PfE): 10.5–13.7%&lt;/li&gt;&lt;li&gt;Borgernes Parti (NI): 0.5–1.5%&lt;/li&gt;&lt;li&gt;Socialistisk Folkeparti (Greens/EFA): 11.2–14.4%&lt;/li&gt;&lt;li&gt;Socialdemokraterne (S&amp;amp;D): 18.8–22.7%&lt;/li&gt;&lt;li&gt;Moderaterne (RE): 6.8–9.4%&lt;/li&gt;&lt;li&gt;Danmarksdemokraterne (ECR): 4.1–6.2%&lt;/li&gt;&lt;li&gt;Liberal Alliance (EPP): 8.2–11.0%&lt;/li&gt;&lt;li&gt;Det Konservative Folkeparti (EPP): 7.1–9.8%&lt;/li&gt;&lt;li&gt;Alternativet (Greens/EFA): 1.8–3.2%&lt;/li&gt;&lt;li&gt;Enhedslisten–De Rød-Grønne (GUE/NGL): 5.6–8.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-05-05-Verian.png"
+        length="367620"
+        type="image/png"/>
+      <pubDate>Fri, 08 May 2026 20:51:04 +0200</pubDate>
+      <dc:date>2026-05-08T20:51:04.490435+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 27 April–3 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-05-03-Voxmeter.html#seats</link>
@@ -2769,6 +2799,6 @@
       <pubDate>Sun, 09 Feb 2025 16:33:15 +0100</pubDate>
       <dc:date>2025-02-09T16:33:15.879863+01:00</dc:date>
     </item>
-    <dc:date>2026-05-05T22:03:08.907933+02:00</dc:date>
+    <dc:date>2026-05-08T20:51:04.490435+02:00</dc:date>
   </channel>
 </rss>
