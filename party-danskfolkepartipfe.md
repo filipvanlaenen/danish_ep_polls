@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.6% | 10.0–12.8% | 9.5–13.1% | 9.2–13.4% | 8.5–14.0% |
+| N/A | [Poll Average](average.html) | 11.5% | 10.0–12.7% | 9.5–13.0% | 9.2–13.3% | 8.5–14.0% |
 | [27 May–1 June 2026](2026-06-01-Verian.html) | Verian <br> Berlingske | 12.0% | 11.0–13.1% | 10.7–13.4% | 10.4–13.7% | 10.0–14.3% |
+| [26 May–1 June 2026](2026-06-01-Epinion.html) | Epinion <br> Altinget and DR | 11.6% | 10.7–12.5% | 10.5–12.8% | 10.3–13.0% | 9.9–13.5% |
 | [25–31 May 2026](2026-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.5% | 8.2–13.2% |
 | [18–24 May 2026](2026-05-24-Voxmeter.html) | Voxmeter <br> Ritzau | 10.7% | 9.6–12.1% | 9.2–12.5% | 9.0–12.8% | 8.4–13.5% |
 | [11–17 May 2026](2026-05-17-Voxmeter.html) | Voxmeter <br> Ritzau | 10.9% | 9.7–12.3% | 9.4–12.6% | 9.1–13.0% | 8.6–13.6% |
@@ -162,11 +163,11 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.5% | 100% |  |
 | 8.5–9.5% | 5% | 99.5% |  |
-| 9.5–10.5% | 14% | 95% |  |
-| 10.5–11.5% | 30% | 80% |  |
-| 11.5–12.5% | 34% | 50% | Median |
-| 12.5–13.5% | 14% | 16% |  |
-| 13.5–14.5% | 2% | 2% |  |
+| 9.5–10.5% | 15% | 95% |  |
+| 10.5–11.5% | 33% | 80% | Median |
+| 11.5–12.5% | 33% | 46% |  |
+| 12.5–13.5% | 11% | 13% |  |
+| 13.5–14.5% | 1.4% | 1.5% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -179,8 +180,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [27 May–1 June 2026](2026-06-01-Verian.html) | Verian <br> Berlingske | 2 | 2 | 2 | 2 | 2 |
+| [26 May–1 June 2026](2026-06-01-Epinion.html) | Epinion <br> Altinget and DR | 2 | 2 | 2 | 2 | 1–2 |
 | [25–31 May 2026](2026-05-31-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–24 May 2026](2026-05-24-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 2 | 2 | 1–2 | 1–2 |
 | [11–17 May 2026](2026-05-17-Voxmeter.html) | Voxmeter <br> Ritzau | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
