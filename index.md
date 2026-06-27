@@ -1,6 +1,6 @@
 # Overview
 
-The table below lists the most recent polls (less than 55 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 75 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | Ø | F | Å | A | V | B | M | C | K | I | Æ | O | H | D | E | P | G | Q |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
