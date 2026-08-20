@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Mon, 27 Jul 2026 19:27:28 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Epinion for Altinget and DR, 5–12 August 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Epinion for Altinget and DR, 5–12 August 2026<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion-seating-plan.png" length="283620" type="image/png"/>
+      <pubDate>Thu, 20 Aug 2026 19:43:13 +0200</pubDate>
+      <dc:date>2026-08-20T19:43:13.615380196+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for Altinget and DR, 5–12 August 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Epinion for Altinget and DR, 5–12 August 2026<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion-seats.png" length="274658" type="image/png"/>
+      <pubDate>Thu, 20 Aug 2026 19:43:13 +0200</pubDate>
+      <dc:date>2026-08-20T19:43:13.615380196+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Epinion for Altinget and DR, 5–12 August 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Epinion for Altinget and DR, 5–12 August 2026<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-08-12-Epinion.png" length="369363" type="image/png"/>
+      <pubDate>Thu, 20 Aug 2026 19:43:13 +0200</pubDate>
+      <dc:date>2026-08-20T19:43:13.615380196+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 3–9 August 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-08-09-Voxmeter.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter for Ritzau, 3–9 August 2026<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2026-08-09-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2026-08-09-Voxmeter-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-05-24-Voxmeter.png" length="383501" type="image/png"/>
       <pubDate>Tue, 26 May 2026 22:49:47 +0200</pubDate>
       <dc:date>2026-05-26T22:49:47.473296752+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter for Ritzau, 11–17 May 2026 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter for Ritzau, 11–17 May 2026<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter-seating-plan.png" length="277943" type="image/png"/>
-      <pubDate>Thu, 21 May 2026 21:53:30 +0200</pubDate>
-      <dc:date>2026-05-21T21:53:30.211943937+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter for Ritzau, 11–17 May 2026 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Voxmeter for Ritzau, 11–17 May 2026<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter-seats.png" length="345860" type="image/png"/>
-      <pubDate>Thu, 21 May 2026 21:53:30 +0200</pubDate>
-      <dc:date>2026-05-21T21:53:30.211943937+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Voxmeter for Ritzau, 11–17 May 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Voxmeter for Ritzau, 11–17 May 2026<br/>Details on https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter.html<br/><img src="https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-05-17-Voxmeter.png" length="384205" type="image/png"/>
-      <pubDate>Thu, 21 May 2026 21:53:30 +0200</pubDate>
-      <dc:date>2026-05-21T21:53:30.211943937+02:00</dc:date>
     </item>
   </channel>
 </rss>
