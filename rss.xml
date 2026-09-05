@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/danish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 05 Sep 2026 14:38:53 +0200</pubDate>
+    <pubDate>Sat, 05 Sep 2026 15:40:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 24–30 August 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-08-30-Voxmeter.html#seats</link>
@@ -16,18 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-08-30-Voxmeter-seats.png"
         length="305840"
         type="image/png"/>
-      <pubDate>Sat, 05 Sep 2026 14:38:53 +0200</pubDate>
-      <dc:date>2026-09-05T14:38:53.100247+02:00</dc:date>
+      <pubDate>Sat, 05 Sep 2026 15:40:41 +0200</pubDate>
+      <dc:date>2026-09-05T15:40:41.288193+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 24–30 August 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/danish_ep_polls/2026-08-30-Voxmeter.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-08-30-Voxmeter-coalitions-seats.png"
-        length="173768"
+        length="181921"
         type="image/png"/>
-      <pubDate>Sat, 05 Sep 2026 14:38:53 +0200</pubDate>
-      <dc:date>2026-09-05T14:38:53.100247+02:00</dc:date>
+      <pubDate>Sat, 05 Sep 2026 15:40:41 +0200</pubDate>
+      <dc:date>2026-09-05T15:40:41.288193+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 24–30 August 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/danish_ep_polls/2026-08-30-Voxmeter.png"
         length="382916"
         type="image/png"/>
-      <pubDate>Sat, 05 Sep 2026 14:38:53 +0200</pubDate>
-      <dc:date>2026-09-05T14:38:53.100247+02:00</dc:date>
+      <pubDate>Sat, 05 Sep 2026 15:40:41 +0200</pubDate>
+      <dc:date>2026-09-05T15:40:41.288193+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Voxmeter for Ritzau, 17–23 August 2026 – Seat Projections for the Parties</title>
@@ -3279,6 +3279,6 @@
       <pubDate>Sun, 09 Feb 2025 16:33:15 +0100</pubDate>
       <dc:date>2025-02-09T16:33:15.879863+01:00</dc:date>
     </item>
-    <dc:date>2026-09-05T14:38:53.100247+02:00</dc:date>
+    <dc:date>2026-09-05T15:40:41.288193+02:00</dc:date>
   </channel>
 </rss>
