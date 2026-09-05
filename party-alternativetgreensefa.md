@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.5–3.8% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.7–2.8% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
+| [24–30 August 2026](2026-08-30-Voxmeter.html) | Voxmeter <br> Ritzau | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [17–23 August 2026](2026-08-23-Voxmeter.html) | Voxmeter <br> Ritzau | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [10–16 August 2026](2026-08-16-Voxmeter.html) | Voxmeter <br> Ritzau | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
 | [5–12 August 2026](2026-08-12-Epinion.html) | Epinion <br> Altinget and DR | 2.3% | 1.9–2.9% | 1.8–3.0% | 1.7–3.1% | 1.5–3.4% |
@@ -162,10 +163,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.3% | 100% |  |
-| 1.5–2.5% | 64% | 98.7% | Median |
-| 2.5–3.5% | 33% | 34% |  |
-| 3.5–4.5% | 1.4% | 1.4% |  |
+| 0.5–1.5% | 6% | 100% |  |
+| 1.5–2.5% | 72% | 94% | Median |
+| 2.5–3.5% | 22% | 22% |  |
+| 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -178,6 +179,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–30 August 2026](2026-08-30-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [17–23 August 2026](2026-08-23-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [10–16 August 2026](2026-08-16-Voxmeter.html) | Voxmeter <br> Ritzau | 0 | 0 | 0 | 0 | 0 |
 | [5–12 August 2026](2026-08-12-Epinion.html) | Epinion <br> Altinget and DR | 0 | 0 | 0 | 0 | 0 |
