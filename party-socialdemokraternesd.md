@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.9% | 19.1–22.4% | 18.6–22.8% | 18.1–23.2% | 17.3–23.9% |
+| N/A | [Poll Average](average.html) | 20.7% | 18.9–22.3% | 18.4–22.7% | 17.9–23.1% | 17.1–23.8% |
+| [9–15 November 2026](2026-11-15-Voxmeter.html) | Voxmeter <br> Ritzau | 19.7% | 18.2–21.4% | 17.7–21.9% | 17.3–22.3% | 16.6–23.1% |
+| [5–11 November 2026](2026-11-11-Verian.html) | Verian <br> Berlingske | 20.6% | 19.4–22.0% | 19.0–22.3% | 18.7–22.7% | 18.1–23.3% |
 | [2–9 November 2026](2026-11-09-Voxmeter.html) | Voxmeter <br> Ritzau | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
 | [26 October–2 November 2026](2026-11-02-Voxmeter.html) | Voxmeter <br> Ritzau | 20.8% | 19.2–22.5% | 18.7–23.0% | 18.4–23.4% | 17.6–24.2% |
 | [19–25 October 2026](2026-10-25-Voxmeter.html) | Voxmeter <br> Ritzau | 20.6% | 19.1–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.0% |
@@ -192,14 +194,14 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.8% | 99.9% |  |
-| 17.5–18.5% | 4% | 99.2% |  |
-| 18.5–19.5% | 11% | 95% |  |
-| 19.5–20.5% | 24% | 84% |  |
-| 20.5–21.5% | 31% | 60% | Median |
-| 21.5–22.5% | 21% | 29% |  |
-| 22.5–23.5% | 7% | 8% |  |
-| 23.5–24.5% | 1.1% | 1.1% |  |
+| 16.5–17.5% | 1.1% | 99.9% |  |
+| 17.5–18.5% | 5% | 98.8% |  |
+| 18.5–19.5% | 14% | 94% |  |
+| 19.5–20.5% | 25% | 80% |  |
+| 20.5–21.5% | 29% | 55% | Median |
+| 21.5–22.5% | 19% | 25% |  |
+| 22.5–23.5% | 6% | 7% |  |
+| 23.5–24.5% | 0.9% | 1.0% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
@@ -213,6 +215,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [9–15 November 2026](2026-11-15-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [5–11 November 2026](2026-11-11-Verian.html) | Verian <br> Berlingske | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [2–9 November 2026](2026-11-09-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26 October–2 November 2026](2026-11-02-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [19–25 October 2026](2026-10-25-Voxmeter.html) | Voxmeter <br> Ritzau | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -382,8 +386,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 23% | 100% |  |
-| 4 | 76% | 77% | Median |
+| 3 | 21% | 100% |  |
+| 4 | 78% | 79% | Median |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
