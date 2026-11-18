@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/danish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2026-11-11T22:22:54.510753+01:00</updated>
+  <updated>2026-11-17T20:35:29.775528+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Radikale Venstre (RE): 5.0–8.1%, 1 seats</li><li>Venstre (RE): 5.6–8.8%, 1 seats</li><li>Dansk Folkeparti (PfE): 12.3–16.6%, 2–3 seats</li><li>Borgernes Parti (NI): 0.1–0.9%, 0 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 8.0–11.7%, 1–2 seats</li><li>Socialdemokraterne (S&amp;D): 17.3–22.3%, 3–4 seats</li><li>Moderaterne (RE): 4.5–7.4%, 0–1 seats</li><li>Danmarksdemokraterne (ECR): 4.9–7.9%, 1 seats</li><li>Liberal Alliance (EPP): 7.1–10.6%, 1–2 seats</li><li>Det Konservative Folkeparti (EPP): 8.6–12.3%, 1–2 seats</li><li>Alternativet (Greens/EFA): 2.1–4.3%, 0 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 6.8–10.3%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2026-11-15-Voxmeter.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2026-11-15-Voxmeter.html"/>
+    <title>Opinion Poll by Voxmeter for Ritzau, 9–15 November 2026</title>
+    <updated>2026-11-16T21:37:44.796314+01:00</updated>
+    <dc:date>2026-11-16T21:37:44.796314+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Radikale Venstre (RE): 4.9–7.3%, 0–1 seats</li><li>Venstre (RE): 5.5–8.0%, 1 seats</li><li>Dansk Folkeparti (PfE): 10.2–13.4%, 2 seats</li><li>Borgernes Parti (NI): 0.5–1.5%, 0 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 9.0–12.0%, 1–2 seats</li><li>Socialdemokraterne (S&amp;D): 18.7–22.7%, 3–4 seats</li><li>Moderaterne (RE): 6.2–8.8%, 1 seats</li><li>Danmarksdemokraterne (ECR): 5.9–8.5%, 1 seats</li><li>Liberal Alliance (EPP): 6.7–9.3%, 1 seats</li><li>Det Konservative Folkeparti (EPP): 8.8–11.8%, 1–2 seats</li><li>Alternativet (Greens/EFA): 2.0–3.6%, 0 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 6.8–9.4%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/danish_ep_polls/2026-11-11-Verian.html</id>
+    <link href="https://filipvanlaenen.github.io/danish_ep_polls/2026-11-11-Verian.html"/>
+    <title>Opinion Poll by Verian for Berlingske, 5–11 November 2026</title>
+    <updated>2026-11-17T20:35:29.775528+01:00</updated>
+    <dc:date>2026-11-17T20:35:29.775528+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Radikale Venstre (RE): 5.0–8.1%, 1 seats</li><li>Venstre (RE): 4.5–7.4%, 0–1 seats</li><li>Dansk Folkeparti (PfE): 11.4–15.7%, 2–3 seats</li><li>Borgernes Parti (NI): 0.2–1.0%, 0 seats</li><li>Socialistisk Folkeparti (Greens/EFA): 8.9–12.8%, 1–2 seats</li><li>Socialdemokraterne (S&amp;D): 17.5–22.5%, 3–4 seats</li><li>Moderaterne (RE): 4.3–7.2%, 0–1 seats</li><li>Danmarksdemokraterne (ECR): 4.8–7.8%, 0–1 seats</li><li>Liberal Alliance (EPP): 7.6–11.2%, 1–2 seats</li><li>Det Konservative Folkeparti (EPP): 8.9–12.8%, 1–2 seats</li><li>Alternativet (Greens/EFA): 1.9–4.0%, 0 seats</li><li>Enhedslisten–De Rød-Grønne (GUE/NGL): 7.3–10.8%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/danish_ep_polls/2026-11-09-Voxmeter.html</id>
@@ -983,5 +999,5 @@
     <updated>2025-02-09T16:33:15.879863+01:00</updated>
     <dc:date>2025-02-09T16:33:15.879863+01:00</dc:date>
   </entry>
-  <dc:date>2026-11-11T22:22:54.510753+01:00</dc:date>
+  <dc:date>2026-11-17T20:35:29.775528+01:00</dc:date>
 </feed>
